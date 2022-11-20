@@ -13,4 +13,4 @@
 # 네이밍룰
 - 기본적으로 Visual Studio Code의 네이밍 컨벤션을 사용합니다. 가급적 VSC 를 사용해주세요.
 
-# test
+# bcde
