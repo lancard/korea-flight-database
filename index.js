@@ -1,27 +1,37 @@
 const fs = require('fs');
-const aircraft = require('./database/aircraft.json');
-const airline = require('./database/airline.json');
-const airport = require('./database/airport.json');
+const util = require('./util.js');
+const aircraftList = require('./database/aircraft.json');
+const airlineList = require('./database/airline.json');
+const airportList = require('./database/airport.json');
+const navaidList = require('./database/navaid.json');
 
-/*
-var a = {};
-airport.forEach(element => {
-    a[element.name] = element;
-});
-console.log(JSON.stringify(a));
-*/
+function initialize() {
+    // minutes to decimal conversion
+    for (var a = 0; a < navaidList.length; a++) {
+        navaidList[a].latitudeDecimal = util.convertMinutesToDecimal(navaidList[a].latitude);
+        navaidList[a].longitudeDecimal = util.convertMinutesToDecimal(navaidList[a].longitude);
+    }
+
+    // minutes to decimal conversion
+    for (var a in airportList) {
+        airportList[a].latitudeDecimal = util.convertMinutesToDecimal(airportList[a].latitude);
+        airportList[a].longitudeDecimal = util.convertMinutesToDecimal(airportList[a].longitude);
+    }
+
+    // console.log(JSON.stringify(airportList, null, '\t'));
+}
 
 const euroscope = {
     createEuroscopeAircraftFile() {
         let fileContent = [];
 
-        for (const object in aircraft) {
+        for (const aircraft in aircraftList) {
             fileContent.push(
                 [
-                    object,
-                    aircraft[object].aircraftType[0] + aircraft[object].wakeTurbulenceCategory[0] + aircraft[object].engineCount[0] + aircraft[object].engineType[0],
-                    aircraft[object].manufacturer,
-                    aircraft[object].description
+                    aircraft,
+                    aircraftList[aircraft].aircraftType[0] + aircraftList[aircraft].wakeTurbulenceCategory[0] + aircraftList[aircraft].engineCount + aircraftList[aircraft].engineType[0],
+                    aircraftList[aircraft].manufacturer,
+                    aircraftList[aircraft].description
                 ].join("\t"))
         }
 
@@ -30,12 +40,12 @@ const euroscope = {
     createEuroscopeAirlineFile() {
         let fileContent = [];
 
-        for (const object in airline) {
+        for (const airline in airlineList) {
             fileContent.push(
                 [
-                    object,
-                    airline[object],
-                    airline[object]
+                    airline,
+                    airlineList[airline],
+                    airlineList[airline]
                 ].join("\t"))
         }
 
@@ -44,12 +54,12 @@ const euroscope = {
     createEuroscopeAirportFile() {
         let fileContent = [];
 
-        for (const object in airport) {
+        for (const airport in airportList) {
             fileContent.push(
                 [
-                    airport[object].name,
-                    airport[object].description,
-                    airport[object].country
+                    airportList[airport].name,
+                    airportList[airport].description,
+                    airportList[airport].country
                 ].join("\t"))
         }
 
@@ -59,6 +69,7 @@ const euroscope = {
 
 
 // ----------------- run -------------------
+initialize();
 euroscope.createEuroscopeAircraftFile();
 euroscope.createEuroscopeAirlineFile();
 euroscope.createEuroscopeAirportFile();

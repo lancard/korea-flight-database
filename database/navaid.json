@@ -16863,7 +16863,6 @@
     {
         "name": "CHI",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N039.16.00.001",
         "longitude": "E122.37.00.001",
@@ -16872,7 +16871,6 @@
     {
         "name": "CHO",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N036.43.04.900",
         "longitude": "E127.29.38.700",
@@ -16881,7 +16879,6 @@
     {
         "name": "CJU",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N033.23.04.599",
         "longitude": "E126.37.26.798",
@@ -16890,7 +16887,6 @@
     {
         "name": "CUN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N036.37.55.300",
         "longitude": "E128.19.31.499",
@@ -16899,7 +16895,6 @@
     {
         "name": "DDG",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N040.15.24.001",
         "longitude": "E124.16.59.997",
@@ -16908,7 +16903,6 @@
     {
         "name": "DGC",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N033.40.34.183",
         "longitude": "E130.23.22.480",
@@ -16917,7 +16911,6 @@
     {
         "name": "DOC",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.54.13.600",
         "longitude": "E128.38.29.000",
@@ -16926,7 +16919,6 @@
     {
         "name": "FUE",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N032.40.06.981",
         "longitude": "E128.49.36.249",
@@ -16935,7 +16927,6 @@
     {
         "name": "GK",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N039.13.06.500",
         "longitude": "E125.40.32.000",
@@ -16944,7 +16935,6 @@
     {
         "name": "HGS",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.28.33.000",
         "longitude": "E127.58.30.000",
@@ -16953,7 +16943,6 @@
     {
         "name": "IKE",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N033.44.50.969",
         "longitude": "E129.46.36.587",
@@ -16962,7 +16951,6 @@
     {
         "name": "JDG",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N033.23.50.294",
         "longitude": "E126.42.35.376",
@@ -16971,7 +16959,6 @@
     {
         "name": "JWN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.01.48.018",
         "longitude": "E127.53.06.026",
@@ -16980,7 +16967,6 @@
     {
         "name": "KAE",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.42.01.849",
         "longitude": "E128.45.12.879",
@@ -16989,7 +16975,6 @@
     {
         "name": "KIP",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.33.26.952",
         "longitude": "E126.47.31.035",
@@ -16998,7 +16983,6 @@
     {
         "name": "KMH",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.11.56.900",
         "longitude": "E128.56.08.200",
@@ -17007,7 +16991,6 @@
     {
         "name": "KOG",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.45.31.937",
         "longitude": "E128.57.00.974",
@@ -17016,7 +16999,6 @@
     {
         "name": "KPO",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.58.37.749",
         "longitude": "E129.28.28.236",
@@ -17025,7 +17007,6 @@
     {
         "name": "KSM",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.26.21.817",
         "longitude": "E127.06.27.985",
@@ -17034,7 +17015,6 @@
     {
         "name": "KUZ",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.54.37.129",
         "longitude": "E126.36.40.875",
@@ -17043,7 +17023,6 @@
     {
         "name": "KWA",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.07.34.200",
         "longitude": "E126.48.43.799",
@@ -17052,7 +17031,6 @@
     {
         "name": "KWJ",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.07.05.998",
         "longitude": "E126.48.30.599",
@@ -17061,7 +17039,6 @@
     {
         "name": "MKP",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N034.45.35.052",
         "longitude": "E126.22.43.823",
@@ -17070,7 +17047,6 @@
     {
         "name": "MUN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N034.58.12.701",
         "longitude": "E126.22.59.998",
@@ -17079,7 +17055,6 @@
     {
         "name": "NCN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.29.41.700",
         "longitude": "E126.25.49.200",
@@ -17088,7 +17063,6 @@
     {
         "name": "NPH",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.59.10.976",
         "longitude": "E129.24.31.759",
@@ -17097,7 +17071,6 @@
     {
         "name": "PSN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.07.21.379",
         "longitude": "E128.59.58.408",
@@ -17106,7 +17079,6 @@
     {
         "name": "PTK",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N036.58.05.898",
         "longitude": "E127.01.23.836",
@@ -17115,7 +17087,6 @@
     {
         "name": "SAC",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.05.52.818",
         "longitude": "E128.04.35.860",
@@ -17124,7 +17095,6 @@
     {
         "name": "SAN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N036.42.32.302",
         "longitude": "E126.28.54.575",
@@ -17133,7 +17103,6 @@
     {
         "name": "SEL",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.24.49.736",
         "longitude": "E126.55.43.096",
@@ -17142,7 +17111,6 @@
     {
         "name": "SOL",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "TACAN",
         "latitude": "N037.26.21.817",
         "longitude": "E127.06.27.985",
@@ -17151,7 +17119,6 @@
     {
         "name": "SOT",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.05.30.822",
         "longitude": "E127.01.47.134",
@@ -17160,7 +17127,6 @@
     {
         "name": "SWN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.14.23.877",
         "longitude": "E127.00.05.978",
@@ -17169,7 +17135,6 @@
     {
         "name": "TGU",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.48.36.000",
         "longitude": "E128.35.26.998",
@@ -17178,7 +17143,6 @@
     {
         "name": "UJN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N036.46.35.202",
         "longitude": "E129.27.26.899",
@@ -17187,7 +17151,6 @@
     {
         "name": "USN",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.35.13.802",
         "longitude": "E129.21.05.329",
@@ -17196,7 +17159,6 @@
     {
         "name": "WNG",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.25.58.601",
         "longitude": "E126.27.01.022",
@@ -17205,7 +17167,6 @@
     {
         "name": "WNJ",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.28.33.000",
         "longitude": "E127.58.30.000",
@@ -17214,7 +17175,6 @@
     {
         "name": "XZE",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N035.31.51.943",
         "longitude": "E133.05.37.974",
@@ -17223,7 +17183,6 @@
     {
         "name": "YAG",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N038.03.48.113",
         "longitude": "E128.39.41.276",
@@ -17232,7 +17191,6 @@
     {
         "name": "YDM",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N033.30.41.300",
         "longitude": "E126.29.15.300",
@@ -17241,7 +17199,6 @@
     {
         "name": "YJU",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N037.44.52.812",
         "longitude": "E126.59.27.981",
@@ -17250,7 +17207,6 @@
     {
         "name": "YNJ",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N042.53.00.002",
         "longitude": "E129.27.05.999",
@@ -17259,7 +17215,6 @@
     {
         "name": "YSU",
         "navaidType": "VOR",
-        "extraType": "VOR",
         "description": "VOR",
         "latitude": "N034.50.34.297",
         "longitude": "E127.37.08.697",
