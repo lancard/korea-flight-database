@@ -4,6 +4,7 @@ const aircraftList = require('./database/aircraft.json');
 const airlineList = require('./database/airline.json');
 const airportList = require('./database/airport.json');
 const navaidList = require('./database/navaid.json');
+const coastlineList = require('./database/coastline.json');
 
 function initialize() {
     // minutes to decimal conversion
@@ -68,9 +69,8 @@ const euroscope = {
 };
 
 const vatsim = {
-    generateSectorFile() {
-        var contents =
-            "; Korea RKRR FIR ACC - All right reserved, VATSIM Korea division\n" +
+    getLicenseAndComment() {
+        return "; Korea RKRR FIR ACC - All right reserved, VATSIM Korea division\n" +
             "; \n" +
             "; used only VATSIM airtraffic controlling\n" +
             "; DO NOT used for sale or commercial use.\n" +
@@ -91,7 +91,24 @@ const vatsim = {
             "; ● airports runways and IF/FAF : by AIP coordination and by Google map coordination (WGS-84).\n" +
             "; ● airports and ground aids : by AIP coordination and by Google map coordination (WGS-84).\n" +
             ";\n" +
-            "; magnetic variation ref: WMM-2015 (http://www.ngdc.noaa.gov/geomag-web/) - CSV download\n"
+            "; magnetic variation ref: WMM-2015 (http://www.ngdc.noaa.gov/geomag-web/) - CSV download\n";
+    },
+    getGeo() {
+        var ret = [];
+
+        coastlineList.forEach(e => {
+            ret.push(`${e.latitude1} ${e.longitude1} ${e.latitude2} ${e.longitude2} CoastLine`);
+        });
+        
+        return ret.join("\n");
+    },
+    generateSectorFile() {
+        var contents = "";
+
+        contents += this.getLicenseAndComment();
+
+        contents += "\n[GEO]\n";
+        contents += this.getGeo();
 
         fs.writeFileSync('vatsim/sector.sct2', contents);
     }
