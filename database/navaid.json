@@ -16863,8 +16863,7 @@
     {
         "name": "CHI",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "CHANGHAI VOR",
         "latitude": "N039.16.00.001",
         "longitude": "E122.37.00.001",
         "frequency": "116.800"
@@ -16872,8 +16871,7 @@
     {
         "name": "CHO",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "CHEONGJU VOR",
         "latitude": "N036.43.04.900",
         "longitude": "E127.29.38.700",
         "frequency": "109.000"
@@ -16881,8 +16879,7 @@
     {
         "name": "CJU",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "JEJU VOR",
         "latitude": "N033.23.04.599",
         "longitude": "E126.37.26.798",
         "frequency": "116.100"
@@ -16890,8 +16887,7 @@
     {
         "name": "CUN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "YECHON VOR",
         "latitude": "N036.37.55.300",
         "longitude": "E128.19.31.499",
         "frequency": "114.800"
@@ -16899,8 +16895,7 @@
     {
         "name": "DDG",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "DANGDONG VOR",
         "latitude": "N040.15.24.001",
         "longitude": "E124.16.59.997",
         "frequency": "113.900"
@@ -16908,8 +16903,7 @@
     {
         "name": "DGC",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "FUKUOKA VOR",
         "latitude": "N033.40.34.183",
         "longitude": "E130.23.22.480",
         "frequency": "114.500"
@@ -16917,8 +16911,7 @@
     {
         "name": "DOC",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "DONGCHONG VOR",
         "latitude": "N035.54.13.600",
         "longitude": "E128.38.29.000",
         "frequency": "116.500"
@@ -16926,8 +16919,7 @@
     {
         "name": "FUE",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "FUKUE VOR",
         "latitude": "N032.40.06.981",
         "longitude": "E128.49.36.249",
         "frequency": "115.800"
@@ -16935,8 +16927,7 @@
     {
         "name": "GK",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "PYONGYANG VOR",
         "latitude": "N039.13.06.500",
         "longitude": "E125.40.32.000",
         "frequency": "111.400"
@@ -16944,8 +16935,7 @@
     {
         "name": "HGS",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "WONJU VOR",
         "latitude": "N037.28.33.000",
         "longitude": "E127.58.30.000",
         "frequency": "110.200"
@@ -16953,8 +16943,7 @@
     {
         "name": "IKE",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "IKISHIMA VOR",
         "latitude": "N033.44.50.969",
         "longitude": "E129.46.36.587",
         "frequency": "113.200"
@@ -16962,8 +16951,7 @@
     {
         "name": "JDG",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "JEDONG VOR",
         "latitude": "N033.23.50.294",
         "longitude": "E126.42.35.376",
         "frequency": "117.900"
@@ -16971,8 +16959,7 @@
     {
         "name": "JWN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "JOONGWON VOR",
         "latitude": "N037.01.48.018",
         "longitude": "E127.53.06.026",
         "frequency": "111.300"
@@ -16980,8 +16967,7 @@
     {
         "name": "KAE",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "GANGWON VOR",
         "latitude": "N037.42.01.849",
         "longitude": "E128.45.12.879",
         "frequency": "115.600"
@@ -16989,8 +16975,7 @@
     {
         "name": "KIP",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "GIMPO VOR",
         "latitude": "N037.33.26.952",
         "longitude": "E126.47.31.035",
         "frequency": "113.600"
@@ -16998,8 +16983,7 @@
     {
         "name": "KMH",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "GIMHAE VOR",
         "latitude": "N035.11.56.900",
         "longitude": "E128.56.08.200",
         "frequency": "113.800"
@@ -17007,8 +16991,7 @@
     {
         "name": "KOG",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "KANGNUNG VOR",
         "latitude": "N037.45.31.937",
         "longitude": "E128.57.00.974",
         "frequency": "113.500"
@@ -17016,8 +16999,7 @@
     {
         "name": "KPO",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "POHANG VOR",
         "latitude": "N035.58.37.749",
         "longitude": "E129.28.28.236",
         "frequency": "112.500"
@@ -17025,8 +17007,7 @@
     {
         "name": "KSM",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "SEOUL VOR",
         "latitude": "N037.26.21.817",
         "longitude": "E127.06.27.985",
         "frequency": "113.000"
@@ -17034,8 +17015,7 @@
     {
         "name": "KUZ",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "KUNSAN VOR",
         "latitude": "N035.54.37.129",
         "longitude": "E126.36.40.875",
         "frequency": "112.800"
@@ -17043,8 +17023,7 @@
     {
         "name": "KWA",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "GWANGJU VOR",
         "latitude": "N035.07.34.200",
         "longitude": "E126.48.43.799",
         "frequency": "114.400"
@@ -17052,8 +17031,7 @@
     {
         "name": "KWJ",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "GWANGJU VOR",
         "latitude": "N035.07.05.998",
         "longitude": "E126.48.30.599",
         "frequency": "114.100"
@@ -17061,8 +17039,7 @@
     {
         "name": "MKP",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "MOKPO VOR",
         "latitude": "N034.45.35.052",
         "longitude": "E126.22.43.823",
         "frequency": "111.200"
@@ -17070,8 +17047,7 @@
     {
         "name": "MUN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "MUAN VOR",
         "latitude": "N034.58.12.701",
         "longitude": "E126.22.59.998",
         "frequency": "111.000"
@@ -17079,8 +17055,7 @@
     {
         "name": "NCN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "INCHEON VOR",
         "latitude": "N037.29.41.700",
         "longitude": "E126.25.49.200",
         "frequency": "113.800"
@@ -17088,8 +17063,7 @@
     {
         "name": "NPH",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "NAVY VOR",
         "latitude": "N035.59.10.976",
         "longitude": "E129.24.31.759",
         "frequency": "109.600"
@@ -17097,8 +17071,7 @@
     {
         "name": "PSN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "PUSAN VOR",
         "latitude": "N035.07.21.379",
         "longitude": "E128.59.58.408",
         "frequency": "114.000"
@@ -17106,8 +17079,7 @@
     {
         "name": "PTK",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "PYONGTAEK VOR",
         "latitude": "N036.58.05.898",
         "longitude": "E127.01.23.836",
         "frequency": "108.200"
@@ -17115,8 +17087,7 @@
     {
         "name": "SAC",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "SACHON VOR",
         "latitude": "N035.05.52.818",
         "longitude": "E128.04.35.860",
         "frequency": "115.500"
@@ -17124,8 +17095,7 @@
     {
         "name": "SAN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "SEOSAN VOR",
         "latitude": "N036.42.32.302",
         "longitude": "E126.28.54.575",
         "frequency": "111.500"
@@ -17133,8 +17103,7 @@
     {
         "name": "SEL",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "ANYANG VOR",
         "latitude": "N037.24.49.736",
         "longitude": "E126.55.43.096",
         "frequency": "115.500"
@@ -17142,8 +17111,7 @@
     {
         "name": "SOL",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "TACAN",
+        "description": "SEOUL TACAN",
         "latitude": "N037.26.21.817",
         "longitude": "E127.06.27.985",
         "frequency": "113.000"
@@ -17151,8 +17119,7 @@
     {
         "name": "SOT",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "SONGTAN VOR",
         "latitude": "N037.05.30.822",
         "longitude": "E127.01.47.134",
         "frequency": "116.900"
@@ -17160,8 +17127,7 @@
     {
         "name": "SWN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "SUWON VOR",
         "latitude": "N037.14.23.877",
         "longitude": "E127.00.05.978",
         "frequency": "109.200"
@@ -17169,8 +17135,7 @@
     {
         "name": "TGU",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "DALSEONG VOR",
         "latitude": "N035.48.36.000",
         "longitude": "E128.35.26.998",
         "frequency": "112.200"
@@ -17178,8 +17143,7 @@
     {
         "name": "UJN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "ULJIN VOR",
         "latitude": "N036.46.35.202",
         "longitude": "E129.27.26.899",
         "frequency": "115.300"
@@ -17187,8 +17151,7 @@
     {
         "name": "USN",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "ULSAN VOR",
         "latitude": "N035.35.13.802",
         "longitude": "E129.21.05.329",
         "frequency": "111.400"
@@ -17196,8 +17159,7 @@
     {
         "name": "WNG",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "WANGSAN VOR",
         "latitude": "N037.25.58.601",
         "longitude": "E126.27.01.022",
         "frequency": "112.900"
@@ -17205,8 +17167,7 @@
     {
         "name": "WNJ",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "WONJU VOR",
         "latitude": "N037.28.33.000",
         "longitude": "E127.58.30.000",
         "frequency": "110.200"
@@ -17214,8 +17175,7 @@
     {
         "name": "XZE",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "IZUMO VOR",
         "latitude": "N035.31.51.943",
         "longitude": "E133.05.37.974",
         "frequency": "113.400"
@@ -17223,8 +17183,7 @@
     {
         "name": "YAG",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "YANGYANG VOR",
         "latitude": "N038.03.48.113",
         "longitude": "E128.39.41.276",
         "frequency": "110.600"
@@ -17232,8 +17191,7 @@
     {
         "name": "YDM",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "YONGDAM VOR",
         "latitude": "N033.30.41.300",
         "longitude": "E126.29.15.300",
         "frequency": "109.000"
@@ -17241,8 +17199,7 @@
     {
         "name": "YJU",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "YANGJU VOR",
         "latitude": "N037.44.52.812",
         "longitude": "E126.59.27.981",
         "frequency": "114.900"
@@ -17250,8 +17207,7 @@
     {
         "name": "YNJ",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "YANJI VOR",
         "latitude": "N042.53.00.002",
         "longitude": "E129.27.05.999",
         "frequency": "113.100"
@@ -17259,8 +17215,7 @@
     {
         "name": "YSU",
         "navaidType": "VOR",
-        "extraType": "VOR",
-        "description": "VOR",
+        "description": "YEOSU VOR",
         "latitude": "N034.50.34.297",
         "longitude": "E127.37.08.697",
         "frequency": "115.700"

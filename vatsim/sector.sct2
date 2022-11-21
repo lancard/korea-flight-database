@@ -1,0 +1,22 @@
+; Korea RKRR FIR ACC - All right reserved, VATSIM Korea division
+; 
+; used only VATSIM airtraffic controlling
+; DO NOT used for sale or commercial use.
+; 
+; contact point: vatkor10@vatkor.net
+;
+;
+; < Revision History >
+;
+;  First made : SeokHwan Kim, JoonBeom Lee, Youngho Seo
+; 2013 ~ 2015 : Hyunjae Lee
+; 2016 ~ now  : Sungho Kim
+;
+;
+; < coordination general rule >
+;
+; ● all airway points (not ground) : by AIP coordination and by Google map coordination (WGS-84)
+; ● airports runways and IF/FAF : by AIP coordination and by Google map coordination (WGS-84).
+; ● airports and ground aids : by AIP coordination and by Google map coordination (WGS-84).
+;
+; magnetic variation ref: WMM-2015 (http://www.ngdc.noaa.gov/geomag-web/) - CSV download

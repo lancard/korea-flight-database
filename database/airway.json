@@ -1,0 +1,3906 @@
+[
+    {
+        "name": "3AW1",
+        "seq": 10,
+        "description": "저고도항로(평양특수항로)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GASAN",
+        "fixEnd": "SOKGE"
+    },
+    {
+        "name": "3AW2",
+        "seq": 10,
+        "description": "저고도항로(평양특수항로)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "YOMJU",
+        "fixEnd": "PONIL"
+    },
+    {
+        "name": "3AW2",
+        "seq": 20,
+        "description": "저고도항로(평양특수항로)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PONIL",
+        "fixEnd": "PONT2"
+    },
+    {
+        "name": "A326",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SANKO",
+        "fixEnd": "DONVO"
+    },
+    {
+        "name": "A326",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "DONVO",
+        "fixEnd": "IKEKA"
+    },
+    {
+        "name": "A326",
+        "seq": 30,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "IKEKA",
+        "fixEnd": "DONPO"
+    },
+    {
+        "name": "A326",
+        "seq": 40,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "DONPO",
+        "fixEnd": "IKADI"
+    },
+    {
+        "name": "A326",
+        "seq": 50,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "IKADI",
+        "fixEnd": "SURAK"
+    },
+    {
+        "name": "A326",
+        "seq": 60,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SURAK",
+        "fixEnd": "AKARA"
+    },
+    {
+        "name": "A326",
+        "seq": 70,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "AKARA",
+        "fixEnd": "TONIX"
+    },
+    {
+        "name": "A326",
+        "seq": 80,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TONIX",
+        "fixEnd": "MIGOL"
+    },
+    {
+        "name": "A326",
+        "seq": 90,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MIGOL",
+        "fixEnd": "APITO"
+    },
+    {
+        "name": "A345",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOLOT",
+        "fixEnd": "GASAN"
+    },
+    {
+        "name": "A345",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GASAN",
+        "fixEnd": "GK"
+    },
+    {
+        "name": "A575",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GK",
+        "fixEnd": "BODOK"
+    },
+    {
+        "name": "A575",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BODOK",
+        "fixEnd": "JONJU"
+    },
+    {
+        "name": "A575",
+        "seq": 30,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "JONJU",
+        "fixEnd": "YOMJU"
+    },
+    {
+        "name": "A575",
+        "seq": 40,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "YOMJU",
+        "fixEnd": "GOLOT"
+    },
+    {
+        "name": "A575",
+        "seq": 50,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOLOT",
+        "fixEnd": "DDG"
+    },
+    {
+        "name": "A582",
+        "seq": 10,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SEL",
+        "fixEnd": "POLEG"
+    },
+    {
+        "name": "A582",
+        "seq": 20,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "POLEG",
+        "fixEnd": "SOT"
+    },
+    {
+        "name": "A582",
+        "seq": 30,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOT",
+        "fixEnd": "POSAN"
+    },
+    {
+        "name": "A582",
+        "seq": 40,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "POSAN",
+        "fixEnd": "OSPOT"
+    },
+    {
+        "name": "A582",
+        "seq": 50,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "OSPOT",
+        "fixEnd": "VASLI"
+    },
+    {
+        "name": "A582",
+        "seq": 60,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "VASLI",
+        "fixEnd": "MAKDU"
+    },
+    {
+        "name": "A582",
+        "seq": 70,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MAKDU",
+        "fixEnd": "BITUX"
+    },
+    {
+        "name": "A582",
+        "seq": 80,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BITUX",
+        "fixEnd": "TGU"
+    },
+    {
+        "name": "A582",
+        "seq": 90,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TGU",
+        "fixEnd": "KALOD"
+    },
+    {
+        "name": "A582",
+        "seq": 100,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KALOD",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "A582",
+        "seq": 110,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PSN",
+        "fixEnd": "APELA"
+    },
+    {
+        "name": "A582",
+        "seq": 120,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "APELA",
+        "fixEnd": "ZAKRO"
+    },
+    {
+        "name": "A582",
+        "seq": 130,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ZAKRO",
+        "fixEnd": "IKE"
+    },
+    {
+        "name": "A586",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TENAS",
+        "fixEnd": "AGSUS"
+    },
+    {
+        "name": "A586",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "AGSUS",
+        "fixEnd": "DABIK"
+    },
+    {
+        "name": "A586",
+        "seq": 30,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "DABIK",
+        "fixEnd": "BULGA"
+    },
+    {
+        "name": "A586",
+        "seq": 40,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BULGA",
+        "fixEnd": "BEDOM"
+    },
+    {
+        "name": "A586",
+        "seq": 50,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BEDOM",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "A586",
+        "seq": 60,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PSN",
+        "fixEnd": "OMOTU"
+    },
+    {
+        "name": "A586",
+        "seq": 65,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "OMOTU",
+        "fixEnd": "TOPAX"
+    },
+    {
+        "name": "A586",
+        "seq": 70,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TOPAX",
+        "fixEnd": "GOSBO"
+    },
+    {
+        "name": "A586",
+        "seq": 80,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOSBO",
+        "fixEnd": "MAKET"
+    },
+    {
+        "name": "A586",
+        "seq": 90,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MAKET",
+        "fixEnd": "ATINA"
+    },
+    {
+        "name": "A586",
+        "seq": 100,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ATINA",
+        "fixEnd": "MANOL"
+    },
+    {
+        "name": "A586",
+        "seq": 105,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MANOL",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "A586",
+        "seq": 110,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "CJU",
+        "fixEnd": "TOSAN"
+    },
+    {
+        "name": "A586",
+        "seq": 120,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TOSAN",
+        "fixEnd": "RUGMA"
+    },
+    {
+        "name": "A586",
+        "seq": 130,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "RUGMA",
+        "fixEnd": "POTET"
+    },
+    {
+        "name": "A586",
+        "seq": 140,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "POTET",
+        "fixEnd": "ESBIS"
+    },
+    {
+        "name": "A591",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LATUX",
+        "fixEnd": "NOBOB"
+    },
+    {
+        "name": "A591",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NOBOB",
+        "fixEnd": "IKEKA"
+    },
+    {
+        "name": "A591",
+        "seq": 30,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "IKEKA",
+        "fixEnd": "AGAVO"
+    },
+    {
+        "name": "A593",
+        "seq": 1090,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "FUE",
+        "fixEnd": "GOMAR"
+    },
+    {
+        "name": "A593",
+        "seq": 1100,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOMAR",
+        "fixEnd": "AZUKI"
+    },
+    {
+        "name": "A593",
+        "seq": 1110,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "AZUKI",
+        "fixEnd": "POTET"
+    },
+    {
+        "name": "A593",
+        "seq": 1120,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "POTET",
+        "fixEnd": "ONIKU"
+    },
+    {
+        "name": "A593",
+        "seq": 1130,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ONIKU",
+        "fixEnd": "NIRAT"
+    },
+    {
+        "name": "A593",
+        "seq": 1140,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NIRAT",
+        "fixEnd": "SADLI"
+    },
+    {
+        "name": "A593",
+        "seq": 1150,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SADLI",
+        "fixEnd": "LAMEN"
+    },
+    {
+        "name": "A593",
+        "seq": 1160,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LAMEN",
+        "fixEnd": "AKARA"
+    },
+    {
+        "name": "A595",
+        "seq": 2180,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "CJU",
+        "fixEnd": "TAMNA"
+    },
+    {
+        "name": "A595",
+        "seq": 2190,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TAMNA",
+        "fixEnd": "SAMDO"
+    },
+    {
+        "name": "A595",
+        "seq": 2200,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SAMDO",
+        "fixEnd": "GOURA"
+    },
+    {
+        "name": "A595",
+        "seq": 2210,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOURA",
+        "fixEnd": "IKE"
+    },
+    {
+        "name": "A900",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "RIVAT",
+        "fixEnd": "KUPER"
+    },
+    {
+        "name": "A900",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KUPER",
+        "fixEnd": "MATEN"
+    },
+    {
+        "name": "A900",
+        "seq": 30,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MATEN",
+        "fixEnd": "VATIS"
+    },
+    {
+        "name": "A934",
+        "seq": 2060,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NULAR",
+        "fixEnd": "NATEK"
+    },
+    {
+        "name": "B332",
+        "seq": 730,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SANKO",
+        "fixEnd": "TOMUK"
+    },
+    {
+        "name": "B332",
+        "seq": 740,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TOMUK",
+        "fixEnd": "PONIL"
+    },
+    {
+        "name": "B332",
+        "seq": 750,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PONIL",
+        "fixEnd": "BODOK"
+    },
+    {
+        "name": "B332",
+        "seq": 760,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BODOK",
+        "fixEnd": "SOKGE"
+    },
+    {
+        "name": "B332",
+        "seq": 770,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOKGE",
+        "fixEnd": "JENAM"
+    },
+    {
+        "name": "B332",
+        "seq": 780,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "JENAM",
+        "fixEnd": "WASAN"
+    },
+    {
+        "name": "B332",
+        "seq": 790,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "WASAN",
+        "fixEnd": "SONDO"
+    },
+    {
+        "name": "B332",
+        "seq": 800,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SONDO",
+        "fixEnd": "GAZIN"
+    },
+    {
+        "name": "B332",
+        "seq": 810,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GAZIN",
+        "fixEnd": "KANSU"
+    },
+    {
+        "name": "B332",
+        "seq": 820,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KANSU",
+        "fixEnd": "PALDU"
+    },
+    {
+        "name": "B332",
+        "seq": 830,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PALDU",
+        "fixEnd": "SABET"
+    },
+    {
+        "name": "B332",
+        "seq": 840,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SABET",
+        "fixEnd": "IGRAS"
+    },
+    {
+        "name": "B332",
+        "seq": 850,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "IGRAS",
+        "fixEnd": "XZE"
+    },
+    {
+        "name": "B355",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "VATIS",
+        "fixEnd": "TERNI"
+    },
+    {
+        "name": "B355",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TERNI",
+        "fixEnd": "LUPAS"
+    },
+    {
+        "name": "B355",
+        "seq": 30,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LUPAS",
+        "fixEnd": "BUMEP"
+    },
+    {
+        "name": "B355",
+        "seq": 40,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BUMEP",
+        "fixEnd": "KAKPU"
+    },
+    {
+        "name": "B355",
+        "seq": 50,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KAKPU",
+        "fixEnd": "KICHA"
+    },
+    {
+        "name": "B356",
+        "seq": 100,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KICHA",
+        "fixEnd": "ANKOG"
+    },
+    {
+        "name": "B356",
+        "seq": 200,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ANKOG",
+        "fixEnd": "ADNUR"
+    },
+    {
+        "name": "B356",
+        "seq": 300,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ADNUR",
+        "fixEnd": "GALDI"
+    },
+    {
+        "name": "B356",
+        "seq": 400,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GALDI",
+        "fixEnd": "AGBIS"
+    },
+    {
+        "name": "B467",
+        "seq": 1320,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KAE",
+        "fixEnd": "NOMEX"
+    },
+    {
+        "name": "B467",
+        "seq": 1330,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NOMEX",
+        "fixEnd": "TENAS"
+    },
+    {
+        "name": "B467",
+        "seq": 1340,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TENAS",
+        "fixEnd": "MALSO"
+    },
+    {
+        "name": "B467",
+        "seq": 1350,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MALSO",
+        "fixEnd": "KANSU"
+    },
+    {
+        "name": "B467",
+        "seq": 1360,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KANSU",
+        "fixEnd": "TONIN"
+    },
+    {
+        "name": "B467",
+        "seq": 1370,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TONIN",
+        "fixEnd": "NULAR"
+    },
+    {
+        "name": "B576",
+        "seq": 1390,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SEL",
+        "fixEnd": "POLEG"
+    },
+    {
+        "name": "B576",
+        "seq": 1400,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "POLEG",
+        "fixEnd": "SOT"
+    },
+    {
+        "name": "B576",
+        "seq": 1410,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOT",
+        "fixEnd": "OLMEN"
+    },
+    {
+        "name": "B576",
+        "seq": 1420,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "OLMEN",
+        "fixEnd": "ENTEL"
+    },
+    {
+        "name": "B576",
+        "seq": 1430,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ENTEL",
+        "fixEnd": "RINBO"
+    },
+    {
+        "name": "B576",
+        "seq": 1440,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "RINBO",
+        "fixEnd": "LINTA"
+    },
+    {
+        "name": "B576",
+        "seq": 1450,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LINTA",
+        "fixEnd": "KWA"
+    },
+    {
+        "name": "B576",
+        "seq": 1460,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KWA",
+        "fixEnd": "IPDAS"
+    },
+    {
+        "name": "B576",
+        "seq": 1470,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "IPDAS",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "B576",
+        "seq": 1480,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "CJU",
+        "fixEnd": "SOSDO"
+    },
+    {
+        "name": "B576",
+        "seq": 1490,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOSDO",
+        "fixEnd": "SAMLO"
+    },
+    {
+        "name": "B576",
+        "seq": 1500,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SAMLO",
+        "fixEnd": "NIRAT"
+    },
+    {
+        "name": "B576",
+        "seq": 1510,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NIRAT",
+        "fixEnd": "ELGEP"
+    },
+    {
+        "name": "B576",
+        "seq": 1515,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ELGEP",
+        "fixEnd": "TESIM"
+    },
+    {
+        "name": "B576",
+        "seq": 1520,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TESIM",
+        "fixEnd": "ATOTI"
+    },
+    {
+        "name": "B576",
+        "seq": 1530,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ATOTI",
+        "fixEnd": "BOLOD"
+    },
+    {
+        "name": "B576",
+        "seq": 1540,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BOLOD",
+        "fixEnd": "SALMI"
+    },
+    {
+        "name": "B576",
+        "seq": 1550,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SALMI",
+        "fixEnd": "DUBAN"
+    },
+    {
+        "name": "B591",
+        "seq": 950,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MIGOL",
+        "fixEnd": "KASKA"
+    },
+    {
+        "name": "B591",
+        "seq": 960,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KASKA",
+        "fixEnd": "EMRET"
+    },
+    {
+        "name": "B591",
+        "seq": 970,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "EMRET",
+        "fixEnd": "DUBAN"
+    },
+    {
+        "name": "G203",
+        "seq": 2070,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PSN",
+        "fixEnd": "KALEK"
+    },
+    {
+        "name": "G203",
+        "seq": 2080,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KALEK",
+        "fixEnd": "XZE"
+    },
+    {
+        "name": "G327",
+        "seq": 1010,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LAMEN",
+        "fixEnd": "TONIX"
+    },
+    {
+        "name": "G339",
+        "seq": 2090,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PSN",
+        "fixEnd": "INVOK"
+    },
+    {
+        "name": "G339",
+        "seq": 2100,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "INVOK",
+        "fixEnd": "BEETL"
+    },
+    {
+        "name": "G339",
+        "seq": 2110,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BEETL",
+        "fixEnd": "DGC"
+    },
+    {
+        "name": "G455",
+        "seq": 1020,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LAMEN",
+        "fixEnd": "SURAK"
+    },
+    {
+        "name": "G585",
+        "seq": 1830,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SEL",
+        "fixEnd": "KALMA"
+    },
+    {
+        "name": "G585",
+        "seq": 1840,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KALMA",
+        "fixEnd": "KAKSO"
+    },
+    {
+        "name": "G585",
+        "seq": 1850,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KAKSO",
+        "fixEnd": "GUKDO"
+    },
+    {
+        "name": "G585",
+        "seq": 1860,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GUKDO",
+        "fixEnd": "ENSAL"
+    },
+    {
+        "name": "G585",
+        "seq": 1865,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ENSAL",
+        "fixEnd": "BASEM"
+    },
+    {
+        "name": "G585",
+        "seq": 1870,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BASEM",
+        "fixEnd": "BIGOB"
+    },
+    {
+        "name": "G585",
+        "seq": 1880,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BIGOB",
+        "fixEnd": "CUN"
+    },
+    {
+        "name": "G585",
+        "seq": 1890,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "CUN",
+        "fixEnd": "ELAPI"
+    },
+    {
+        "name": "G585",
+        "seq": 1900,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ELAPI",
+        "fixEnd": "KPO"
+    },
+    {
+        "name": "G585",
+        "seq": 1910,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KPO",
+        "fixEnd": "BULGA"
+    },
+    {
+        "name": "G585",
+        "seq": 1920,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BULGA",
+        "fixEnd": "SAPRA"
+    },
+    {
+        "name": "G585",
+        "seq": 1930,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SAPRA",
+        "fixEnd": "XZE"
+    },
+    {
+        "name": "G597",
+        "seq": 1170,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "DONVO",
+        "fixEnd": "AGAVO"
+    },
+    {
+        "name": "G597",
+        "seq": 1180,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "AGAVO",
+        "fixEnd": "GONAV"
+    },
+    {
+        "name": "G597",
+        "seq": 1190,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GONAV",
+        "fixEnd": "ANSIM"
+    },
+    {
+        "name": "G597",
+        "seq": 1200,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ANSIM",
+        "fixEnd": "BINIL"
+    },
+    {
+        "name": "G597",
+        "seq": 1210,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BINIL",
+        "fixEnd": "NOPIK"
+    },
+    {
+        "name": "G597",
+        "seq": 1220,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NOPIK",
+        "fixEnd": "GOGET"
+    },
+    {
+        "name": "G597",
+        "seq": 1230,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOGET",
+        "fixEnd": "SEL"
+    },
+    {
+        "name": "G597",
+        "seq": 1240,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SEL",
+        "fixEnd": "EGOBA"
+    },
+    {
+        "name": "G597",
+        "seq": 1250,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "EGOBA",
+        "fixEnd": "KARBU"
+    },
+    {
+        "name": "G597",
+        "seq": 1260,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KARBU",
+        "fixEnd": "TORUS"
+    },
+    {
+        "name": "G597",
+        "seq": 1265,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TORUS",
+        "fixEnd": "BIKSI"
+    },
+    {
+        "name": "G597",
+        "seq": 1270,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BIKSI",
+        "fixEnd": "KAE"
+    },
+    {
+        "name": "G597",
+        "seq": 1280,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KAE",
+        "fixEnd": "PILIT"
+    },
+    {
+        "name": "G597",
+        "seq": 1290,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PILIT",
+        "fixEnd": "NIMUS"
+    },
+    {
+        "name": "G597",
+        "seq": 1295,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NIMUS",
+        "fixEnd": "AGSUS"
+    },
+    {
+        "name": "G597",
+        "seq": 1300,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "AGSUS",
+        "fixEnd": "LANAT"
+    },
+    {
+        "name": "G597",
+        "seq": 1310,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LANAT",
+        "fixEnd": "XZE"
+    },
+    {
+        "name": "G705",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "AGBIS",
+        "fixEnd": "TERNI"
+    },
+    {
+        "name": "G705",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TERNI",
+        "fixEnd": "RITEK"
+    },
+    {
+        "name": "G705",
+        "seq": 30,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "RITEK",
+        "fixEnd": "RIVAT"
+    },
+    {
+        "name": "G711",
+        "seq": 580,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KANSU",
+        "fixEnd": "DOHAE"
+    },
+    {
+        "name": "G711",
+        "seq": 590,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "DOHAE",
+        "fixEnd": "RIVAT"
+    },
+    {
+        "name": "L512",
+        "seq": 2120,
+        "description": "RNAV항로",
+        "airwayType": "RNAV",
+        "fixStart": "TENAS",
+        "fixEnd": "SABET"
+    },
+    {
+        "name": "L512",
+        "seq": 2130,
+        "description": "RNAV항로",
+        "airwayType": "RNAV",
+        "fixStart": "SABET",
+        "fixEnd": "ANDOL"
+    },
+    {
+        "name": "L512",
+        "seq": 2140,
+        "description": "RNAV항로",
+        "airwayType": "RNAV",
+        "fixStart": "ANDOL",
+        "fixEnd": "KAMSA"
+    },
+    {
+        "name": "L512",
+        "seq": 2150,
+        "description": "RNAV항로",
+        "airwayType": "RNAV",
+        "fixStart": "KAMSA",
+        "fixEnd": "IGOBI"
+    },
+    {
+        "name": "L771",
+        "seq": 10,
+        "description": "RNAV항로",
+        "airwayType": "RNAV",
+        "fixStart": "MESOV",
+        "fixEnd": "NULAR"
+    },
+    {
+        "name": "N513",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MESOV",
+        "fixEnd": "RIVAT"
+    },
+    {
+        "name": "NCorridor",
+        "seq": 1,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "JP-1",
+        "fixEnd": "JP-2"
+    },
+    {
+        "name": "NCorridor",
+        "seq": 2,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "JP-2",
+        "fixEnd": "JP-3"
+    },
+    {
+        "name": "NCorridor",
+        "seq": 3,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "JP-3",
+        "fixEnd": "JP-4"
+    },
+    {
+        "name": "NCorridor",
+        "seq": 4,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "JP-4",
+        "fixEnd": "JP-5"
+    },
+    {
+        "name": "NCorridor",
+        "seq": 5,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "JP-5",
+        "fixEnd": "JP-6"
+    },
+    {
+        "name": "OTR30",
+        "seq": 980,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MIKES",
+        "fixEnd": "ESBIS"
+    },
+    {
+        "name": "OTR30",
+        "seq": 990,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ESBIS",
+        "fixEnd": "FUE"
+    },
+    {
+        "name": "R224",
+        "seq": 600,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KANSU",
+        "fixEnd": "KAKPU"
+    },
+    {
+        "name": "R224",
+        "seq": 620,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KAKPU",
+        "fixEnd": "ANKOG"
+    },
+    {
+        "name": "R224",
+        "seq": 630,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ANKOG",
+        "fixEnd": "VASRO"
+    },
+    {
+        "name": "R224",
+        "seq": 640,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "VASRO",
+        "fixEnd": "YNJ"
+    },
+    {
+        "name": "R452",
+        "seq": 100,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GK",
+        "fixEnd": "SOCHA"
+    },
+    {
+        "name": "R452",
+        "seq": 200,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOCHA",
+        "fixEnd": "WASAN"
+    },
+    {
+        "name": "R452",
+        "seq": 300,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "WASAN",
+        "fixEnd": "HAMUN"
+    },
+    {
+        "name": "R452",
+        "seq": 400,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "HAMUN",
+        "fixEnd": "KICHA"
+    },
+    {
+        "name": "Susaek",
+        "seq": 1,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "SP-1",
+        "fixEnd": "SP-2"
+    },
+    {
+        "name": "Susaek",
+        "seq": 2,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "SP-2",
+        "fixEnd": "SP-3"
+    },
+    {
+        "name": "Susaek",
+        "seq": 3,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "SP-3",
+        "fixEnd": "SP-4"
+    },
+    {
+        "name": "Susaek",
+        "seq": 4,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "SP-4",
+        "fixEnd": "SP-5"
+    },
+    {
+        "name": "Susaek",
+        "seq": 5,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "SP-5",
+        "fixEnd": "SP-6"
+    },
+    {
+        "name": "Susaek",
+        "seq": 6,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "SP-6",
+        "fixEnd": "SP-7"
+    },
+    {
+        "name": "V11",
+        "seq": 370,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PILIT",
+        "fixEnd": "NOBUT"
+    },
+    {
+        "name": "V11",
+        "seq": 380,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NOBUT",
+        "fixEnd": "LOSTO"
+    },
+    {
+        "name": "V11",
+        "seq": 390,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LOSTO",
+        "fixEnd": "KPO"
+    },
+    {
+        "name": "V11",
+        "seq": 400,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KPO",
+        "fixEnd": "APARU"
+    },
+    {
+        "name": "V11",
+        "seq": 410,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "APARU",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "V28",
+        "seq": 1000,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "FUE",
+        "fixEnd": "DGC"
+    },
+    {
+        "name": "V543",
+        "seq": 1990,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "DALSU",
+        "fixEnd": "KWA"
+    },
+    {
+        "name": "V543",
+        "seq": 2000,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KWA",
+        "fixEnd": "SAMUL"
+    },
+    {
+        "name": "V543",
+        "seq": 2010,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SAMUL",
+        "fixEnd": "TEDAN"
+    },
+    {
+        "name": "V543",
+        "seq": 2020,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TEDAN",
+        "fixEnd": "ANUBA"
+    },
+    {
+        "name": "V543",
+        "seq": 2030,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ANUBA",
+        "fixEnd": "SAPDI"
+    },
+    {
+        "name": "V543",
+        "seq": 2040,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SAPDI",
+        "fixEnd": "SARAM"
+    },
+    {
+        "name": "V543",
+        "seq": 2050,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SARAM",
+        "fixEnd": "ANKUS"
+    },
+    {
+        "name": "V543",
+        "seq": 2060,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ANKUS",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "V547",
+        "seq": 2160,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KWA",
+        "fixEnd": "IGDOK"
+    },
+    {
+        "name": "V547",
+        "seq": 2170,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "IGDOK",
+        "fixEnd": "TGU"
+    },
+    {
+        "name": "V549",
+        "seq": 1930,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KUZ",
+        "fixEnd": "ELPOS"
+    },
+    {
+        "name": "V549",
+        "seq": 1940,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ELPOS",
+        "fixEnd": "RINBO"
+    },
+    {
+        "name": "V549",
+        "seq": 1950,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "RINBO",
+        "fixEnd": "OPEDA"
+    },
+    {
+        "name": "V549",
+        "seq": 1960,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "OPEDA",
+        "fixEnd": "TGU"
+    },
+    {
+        "name": "V549",
+        "seq": 1970,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TGU",
+        "fixEnd": "LAPAL"
+    },
+    {
+        "name": "V549",
+        "seq": 1980,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LAPAL",
+        "fixEnd": "KPO"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 1,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-1",
+        "fixEnd": "CP-2"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 2,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-2",
+        "fixEnd": "CP-3"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 3,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-3",
+        "fixEnd": "CP-4"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 4,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-4",
+        "fixEnd": "CP-5"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 5,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-5",
+        "fixEnd": "CP-6"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 6,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-6",
+        "fixEnd": "CP-7"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 7,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-7",
+        "fixEnd": "CP-8"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 8,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-8",
+        "fixEnd": "CP-9"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 9,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-9",
+        "fixEnd": "CP-10"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 10,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-10",
+        "fixEnd": "CP-11"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 11,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-11",
+        "fixEnd": "CP-12"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 12,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-12",
+        "fixEnd": "CP-13"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 13,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-13",
+        "fixEnd": "CP-14"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 14,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-14",
+        "fixEnd": "CP-15"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 15,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-15",
+        "fixEnd": "CP-16"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 16,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-16",
+        "fixEnd": "CP-17"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 17,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-17",
+        "fixEnd": "CP-18"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 18,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-18",
+        "fixEnd": "CP-19"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 19,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-19",
+        "fixEnd": "CP-20"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 20,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-20",
+        "fixEnd": "CP-21"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 21,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-21",
+        "fixEnd": "CP-22"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 22,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-22",
+        "fixEnd": "CP-23"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 23,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "CP-23",
+        "fixEnd": "CP-1"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 101,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(R)",
+        "fixEnd": "VFR-SS-Point(N)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 102,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(N)",
+        "fixEnd": "VFR-SS-Point(M)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 103,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(K)",
+        "fixEnd": "VFR-SS-Point(F)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 104,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(K)",
+        "fixEnd": "VFR-SS-Point(W)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 105,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(K)",
+        "fixEnd": "VFR-SS-Point(S)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 106,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(K)",
+        "fixEnd": "VFR-SS-Point(J)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 107,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(K)",
+        "fixEnd": "VFR-SS-Point(Z)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 108,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(S)",
+        "fixEnd": "VFR-SS-Point(J)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 109,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(S)",
+        "fixEnd": "VFR-SS-Point(Z)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 110,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(W)",
+        "fixEnd": "VFR-SS-Point(F)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 111,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(I)",
+        "fixEnd": "VFR-SS-Point(T)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 112,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(T)",
+        "fixEnd": "VFR-SS-Point(W)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 113,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(T)",
+        "fixEnd": "VFR-SS-Point(Z)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 114,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(Z)",
+        "fixEnd": "VFR-SS-Point(Y)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 115,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(T)",
+        "fixEnd": "VFR-SS-Point(S)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 116,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(E)",
+        "fixEnd": "VFR-SS-Point(F)"
+    },
+    {
+        "name": "VFRroute",
+        "seq": 117,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-SS-Point(X)",
+        "fixEnd": "VFR-SS-Point(Y)"
+    },
+    {
+        "name": "VFRroute(Arr)",
+        "seq": 201,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-TL-Point(S)",
+        "fixEnd": "VFR-TL-Point(B)"
+    },
+    {
+        "name": "VFRroute(Arr)",
+        "seq": 202,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-TL-Point(N)",
+        "fixEnd": "VFR-TL-Point(W)"
+    },
+    {
+        "name": "VFRroute(Arr)",
+        "seq": 203,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "VFR-TL-Point(W)",
+        "fixEnd": "VFR-TL-Point(A)"
+    },
+    {
+        "name": "W1",
+        "seq": 10,
+        "description": "저고도항로(평양진입)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PONIL",
+        "fixEnd": "SASRI"
+    },
+    {
+        "name": "W1",
+        "seq": 20,
+        "description": "저고도항로(평양진입)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SASRI",
+        "fixEnd": "GK"
+    },
+    {
+        "name": "W107",
+        "seq": 1030,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SANKO",
+        "fixEnd": "CHI"
+    },
+    {
+        "name": "W108",
+        "seq": 1050,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOMSA",
+        "fixEnd": "BINOR"
+    },
+    {
+        "name": "W108",
+        "seq": 1060,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BINOR",
+        "fixEnd": "LATUX"
+    },
+    {
+        "name": "W113",
+        "seq": 1040,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "IKADI",
+        "fixEnd": "SOMSA"
+    },
+    {
+        "name": "W2",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOCHA",
+        "fixEnd": "CONAR"
+    },
+    {
+        "name": "W3",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "JENAM",
+        "fixEnd": "CONAR"
+    },
+    {
+        "name": "W4",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GUMSA",
+        "fixEnd": "SONDO"
+    },
+    {
+        "name": "W4",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SONDO",
+        "fixEnd": "HAMUN"
+    },
+    {
+        "name": "W45",
+        "seq": 490,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KWJ",
+        "fixEnd": "RIMPO"
+    },
+    {
+        "name": "W45",
+        "seq": 500,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "RIMPO",
+        "fixEnd": "RUNIT"
+    },
+    {
+        "name": "W45",
+        "seq": 510,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "RUNIT",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "W5",
+        "seq": 10,
+        "description": "저고도항로(평양진입)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SASRI",
+        "fixEnd": "DUMAN"
+    },
+    {
+        "name": "W526",
+        "seq": 550,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TGU",
+        "fixEnd": "MASTA"
+    },
+    {
+        "name": "W526",
+        "seq": 560,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MASTA",
+        "fixEnd": "SARAM"
+    },
+    {
+        "name": "W526",
+        "seq": 570,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SARAM",
+        "fixEnd": "TOPAX"
+    },
+    {
+        "name": "W61",
+        "seq": 520,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOT",
+        "fixEnd": "MONSI"
+    },
+    {
+        "name": "W61",
+        "seq": 530,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MONSI",
+        "fixEnd": "GOGET"
+    },
+    {
+        "name": "W62",
+        "seq": 540,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOT",
+        "fixEnd": "EGOBA"
+    },
+    {
+        "name": "Y14",
+        "seq": 100,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SAMON",
+        "fixEnd": "DRIPS"
+    },
+    {
+        "name": "Y14",
+        "seq": 110,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "DRIPS",
+        "fixEnd": "XZE"
+    },
+    {
+        "name": "Y14",
+        "seq": 130,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "XZE",
+        "fixEnd": "HALNA"
+    },
+    {
+        "name": "Y14",
+        "seq": 140,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "HALNA",
+        "fixEnd": "STOUT"
+    },
+    {
+        "name": "Y14",
+        "seq": 150,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "STOUT",
+        "fixEnd": "DGC"
+    },
+    {
+        "name": "Y16",
+        "seq": 1250,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SAPRA",
+        "fixEnd": "SAKYU"
+    },
+    {
+        "name": "Y209",
+        "seq": 1090,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BESNA",
+        "fixEnd": "IKE"
+    },
+    {
+        "name": "Y233",
+        "seq": 1070,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BUSKO",
+        "fixEnd": "SELPA"
+    },
+    {
+        "name": "Y233",
+        "seq": 1080,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SELPA",
+        "fixEnd": "ONATA"
+    },
+    {
+        "name": "Y233",
+        "seq": 1090,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ONATA",
+        "fixEnd": "KANSU"
+    },
+    {
+        "name": "Y253",
+        "seq": 1100,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "DALSU",
+        "fixEnd": "KWA"
+    },
+    {
+        "name": "Y253",
+        "seq": 1110,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KWA",
+        "fixEnd": "SAMUL"
+    },
+    {
+        "name": "Y253",
+        "seq": 1120,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SAMUL",
+        "fixEnd": "TEDAN"
+    },
+    {
+        "name": "Y253",
+        "seq": 1130,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TEDAN",
+        "fixEnd": "ANUBA"
+    },
+    {
+        "name": "Y253",
+        "seq": 1140,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ANUBA",
+        "fixEnd": "SAPDI"
+    },
+    {
+        "name": "Y253",
+        "seq": 1150,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SAPDI",
+        "fixEnd": "SARAM"
+    },
+    {
+        "name": "Y253",
+        "seq": 1160,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SARAM",
+        "fixEnd": "ANKUS"
+    },
+    {
+        "name": "Y253",
+        "seq": 1170,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ANKUS",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "Y28",
+        "seq": 190,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ISAKY",
+        "fixEnd": "DGC"
+    },
+    {
+        "name": "Y347",
+        "seq": 30,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "IGROD",
+        "fixEnd": "EKVIK"
+    },
+    {
+        "name": "Y347",
+        "seq": 40,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "EKVIK",
+        "fixEnd": "HANAB"
+    },
+    {
+        "name": "Y377",
+        "seq": 100,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "IGROD",
+        "fixEnd": "MEDIO"
+    },
+    {
+        "name": "Y51",
+        "seq": 1260,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "LANAT",
+        "fixEnd": "SAMON"
+    },
+    {
+        "name": "Y549",
+        "seq": 1940,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KUZ",
+        "fixEnd": "RINBO"
+    },
+    {
+        "name": "Y571",
+        "seq": 10,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SOSDO",
+        "fixEnd": "OMKIM"
+    },
+    {
+        "name": "Y571",
+        "seq": 20,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OMKIM",
+        "fixEnd": "PAPLU"
+    },
+    {
+        "name": "Y571",
+        "seq": 30,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PAPLU",
+        "fixEnd": "AKPON"
+    },
+    {
+        "name": "Y571",
+        "seq": 40,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "AKPON",
+        "fixEnd": "NISAV"
+    },
+    {
+        "name": "Y571",
+        "seq": 50,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "NISAV",
+        "fixEnd": "ANROD"
+    },
+    {
+        "name": "Y571",
+        "seq": 60,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ANROD",
+        "fixEnd": "POVEM"
+    },
+    {
+        "name": "Y571",
+        "seq": 70,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "POVEM",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "Y572",
+        "seq": 10,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PSN",
+        "fixEnd": "OLMUD"
+    },
+    {
+        "name": "Y572",
+        "seq": 20,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OLMUD",
+        "fixEnd": "ENGOT"
+    },
+    {
+        "name": "Y572",
+        "seq": 30,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ENGOT",
+        "fixEnd": "POVOR"
+    },
+    {
+        "name": "Y572",
+        "seq": 40,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "POVOR",
+        "fixEnd": "UPGOS"
+    },
+    {
+        "name": "Y572",
+        "seq": 50,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "UPGOS",
+        "fixEnd": "BILUM"
+    },
+    {
+        "name": "Y572",
+        "seq": 60,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BILUM",
+        "fixEnd": "BEPKO"
+    },
+    {
+        "name": "Y572",
+        "seq": 70,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BEPKO",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "Y572",
+        "seq": 80,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "CJU",
+        "fixEnd": "OMKIM"
+    },
+    {
+        "name": "Y572",
+        "seq": 90,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OMKIM",
+        "fixEnd": "TOSAN"
+    },
+    {
+        "name": "Y572",
+        "seq": 100,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TOSAN",
+        "fixEnd": "RUGMA"
+    },
+    {
+        "name": "Y579",
+        "seq": 240,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TENAS",
+        "fixEnd": "AGSUS"
+    },
+    {
+        "name": "Y579",
+        "seq": 250,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "AGSUS",
+        "fixEnd": "BULGA"
+    },
+    {
+        "name": "Y579",
+        "seq": 260,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BULGA",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "Y579",
+        "seq": 270,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PSN",
+        "fixEnd": "OMOTU"
+    },
+    {
+        "name": "Y579",
+        "seq": 275,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OMOTU",
+        "fixEnd": "TOPAX"
+    },
+    {
+        "name": "Y579",
+        "seq": 280,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TOPAX",
+        "fixEnd": "GOSBO"
+    },
+    {
+        "name": "Y579",
+        "seq": 290,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "GOSBO",
+        "fixEnd": "MAKET"
+    },
+    {
+        "name": "Y579",
+        "seq": 300,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "MAKET",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "Y579",
+        "seq": 310,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "CJU",
+        "fixEnd": "TOSAN"
+    },
+    {
+        "name": "Y579",
+        "seq": 320,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TOSAN",
+        "fixEnd": "RUGMA"
+    },
+    {
+        "name": "Y579",
+        "seq": 330,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "RUGMA",
+        "fixEnd": "POTET"
+    },
+    {
+        "name": "Y579",
+        "seq": 340,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "POTET",
+        "fixEnd": "ESBIS"
+    },
+    {
+        "name": "Y590",
+        "seq": 160,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SADLI",
+        "fixEnd": "IKEDO"
+    },
+    {
+        "name": "Y590",
+        "seq": 170,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "IKEDO",
+        "fixEnd": "ELGEP"
+    },
+    {
+        "name": "Y590",
+        "seq": 180,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ELGEP",
+        "fixEnd": "BEDAR"
+    },
+    {
+        "name": "Y60",
+        "seq": 160,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ONIKU",
+        "fixEnd": "POTET"
+    },
+    {
+        "name": "Y60",
+        "seq": 170,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "POTET",
+        "fixEnd": "FUE"
+    },
+    {
+        "name": "Y60",
+        "seq": 180,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "FUE",
+        "fixEnd": "ISAKY"
+    },
+    {
+        "name": "Y644",
+        "seq": 680,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "AGAVO",
+        "fixEnd": "RILRO"
+    },
+    {
+        "name": "Y644",
+        "seq": 681,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "RILRO",
+        "fixEnd": "GONAV"
+    },
+    {
+        "name": "Y644",
+        "seq": 690,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "GONAV",
+        "fixEnd": "BODOL"
+    },
+    {
+        "name": "Y644",
+        "seq": 700,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BODOL",
+        "fixEnd": "REBIT"
+    },
+    {
+        "name": "Y644",
+        "seq": 710,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "REBIT",
+        "fixEnd": "BELTU"
+    },
+    {
+        "name": "Y644",
+        "seq": 720,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BELTU",
+        "fixEnd": "BOGAN"
+    },
+    {
+        "name": "Y644",
+        "seq": 730,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BOGAN",
+        "fixEnd": "MONSI"
+    },
+    {
+        "name": "Y644",
+        "seq": 740,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "MONSI",
+        "fixEnd": "POLEG"
+    },
+    {
+        "name": "Y644",
+        "seq": 750,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "POLEG",
+        "fixEnd": "EGOBA"
+    },
+    {
+        "name": "Y65",
+        "seq": 160,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TOLIS",
+        "fixEnd": "SADLI"
+    },
+    {
+        "name": "Y65",
+        "seq": 170,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SADLI",
+        "fixEnd": "BONSO"
+    },
+    {
+        "name": "Y65",
+        "seq": 180,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BONSO",
+        "fixEnd": "ATOTI"
+    },
+    {
+        "name": "Y655",
+        "seq": 760,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "GONAV",
+        "fixEnd": "DALPO"
+    },
+    {
+        "name": "Y655",
+        "seq": 761,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "DALPO",
+        "fixEnd": "NONOS"
+    },
+    {
+        "name": "Y655",
+        "seq": 770,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "NONOS",
+        "fixEnd": "DANPA"
+    },
+    {
+        "name": "Y655",
+        "seq": 780,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "DANPA",
+        "fixEnd": "PALSA"
+    },
+    {
+        "name": "Y655",
+        "seq": 790,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PALSA",
+        "fixEnd": "TOLIS"
+    },
+    {
+        "name": "Y655",
+        "seq": 800,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TOLIS",
+        "fixEnd": "LIMDI"
+    },
+    {
+        "name": "Y655",
+        "seq": 810,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "LIMDI",
+        "fixEnd": "REMOS"
+    },
+    {
+        "name": "Y655",
+        "seq": 820,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "REMOS",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "Y657",
+        "seq": 420,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KWA",
+        "fixEnd": "IGDOK"
+    },
+    {
+        "name": "Y657",
+        "seq": 430,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "IGDOK",
+        "fixEnd": "TGU"
+    },
+    {
+        "name": "Y659",
+        "seq": 440,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KUZ",
+        "fixEnd": "ELPOS"
+    },
+    {
+        "name": "Y659",
+        "seq": 442,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ELPOS",
+        "fixEnd": "RINBO"
+    },
+    {
+        "name": "Y659",
+        "seq": 450,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "RINBO",
+        "fixEnd": "MELES"
+    },
+    {
+        "name": "Y659",
+        "seq": 455,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "MELES",
+        "fixEnd": "OPEDA"
+    },
+    {
+        "name": "Y659",
+        "seq": 460,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OPEDA",
+        "fixEnd": "TGU"
+    },
+    {
+        "name": "Y659",
+        "seq": 470,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TGU",
+        "fixEnd": "LAPAL"
+    },
+    {
+        "name": "Y659",
+        "seq": 480,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "LAPAL",
+        "fixEnd": "KPO"
+    },
+    {
+        "name": "Y677",
+        "seq": 350,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "CJU",
+        "fixEnd": "TAMNA"
+    },
+    {
+        "name": "Y677",
+        "seq": 360,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TAMNA",
+        "fixEnd": "SAMDO"
+    },
+    {
+        "name": "Y685",
+        "seq": 1370,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SEL",
+        "fixEnd": "KALMA"
+    },
+    {
+        "name": "Y685",
+        "seq": 1380,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KALMA",
+        "fixEnd": "KAKSO"
+    },
+    {
+        "name": "Y685",
+        "seq": 1390,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KAKSO",
+        "fixEnd": "GUKDO"
+    },
+    {
+        "name": "Y685",
+        "seq": 1400,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "GUKDO",
+        "fixEnd": "ENSAL"
+    },
+    {
+        "name": "Y685",
+        "seq": 1405,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ENSAL",
+        "fixEnd": "BASEM"
+    },
+    {
+        "name": "Y685",
+        "seq": 1410,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BASEM",
+        "fixEnd": "BIGOB"
+    },
+    {
+        "name": "Y685",
+        "seq": 1420,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BIGOB",
+        "fixEnd": "CUN"
+    },
+    {
+        "name": "Y685",
+        "seq": 1430,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "CUN",
+        "fixEnd": "ELAPI"
+    },
+    {
+        "name": "Y685",
+        "seq": 1440,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ELAPI",
+        "fixEnd": "KPO"
+    },
+    {
+        "name": "Y685",
+        "seq": 1450,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KPO",
+        "fixEnd": "BULGA"
+    },
+    {
+        "name": "Y685",
+        "seq": 1460,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BULGA",
+        "fixEnd": "SAPRA"
+    },
+    {
+        "name": "Y697",
+        "seq": 1170,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "DONVO",
+        "fixEnd": "AGAVO"
+    },
+    {
+        "name": "Y697",
+        "seq": 1180,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "AGAVO",
+        "fixEnd": "OLBIM"
+    },
+    {
+        "name": "Y697",
+        "seq": 1181,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OLBIM",
+        "fixEnd": "NOGON"
+    },
+    {
+        "name": "Y697",
+        "seq": 1190,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "NOGON",
+        "fixEnd": "ANSIM"
+    },
+    {
+        "name": "Y697",
+        "seq": 1200,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ANSIM",
+        "fixEnd": "BINIL"
+    },
+    {
+        "name": "Y697",
+        "seq": 1210,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BINIL",
+        "fixEnd": "NOPIK"
+    },
+    {
+        "name": "Y697",
+        "seq": 1220,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "NOPIK",
+        "fixEnd": "GOGET"
+    },
+    {
+        "name": "Y697",
+        "seq": 1230,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "GOGET",
+        "fixEnd": "SEL"
+    },
+    {
+        "name": "Y697",
+        "seq": 1240,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SEL",
+        "fixEnd": "EGOBA"
+    },
+    {
+        "name": "Y697",
+        "seq": 1250,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "EGOBA",
+        "fixEnd": "KARBU"
+    },
+    {
+        "name": "Y697",
+        "seq": 1260,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KARBU",
+        "fixEnd": "TORUS"
+    },
+    {
+        "name": "Y697",
+        "seq": 1265,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TORUS",
+        "fixEnd": "BIKSI"
+    },
+    {
+        "name": "Y697",
+        "seq": 1270,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BIKSI",
+        "fixEnd": "KAE"
+    },
+    {
+        "name": "Y697",
+        "seq": 1280,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KAE",
+        "fixEnd": "PILIT"
+    },
+    {
+        "name": "Y697",
+        "seq": 1290,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PILIT",
+        "fixEnd": "NIMUS"
+    },
+    {
+        "name": "Y697",
+        "seq": 1295,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "NIMUS",
+        "fixEnd": "AGSUS"
+    },
+    {
+        "name": "Y697",
+        "seq": 1300,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "AGSUS",
+        "fixEnd": "LANAT"
+    },
+    {
+        "name": "Y697",
+        "seq": 1310,
+        "description": "저고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "LANAT",
+        "fixEnd": "XZE"
+    },
+    {
+        "name": "Y711",
+        "seq": 800,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "MONSI",
+        "fixEnd": "BULTI"
+    },
+    {
+        "name": "Y711",
+        "seq": 810,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "BULTI",
+        "fixEnd": "MEKIL"
+    },
+    {
+        "name": "Y711",
+        "seq": 820,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "MEKIL",
+        "fixEnd": "GONAX"
+    },
+    {
+        "name": "Y711",
+        "seq": 825,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "GONAX",
+        "fixEnd": "BEDES"
+    },
+    {
+        "name": "Y711",
+        "seq": 830,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "BEDES",
+        "fixEnd": "ELPOS"
+    },
+    {
+        "name": "Y711",
+        "seq": 835,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "ELPOS",
+        "fixEnd": "MANGI"
+    },
+    {
+        "name": "Y711",
+        "seq": 840,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "MANGI",
+        "fixEnd": "DALSU"
+    },
+    {
+        "name": "Y711",
+        "seq": 850,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "DALSU",
+        "fixEnd": "DOTOL"
+    },
+    {
+        "name": "Y711",
+        "seq": 860,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "DOTOL",
+        "fixEnd": "KIDOS"
+    },
+    {
+        "name": "Y711",
+        "seq": 870,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "KIDOS",
+        "fixEnd": "REMOS"
+    },
+    {
+        "name": "Y711",
+        "seq": 871,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "REMOS",
+        "fixEnd": "PANSI"
+    },
+    {
+        "name": "Y711",
+        "seq": 880,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "PANSI",
+        "fixEnd": "DOMKO"
+    },
+    {
+        "name": "Y711",
+        "seq": 890,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "DOMKO",
+        "fixEnd": "PONIK"
+    },
+    {
+        "name": "Y711",
+        "seq": 900,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "PONIK",
+        "fixEnd": "IKEDO"
+    },
+    {
+        "name": "Y711",
+        "seq": 905,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "IKEDO",
+        "fixEnd": "KANKA"
+    },
+    {
+        "name": "Y711",
+        "seq": 910,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "KANKA",
+        "fixEnd": "BONSO"
+    },
+    {
+        "name": "Y711",
+        "seq": 911,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "BONSO",
+        "fixEnd": "MUGUS"
+    },
+    {
+        "name": "Y722",
+        "seq": 10,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "ATOTI",
+        "fixEnd": "TESIM"
+    },
+    {
+        "name": "Y722",
+        "seq": 20,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "TESIM",
+        "fixEnd": "ELGEP"
+    },
+    {
+        "name": "Y722",
+        "seq": 30,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "ELGEP",
+        "fixEnd": "NIRAT"
+    },
+    {
+        "name": "Y722",
+        "seq": 40,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "NIRAT",
+        "fixEnd": "SAMLO"
+    },
+    {
+        "name": "Y722",
+        "seq": 50,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "SAMLO",
+        "fixEnd": "SOSDO"
+    },
+    {
+        "name": "Y722",
+        "seq": 60,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "SOSDO",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "Y722",
+        "seq": 70,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "CJU",
+        "fixEnd": "LONSI"
+    },
+    {
+        "name": "Y722",
+        "seq": 80,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "LONSI",
+        "fixEnd": "GUKSU"
+    },
+    {
+        "name": "Y722",
+        "seq": 90,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "GUKSU",
+        "fixEnd": "KAMIT"
+    },
+    {
+        "name": "Y722",
+        "seq": 100,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "KAMIT",
+        "fixEnd": "SAMUL"
+    },
+    {
+        "name": "Y722",
+        "seq": 110,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "SAMUL",
+        "fixEnd": "MAKSA"
+    },
+    {
+        "name": "Y722",
+        "seq": 120,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "MAKSA",
+        "fixEnd": "ATASO"
+    },
+    {
+        "name": "Y722",
+        "seq": 130,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "ATASO",
+        "fixEnd": "PEBRI"
+    },
+    {
+        "name": "Y722",
+        "seq": 140,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "PEBRI",
+        "fixEnd": "GUNKU"
+    },
+    {
+        "name": "Y722",
+        "seq": 150,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "GUNKU",
+        "fixEnd": "OLMEN"
+    },
+    {
+        "name": "Y722",
+        "seq": 160,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "OLMEN",
+        "fixEnd": "SOT"
+    },
+    {
+        "name": "Y742",
+        "seq": 912,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "MUGUS",
+        "fixEnd": "SUBTA"
+    },
+    {
+        "name": "Y742",
+        "seq": 913,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "SUBTA",
+        "fixEnd": "SALMI"
+    },
+    {
+        "name": "Y744",
+        "seq": 1170,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PILIT",
+        "fixEnd": "NOBUT"
+    },
+    {
+        "name": "Y744",
+        "seq": 1180,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "NOBUT",
+        "fixEnd": "LOSTO"
+    },
+    {
+        "name": "Y744",
+        "seq": 1190,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "LOSTO",
+        "fixEnd": "KPO"
+    },
+    {
+        "name": "Y744",
+        "seq": 1200,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KPO",
+        "fixEnd": "APARU"
+    },
+    {
+        "name": "Y744",
+        "seq": 1210,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "APARU",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "Y781",
+        "seq": 5,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TGU",
+        "fixEnd": "MASTA"
+    },
+    {
+        "name": "Y781",
+        "seq": 10,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "MASTA",
+        "fixEnd": "ANKUS"
+    },
+    {
+        "name": "Y781",
+        "seq": 20,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "ANKUS",
+        "fixEnd": "OMOTU"
+    },
+    {
+        "name": "Y781",
+        "seq": 30,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OMOTU",
+        "fixEnd": "BESNA"
+    },
+    {
+        "name": "Y782",
+        "seq": 1270,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SEL",
+        "fixEnd": "POLEG"
+    },
+    {
+        "name": "Y782",
+        "seq": 1280,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "POLEG",
+        "fixEnd": "SOT"
+    },
+    {
+        "name": "Y782",
+        "seq": 1290,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SOT",
+        "fixEnd": "OSPOT"
+    },
+    {
+        "name": "Y782",
+        "seq": 1300,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OSPOT",
+        "fixEnd": "VASLI"
+    },
+    {
+        "name": "Y782",
+        "seq": 1310,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "VASLI",
+        "fixEnd": "MAKDU"
+    },
+    {
+        "name": "Y782",
+        "seq": 1320,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "MAKDU",
+        "fixEnd": "BITUX"
+    },
+    {
+        "name": "Y782",
+        "seq": 1330,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BITUX",
+        "fixEnd": "TGU"
+    },
+    {
+        "name": "Y782",
+        "seq": 1340,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TGU",
+        "fixEnd": "KALOD"
+    },
+    {
+        "name": "Y782",
+        "seq": 1350,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KALOD",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "Y782",
+        "seq": 1360,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PSN",
+        "fixEnd": "APELA"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 1,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-1",
+        "fixEnd": "YP-2"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 2,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-2",
+        "fixEnd": "YP-3"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 3,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-3",
+        "fixEnd": "YP-4"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 4,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-4",
+        "fixEnd": "YP-5"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 5,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-5",
+        "fixEnd": "YP-6"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 6,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-6",
+        "fixEnd": "YP-7"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 7,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-7",
+        "fixEnd": "YP-8"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 8,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-8",
+        "fixEnd": "YP-9"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 9,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-7",
+        "fixEnd": "JP-6"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 10,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-10",
+        "fixEnd": "YP-11"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 11,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-5",
+        "fixEnd": "YP-10"
+    },
+    {
+        "name": "YCorridor",
+        "seq": 12,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "YP-6",
+        "fixEnd": "YP-10"
+    },
+    {
+        "name": "Z162",
+        "seq": 10,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SEPCO",
+        "fixEnd": "KAMSA"
+    },
+    {
+        "name": "Z17",
+        "seq": 50,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SAMON",
+        "fixEnd": "CELCA"
+    },
+    {
+        "name": "Z171",
+        "seq": 20,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KAMSA",
+        "fixEnd": "AKIAS"
+    },
+    {
+        "name": "Z182",
+        "seq": 60,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "CELCA",
+        "fixEnd": "TAXUK"
+    },
+    {
+        "name": "Z182",
+        "seq": 70,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TAXUK",
+        "fixEnd": "AKIAS"
+    },
+    {
+        "name": "Z182",
+        "seq": 80,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "AKIAS",
+        "fixEnd": "SEPCO"
+    },
+    {
+        "name": "Z182",
+        "seq": 90,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SEPCO",
+        "fixEnd": "MEDIO"
+    },
+    {
+        "name": "Z20",
+        "seq": 200,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "POTET",
+        "fixEnd": "CAMAS"
+    },
+    {
+        "name": "Z20",
+        "seq": 210,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "CAMAS",
+        "fixEnd": "ISAKY"
+    },
+    {
+        "name": "Z401",
+        "seq": 220,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "MIKES",
+        "fixEnd": "POTET"
+    },
+    {
+        "name": "Z50",
+        "seq": 580,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SOT",
+        "fixEnd": "BULTI"
+    },
+    {
+        "name": "Z51",
+        "seq": 590,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BOPTA",
+        "fixEnd": "MOXID"
+    },
+    {
+        "name": "Z51",
+        "seq": 600,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "MOXID",
+        "fixEnd": "BEDES"
+    },
+    {
+        "name": "Z52",
+        "seq": 610,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OLMEN",
+        "fixEnd": "POSAN"
+    },
+    {
+        "name": "Z52",
+        "seq": 620,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "POSAN",
+        "fixEnd": "KAKSO"
+    },
+    {
+        "name": "Z53",
+        "seq": 1,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BITUX",
+        "fixEnd": "TEBEX"
+    },
+    {
+        "name": "Z53",
+        "seq": 2,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TEBEX",
+        "fixEnd": "BASEM"
+    },
+    {
+        "name": "Z55",
+        "seq": 230,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "AGAVO",
+        "fixEnd": "NONOS"
+    },
+    {
+        "name": "Z56",
+        "seq": 1,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KANSU",
+        "fixEnd": "PALDU"
+    },
+    {
+        "name": "Z56",
+        "seq": 2,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PALDU",
+        "fixEnd": "SABET"
+    },
+    {
+        "name": "Z56",
+        "seq": 3,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SABET",
+        "fixEnd": "IGRAS"
+    },
+    {
+        "name": "Z57",
+        "seq": 1,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "RILRO",
+        "fixEnd": "DALPO"
+    },
+    {
+        "name": "Z63",
+        "seq": 640,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PILIT",
+        "fixEnd": "NOMEX"
+    },
+    {
+        "name": "Z81",
+        "seq": 650,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "KIDOS",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "Z82",
+        "seq": 660,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "CJU",
+        "fixEnd": "PANSI"
+    },
+    {
+        "name": "Z83",
+        "seq": 10,
+        "description": "항로",
+        "airwayType": "RNAV",
+        "fixStart": "TGU",
+        "fixEnd": "MASTA"
+    },
+    {
+        "name": "Z83",
+        "seq": 20,
+        "description": "항로",
+        "airwayType": "RNAV",
+        "fixStart": "MASTA",
+        "fixEnd": "SARAM"
+    },
+    {
+        "name": "Z83",
+        "seq": 30,
+        "description": "항로",
+        "airwayType": "RNAV",
+        "fixStart": "SARAM",
+        "fixEnd": "ENGOT"
+    },
+    {
+        "name": "Z83",
+        "seq": 40,
+        "description": "항로",
+        "airwayType": "RNAV",
+        "fixStart": "ENGOT",
+        "fixEnd": "ANROD"
+    },
+    {
+        "name": "Z84",
+        "seq": 1470,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PSN",
+        "fixEnd": "KALEK"
+    },
+    {
+        "name": "Z85",
+        "seq": 10,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BILUM",
+        "fixEnd": "PAPLU"
+    },
+    {
+        "name": "Z85",
+        "seq": 20,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PAPLU",
+        "fixEnd": "RUGMA"
+    },
+    {
+        "name": "Z86",
+        "seq": 1,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BONSO",
+        "fixEnd": "ATOTI"
+    },
+    {
+        "name": "Z91",
+        "seq": 1480,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "PSN",
+        "fixEnd": "INVOK"
+    }
+]
