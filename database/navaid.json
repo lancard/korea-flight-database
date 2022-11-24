@@ -16863,6 +16863,7 @@
     {
         "name": "CHI",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "CHANGHAI VOR",
         "latitude": "N039.16.00.001",
         "longitude": "E122.37.00.001",
@@ -16871,6 +16872,7 @@
     {
         "name": "CHO",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "CHEONGJU VOR",
         "latitude": "N036.43.04.900",
         "longitude": "E127.29.38.700",
@@ -16879,6 +16881,7 @@
     {
         "name": "CJU",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "JEJU VOR",
         "latitude": "N033.23.04.599",
         "longitude": "E126.37.26.798",
@@ -16887,6 +16890,7 @@
     {
         "name": "CUN",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "YECHON VOR",
         "latitude": "N036.37.55.300",
         "longitude": "E128.19.31.499",
@@ -16895,6 +16899,7 @@
     {
         "name": "DDG",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "DANGDONG VOR",
         "latitude": "N040.15.24.001",
         "longitude": "E124.16.59.997",
@@ -16903,6 +16908,7 @@
     {
         "name": "DGC",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "FUKUOKA VOR",
         "latitude": "N033.40.34.183",
         "longitude": "E130.23.22.480",
@@ -16911,6 +16917,7 @@
     {
         "name": "DOC",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "DONGCHONG VOR",
         "latitude": "N035.54.13.600",
         "longitude": "E128.38.29.000",
@@ -16919,6 +16926,7 @@
     {
         "name": "FUE",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "FUKUE VOR",
         "latitude": "N032.40.06.981",
         "longitude": "E128.49.36.249",
@@ -16927,6 +16935,7 @@
     {
         "name": "GK",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "PYONGYANG VOR",
         "latitude": "N039.13.06.500",
         "longitude": "E125.40.32.000",
@@ -16935,6 +16944,7 @@
     {
         "name": "HGS",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "WONJU VOR",
         "latitude": "N037.28.33.000",
         "longitude": "E127.58.30.000",
@@ -16943,6 +16953,7 @@
     {
         "name": "IKE",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "IKISHIMA VOR",
         "latitude": "N033.44.50.969",
         "longitude": "E129.46.36.587",
@@ -16951,6 +16962,7 @@
     {
         "name": "JDG",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "JEDONG VOR",
         "latitude": "N033.23.50.294",
         "longitude": "E126.42.35.376",
@@ -16959,6 +16971,7 @@
     {
         "name": "JWN",
         "navaidType": "VOR",
+        "vorType": "TACAN",
         "description": "JOONGWON VOR",
         "latitude": "N037.01.48.018",
         "longitude": "E127.53.06.026",
@@ -16967,6 +16980,7 @@
     {
         "name": "KAE",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "GANGWON VOR",
         "latitude": "N037.42.01.849",
         "longitude": "E128.45.12.879",
@@ -16975,6 +16989,7 @@
     {
         "name": "KIP",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "GIMPO VOR",
         "latitude": "N037.33.26.952",
         "longitude": "E126.47.31.035",
@@ -16983,6 +16998,7 @@
     {
         "name": "KMH",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "GIMHAE VOR",
         "latitude": "N035.11.56.900",
         "longitude": "E128.56.08.200",
@@ -16991,6 +17007,7 @@
     {
         "name": "KOG",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "KANGNUNG VOR",
         "latitude": "N037.45.31.937",
         "longitude": "E128.57.00.974",
@@ -16999,6 +17016,7 @@
     {
         "name": "KPO",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "POHANG VOR",
         "latitude": "N035.58.37.749",
         "longitude": "E129.28.28.236",
@@ -17007,6 +17025,7 @@
     {
         "name": "KSM",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "SEOUL VOR",
         "latitude": "N037.26.21.817",
         "longitude": "E127.06.27.985",
@@ -17015,6 +17034,7 @@
     {
         "name": "KUZ",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "KUNSAN VOR",
         "latitude": "N035.54.37.129",
         "longitude": "E126.36.40.875",
@@ -17023,6 +17043,7 @@
     {
         "name": "KWA",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "GWANGJU VOR",
         "latitude": "N035.07.34.200",
         "longitude": "E126.48.43.799",
@@ -17031,6 +17052,7 @@
     {
         "name": "KWJ",
         "navaidType": "VOR",
+        "vorType": "TACAN",
         "description": "GWANGJU VOR",
         "latitude": "N035.07.05.998",
         "longitude": "E126.48.30.599",
@@ -17039,6 +17061,7 @@
     {
         "name": "MKP",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "MOKPO VOR",
         "latitude": "N034.45.35.052",
         "longitude": "E126.22.43.823",
@@ -17047,6 +17070,7 @@
     {
         "name": "MUN",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "MUAN VOR",
         "latitude": "N034.58.12.701",
         "longitude": "E126.22.59.998",
@@ -17055,6 +17079,7 @@
     {
         "name": "NCN",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "INCHEON VOR",
         "latitude": "N037.29.41.700",
         "longitude": "E126.25.49.200",
@@ -17063,6 +17088,7 @@
     {
         "name": "NPH",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "NAVY VOR",
         "latitude": "N035.59.10.976",
         "longitude": "E129.24.31.759",
@@ -17071,6 +17097,7 @@
     {
         "name": "PSN",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "PUSAN VOR",
         "latitude": "N035.07.21.379",
         "longitude": "E128.59.58.408",
@@ -17079,6 +17106,7 @@
     {
         "name": "PTK",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "PYONGTAEK VOR",
         "latitude": "N036.58.05.898",
         "longitude": "E127.01.23.836",
@@ -17087,6 +17115,7 @@
     {
         "name": "SAC",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "SACHON VOR",
         "latitude": "N035.05.52.818",
         "longitude": "E128.04.35.860",
@@ -17095,6 +17124,7 @@
     {
         "name": "SAN",
         "navaidType": "VOR",
+        "vorType": "TACAN",
         "description": "SEOSAN VOR",
         "latitude": "N036.42.32.302",
         "longitude": "E126.28.54.575",
@@ -17103,6 +17133,7 @@
     {
         "name": "SEL",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "ANYANG VOR",
         "latitude": "N037.24.49.736",
         "longitude": "E126.55.43.096",
@@ -17111,6 +17142,7 @@
     {
         "name": "SOL",
         "navaidType": "VOR",
+        "vorType": "TACAN",
         "description": "SEOUL TACAN",
         "latitude": "N037.26.21.817",
         "longitude": "E127.06.27.985",
@@ -17119,6 +17151,7 @@
     {
         "name": "SOT",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "SONGTAN VOR",
         "latitude": "N037.05.30.822",
         "longitude": "E127.01.47.134",
@@ -17127,6 +17160,7 @@
     {
         "name": "SWN",
         "navaidType": "VOR",
+        "vorType": "TACAN",
         "description": "SUWON VOR",
         "latitude": "N037.14.23.877",
         "longitude": "E127.00.05.978",
@@ -17135,6 +17169,7 @@
     {
         "name": "TGU",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "DALSEONG VOR",
         "latitude": "N035.48.36.000",
         "longitude": "E128.35.26.998",
@@ -17143,6 +17178,7 @@
     {
         "name": "UJN",
         "navaidType": "VOR",
+        "vorType": "VORTAC",
         "description": "ULJIN VOR",
         "latitude": "N036.46.35.202",
         "longitude": "E129.27.26.899",
@@ -17151,6 +17187,7 @@
     {
         "name": "USN",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "ULSAN VOR",
         "latitude": "N035.35.13.802",
         "longitude": "E129.21.05.329",
@@ -17159,6 +17196,7 @@
     {
         "name": "WNG",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "WANGSAN VOR",
         "latitude": "N037.25.58.601",
         "longitude": "E126.27.01.022",
@@ -17167,6 +17205,7 @@
     {
         "name": "WNJ",
         "navaidType": "VOR",
+        "vorType": "TACAN",
         "description": "WONJU VOR",
         "latitude": "N037.28.33.000",
         "longitude": "E127.58.30.000",
@@ -17175,6 +17214,7 @@
     {
         "name": "XZE",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "IZUMO VOR",
         "latitude": "N035.31.51.943",
         "longitude": "E133.05.37.974",
@@ -17183,6 +17223,7 @@
     {
         "name": "YAG",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "YANGYANG VOR",
         "latitude": "N038.03.48.113",
         "longitude": "E128.39.41.276",
@@ -17191,6 +17232,7 @@
     {
         "name": "YDM",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "YONGDAM VOR",
         "latitude": "N033.30.41.300",
         "longitude": "E126.29.15.300",
@@ -17199,6 +17241,7 @@
     {
         "name": "YJU",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "YANGJU VOR",
         "latitude": "N037.44.52.812",
         "longitude": "E126.59.27.981",
@@ -17207,6 +17250,7 @@
     {
         "name": "YNJ",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "YANJI VOR",
         "latitude": "N042.53.00.002",
         "longitude": "E129.27.05.999",
@@ -17215,6 +17259,7 @@
     {
         "name": "YSU",
         "navaidType": "VOR",
+        "vorType": "VORDME",
         "description": "YEOSU VOR",
         "latitude": "N034.50.34.297",
         "longitude": "E127.37.08.697",
