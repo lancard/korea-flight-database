@@ -6,6 +6,7 @@ const openstreetmap = require('./openstreetmap.js');
 global.aircraftList = require('./database/aircraft.json');
 global.airlineList = require('./database/airline.json');
 global.airportList = require('./database/airport.json');
+global.airwayList = require('./database/airway.json');
 global.navaidList = require('./database/navaid.json');
 global.coastlineList = require('./database/coastline.json');
 
