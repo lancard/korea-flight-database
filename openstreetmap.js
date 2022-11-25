@@ -20,7 +20,7 @@ module.exports = {
             fixToIdMap[e.name] = nodeIndex;
             fileContents.push(`<node id='${nodeIndex}' lat='${e.latitudeDecimal}' lon='${e.longitudeDecimal}'><tag k='aeroway' v='ndb' /><tag k='name' v='${e.name}' /></node>`);
         });
-        navaidList.filter(e => e.navaidType == "FIX").forEach(e => {
+        navaidList.filter(e => e.navaidType == "FIX" && e.isUsedByNavigation).forEach(e => {
             nodeIndex++;
 
             fixToIdMap[e.name] = nodeIndex;

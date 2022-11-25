@@ -15,6 +15,13 @@ function initialize() {
     for (var a = 0; a < navaidList.length; a++) {
         navaidList[a].latitudeDecimal = util.convertMinutesToDecimal(navaidList[a].latitude);
         navaidList[a].longitudeDecimal = util.convertMinutesToDecimal(navaidList[a].longitude);
+
+        for (var b = 0; b < airwayList.length; b++) {
+            if (navaidList[a].name == airwayList[b].fixStart || navaidList[a].name == airwayList[b].fixEnd) {
+                navaidList[a].isUsedByNavigation = true;
+                break;
+            }
+        }
     }
 
     // minutes to decimal conversion
@@ -23,7 +30,7 @@ function initialize() {
         airportList[a].longitudeDecimal = util.convertMinutesToDecimal(airportList[a].longitude);
     }
 
-    // console.log(JSON.stringify(airportList, null, '\t'));
+    // console.log(JSON.stringify(navaidList, null, '\t'));
 }
 
 // ----------------- run -------------------
