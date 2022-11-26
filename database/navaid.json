@@ -1,5 +1,15 @@
 [
     {
+        "name": "LEDUD",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N036.45.39.000",
+        "longitude": "E127.34.08.000",
+        "frequency": "000.000",
+        "airport": "RKTU"
+    },
+    {
         "name": "AD020",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -6285,6 +6295,16 @@
         "description": "FAF",
         "latitude": "N037.59.40.600",
         "longitude": "E128.44.14.900",
+        "frequency": "000.000",
+        "airport": "RKNY"
+    },
+    {
+        "name": "NY000",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FAF",
+        "latitude": "N038.05.45.500",
+        "longitude": "E128.38.00.900",
         "frequency": "000.000",
         "airport": "RKNY"
     },
