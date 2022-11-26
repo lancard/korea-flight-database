@@ -1,4 +1,3 @@
-const dayjs = require('dayjs');
 const fs = require('fs');
 
 module.exports = {
