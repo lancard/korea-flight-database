@@ -7,7 +7,7 @@
 - 루트폴더에 있는 json 파일을 수정 후 build.bat를 실행해주세요.
 
 # 폴더 설명
-- vatsim_sector : 밧심 섹터파일
+- vatsim : 밧심 섹터파일
 - euroscope: 유로스코프 관련 각종 설정(데이터) 파일
 
 # 네이밍룰

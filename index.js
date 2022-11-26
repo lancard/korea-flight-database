@@ -1,64 +1,42 @@
-const fs = require('fs');
-const aircraft = require('./database/aircraft.json');
-const airline = require('./database/airline.json');
-const airport = require('./database/airport.json');
+const util = require('./util.js');
+const euroscope = require('./euroscope.js');
+const sector = require('./sector.js');
+const openstreetmap = require('./openstreetmap.js');
 
-/*
-var a = {};
-airport.forEach(element => {
-    a[element.name] = element;
-});
-console.log(JSON.stringify(a));
-*/
+global.aircraftList = require('./database/aircraft.json');
+global.airlineList = require('./database/airline.json');
+global.airportList = require('./database/airport.json');
+global.airwayList = require('./database/airway.json');
+global.navaidList = require('./database/navaid.json');
+global.coastlineList = require('./database/coastline.json');
 
-const euroscope = {
-    createEuroscopeAircraftFile() {
-        let fileContent = [];
+function initialize() {
+    // minutes to decimal conversion
+    for (var a = 0; a < navaidList.length; a++) {
+        navaidList[a].latitudeDecimal = util.convertMinutesToDecimal(navaidList[a].latitude);
+        navaidList[a].longitudeDecimal = util.convertMinutesToDecimal(navaidList[a].longitude);
 
-        for (const object in aircraft) {
-            fileContent.push(
-                [
-                    object,
-                    aircraft[object].aircraftType[0] + aircraft[object].wakeTurbulenceCategory[0] + aircraft[object].engineCount[0] + aircraft[object].engineType[0],
-                    aircraft[object].manufacturer,
-                    aircraft[object].description
-                ].join("\t"))
+        for (var b = 0; b < airwayList.length; b++) {
+            if (navaidList[a].name == airwayList[b].fixStart || navaidList[a].name == airwayList[b].fixEnd) {
+                navaidList[a].isUsedByNavigation = true;
+                break;
+            }
         }
-
-        fs.writeFileSync('euroscope/ICAO_aircraft.txt', fileContent.join("\n"));
-    },
-    createEuroscopeAirlineFile() {
-        let fileContent = [];
-
-        for (const object in airline) {
-            fileContent.push(
-                [
-                    object,
-                    airline[object],
-                    airline[object]
-                ].join("\t"))
-        }
-
-        fs.writeFileSync('euroscope/ICAO_airline.txt', fileContent.join("\n"));
-    },
-    createEuroscopeAirportFile() {
-        let fileContent = [];
-
-        for (const object in airport) {
-            fileContent.push(
-                [
-                    airport[object].name,
-                    airport[object].description,
-                    airport[object].country
-                ].join("\t"))
-        }
-
-        fs.writeFileSync('euroscope/ICAO_airport.txt', fileContent.join("\n"));
     }
-};
 
+    // minutes to decimal conversion
+    for (var a in airportList) {
+        airportList[a].latitudeDecimal = util.convertMinutesToDecimal(airportList[a].latitude);
+        airportList[a].longitudeDecimal = util.convertMinutesToDecimal(airportList[a].longitude);
+    }
+
+    // console.log(JSON.stringify(navaidList, null, '\t'));
+}
 
 // ----------------- run -------------------
+initialize();
+sector.generateSectorFile();
 euroscope.createEuroscopeAircraftFile();
 euroscope.createEuroscopeAirlineFile();
 euroscope.createEuroscopeAirportFile();
+openstreetmap.generateOpenstreetmap();
