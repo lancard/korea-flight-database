@@ -1,5 +1,15 @@
 [
     {
+        "name": "LEDUD",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N036.45.39.000",
+        "longitude": "E127.34.08.000",
+        "frequency": "000.000",
+        "airport": "RKTU"
+    },
+    {
         "name": "AD020",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
