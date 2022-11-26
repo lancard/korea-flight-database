@@ -17,14 +17,19 @@ function initialize() {
         navaidList[a].latitudeDecimal = util.convertMinutesToDecimal(navaidList[a].latitude);
         navaidList[a].longitudeDecimal = util.convertMinutesToDecimal(navaidList[a].longitude);
 
-        // minutes to decimal conversion
-        for (var a in airportList) {
-            airportList[a].latitudeDecimal = util.convertMinutesToDecimal(airportList[a].latitude);
-            airportList[a].longitudeDecimal = util.convertMinutesToDecimal(airportList[a].longitude);
+        for (var b = 0; b < airwayList.length; b++) {
+            if (airwayList[b].fixStart == navaidList[a].name || airwayList[b].fixEnd == navaidList[a].name) {
+                navaidList[a].isUsedByNavigation = true;
+            }
         }
-
-        // console.log(JSON.stringify(navaidList, null, '\t'));
     }
+
+    // minutes to decimal conversion
+    for (var a in airportList) {
+        airportList[a].latitudeDecimal = util.convertMinutesToDecimal(airportList[a].latitude);
+        airportList[a].longitudeDecimal = util.convertMinutesToDecimal(airportList[a].longitude);
+    }
+    // console.log(JSON.stringify(navaidList, null, '\t'));
 }
 
 // ----------------- run -------------------
