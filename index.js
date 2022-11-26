@@ -10,6 +10,7 @@ global.airportList = require('./database/airport.json');
 global.airwayList = require('./database/airway.json');
 global.navaidList = require('./database/navaid.json');
 global.coastlineList = require('./database/coastline.json');
+global.procedureList = require('./database/procedure.json');
 
 function initialize() {
     // minutes to decimal conversion
@@ -17,8 +18,16 @@ function initialize() {
         navaidList[a].latitudeDecimal = util.convertMinutesToDecimal(navaidList[a].latitude);
         navaidList[a].longitudeDecimal = util.convertMinutesToDecimal(navaidList[a].longitude);
 
+        // check used marker by airways
         for (var b = 0; b < airwayList.length; b++) {
             if (airwayList[b].fixStart == navaidList[a].name || airwayList[b].fixEnd == navaidList[a].name) {
+                navaidList[a].isUsedByNavigation = true;
+            }
+        }
+
+        // check used marker by sid / star / approach and transitions
+        for (var b = 0; b < procedureList.procedureDetail.length; b++) {
+            if (procedureList.procedureDetail[b].fix == navaidList[a].name) {
                 navaidList[a].isUsedByNavigation = true;
             }
         }
