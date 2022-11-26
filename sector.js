@@ -91,6 +91,15 @@ module.exports = {
 
         return ret.join("\n");
     },
+    getFix() {
+        var ret = [];
+
+        navaidList.filter(e => e.navaidType == "FIX" && e.isUsedByNavigation).forEach(e => {
+            ret.push(`${e.name} ${e.latitude} ${e.longitude}`);
+        });
+
+        return ret.join("\n");
+    },
     getAirport() {
         var ret = [];
 
@@ -115,6 +124,9 @@ module.exports = {
 
         contents += "\n\n[NDB]\n";
         contents += this.getNdb();
+
+        contents += "\n\n[FIXES]\n";
+        contents += this.getFix();
 
         contents += "\n\n[AIRPORT]\n";
         contents += this.getAirport();
