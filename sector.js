@@ -1,4 +1,5 @@
 const fs = require('fs');
+const util = require('./util.js');
 
 module.exports = {
     initialize() {
@@ -113,6 +114,32 @@ module.exports = {
 
         return ret.join("\n");
     },
+    getRunway() {
+        var ret = [];
+
+        for (const runway in runwayList) {
+            var bearing = util.calculateBearing(
+                runwayList[runway].startLatitudeDecimal,
+                runwayList[runway].startLongitudeDecimal,
+                runwayList[runway].endLatitudeDecimal,
+                runwayList[runway].endLongitudeDecimal
+            )
+            var oppositeBearing = util.calculateBearing(
+                runwayList[runway].endLatitudeDecimal,
+                runwayList[runway].endLongitudeDecimal,
+                runwayList[runway].startLatitudeDecimal,
+                runwayList[runway].startLongitudeDecimal
+            )
+
+            // magnetic variation
+            bearing = +bearing.toFixed(0) + 7;
+            oppositeBearing = +oppositeBearing.toFixed(0) + 7;
+
+            ret.push(`${runwayList[runway].runway} ${runwayList[runway].oppositeRunway} ${bearing} ${oppositeBearing} ${runwayList[runway].startLatitude} ${runwayList[runway].startLongitude} ${runwayList[runway].endLatitude} ${runwayList[runway].endLongitude} ${runwayList[runway].airport}`);
+        }
+
+        return ret.join("\n");
+    },
     generateSectorFile() {
         var contents = "";
 
@@ -135,6 +162,8 @@ module.exports = {
         contents += "\n\n[AIRPORT]\n";
         contents += this.getAirport();
 
+        contents += "\n\n[RUNWAY]\n";
+        contents += this.getRunway();
 
         contents += "\n\n[GEO]\n";
         contents += this.getGeo();

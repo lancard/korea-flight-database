@@ -11,6 +11,7 @@ global.airlineList = require('./database/airline.json');
 global.airportList = require('./database/airport.json');
 global.airwayList = require('./database/airway.json');
 global.navaidList = require('./database/navaid.json');
+global.runwayList = require('./database/runway.json');
 global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
 
@@ -44,6 +45,15 @@ function initialize() {
         airportList[a].latitudeDecimal = util.convertMinutesToDecimal(airportList[a].latitude);
         airportList[a].longitudeDecimal = util.convertMinutesToDecimal(airportList[a].longitude);
     }
+
+    // minutes to decimal conversion
+    for (var r in runwayList) {
+        runwayList[r].startLatitudeDecimal = util.convertMinutesToDecimal(runwayList[r].startLatitude);
+        runwayList[r].startLongitudeDecimal = util.convertMinutesToDecimal(runwayList[r].startLongitude);
+        runwayList[r].endLatitudeDecimal = util.convertMinutesToDecimal(runwayList[r].endLatitude);
+        runwayList[r].endLongitudeDecimal = util.convertMinutesToDecimal(runwayList[r].endLongitude);
+    }
+    
     // console.log(JSON.stringify(navaidList, null, '\t'));
 }
 
