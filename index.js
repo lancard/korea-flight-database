@@ -1,4 +1,6 @@
 const fs = require('fs');
+const dayjs = require('dayjs');
+
 const util = require('./util.js');
 const euroscope = require('./euroscope.js');
 const sector = require('./sector.js');
@@ -13,6 +15,10 @@ global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
 
 function initialize() {
+    // get last version (git)
+    global.gitHeadVersion = fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(" ")[1];
+    global.gitHeadDateTime = dayjs.unix(fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(">")[1].split("\t")[0].trim().split(" ")[0]);
+
     // minutes to decimal conversion
     for (var a = 0; a < navaidList.length; a++) {
         navaidList[a].latitudeDecimal = util.convertMinutesToDecimal(navaidList[a].latitude);

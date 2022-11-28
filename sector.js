@@ -1,4 +1,3 @@
-const dayjs = require('dayjs');
 const fs = require('fs');
 
 module.exports = {
@@ -54,8 +53,8 @@ module.exports = {
             "#define Test-Yellow 65535\n"
     },
     getInfo() {
-        return `Incheon vACC (${dayjs().format("YYYYMMDD_HHmmss")})\n` +
-            `RKRR_A_CTR (${dayjs().format("YYYYMMDD_HHmmss")})\n` +
+        return `Incheon vACC (${gitHeadDateTime.format("YYYYMMDD_HHmmss")})\n` +
+            `RKRR_A_CTR (${gitHeadDateTime.format("YYYYMMDD_HHmmss")})\n` +
             `RKSI\n` +
             `N037.28.08.669\n` +
             `E126.27.01.861\n` +
