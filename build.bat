@@ -1,5 +1,5 @@
 mkdir vatsim
 mkdir openstreetmap
 mkdir euroscope
-npm update
+cmd /c npm install
 node index.js

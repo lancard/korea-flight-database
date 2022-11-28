@@ -36,7 +36,7 @@ module.exports = {
         for (const airport in airportList) {
             fileContent.push(
                 [
-                    airportList[airport].name,
+                    airportList[airport].icaoCode,
                     airportList[airport].description,
                     airportList[airport].country
                 ].join("\t"))
