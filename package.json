@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "dayjs": "^1.11.6"
+    "dayjs": "^1.11.6",
+    "download-file-sync": "^1.0.4"
   }
 }

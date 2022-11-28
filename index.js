@@ -1,5 +1,7 @@
 const fs = require('fs');
 const dayjs = require('dayjs');
+const path = require('path');
+const downloadFileSync = require('download-file-sync');
 
 const util = require('./util.js');
 const euroscope = require('./euroscope.js');
@@ -15,7 +17,20 @@ global.runwayList = require('./database/runway.json');
 global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
 
+function downloadExternalDatabase(url) {
+    if (!fs.existsSync('external')) {
+        fs.mkdirSync('external');
+    }
+
+    var filename = path.basename(url);
+
+    fs.writeFileSync("external/" + filename, downloadFileSync(url));
+}
+
 function initialize() {
+    // download external database
+    downloadExternalDatabase("https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/master/Boundaries.geojson");
+
     // get last version (git)
     global.gitHeadVersion = fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(" ")[1];
     global.gitHeadDateTime = dayjs.unix(fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(">")[1].split("\t")[0].trim().split(" ")[0]);
@@ -53,7 +68,7 @@ function initialize() {
         runwayList[r].endLatitudeDecimal = util.convertMinutesToDecimal(runwayList[r].endLatitude);
         runwayList[r].endLongitudeDecimal = util.convertMinutesToDecimal(runwayList[r].endLongitude);
     }
-    
+
     // console.log(JSON.stringify(navaidList, null, '\t'));
 }
 
