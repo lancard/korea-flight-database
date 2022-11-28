@@ -103,7 +103,7 @@ module.exports = {
         var ret = [];
 
         for (const airport in airportList) {
-            ret.push(`${airportList[airport].name} 000.000 ${airportList[airport].latitude} ${airportList[airport].longitude} C`);
+            ret.push(`${airportList[airport].icaoCode} 000.000 ${airportList[airport].latitude} ${airportList[airport].longitude} C`);
         }
 
         return ret.join("\n");
