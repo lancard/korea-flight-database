@@ -10,7 +10,6 @@ jobs:
       - image: cimg/node:16.10
     steps:
       - checkout
-      - gh/install
       - run:
           name: Package install
           command: npm install
@@ -24,4 +23,14 @@ jobs:
 workflows:
   build-and-release:
     jobs:
-      - build-resources
+      - gh/release:
+          context:
+            - GITHUB_CREDS
+          filters:
+            branches:
+              only:
+                - main
+          notes-file: changelog.md
+          tag: 1.0.0
+          title: The initial release
+   
