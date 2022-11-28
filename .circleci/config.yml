@@ -17,7 +17,7 @@ jobs:
           command: node index.js
       - run:
           name: Check generated files
-          command: ls -alh
+          command: ls -alhR
 
 workflows:
   build-and-release:
@@ -26,6 +26,6 @@ workflows:
       - gh/release:
           tag: 1.0.0
           title: release resources
-          files: ./vatsim/*
+          files: ./vatsim/sector.sct2
           requires: 
             - build-resources
