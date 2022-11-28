@@ -17,7 +17,7 @@ jobs:
           command: node index.js
       - run:
           name: Check generated files
-          command: ls -alhR
+          command: pwd
 
 workflows:
   build-and-release:
