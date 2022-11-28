@@ -3,6 +3,7 @@
 
 # Euroscope 및 VATSIM용 빌드 절차
 - 먼저 node.js 를 설치해주세요.
+- npm install dayjs 실행
 - build.bat 를 실행하면 전체 파일이 컴파일됩니다.
 - 루트폴더에 있는 json 파일을 수정 후 build.bat를 실행해주세요.
 
