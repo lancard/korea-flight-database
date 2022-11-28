@@ -18,7 +18,7 @@ jobs:
       - gh/setup
       - run:
           name: Release Resources
-          command: VERSION_STRING=`date +"1.%Y%m%d.1%H%M%S"` && gh release create $VERSION_STRING vatsim/sector.sct2
+          command: VERSION_STRING=`date +"1.%Y%m%d.1%H%M%S"` && gh release create $VERSION_STRING vatsim/* openstreetmap/* euroscope/*
 
 workflows:
   build-and-release:
