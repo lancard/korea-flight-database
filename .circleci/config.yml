@@ -2,12 +2,15 @@ version: 2.1
 
 orbs:
   gh: circleci/github-cli@2.1.1
+  discord: teka23/discord@0.0.1
 
 jobs:
   build-resources:
     docker:
       - image: cimg/node:current
     steps:
+      - discord/notify:
+          message: test          
       - checkout
       - run:
           name: Package install
