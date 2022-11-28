@@ -23,6 +23,7 @@ jobs:
 workflows:
   build-and-release:
     jobs:
+      - build-resources
       - gh/release:
           notes-file: changelog.md
           tag: 1.0.0
@@ -35,4 +36,3 @@ workflows:
             branches:
               only:
                 - main
-      - build-resources
