@@ -1,6 +1,11 @@
 const fs = require('fs');
 
 module.exports = {
+    initialize() {
+        if (!fs.existsSync('openstreetmap')) {
+            fs.mkdirSync('openstreetmap');
+        }
+    },
     generateOpenstreetmap() {
         var nodeIndex = 140000;
         var wayIndex = 540000;
@@ -29,7 +34,7 @@ module.exports = {
         airwayList.forEach(e => {
             wayIndex++;
 
-            if(!fixToIdMap[e.fixStart] || !fixToIdMap[e.fixEnd]) {
+            if (!fixToIdMap[e.fixStart] || !fixToIdMap[e.fixEnd]) {
                 console.dir(`airway fix not exist: ${e.fixStart} / ${e.fixEnd}`);
             }
 

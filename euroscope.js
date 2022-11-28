@@ -1,6 +1,11 @@
 const fs = require('fs');
 
 module.exports = {
+    initialize() {
+        if (!fs.existsSync('euroscope')) {
+            fs.mkdirSync('euroscope');
+        }
+    },
     createEuroscopeAircraftFile() {
         let fileContent = [];
 

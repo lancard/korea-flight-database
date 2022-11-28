@@ -49,8 +49,14 @@ function initialize() {
 
 // ----------------- run -------------------
 initialize();
+
+sector.initialize();
 sector.generateSectorFile();
+
+euroscope.initialize();
 euroscope.createEuroscopeAircraftFile();
 euroscope.createEuroscopeAirlineFile();
 euroscope.createEuroscopeAirportFile();
+
+openstreetmap.initialize();
 openstreetmap.generateOpenstreetmap();

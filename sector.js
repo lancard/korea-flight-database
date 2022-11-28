@@ -1,6 +1,11 @@
 const fs = require('fs');
 
 module.exports = {
+    initialize() {
+        if (!fs.existsSync('vatsim')) {
+            fs.mkdirSync('vatsim');
+        }
+    },
     getLicenseAndComment() {
         return "; Korea RKRR FIR ACC - All right reserved, VATSIM Korea division\n" +
             "; \n" +
