@@ -1,0 +1,533 @@
+[
+    {
+        "runway": "15L",
+        "oppositeRunway": "33R",
+        "startLatitude": "N037.29.02.200",
+        "startLongitude": "E126.26.24.560",
+        "endLatitude": "N037.27.22.970",
+        "endLongitude": "E126.27.52.820",
+        "airport": "RKSI"
+    },
+    {
+        "runway": "15R",
+        "oppositeRunway": "33L",
+        "startLatitude": "N037.28.54.440",
+        "startLongitude": "E126.26.10.820",
+        "endLatitude": "N037.27.15.210",
+        "endLongitude": "E126.27.39.080",
+        "airport": "RKSI"
+    },
+    {
+        "runway": "16L",
+        "oppositeRunway": "34R",
+        "startLatitude": "N037.28.22.110",
+        "startLongitude": "E126.24.56.050",
+        "endLatitude": "N037.26.36.290",
+        "endLongitude": "E126.26.30.210",
+        "airport": "RKSI"
+    },
+    {
+        "runway": "16R",
+        "oppositeRunway": "34L",
+        "startLatitude": "N037.28.07.387",
+        "startLongitude": "E126.24.48.342",
+        "endLatitude": "N037.26.28.446",
+        "endLongitude": "E126.26.16.338",
+        "airport": "RKSI"
+    },
+    {
+        "runway": "01",
+        "oppositeRunway": "19",
+        "startLatitude": "N039.13.37.591",
+        "startLongitude": "E125.40.32.170",
+        "endLatitude": "N039.15.47.101",
+        "endLongitude": "E125.40.34.603",
+        "airport": "ZKPY"
+    },
+    {
+        "runway": "17",
+        "oppositeRunway": "35",
+        "startLatitude": "N039.13.13.498",
+        "startLongitude": "E125.39.51.808",
+        "endLatitude": "N039.11.27.137",
+        "endLongitude": "E125.40.33.707",
+        "airport": "ZKPY"
+    },
+    {
+        "runway": "02",
+        "oppositeRunway": "20",
+        "startLatitude": "N039.09.30.115",
+        "startLongitude": "E127.28.57.509",
+        "endLatitude": "N039.09.46.272",
+        "endLongitude": "E127.29.00.634",
+        "airport": "ZKWS"
+    },
+    {
+        "runway": "15L",
+        "oppositeRunway": "33R",
+        "startLatitude": "N039.10.42.589",
+        "startLongitude": "E127.28.38.109",
+        "endLatitude": "N039.09.07.110",
+        "endLongitude": "E127.29.56.711",
+        "airport": "ZKWS"
+    },
+    {
+        "runway": "15R",
+        "oppositeRunway": "33L",
+        "startLatitude": "N039.10.33.811",
+        "startLongitude": "E127.28.34.980",
+        "endLatitude": "N039.09.08.608",
+        "endLongitude": "E127.29.45.107",
+        "airport": "ZKWS"
+    },
+    {
+        "runway": "14L",
+        "oppositeRunway": "32R",
+        "startLatitude": "N037.34.14.704",
+        "startLongitude": "E126.46.41.694",
+        "endLatitude": "N037.32.51.918",
+        "endLongitude": "E126.48.25.529",
+        "airport": "RKSS"
+    },
+    {
+        "runway": "14R",
+        "oppositeRunway": "32L",
+        "startLatitude": "N037.34.06.457",
+        "startLongitude": "E126.46.31.344",
+        "endLatitude": "N037.32.52.928",
+        "endLongitude": "E126.48.03.699",
+        "airport": "RKSS"
+    },
+    {
+        "runway": "07",
+        "oppositeRunway": "25",
+        "startLatitude": "N033.29.59.572",
+        "startLongitude": "E126.28.06.499",
+        "endLatitude": "N033.30.53.561",
+        "endLongitude": "E126.29.51.511",
+        "airport": "RKPC"
+    },
+    {
+        "runway": "13",
+        "oppositeRunway": "31",
+        "startLatitude": "N033.30.55.660",
+        "startLongitude": "E126.29.14.618",
+        "endLatitude": "N033.30.27.511",
+        "endLongitude": "E126.30.01.508",
+        "airport": "RKPC"
+    },
+    {
+        "runway": "36L",
+        "oppositeRunway": "18R",
+        "startLatitude": "N035.09.54.657",
+        "startLongitude": "E128.56.19.737",
+        "endLatitude": "N035.11.38.023",
+        "endLongitude": "E128.56.06.469",
+        "airport": "RKPK"
+    },
+    {
+        "runway": "36R",
+        "oppositeRunway": "18L",
+        "startLatitude": "N035.10.10.106",
+        "startLongitude": "E128.56.26.058",
+        "endLatitude": "N035.11.38.735",
+        "endLongitude": "E128.56.14.616",
+        "airport": "RKPK"
+    },
+    {
+        "runway": "06L",
+        "oppositeRunway": "24R",
+        "startLatitude": "N035.04.55.976",
+        "startLongitude": "E128.03.24.891",
+        "endLatitude": "N035.05.46.038",
+        "endLongitude": "E128.04.54.061",
+        "airport": "RKPS"
+    },
+    {
+        "runway": "06R",
+        "oppositeRunway": "24L",
+        "startLatitude": "N035.04.51.890",
+        "startLongitude": "E128.03.34.903",
+        "endLatitude": "N035.05.43.051",
+        "endLongitude": "E128.05.04.105",
+        "airport": "RKPS"
+    },
+    {
+        "runway": "36",
+        "oppositeRunway": "18",
+        "startLatitude": "N035.35.04.215",
+        "startLongitude": "E129.21.08.837",
+        "endLatitude": "N035.36.08.414",
+        "endLongitude": "E129.21.03.598",
+        "airport": "RKPU"
+    },
+    {
+        "runway": "01",
+        "oppositeRunway": "19",
+        "startLatitude": "N033.22.58.454",
+        "startLongitude": "E126.42.41.737",
+        "endLatitude": "N033.24.13.078",
+        "endLongitude": "E126.42.41.379",
+        "airport": "RKPD"
+    },
+    {
+        "runway": "15",
+        "oppositeRunway": "33",
+        "startLatitude": "N033.23.34.200",
+        "startLongitude": "E126.43.03.543",
+        "endLatitude": "N033.24.13.573",
+        "endLongitude": "E126.42.27.179",
+        "airport": "RKPD"
+    },
+    {
+        "runway": "01",
+        "oppositeRunway": "19",
+        "startLatitude": "N037.26.02.994",
+        "startLongitude": "E127.06.53.864",
+        "endLatitude": "N037.27.31.421",
+        "endLongitude": "E127.06.57.115",
+        "airport": "RKSM"
+    },
+    {
+        "runway": "02",
+        "oppositeRunway": "20",
+        "startLatitude": "N037.25.57.010",
+        "startLongitude": "E127.06.38.504",
+        "endLatitude": "N037.27.31.393",
+        "endLongitude": "E127.06.55.306",
+        "airport": "RKSM"
+    },
+    {
+        "runway": "09L",
+        "oppositeRunway": "27R",
+        "startLatitude": "N037.05.28.335",
+        "startLongitude": "E127.00.50.380",
+        "endLatitude": "N037.05.37.516",
+        "endLongitude": "E127.02.40.844",
+        "airport": "RKSO"
+    },
+    {
+        "runway": "09R",
+        "oppositeRunway": "27L",
+        "startLatitude": "N037.05.21.620",
+        "startLongitude": "E127.00.51.270",
+        "endLatitude": "N037.05.30.820",
+        "endLongitude": "E127.02.41.800",
+        "airport": "RKSO"
+    },
+    {
+        "runway": "01",
+        "oppositeRunway": "19",
+        "startLatitude": "N034.58.43.618",
+        "startLongitude": "E126.22.58.294",
+        "endLatitude": "N035.00.14.348",
+        "endLongitude": "E126.22.57.670",
+        "airport": "RKJB"
+    },
+    {
+        "runway": "04L",
+        "oppositeRunway": "22R",
+        "startLatitude": "N035.06.56.239",
+        "startLongitude": "E126.48.00.850",
+        "endLatitude": "N035.08.15.950",
+        "endLongitude": "E126.48.56.700",
+        "airport": "RKJJ"
+    },
+    {
+        "runway": "04R",
+        "oppositeRunway": "22L",
+        "startLatitude": "N035.06.53.111",
+        "startLongitude": "E126.48.07.470",
+        "endLatitude": "N035.08.12.818",
+        "endLongitude": "E126.49.03.320",
+        "airport": "RKJJ"
+    },
+    {
+        "runway": "18",
+        "oppositeRunway": "36",
+        "startLatitude": "N035.54.57.344",
+        "startLongitude": "E126.36.46.792",
+        "endLatitude": "N035.53.29.614",
+        "endLongitude": "E126.37.07.670",
+        "airport": "RKJK"
+    },
+    {
+        "runway": "06",
+        "oppositeRunway": "24",
+        "startLatitude": "N034.45.15.101",
+        "startLongitude": "E126.22.24.713",
+        "endLatitude": "N034.45.48.229",
+        "endLongitude": "E126.23.12.894",
+        "airport": "RKJM"
+    },
+    {
+        "runway": "17",
+        "oppositeRunway": "35",
+        "startLatitude": "N034.51.03.674",
+        "startLongitude": "E127.36.46.274",
+        "endLatitude": "N034.50.00.558",
+        "endLongitude": "E127.37.17.227",
+        "airport": "RKJY"
+    },
+    {
+        "runway": "05",
+        "oppositeRunway": "23",
+        "startLatitude": "N038.09.11.408",
+        "startLongitude": "E128.36.22.644",
+        "endLatitude": "N038.08.31.233",
+        "endLongitude": "E128.35.40.491",
+        "airport": "RKND"
+    },
+    {
+        "runway": "08",
+        "oppositeRunway": "26",
+        "startLatitude": "N037.44.57.023",
+        "startLongitude": "E128.55.49.970",
+        "endLatitude": "N037.45.29.908",
+        "endLongitude": "E128.57.33.667",
+        "airport": "RKNN"
+    },
+    {
+        "runway": "03",
+        "oppositeRunway": "21",
+        "startLatitude": "N037.25.37.128",
+        "startLongitude": "E127.57.12.864",
+        "endLatitude": "N037.26.56.304",
+        "endLongitude": "E127.58.01.821",
+        "airport": "RKNW"
+    },
+    {
+        "runway": "15",
+        "oppositeRunway": "33",
+        "startLatitude": "N038.04.12.035",
+        "startLongitude": "E128.39.36.720",
+        "endLatitude": "N038.03.09.450",
+        "endLongitude": "E128.40.41.164",
+        "airport": "RKNY"
+    },
+    {
+        "runway": "15",
+        "oppositeRunway": "33",
+        "startLatitude": "N036.35.54.561",
+        "startLongitude": "E126.17.36.036",
+        "endLatitude": "N036.35.21.552",
+        "endLongitude": "E126.17.59.426",
+        "airport": "RKTA"
+    },
+    {
+        "runway": "10",
+        "oppositeRunway": "28",
+        "startLatitude": "N035.59.16.230",
+        "startLongitude": "E129.24.31.262",
+        "endLatitude": "N035.59.16.989",
+        "endLongitude": "E129.25.55.724",
+        "airport": "RKTH"
+    },
+    {
+        "runway": "36L",
+        "oppositeRunway": "18R",
+        "startLatitude": "N037.01.04.648",
+        "startLongitude": "E127.52.53.502",
+        "endLatitude": "N037.02.35.773",
+        "endLongitude": "E127.52.43.379",
+        "airport": "RKTI"
+    },
+    {
+        "runway": "36R",
+        "oppositeRunway": "18L",
+        "startLatitude": "N037.01.05.624",
+        "startLongitude": "E127.53.00.191",
+        "endLatitude": "N037.02.33.697",
+        "endLongitude": "E127.52.50.755",
+        "airport": "RKTI"
+    },
+    {
+        "runway": "17",
+        "oppositeRunway": "35",
+        "startLatitude": "N036.47.05.090",
+        "startLongitude": "E129.27.31.620",
+        "endLatitude": "N036.46.09.328",
+        "endLongitude": "E129.27.53.200",
+        "airport": "RKTL"
+    },
+    {
+        "runway": "13L",
+        "oppositeRunway": "31R",
+        "startLatitude": "N035.54.05.332",
+        "startLongitude": "E128.38.48.395",
+        "endLatitude": "N035.53.15.327",
+        "endLongitude": "E128.40.18.847",
+        "airport": "RKTN"
+    },
+    {
+        "runway": "13R",
+        "oppositeRunway": "31L",
+        "startLatitude": "N035.54.02.110",
+        "startLongitude": "E128.38.45.377",
+        "endLatitude": "N035.53.11.978",
+        "endLongitude": "E128.40.15.761",
+        "airport": "RKTN"
+    },
+    {
+        "runway": "03L",
+        "oppositeRunway": "21R",
+        "startLatitude": "N036.41.42.249",
+        "startLongitude": "E126.28.21.961",
+        "endLatitude": "N036.42.49.702",
+        "endLongitude": "E126.28.59.817",
+        "airport": "RKTP"
+    },
+    {
+        "runway": "03R",
+        "oppositeRunway": "21L",
+        "startLatitude": "N036.41.40.301",
+        "startLongitude": "E126.28.28.208",
+        "endLatitude": "N036.42.48.727",
+        "endLongitude": "E126.29.05.897",
+        "airport": "RKTP"
+    },
+    {
+        "runway": "06L",
+        "oppositeRunway": "24R",
+        "startLatitude": "N036.42.36.100",
+        "startLongitude": "E127.29.12.460",
+        "endLatitude": "N036.43.30.380",
+        "endLongitude": "E127.30.40.050",
+        "airport": "RKTU"
+    },
+    {
+        "runway": "06R",
+        "oppositeRunway": "24L",
+        "startLatitude": "N036.42.28.260",
+        "startLongitude": "E127.29.14.840",
+        "endLatitude": "N036.43.22.530",
+        "endLongitude": "E127.30.42.460",
+        "airport": "RKTU"
+    },
+    {
+        "runway": "10",
+        "oppositeRunway": "28",
+        "startLatitude": "N036.37.53.667",
+        "startLongitude": "E128.20.23.330",
+        "endLatitude": "N036.37.54.845",
+        "endLongitude": "E128.22.13.102",
+        "airport": "RKTY"
+    },
+    {
+        "runway": "16L",
+        "oppositeRunway": "34R",
+        "startLatitude": "N035.48.09.768",
+        "startLongitude": "E140.22.47.658",
+        "endLatitude": "N035.47.08.820",
+        "endLongitude": "E140.23.31.720",
+        "airport": "RJAA"
+    },
+    {
+        "runway": "16R",
+        "oppositeRunway": "34L",
+        "startLatitude": "N035.46.27.799",
+        "startLongitude": "E140.22.05.848",
+        "endLatitude": "N035.44.35.960",
+        "endLongitude": "E140.23.26.659",
+        "airport": "RJAA"
+    },
+    {
+        "runway": "06L",
+        "oppositeRunway": "24R",
+        "startLatitude": "N034.25.42.858",
+        "startLongitude": "E135.12.22.331",
+        "endLatitude": "N034.27.04.577",
+        "endLongitude": "E135.14.24.078",
+        "airport": "RJBB"
+    },
+    {
+        "runway": "06R",
+        "oppositeRunway": "24L",
+        "startLatitude": "N034.25.02.560",
+        "startLongitude": "E135.13.45.400",
+        "endLatitude": "N034.26.14.038",
+        "endLongitude": "E135.15.31.920",
+        "airport": "RJBB"
+    },
+    {
+        "runway": "01L",
+        "oppositeRunway": "19R",
+        "startLatitude": "N042.45.41.900",
+        "startLongitude": "E141.41.34.168",
+        "endLatitude": "N042.47.18.359",
+        "endLongitude": "E141.41.17.178",
+        "airport": "RJCC"
+    },
+    {
+        "runway": "01R",
+        "oppositeRunway": "19L",
+        "startLatitude": "N042.45.43.150",
+        "startLongitude": "E141.41.47.250",
+        "endLatitude": "N042.47.19.560",
+        "endLongitude": "E141.41.30.280",
+        "airport": "RJCC"
+    },
+    {
+        "runway": "16",
+        "oppositeRunway": "34",
+        "startLatitude": "N033.35.48.910",
+        "startLongitude": "E130.26.35.470",
+        "endLatitude": "N033.34.29.880",
+        "endLongitude": "E130.27.29.469",
+        "airport": "RJFF"
+    },
+    {
+        "runway": "14L",
+        "oppositeRunway": "32R",
+        "startLatitude": "N034.47.42.968",
+        "startLongitude": "E135.25.43.270",
+        "endLatitude": "N034.47.01.020",
+        "endLongitude": "E135.26.34.110",
+        "airport": "RJOO"
+    },
+    {
+        "runway": "14R",
+        "oppositeRunway": "32L",
+        "startLatitude": "N034.47.28.770",
+        "startLongitude": "E135.25.43.338",
+        "endLatitude": "N034.46.19.919",
+        "endLongitude": "E135.27.06.760",
+        "airport": "RJOO"
+    },
+    {
+        "runway": "04",
+        "oppositeRunway": "22",
+        "startLatitude": "N035.32.56.470",
+        "startLongitude": "E139.45.40.599",
+        "endLatitude": "N035.34.02.880",
+        "endLongitude": "E139.46.37.610",
+        "airport": "RJTT"
+    },
+    {
+        "runway": "05",
+        "oppositeRunway": "23",
+        "startLatitude": "N035.31.26.410",
+        "startLongitude": "E139.48.12.470",
+        "endLatitude": "N035.32.26.150",
+        "endLongitude": "E139.49.19.609",
+        "airport": "RJTT"
+    },
+    {
+        "runway": "16L",
+        "oppositeRunway": "34R",
+        "startLatitude": "N035.33.57.229",
+        "startLongitude": "E139.47.11.590",
+        "endLatitude": "N035.32.33.020",
+        "endLongitude": "E139.48.11.339",
+        "airport": "RJTT"
+    },
+    {
+        "runway": "16R",
+        "oppositeRunway": "34L",
+        "startLatitude": "N035.33.35.949",
+        "startLongitude": "E139.46.08.640",
+        "endLatitude": "N035.32.11.757",
+        "endLongitude": "E139.47.08.409",
+        "airport": "RJTT"
+    }
+]
