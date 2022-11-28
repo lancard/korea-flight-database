@@ -1,8 +1,5 @@
 version: 2.1
 
-orbs:
-  gh: circleci/github-cli@2.1.1
-
 jobs:
   build-resources:
     docker:
@@ -17,15 +14,9 @@ jobs:
           command: node index.js
       - run:
           name: Check generated files
-          command: pwd
+          command: gh 
 
 workflows:
   build-and-release:
     jobs:
       - build-resources
-      - gh/release:
-          tag: 1.0.0
-          title: release resources
-          files: /home/circleci/project/vatsim/sector.sct2
-          requires: 
-            - build-resources
