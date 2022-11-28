@@ -1,4 +1,6 @@
 const fs = require('fs');
+const downloadFileSync = require('download-file-sync');
+
 const util = require('./util.js');
 
 module.exports = {
@@ -140,6 +142,37 @@ module.exports = {
 
         return ret.join("\n");
     },
+    getArtcc() {
+        // download vatspy boundaries
+        const contents = downloadFileSync("https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/master/Boundaries.geojson");
+
+        var artcc = {};
+
+        const geojson = JSON.parse(contents);
+        geojson.features.forEach(e => {
+            if (
+                e.properties.id.startsWith("RK") ||
+                e.properties.id.startsWith("RJ") ||
+                e.properties.id.startsWith("RORG") ||
+                e.properties.id.startsWith("ZSHA") ||
+                e.properties.id.startsWith("ZYSH") ||
+                e.properties.id.startsWith("UHHH") ||
+                e.properties.id.startsWith("ZKKP")
+            ) {
+                artcc[e.properties.id] = e.geometry.coordinates[0][0];
+            }
+        });
+
+        var ret = [];
+
+        for (var ctr in artcc) {
+            for (var b = 0; b < artcc[ctr].length - 1; b++) {
+                ret.push(`${ctr} ${util.convertDecimalToMinutes(artcc[ctr][b][0], "NS")} ${util.convertDecimalToMinutes(artcc[ctr][b][1], "EW")} ${util.convertDecimalToMinutes(artcc[ctr][b + 1][0], "NS")} ${util.convertDecimalToMinutes(artcc[ctr][b + 1][1], "EW")}`)
+            }
+        }
+
+        return ret.join("\n");
+    },
     generateSectorFile() {
         var contents = "";
 
@@ -164,6 +197,9 @@ module.exports = {
 
         contents += "\n\n[RUNWAY]\n";
         contents += this.getRunway();
+
+        contents += "\n\n[ARTCC]\n";
+        contents += this.getArtcc();
 
         contents += "\n\n[GEO]\n";
         contents += this.getGeo();
