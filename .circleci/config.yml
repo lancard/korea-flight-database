@@ -1,12 +1,12 @@
 version: 2.1
 
 orbs:
-  gh: circleci/github-cli@2.0
+  gh: circleci/github-cli@2.1.1
 
 jobs:
   build-resources:
     docker:
-      - image: cimg/node:16.10
+      - image: cimg/node:current
     steps:
       - checkout
       - run:
@@ -15,7 +15,10 @@ jobs:
       - run:
           name: Build all resources
           command: node index.js
-      - gh/install
+      - gh/setup
+      - run:
+          name: Release Resources
+          command: gh release create 1.0.0 vatsim/sector.sct2
 
 workflows:
   build-and-release:
