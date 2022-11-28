@@ -167,7 +167,30 @@ module.exports = {
 
         for (var ctr in artcc) {
             for (var b = 0; b < artcc[ctr].length - 1; b++) {
-                ret.push(`${ctr} ${util.convertDecimalToMinutes(artcc[ctr][b][0], "NS")} ${util.convertDecimalToMinutes(artcc[ctr][b][1], "EW")} ${util.convertDecimalToMinutes(artcc[ctr][b + 1][0], "NS")} ${util.convertDecimalToMinutes(artcc[ctr][b + 1][1], "EW")}`)
+                ret.push(`${ctr} ${util.convertDecimalToMinutes(artcc[ctr][b][1], "NS")} ${util.convertDecimalToMinutes(artcc[ctr][b][0], "EW")} ${util.convertDecimalToMinutes(artcc[ctr][b + 1][1], "NS")} ${util.convertDecimalToMinutes(artcc[ctr][b + 1][0], "EW")}`)
+            }
+        }
+
+        return ret.join("\n");
+    },
+    getTracon() {
+        // download vatsim tracon boundaries
+        const contents = downloadFileSync("https://raw.githubusercontent.com/vatsimnetwork/simaware-tracon-project/main/TRACONBoundaries.geojson");
+
+        var tracon = {};
+
+        const geojson = JSON.parse(contents);
+        geojson.features.forEach(e => {
+            if (e.properties.id.startsWith("RK")) {
+                tracon[e.properties.id] = e.geometry.coordinates[0][0];
+            }
+        });
+
+        var ret = [];
+
+        for (var app in tracon) {
+            for (var b = 0; b < tracon[app].length - 1; b++) {
+                ret.push(`${app}_APP ${util.convertDecimalToMinutes(tracon[app][b][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][b][0], "EW")} ${util.convertDecimalToMinutes(tracon[app][b + 1][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][b + 1][0], "EW")}`)
             }
         }
 
@@ -200,6 +223,9 @@ module.exports = {
 
         contents += "\n\n[ARTCC]\n";
         contents += this.getArtcc();
+
+        contents += "\n\n[ARTCC_HIGH]\n";
+        contents += this.getTracon();
 
         contents += "\n\n[GEO]\n";
         contents += this.getGeo();
