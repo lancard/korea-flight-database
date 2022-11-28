@@ -6,11 +6,13 @@ orbs:
 
 jobs:
   build-all:
+    docker:
+      - image: cimg/node:16.10
     steps:
       - checkout
       - run:
-        name: Package install
-        command: npm install
+          name: Package install
+          command: npm install
 
 workflows:
   build:
@@ -20,8 +22,6 @@ workflows:
           notes-file: changelog.md
           tag: 1.0.0
           title: The initial release
-          requires:
-            - node/test
           context:
             - GITHUB_CREDS
           filters:
