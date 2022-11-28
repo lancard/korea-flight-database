@@ -13,6 +13,12 @@ jobs:
       - run:
           name: Package install
           command: npm install
+      - run:
+          name: Build all resources
+          command: node index.js
+      - run:
+          name: Check generated files
+          command: ls -alh
 
 workflows:
   build:
