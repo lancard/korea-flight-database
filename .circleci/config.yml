@@ -1,5 +1,8 @@
 version: 2.1
 
+orbs:
+  gh: circleci/github-cli@2.0
+
 jobs:
   build-resources:
     docker:
@@ -12,9 +15,7 @@ jobs:
       - run:
           name: Build all resources
           command: node index.js
-      - run:
-          name: Check generated files
-          command: gh 
+      - gh/install
 
 workflows:
   build-and-release:
