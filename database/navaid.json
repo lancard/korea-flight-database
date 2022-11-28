@@ -1,5 +1,15 @@
 [
     {
+        "name": "Ieodo",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N032.07.22.062",
+        "longitude": "E125.10.56.081",
+        "frequency": "000.000",
+        "airport": "RKPC"
+    },
+    {
         "name": "LEDUD",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
