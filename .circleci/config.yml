@@ -25,6 +25,7 @@ workflows:
       - build-resources
       - gh/release:
           tag: 1.0.0
-          title: The initial release
+          title: release resources
+          files: ./vatsim/*
           requires: 
             - build-resources
