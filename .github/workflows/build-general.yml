@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Generate version string
-      - run: VERSION_STRING=`date +"1.%Y%m%d.1%H%M%S"` && echo "VERSION_STRING=$VERSION_STRING" >> $GITHUB_ENV
+        run: VERSION_STRING=`date +"1.%Y%m%d.1%H%M%S"` && echo "VERSION_STRING=$VERSION_STRING" >> $GITHUB_ENV
       
       - uses: actions/checkout@v3
       
