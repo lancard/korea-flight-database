@@ -19,7 +19,7 @@ jobs:
         run: chmod +x run_in_container.sh
 
       - name: make database directory
-        run: mkdir database
+        run: mkdir tile-server-postgre-database
 
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v1
@@ -34,7 +34,7 @@ jobs:
         run: |
           docker run \
           --rm \
-          -v $PWD/database:/data/database/ \
+          -v $PWD/tile-server-postgre-database:/data/database/ \
           -e DOWNLOAD_PBF=https://github.com/lancard/filtered-south-korea-osm/raw/main/filtered.osm.pbf \
           -e DOWNLOAD_POLY=https://download.geofabrik.de/asia/south-korea.poly \
           overv/openstreetmap-tile-server \
@@ -47,7 +47,7 @@ jobs:
         run: |
           docker run \
           --rm \
-          -v $PWD/database:/data/database/ \
+          -v $PWD/tile-server-postgre-database:/data/database/ \
           -v $PWD/data.osm:/data.osm \
           -v $PWD/run_in_container.sh:/run.sh \
           overv/openstreetmap-tile-server  
