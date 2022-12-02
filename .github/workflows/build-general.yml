@@ -41,3 +41,25 @@ jobs:
           asset_name: sector.sct2
           asset_content_type: text/plain
 
+      - name: compress euroscope files
+        run: cd euroscope && zip settings.zip *
+
+      - name: upload euroscope zip file
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: euroscope/settings.zip
+          asset_name: settings.zip
+          asset_content_type: application/zip
+
+      - name: upload openstreetmap file
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: openstreetmap/data.osm
+          asset_name: data.osm
+          asset_content_type: text/xml
