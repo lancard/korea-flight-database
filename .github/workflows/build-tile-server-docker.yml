@@ -9,14 +9,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       
-      - name: check1
-        run: pwd
+      - name: copy script
+        run: cp tile-server/run_in_container.sh .
       
-      - name: check2
-        run: cd /
-
-      - name: check3
-        run: pwd
+      - name: copy Dockerfile
+        run: cp tile-server/Dockerfile .
 
       - name: change permission
         run: chmod +x run_in_container.sh
