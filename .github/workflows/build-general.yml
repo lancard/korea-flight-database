@@ -10,6 +10,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate version string
+      - run: VERSION_STRING=`date +"1.%Y%m%d.1%H%M%S"` && echo "VERSION_STRING=$VERSION_STRING" >> $GITHUB_ENV
+      
       - uses: actions/checkout@v3
       
       - uses: actions/setup-node@v3
@@ -26,8 +29,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
+          tag_name: ${{ env.VERSION_STRING }}
+          release_name: Release ${{ env.VERSION_STRING }}
           draft: false
           prerelease: false
 
