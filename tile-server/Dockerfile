@@ -1,3 +1,3 @@
 FROM overv/openstreetmap-tile-server:latest
 
-COPY database/ /data/database/
+COPY tile-server-postgre-database/ /data/database/
