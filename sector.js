@@ -27,9 +27,9 @@ module.exports = {
             ";\n" +
             "; < coordination general rule >\n" +
             ";\n" +
-            "; ● all airway points (not ground) : by AIP coordination and by Google map coordination (WGS-84)\n" +
-            "; ● airports runways and IF/FAF : by AIP coordination and by Google map coordination (WGS-84).\n" +
-            "; ● airports and ground aids : by AIP coordination and by Google map coordination (WGS-84).\n" +
+            "; - all airway points (not ground) : by AIP coordination and by Google map coordination (WGS-84)\n" +
+            "; - airports runways and IF/FAF : by AIP coordination and by Google map coordination (WGS-84).\n" +
+            "; - airports and ground aids : by AIP coordination and by Google map coordination (WGS-84).\n" +
             ";\n" +
             "; magnetic variation ref: WMM-2015 (http://www.ngdc.noaa.gov/geomag-web/) - CSV download\n";
     },
@@ -93,6 +93,11 @@ module.exports = {
         var ret = [];
 
         navaidList.filter(e => e.navaidType == "NDB").forEach(e => {
+            ret.push(`${e.name} ${e.frequency} ${e.latitude} ${e.longitude}`);
+        });
+
+        // add fixes to ndb (near airport)
+        navaidList.filter(e => e.navaidType == "FIX" && e.extraType == "NEAR_AIRPORT_FIX").forEach(e => {
             ret.push(`${e.name} ${e.frequency} ${e.latitude} ${e.longitude}`);
         });
 
@@ -215,21 +220,21 @@ module.exports = {
         contents += "\n\n[FIXES]\n";
         contents += this.getFix();
 
-        contents += "\n\n[AIRPORT]\n";
-        contents += this.getAirport();
-
         contents += "\n\n[RUNWAY]\n";
         contents += this.getRunway();
+
+        contents += "\n\n[AIRPORT]\n";
+        contents += this.getAirport();
 
         contents += "\n\n[ARTCC]\n";
         contents += this.getArtcc();
 
-        contents += "\n\n[ARTCC_HIGH]\n";
+        contents += "\n\n[ARTCC HIGH]\n";
         contents += this.getTracon();
 
         contents += "\n\n[GEO]\n";
         contents += this.getGeo();
 
-        fs.writeFileSync('vatsim/sector.sct2', contents);
+        fs.writeFileSync('vatsim/sector.sct2', contents.split("\n").join("\r\n"));
     }
 };
