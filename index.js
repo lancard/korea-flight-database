@@ -15,6 +15,15 @@ global.navaidList = require('./database/navaid.json');
 global.runwayList = require('./database/runway.json');
 global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
+global.runwayMap = {};
+
+String.prototype.paddingRight = function (paddingValue) {
+    return this + (new Array(paddingValue - this.length)).join(' ');
+};
+
+Array.prototype.last = function () {
+    return this[this.length - 1];
+}
 
 function initialize() {
     // get last version (git)
@@ -34,11 +43,13 @@ function initialize() {
         }
 
         // check used marker by sid / star / approach and transitions
-        for (var b = 0; b < procedureList.procedureDetail.length; b++) {
-            if (procedureList.procedureDetail[b].fix == navaidList[a].name) {
-                navaidList[a].isUsedByNavigation = true;
-            }
-        }
+        procedureList.forEach(p => {
+            p.fixList.forEach(e => {
+                if (e == navaidList[a].name) {
+                    navaidList[a].isUsedByNavigation = true;
+                }
+            });
+        });
     }
 
     // minutes to decimal conversion
@@ -48,11 +59,14 @@ function initialize() {
     }
 
     // minutes to decimal conversion
-    for (var r in runwayList) {
+    for (var r = 0; r < runwayList.length; r++) {
         runwayList[r].startLatitudeDecimal = util.convertMinutesToDecimal(runwayList[r].startLatitude);
         runwayList[r].startLongitudeDecimal = util.convertMinutesToDecimal(runwayList[r].startLongitude);
         runwayList[r].endLatitudeDecimal = util.convertMinutesToDecimal(runwayList[r].endLatitude);
         runwayList[r].endLongitudeDecimal = util.convertMinutesToDecimal(runwayList[r].endLongitude);
+
+        runwayMap[`${runwayList[r].airport}_${runwayList[r].runway}`] = { latitude: runwayList[r].startLatitude, longitude: runwayList[r].startLongitude };
+        runwayMap[`${runwayList[r].airport}_${runwayList[r].oppositeRunway}`] = { latitude: runwayList[r].endLatitude, longitude: runwayList[r].endLongitude };
     }
 
     // console.log(JSON.stringify(navaidList, null, '\t'));

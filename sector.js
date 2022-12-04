@@ -201,6 +201,106 @@ module.exports = {
 
         return ret.join("\n");
     },
+    getSid() {
+        var ret = [];
+
+        // SID only
+        procedureList.filter(e => e.procedureType == "SID").forEach(e => {
+            e.runway.forEach(r => {
+                // first fix
+                var name = `${e.name}(${r})`;
+                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
+                    `${runwayMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
+                    `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
+                );
+
+                // other fix
+                for (var a = 1; a < e.fixList.length - 1; a++) {
+                    ret.push(`${' '.paddingRight(33)}` +
+                        `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
+                        `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                    );
+                }
+            });
+        });
+
+        // SID + TRANSITION
+        procedureList.filter(t => t.procedureType == "SID-TRANSITION").forEach(t => {
+            procedureList.filter(e => e.procedureType == "SID" && e.fixList.last() == t.fixList[0]).forEach(e => {
+                e.runway.forEach(r => {
+                    // first fix
+                    var name = `${t.name}(${r})`;
+                    ret.push(`${name.substring(0, 26).paddingRight(33)}` +
+                        `${runwayMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
+                        `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
+                    );
+
+                    // print SID first
+                    for (var a = 1; a < e.fixList.length - 1; a++) {
+                        ret.push(`${' '.paddingRight(33)}` +
+                            `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
+                            `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                        );
+                    }
+
+                    // print TRANSITION last
+                    for (var a = 0; a < t.fixList.length - 1; a++) {
+                        ret.push(`${' '.paddingRight(33)}` +
+                            `${t.fixList[a].paddingRight(17)}${t.fixList[a].paddingRight(17)}` +
+                            `${t.fixList[a + 1].paddingRight(17)}${t.fixList[a + 1].paddingRight(17)}`
+                        );
+                    }
+                });
+            });
+        });
+
+        return ret.join("\n");
+    },
+    getStar() {
+        var ret = [];
+
+        // STAR only
+        procedureList.filter(e => e.procedureType == "STAR").forEach(e => {
+            e.runway.forEach(r => {
+                // first fix
+                var name = `${e.name}(${r})`;
+                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
+                    `${runwayMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
+                    `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
+                );
+
+                // other fix
+                for (var a = 1; a < e.fixList.length - 1; a++) {
+                    ret.push(`${' '.paddingRight(33)}` +
+                        `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
+                        `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                    );
+                }
+            });
+        });
+
+        // APPROACH only
+        procedureList.filter(e => e.procedureType == "APPROACH").forEach(e => {
+            e.runway.forEach(r => {
+                // first fix
+                var name = `${e.name}(${r})`;
+                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
+                    `${runwayMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
+                    `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
+                );
+
+                // other fix
+                for (var a = 1; a < e.fixList.length - 1; a++) {
+                    ret.push(`${' '.paddingRight(33)}` +
+                        `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
+                        `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                    );
+                }
+            });
+        });
+
+        return ret.join("\n");
+    },
     generateSectorFile() {
         var contents = "";
 
@@ -231,6 +331,12 @@ module.exports = {
 
         contents += "\n\n[ARTCC HIGH]\n";
         contents += this.getTracon();
+
+        contents += "\n\n[SID]\n";
+        contents += this.getSid();
+
+        contents += "\n\n[STAR]\n";
+        contents += this.getStar();
 
         contents += "\n\n[GEO]\n";
         contents += this.getGeo();
