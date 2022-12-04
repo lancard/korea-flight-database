@@ -15,6 +15,7 @@ global.navaidList = require('./database/navaid.json');
 global.runwayList = require('./database/runway.json');
 global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
+global.labelList = require('./database/label.json');
 global.runwayMap = {};
 
 String.prototype.paddingRight = function (paddingValue) {
@@ -50,6 +51,12 @@ function initialize() {
                 }
             });
         });
+    }
+
+    // minutes to decimal conversion
+    for (var a = 0; a < labelList.length; a++) {
+        labelList[a].latitudeDecimal = util.convertMinutesToDecimal(labelList[a].latitude);
+        labelList[a].longitudeDecimal = util.convertMinutesToDecimal(labelList[a].longitude);
     }
 
     // minutes to decimal conversion

@@ -291,6 +291,33 @@ module.exports = {
 
         return ret.join("\n");
     },
+    getLowAirway() {
+        var ret = [];
+
+        airwayList.filter(e => util.isLowAirway(e.name)).forEach(e => {
+            ret.push(`${e.name} ${e.fixStart} ${e.fixStart} ${e.fixEnd} ${e.fixEnd}`);
+        });
+
+        return ret.join("\n");
+    },
+    getHighAirway() {
+        var ret = [];
+
+        airwayList.filter(e => !util.isLowAirway(e.name)).forEach(e => {
+            ret.push(`${e.name} ${e.fixStart} ${e.fixStart} ${e.fixEnd} ${e.fixEnd}`);
+        });
+
+        return ret.join("\n");
+    },
+    getLabel() {
+        var ret = [];
+
+        labelList.forEach(e => {
+            ret.push(`"${e.name}" ${e.latitude} ${e.longitude} ${e.colorProfile}`);
+        });
+
+        return ret.join("\n");
+    },
     generateSectorFile() {
         var contents = "";
 
@@ -328,8 +355,17 @@ module.exports = {
         contents += "\n\n[STAR]\n";
         contents += this.getStar();
 
+        contents += "\n\n[LOW AIRWAY]\n";
+        contents += this.getLowAirway();
+
+        contents += "\n\n[HIGH AIRWAY]\n";
+        contents += this.getHighAirway();
+
         contents += "\n\n[GEO]\n";
         contents += this.getGeo();
+
+        contents += "\n\n[LABELS]\n";
+        contents += this.getLabel();
 
         fs.writeFileSync('vatsim/sector.sct2', contents.split("\n").join("\r\n"));
     }
