@@ -12,4 +12,9 @@ sudo -u renderer osm2pgsql -d gis --append --slim -G --hstore  \
       -S /data/style/openstreetmap-carto.style  \
       /data.osm
 
+tar czf /data/db.tar.gz /data/database
+chmod 777 /data/db.tar.gz
+rm -rf /data/database/*
+mv /data/db.tar.gz /data/database/
+
 service postgresql stop
