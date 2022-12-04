@@ -224,36 +224,6 @@ module.exports = {
             });
         });
 
-        // SID + TRANSITION
-        procedureList.filter(t => t.procedureType == "SID-TRANSITION").forEach(t => {
-            procedureList.filter(e => e.procedureType == "SID" && e.fixList.last() == t.fixList[0]).forEach(e => {
-                e.runway.forEach(r => {
-                    // first fix
-                    var name = `${t.name}(${r})`;
-                    ret.push(`${name.substring(0, 26).paddingRight(33)}` +
-                        `${runwayMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
-                        `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
-                    );
-
-                    // print SID first
-                    for (var a = 1; a < e.fixList.length - 1; a++) {
-                        ret.push(`${' '.paddingRight(33)}` +
-                            `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
-                            `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
-                        );
-                    }
-
-                    // print TRANSITION last
-                    for (var a = 0; a < t.fixList.length - 1; a++) {
-                        ret.push(`${' '.paddingRight(33)}` +
-                            `${t.fixList[a].paddingRight(17)}${t.fixList[a].paddingRight(17)}` +
-                            `${t.fixList[a + 1].paddingRight(17)}${t.fixList[a + 1].paddingRight(17)}`
-                        );
-                    }
-                });
-            });
-        });
-
         return ret.join("\n");
     },
     getStar() {
@@ -261,39 +231,59 @@ module.exports = {
 
         // STAR only
         procedureList.filter(e => e.procedureType == "STAR").forEach(e => {
-            e.runway.forEach(r => {
-                // first fix
-                var name = `${e.name}(${r})`;
+            var name = `${e.airport}-${e.name}`;
+
+            for (var a = 0; a < e.fixList.length - 1; a++) {
                 ret.push(`${name.substring(0, 26).paddingRight(33)}` +
-                    `${runwayMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
+                    `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
+                    `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                );
+
+                name = ' ';
+            }
+        });
+
+        // APPROACH only
+        procedureList.filter(e => e.procedureType == "APPROACH").forEach(e => {
+            // first fix
+            var name = `${e.airport}-${e.name}`;
+            ret.push(`${name.substring(0, 26).paddingRight(33)}` +
+                `${runwayMap[e.airport + "_" + e.runway].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + e.runway].longitude.paddingRight(17)}` +
+                `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
+            );
+
+            // other fix
+            for (var a = 1; a < e.fixList.length - 1; a++) {
+                ret.push(`${' '.paddingRight(33)}` +
+                    `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
+                    `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                );
+            }
+        });
+
+        // STAR + APPROACH
+        procedureList.filter(t => t.procedureType == "APPROACH").forEach(t => {
+            procedureList.filter(e => e.procedureType == "STAR" && e.fixList.last() == t.fixList[0] && t.airport == e.airport).forEach(e => {
+                // first fix
+                var name = `${e.name}-${t.name}`;
+                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
+                    `${runwayMap[e.airport + "_" + t.runway].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + t.runway].longitude.paddingRight(17)}` +
                     `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
                 );
 
-                // other fix
+                // print STAR first
                 for (var a = 1; a < e.fixList.length - 1; a++) {
                     ret.push(`${' '.paddingRight(33)}` +
                         `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
                         `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
                     );
                 }
-            });
-        });
 
-        // APPROACH only
-        procedureList.filter(e => e.procedureType == "APPROACH").forEach(e => {
-            e.runway.forEach(r => {
-                // first fix
-                var name = `${e.name}(${r})`;
-                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
-                    `${runwayMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
-                    `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
-                );
-
-                // other fix
-                for (var a = 1; a < e.fixList.length - 1; a++) {
+                // print APPROACH last
+                for (var a = 0; a < t.fixList.length - 1; a++) {
                     ret.push(`${' '.paddingRight(33)}` +
-                        `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
-                        `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                        `${t.fixList[a].paddingRight(17)}${t.fixList[a].paddingRight(17)}` +
+                        `${t.fixList[a + 1].paddingRight(17)}${t.fixList[a + 1].paddingRight(17)}`
                     );
                 }
             });

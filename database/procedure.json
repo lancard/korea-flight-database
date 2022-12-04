@@ -72,13 +72,54 @@
     },
     {
         "procedureType": "STAR",
-        "airport": "RKSI",
-        "name": "OPONO3.ENGOT",
+        "airport": "RKTU",
+        "name": "MATIZ1.HYEIN",
         "fixList": [
-            "OPONO",
-            "PK521",
-            "SARAM",
-            "ENGOT"
+            "OSPOT",
+            "MATIZ",
+            "HYEIN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTU",
+        "name": "MATIZ1.IKAPO",
+        "fixList": [
+            "OSPOT",
+            "MATIZ",
+            "ESBOS",
+            "IKAPO"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTU",
+        "name": "MATIZ1.JIKJI",
+        "fixList": [
+            "OSPOT",
+            "MATIZ",
+            "ESBOS",
+            "IKAPO",
+            "JIKJI"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "RNP06L",
+        "runway": "06L",
+        "fixList": [
+            "JIKJI",
+            "ASORA",
+            "OSIVI",
+            "SURSO",
+            "TU761",
+            "BAKJO",
+            "TU762",
+            "TU763",
+            "SAPUX",
+            "TU766",
+            "YEJEE"
         ]
     }
 ]
