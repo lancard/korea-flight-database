@@ -47,7 +47,8 @@ jobs:
 
       - name: notify discord
         if: ${{ github.event_name == 'workflow_dispatch' }}
-        run: curl -F "payload_json={\"content\": \"New Sector File Arrived!\"}" -F "file1=vatsim/sector.sct2" ${{ secrets.DISCORD_WEBHOOK }}
+        run: |
+          curl -F 'payload_json={"content": "New Sector File Arrived!"}"' -F "file1=vatsim/sector.sct2" ${{ secrets.DISCORD_WEBHOOK }}
 
       - name: compress euroscope files
         run: cd euroscope && zip settings.zip *
