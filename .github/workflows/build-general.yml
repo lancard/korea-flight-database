@@ -44,15 +44,10 @@ jobs:
           asset_path: vatsim/sector.sct2
           asset_name: sector.sct2
           asset_content_type: text/plain
-      
-      - name: send discord message
-        uses: appleboy/discord-action@master
+
+      - name: notify discord
         if: ${{ github.event_name == 'workflow_dispatch' }}
-        with:
-          webhook_id: ${{ secrets.DISCORD_CHANNEL_ID }}
-          webhook_token: ${{ secrets.DISCORD_WEBHOOK }}
-          file: vatsim/sector.sct2
-          message: New Sector File Arrived!
+        run: curl -F "payload_json={\"content\": \"New Sector File Arrived!\"}" -F "file1=vatsim/sector.sct2" ${{ secrets.DISCORD_WEBHOOK }}
 
       - name: compress euroscope files
         run: cd euroscope && zip settings.zip *
