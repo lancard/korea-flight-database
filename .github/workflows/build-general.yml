@@ -47,6 +47,7 @@ jobs:
       
       - name: send discord message
         uses: appleboy/discord-action@master
+        if: ${{ github.event_name == 'workflow_dispatch' }}
         with:
           webhook_id: ${{ secrets.DISCORD_CHANNEL_ID }}
           webhook_token: ${{ secrets.DISCORD_WEBHOOK }}
