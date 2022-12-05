@@ -48,6 +48,7 @@ jobs:
       - name: send discord message
         uses: appleboy/discord-action@master
         with:
+          webhook_id: ${{ secrets.DISCORD_CHANNEL_ID }}
           webhook_token: ${{ secrets.DISCORD_WEBHOOK }}
           file: vatsim/sector.sct2
           message: New Sector File Arrived!
