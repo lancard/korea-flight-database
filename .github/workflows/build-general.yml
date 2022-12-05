@@ -44,6 +44,13 @@ jobs:
           asset_path: vatsim/sector.sct2
           asset_name: sector.sct2
           asset_content_type: text/plain
+      
+      - name: send discord message
+        uses: appleboy/discord-action@master
+        with:
+          webhook_token: ${{ secrets.DISCORD_WEBHOOK }}
+          file: vatsim/sector.sct2
+          message: New Sector File Arrived!
 
       - name: compress euroscope files
         run: cd euroscope && zip settings.zip *
