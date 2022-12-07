@@ -7,10 +7,7 @@ if [ ! "$(ls -A /data/style/)" ]; then
     mv /home/renderer/src/openstreetmap-carto-backup/* /data/style/
 fi
 
-sudo -u renderer osm2pgsql -d gis --append --slim -G --hstore  \
-      --tag-transform-script /data/style/openstreetmap-carto.lua  \
-      -S /data/style/openstreetmap-carto.style  \
-      /data.osm
+sudo -u renderer psql -d gis -f /data.sql
 
 service postgresql stop
 
