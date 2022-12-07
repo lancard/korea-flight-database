@@ -6,42 +6,69 @@ module.exports = {
             fs.mkdirSync('openstreetmap');
         }
     },
-    generateOpenstreetmap() {
+    getNavaidSql() {
+        var ret = 
+        `
+        CREATE TABLE public.navaid (
+            osm_id int8 PRIMARY KEY,
+            name text NULL,
+            navaid_type text NULL,
+            extra_type text NULL,
+            vor_type text NULL,
+            description text NULL,
+            airport text NULL,
+            frequency text NULL,
+            way public.geometry(point, 3857) NULL
+        );
+        `
+
         var nodeIndex = 140000;
-        var wayIndex = 540000;
-        var fileContents = [`<?xml version='1.0' encoding='UTF-8'?><osm version='0.6'>`];
+        
+        navaidList.forEach(e => {
+            nodeIndex++;
+            ret += ` INSERT INTO public.navaid VALUES(${nodeIndex}, '${e.name}', '${e.navaidType}', '${e.extraType ? e.extraType : ''}', '${e.vorType ? e.vorType : ''}', '${e.description}', '${e.airport ? e.airport : ''}', '${e.frequency}', ST_Transform(ST_GeomFromText('POINT (${e.longitudeDecimal} ${e.latitudeDecimal})', 4326), 3857)); `;
+        });
+   
+        return ret;
+    },
+    getAirwaySql() {
+        var ret = 
+        `
+        CREATE TABLE public.airway (
+            osm_id int8 PRIMARY KEY,
+            name text NULL,
+            seq int8 NULL,
+            description text NULL,
+            airway_type text NULL,
+            way public.geometry(linestring, 3857) NULL
+        );
+        `
         var fixToIdMap = {};
 
-        navaidList.filter(e => e.navaidType == "VOR").forEach(e => {
-            nodeIndex++;
-
-            fixToIdMap[e.name] = nodeIndex;
-            fileContents.push(`<node id='${nodeIndex}' lat='${e.latitudeDecimal}' lon='${e.longitudeDecimal}'><tag k='aeroway' v='${e.vorType.toLowerCase()}' /><tag k='name' v='${e.name}' /></node>`);
+        navaidList.forEach(e => {
+            fixToIdMap[e.name] = e;
         });
-        navaidList.filter(e => e.navaidType == "NDB").forEach(e => {
-            nodeIndex++;
 
-            fixToIdMap[e.name] = nodeIndex;
-            fileContents.push(`<node id='${nodeIndex}' lat='${e.latitudeDecimal}' lon='${e.longitudeDecimal}'><tag k='aeroway' v='ndb' /><tag k='name' v='${e.name}' /></node>`);
-        });
-        navaidList.filter(e => e.navaidType == "FIX" && e.isUsedByNavigation).forEach(e => {
-            nodeIndex++;
-
-            fixToIdMap[e.name] = nodeIndex;
-            fileContents.push(`<node id='${nodeIndex}' lat='${e.latitudeDecimal}' lon='${e.longitudeDecimal}'><tag k='aeroway' v='fix' /><tag k='name' v='${e.name}' /></node>`);
-        });
+        var wayIndex = 540000;
 
         airwayList.forEach(e => {
             wayIndex++;
 
             if (!fixToIdMap[e.fixStart] || !fixToIdMap[e.fixEnd]) {
-                console.dir(`airway fix not exist: ${e.fixStart} / ${e.fixEnd}`);
+                console.log(`airway fix not exist: ${e.fixStart} / ${e.fixEnd}`);
             }
 
-            fileContents.push(`<way id='${wayIndex}'><nd ref='${fixToIdMap[e.fixStart]}' /><nd ref='${fixToIdMap[e.fixEnd]}' /><tag k='aeroway' v='airway_${e.airwayType.toLowerCase()}' /><tag k='name' v='${e.name}' /></way>`);
+            ret += ` INSERT INTO public.airway VALUES(${wayIndex}, '${e.name}', ${e.seq}, '${e.description}', '${e.airwayType}', ST_Transform(ST_GeomFromText('LINESTRING (${fixToIdMap[e.fixStart].longitudeDecimal} ${fixToIdMap[e.fixStart].latitudeDecimal}, ${fixToIdMap[e.fixEnd].longitudeDecimal} ${fixToIdMap[e.fixEnd].latitudeDecimal})', 4326), 3857)); `;
         });
 
-        fileContents.push(`</osm>`);
-        fs.writeFileSync('openstreetmap/data.osm', fileContents.join("\n"));
+        return ret;
+    },
+    generateOpenstreetmap() {
+        var fileContents = "";
+
+        fileContents += this.getNavaidSql();
+        fileContents += this.getAirwaySql();
+
+        fs.writeFileSync('openstreetmap/data.sql', fileContents);
     }
 };
