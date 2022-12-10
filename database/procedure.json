@@ -640,7 +640,138 @@
             "DH017",
             "MUNAN"
         ]
-    }   
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "BIKSI2M",
+        "fixList": [
+            "BIKSI",
+            "KARBU",
+            "KE035",
+            "ENPIL"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "CUN2M",
+        "fixList": [
+            "CUN",
+            "BIGOB",
+            "BASEM",
+            "GUKDO",
+            "GE041",
+            "ENPIL"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "GONAV3M",
+        "fixList": [
+            "GONAV",
+            "BODOL",
+            "REBIT",
+            "BELTU",
+            "PE054",
+            "PE048",
+            "PE029",
+            "ENPIL"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "MAKSA2M",
+        "fixList": [
+            "MAKSA",
+            "ATASO",
+            "PEBRI",
+            "OLMEN",
+            "DE030",
+            "ENPIL"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "REBIT2A",
+        "fixList": [
+            "REBIT",
+            "PY049",
+            "PY037",
+            "CW001",
+            "CW002",
+            "CW003",
+            "CW004",
+            "CW005",
+            "PAMBI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "GUKDO2E",
+        "fixList": [
+            "GUKDO",
+            "KAKSO",
+            "GE046",
+            "ELMAP",
+            "TESIK",
+            "GE023",
+            "GE022",
+            "GE016",
+            "GE017",
+            "GE020",
+            "GE024",
+            "GE028",
+            "GE027",
+            "ENPIL"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "KARBU2E",
+        "fixList": [
+            "KARBU",
+            "EGOBA",
+            "KE044",
+            "ELMAP",            
+            "TESIK",
+            "GE023",
+            "GE022",
+            "GE016",
+            "GE017",
+            "GE020",
+            "GE024",
+            "GE028",
+            "GE027",
+            "ENPIL"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "OLMEN2E",
+        "fixList": [
+            "OLMEN",
+            "DY037",
+            "BOBIB",
+            "DE031",          
+            "TESIK",
+            "GE023",
+            "GE022",
+            "GE016",
+            "GE017",
+            "GE020",
+            "GE024",
+            "GE028",
+            "GE027",
+            "ENPIL"
+        ]
+    }
     
     
 ]
