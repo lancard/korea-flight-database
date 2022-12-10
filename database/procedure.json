@@ -535,7 +535,64 @@
             "GC020",
             "BITIM"
         ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "GUKDO2H",
+        "fixList": [
+            "GUKDO",
+            "KAKSO",
+            "NODUN",
+            "GC072",
+            "CG071",
+            "SEL",
+            "GH034",
+            "SANLA",
+            "DH034",
+            "POMIM",
+            "DH030",
+            "DH029",
+            "DH028",
+            "DH021",
+            "DH022",
+            "DH024",
+            "DH027",
+            "DH023",
+            "DH020",
+            "DH017",
+            "MUNAN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "KARBU2H",
+        "fixList": [
+            "KARBU",
+            "UPSOM",
+            "KC067",
+            "KC066",
+            "SEL",
+            "GH034",
+            "SANLA",
+            "DH034",
+            "POMIM",
+            "DH030",
+            "DH029",
+            "DH028",
+            "DH021",
+            "DH022",
+            "DH024",
+            "DH027",
+            "DH023",
+            "DH020",
+            "DH017",
+            "MUNAN"
+        ]
     }
+    
+    
 ]
 
 
