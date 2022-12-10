@@ -589,8 +589,58 @@
             "DH020",
             "DH017",
             "MUNAN"
+        ]        
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "OLMEN2H",
+        "fixList": [
+            "OLMEN",
+            "BOPKI",
+            "DH050",
+            "DH047",
+            "SANLA",
+            "DH034",
+            "POMIM",
+            "DH030",
+            "DH029",
+            "DH028",
+            "DH021",
+            "DH022",
+            "DH024",
+            "DH027",
+            "DH023",
+            "DH020",
+            "DH017",
+            "MUNAN"
         ]
-    }
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "REBIT2H",
+        "fixList": [
+            "OLMEN",
+            "BOPKI",
+            "DH050",
+            "DH047",
+            "SANLA",
+            "DH034",
+            "POMIM",
+            "DH030",
+            "DH029",
+            "DH028",
+            "DH021",
+            "DH022",
+            "DH024",
+            "DH027",
+            "DH023",
+            "DH020",
+            "DH017",
+            "MUNAN"
+        ]
+    }   
     
     
 ]
