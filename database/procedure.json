@@ -455,7 +455,87 @@
             "YG160",
             "OSPOT"
         ]
-    }
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "GUKDO1A",
+        "fixList": [
+            "GUKDO",
+            "KAKSO",
+            "KALMA",
+            "SEL",
+            "GC034",
+            "POSEP"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "KARBU1A",
+        "fixList": [
+            "KARBU",
+            "EGOBA",
+            "SEL",
+            "GC034",
+            "POSEP"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "GUKDO2C",
+        "fixList": [
+            "GUKDO",
+            "KAKSO",
+            "NODUN",
+            "GC072",
+            "GC081",
+            "SEL",
+            "GC036",
+            "GC026",
+            "GC020",
+            "BITIM"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "KARBU2C",
+        "fixList": [
+            "KARBU",
+            "UPSOM",
+            "KC067",
+            "KC066",
+            "SEL",
+            "GC036",
+            "GC026",
+            "GC020",
+            "BITIM"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "OLMEN2C",
+        "fixList": [
+            "OLMEN",
+            "BOPKI",
+            "DH050",
+            "DH047",
+            "SANLA",
+            "DC039",
+            "DC036",
+            "DC035",
+            "DC031",
+            "DC032",
+            "DC037",
+            "GC036",
+            "GC026",
+            "GC020",
+            "BITIM"
+        ]
+    },
 ]
 
 
