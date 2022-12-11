@@ -1085,7 +1085,8 @@
             "RUMRI",
             "PH002"
         ]
-    },{
+    },
+    {
         "procedureType": "APPROACH",
         "airport": "RKSI",
         "name": "ILSZ16R.MUNAN",
@@ -1132,8 +1133,97 @@
             "OSERI",
             "DH002"
         ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILS33L.ENPIL",
+        "runway": "33L",
+        "fixList": [
+            "ENPIL",
+            "KE019",
+            "POSOK",
+            "LEGUN",
+            "BATAP"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILS33L.PAMBI",
+        "runway": "33L",
+        "fixList": [
+            "PAMBI",
+            "POSOK",
+            "LEGUN",
+            "BATAP"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP33L.ENPIL",
+        "runway": "33L",
+        "fixList": [
+            "ENPIL",
+            "KE019",
+            "POSOK",
+            "LEGUN",
+            "KE008",
+            "KIDAB"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP33L.PAMBI",
+        "runway": "33L",
+        "fixList": [
+            "PAMBI",
+            "POSOK",
+            "LEGUN",
+            "KE008",
+            "KIDAB"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILS33R.ENPIL",
+        "runway": "33R",
+        "fixList": [
+            "ENPIL",
+            "KE019",
+            "BIRIN",
+            "PIBAK",
+            "GOKAK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILS33R.PAMBI",
+        "runway": "33R",
+        "fixList": [
+            "PAMBI",
+            "BIRIN",
+            "PIBAK",
+            "GOKAK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "VOR33R",
+        "runway": "33R",
+        "fixList": [
+            "ENPIL",
+            "N037.16.35.500 E126.37.22.800",
+            "N037.20.51.000 E126.33.37.900",
+            "N037.23.28.200 E126.31.19.300",
+            "N037.26.49.600 E 126.28.21.500"
+        ]
     }
-    
 ]
 
 
