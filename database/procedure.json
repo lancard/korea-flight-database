@@ -1037,6 +1037,101 @@
             "WUNSO",
             "MADAN"
         ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ16L.MUNAN",
+        "runway": "16L",
+        "fixList": [
+            "MUNAN",
+            "IPKOL",
+            "RUMRI"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ16L.BITIM",
+        "runway": "16L",
+        "fixList": [
+            "BITIM",
+            "ATKON",
+            "IPKOL",
+            "RUMRI"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP16L.MUNAN",
+        "runway": "16L",
+        "fixList": [
+            "MUNAN",
+            "IPKOL",
+            "RUMRI",
+            "PH002"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP16L.BITIM",
+        "runway": "16L",
+        "fixList": [
+            "BITIM",
+            "ATKON",
+            "IPKOL",
+            "RUMRI",
+            "PH002"
+        ]
+    },{
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ16R.MUNAN",
+        "runway": "16L",
+        "fixList": [
+            "MUNAN",
+            "OLKIK",
+            "OSERI"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ16R.BITIM",
+        "runway": "16R",
+        "fixList": [
+            "BITIM",
+            "ATKON",
+            "OLKIK",
+            "OSERI"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP16R.MUNAN",
+        "runway": "16R",
+        "fixList": [
+            "MUNAN",
+            "OLKIK",
+            "OSERI",
+            "DH002"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP16R.BITIM",
+        "runway": "16R",
+        "fixList": [
+            "BITIM",
+            "ATKON",
+            "OLKIK",
+            "OSERI",
+            "DH002"
+        ]
     }
     
 ]
