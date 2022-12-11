@@ -901,8 +901,143 @@
             "MODOE",
             "SINDO"
         ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "HANEEVIS15L.COPUS",
+        "runway": "15L",
+        "fixList": [
+            "COPUS",
+            "HANEE",
+            "SEROO",
+            "MODOE",
+            "SINDO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "HANEEVIS15L.SEREE",
+        "runway": "15L",
+        "fixList": [
+            "SEREE",
+            "HANEE",
+            "SEROO",
+            "MODOE",
+            "SINDO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ15R.MUNAN",
+        "runway": "15R",
+        "fixList": [
+            "MUNAN",
+            "TASUR",
+            "ANBOG"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ15R.BITIM",
+        "runway": "15R",
+        "fixList": [
+            "BITIM",
+            "OLTEM",
+            "TASUR",
+            "ANBOG"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSY15R.MUNAN",
+        "runway": "15R",
+        "fixList": [
+            "MUNAN",
+            "TASUR",
+            "UPROR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSY15R.BITIM",
+        "runway": "15R",
+        "fixList": [
+            "BITIM",
+            "OLTEM",
+            "TASUR",
+            "UPROR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP15R.MUNAN",
+        "runway": "15R",
+        "fixList": [
+            "MUNAN",
+            "TASUR",
+            "UPROR",
+            "KC002"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP15R.BITIM",
+        "runway": "15R",
+        "fixList": [
+            "BITIM",
+            "OLTEM",
+            "TASUR",
+            "UPROR",
+            "KC002"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "HANEEVIS15R.YEWON",
+        "runway": "15R",
+        "fixList": [
+            "YEWON",
+            "HANEE",
+            "SEROO",
+            "WUNSO",
+            "MADAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "HANEEVIS15R.COPUS",
+        "runway": "15R",
+        "fixList": [
+            "COPUS",
+            "HANEE",
+            "SEROO",
+            "WUNSO",
+            "MADAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "HANEEVIS15R.SEREE",
+        "runway": "15R",
+        "fixList": [
+            "SEREE",
+            "HANEE",
+            "SEROO",
+            "WUNSO",
+            "MADAN"
+        ]
     }
-    
     
 ]
 
