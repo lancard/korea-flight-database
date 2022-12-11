@@ -805,6 +805,102 @@
             "GE027",
             "ENPIL"
         ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ15L.MUNAN",
+        "runway": "15L",
+        "fixList": [
+            "MUNAN",
+            "PUDIM",
+            "SAKOS"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ15L.BITIM",
+        "runway": "15L",
+        "fixList": [
+            "BITIM",
+            "OLTEM",
+            "PUDIM",
+            "SAKOS"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSY15L.MUNAN",
+        "runway": "15L",
+        "fixList": [
+            "MUNAN",
+            "PUDIM",
+            "NOPEN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSY15L.BITIM",
+        "runway": "15L",
+        "fixList": [
+            "BITIM",
+            "OLTEM",
+            "PUDIM",
+            "NOPEN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP15L.BITIM",
+        "runway": "15L",
+        "fixList": [
+            "BITIM",
+            "OLTEM",
+            "PUDIM",
+            "NOPEN",
+            "CG002"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP15L.MUNAN",
+        "runway": "15L",
+        "fixList": [
+            "MUNAN",
+            "PUDIM",
+            "NOPEN",
+            "CG002"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "VOR15L",
+        "runway": "15L",
+        "fixList": [
+            "POSEP",
+            "N037.37.52.400 E126.18.33.700",
+            "N037.33.12.400 E126.22.42.400",
+            "N037.30.55.000 E126.24.44.200"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "HANEEVIS15L.YEWON",
+        "runway": "15L",
+        "fixList": [
+            "YEWON",
+            "HANEE",
+            "SEROO",
+            "MODOE",
+            "SINDO"
+        ]
     }
     
     
