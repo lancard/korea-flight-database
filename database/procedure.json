@@ -1214,6 +1214,33 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSI",
+        "name": "RNP33R.ENPIL",
+        "runway": "33R",
+        "fixList": [
+            "ENPIL",
+            "KE019",
+            "BIRIN",
+            "PIBAK",
+            "GE008",
+            "ENBUK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP33R.PAMBI",
+        "runway": "33R",
+        "fixList": [
+            "PAMBI",
+            "BIRIN",
+            "PIBAK",
+            "GE008",
+            "ENBUK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
         "name": "VOR33R",
         "runway": "33R",
         "fixList": [
@@ -1222,6 +1249,106 @@
             "N037.20.51.000 E126.33.37.900",
             "N037.23.28.200 E126.31.19.300",
             "N037.26.49.600 E 126.28.21.500"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILS34L.ENPIL",
+        "runway": "34L",
+        "fixList": [
+            "ENPIL",
+            "DY019",
+            "KAGOK",
+            "LENBI",
+            "BODEK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILS34L.PAMBI",
+        "runway": "34L",
+        "fixList": [
+            "PAMBI",
+            "KAGOK",
+            "LENBI",
+            "BODEK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP34L.ENPIL",
+        "runway": "34L",
+        "fixList": [
+            "ENPIL",
+            "DY019",
+            "KAGOK",
+            "LENBI",
+            "BODEK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP34L.PAMBI",
+        "runway": "34L",
+        "fixList": [
+            "PAMBI",
+            "KAGOK",
+            "LENBI",
+            "BODEK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILS34R.ENPIL",
+        "runway": "34R",
+        "fixList": [
+            "ENPIL",
+            "PY019",
+            "NIPUT",
+            "DALKA",
+            "PIPAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILS34R.PAMBI",
+        "runway": "34R",
+        "fixList": [
+            "PAMBI",
+            "NIPUT",
+            "DALKA",
+            "PIPAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP34R.ENPIL",
+        "runway": "34R",
+        "fixList": [
+            "ENPIL",
+            "PY019",
+            "NIPUT",
+            "DALKA",
+            "PIPAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "RNP34R.PAMBI",
+        "runway": "34R",
+        "fixList": [
+            "PAMBI",
+            "NIPUT",
+            "DALKA",
+            "PIPAN"
         ]
     }
 ]
