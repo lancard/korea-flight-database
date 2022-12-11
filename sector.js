@@ -126,7 +126,15 @@ module.exports = {
         var ret = [];
 
         for (const airport in airportList) {
-            ret.push(`${airportList[airport].icaoCode} 000.000 ${airportList[airport].latitude} ${airportList[airport].longitude} C`);
+            const icaoCode = airportList[airport].icaoCode;
+
+            if (icaoCode.length != 4)
+                continue;
+
+            if (!icaoCode.startsWith('RK') && !icaoCode.startsWith('Z') && !icaoCode.startsWith('RJ'))
+                continue;
+
+            ret.push(`${icaoCode} 000.000 ${airportList[airport].latitude} ${airportList[airport].longitude} C`);
         }
 
         return ret.join("\n");
