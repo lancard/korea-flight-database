@@ -145,6 +145,15 @@
             "SAKOS"
         ]
     },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "VOR15L",
+        "runway": "15L",
+        "fixList": [
+            "POSEP"
+        ]
+    },
     
     
     
