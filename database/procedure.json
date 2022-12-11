@@ -122,6 +122,29 @@
             "YEJEE"
         ]
     },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ15L.MUNAN",
+        "runway": "15L",
+        "fixList": [
+            "MUNAN",
+            "PUDIM",
+            "SAKOS"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSI",
+        "name": "ILSZ15L.BITIM",
+        "runway": "15L",
+        "fixList": [
+            "BITIM",
+            "OLTEM",
+            "PUDIM",
+            "SAKOS"
+        ]
+    },
     
     
     
