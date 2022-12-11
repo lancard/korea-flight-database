@@ -19,7 +19,7 @@ global.labelList = require('./database/label.json');
 global.runwayMap = {};
 
 String.prototype.paddingRight = function (paddingValue) {
-    return this + (new Array(paddingValue - this.length)).join(' ');
+    return this + (new Array(paddingValue - this.length + 1)).join(' ');
 };
 
 Array.prototype.last = function () {

@@ -3,6 +3,16 @@ const downloadFileSync = require('download-file-sync');
 
 const util = require('./util.js');
 
+function getSidStarLatitudeLongitudeString(fixOrCoord) {
+    if (fixOrCoord.length < 10) {
+        return `${fixOrCoord.paddingRight(16)}${fixOrCoord.paddingRight(16)}`;
+    }
+
+    var arr = fixOrCoord.split(/\s+/);
+
+    return `${arr[0].paddingRight(16)}${arr[1].paddingRight(16)}`;
+}
+
 module.exports = {
     initialize() {
         if (!fs.existsSync('vatsim')) {
@@ -209,16 +219,16 @@ module.exports = {
             e.runway.forEach(r => {
                 // first fix
                 var name = `${e.name}(${r})`;
-                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
-                    `${runwayMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
-                    `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
+                ret.push(`${name.substring(0, 26).paddingRight(32)}` +
+                    `${runwayMap[e.airport + "_" + r].latitude.paddingRight(16)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(16)}` +
+                    `${getSidStarLatitudeLongitudeString(e.fixList[0])}`
                 );
 
                 // other fix
                 for (var a = 1; a < e.fixList.length - 1; a++) {
-                    ret.push(`${' '.paddingRight(33)}` +
-                        `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
-                        `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                    ret.push(`${' '.paddingRight(32)}` +
+                        `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
+                        `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`
                     );
                 }
             });
@@ -234,9 +244,9 @@ module.exports = {
             var name = `${e.airport}-${e.name}`;
 
             for (var a = 0; a < e.fixList.length - 1; a++) {
-                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
-                    `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
-                    `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                ret.push(`${name.substring(0, 26).paddingRight(32)}` +
+                    `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
+                    `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`
                 );
 
                 name = ' ';
@@ -245,20 +255,25 @@ module.exports = {
 
         // APPROACH only
         procedureList.filter(e => e.procedureType == "APPROACH").forEach(e => {
-            // first fix
             var name = `${e.airport}-${e.name}`;
-            ret.push(`${name.substring(0, 26).paddingRight(33)}` +
-                `${runwayMap[e.airport + "_" + e.runway].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + e.runway].longitude.paddingRight(17)}` +
-                `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
-            );
 
-            // other fix
-            for (var a = 1; a < e.fixList.length - 1; a++) {
-                ret.push(`${' '.paddingRight(33)}` +
-                    `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
-                    `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+            // fix
+            for (var a = 0; a < e.fixList.length - 1; a++) {
+                ret.push(`${name.paddingRight(32)}` +
+                    `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
+                    `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`
                 );
+
+                name = ' ';
             }
+
+            const lastFix = e.fixList[e.fixList.length - 1];
+
+            // other last + runway
+            ret.push(`${' '.paddingRight(32)}` +
+                `${getSidStarLatitudeLongitudeString(lastFix)}` +
+                `${runwayMap[e.airport + "_" + e.runway].latitude.paddingRight(16)}${runwayMap[e.airport + "_" + e.runway].longitude.paddingRight(16)}`
+            );
         });
 
         // STAR + APPROACH
@@ -266,26 +281,32 @@ module.exports = {
             procedureList.filter(e => e.procedureType == "STAR" && e.fixList.last() == t.fixList[0] && t.airport == e.airport).forEach(e => {
                 // first fix
                 var name = `${e.name}-${t.name}`;
-                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
-                    `${runwayMap[e.airport + "_" + t.runway].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + t.runway].longitude.paddingRight(17)}` +
-                    `${e.fixList[0].paddingRight(17)}${e.fixList[0].paddingRight(17)}`
-                );
 
                 // print STAR first
-                for (var a = 1; a < e.fixList.length - 1; a++) {
-                    ret.push(`${' '.paddingRight(33)}` +
-                        `${e.fixList[a].paddingRight(17)}${e.fixList[a].paddingRight(17)}` +
-                        `${e.fixList[a + 1].paddingRight(17)}${e.fixList[a + 1].paddingRight(17)}`
+                for (var a = 0; a < e.fixList.length - 1; a++) {
+                    ret.push(`${name.paddingRight(32)}` +
+                        `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
+                        `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`
                     );
+
+                    name = ' ';
                 }
 
                 // print APPROACH last
                 for (var a = 0; a < t.fixList.length - 1; a++) {
-                    ret.push(`${' '.paddingRight(33)}` +
-                        `${t.fixList[a].paddingRight(17)}${t.fixList[a].paddingRight(17)}` +
-                        `${t.fixList[a + 1].paddingRight(17)}${t.fixList[a + 1].paddingRight(17)}`
+                    ret.push(`${' '.paddingRight(32)}` +
+                        `${getSidStarLatitudeLongitudeString(t.fixList[a])}` +
+                        `${getSidStarLatitudeLongitudeString(t.fixList[a + 1])}`
                     );
                 }
+
+                const lastFix = t.fixList[t.fixList.length - 1];
+
+                // other last + runway
+                ret.push(`${' '.paddingRight(32)}` +
+                    `${getSidStarLatitudeLongitudeString(lastFix)}` +
+                    `${runwayMap[t.airport + "_" + t.runway].latitude.paddingRight(16)}${runwayMap[t.airport + "_" + t.runway].longitude.paddingRight(16)}`
+                );
             });
         });
 
