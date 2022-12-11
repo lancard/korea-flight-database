@@ -228,12 +228,12 @@ module.exports = {
                 // first fix
                 var name = `${e.name}(${r})`;
                 ret.push(`${name.substring(0, 26).paddingRight(32)}` +
-                    `${runwayMap[e.airport + "_" + r].latitude.paddingRight(16)}${runwayMap[e.airport + "_" + r].longitude.paddingRight(16)}` +
+                    `${runwayOppositeMap[e.airport + "_" + r].latitude.paddingRight(16)}${runwayOppositeMap[e.airport + "_" + r].longitude.paddingRight(16)}` +
                     `${getSidStarLatitudeLongitudeString(e.fixList[0])}`
                 );
 
                 // other fix
-                for (var a = 1; a < e.fixList.length - 1; a++) {
+                for (var a = 0; a < e.fixList.length - 1; a++) {
                     ret.push(`${' '.paddingRight(32)}` +
                         `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
                         `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`

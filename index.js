@@ -17,6 +17,7 @@ global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
 global.labelList = require('./database/label.json');
 global.runwayMap = {};
+global.runwayOppositeMap = {};
 
 String.prototype.paddingRight = function (paddingValue) {
     return this + (new Array(paddingValue - this.length + 1)).join(' ');
@@ -74,6 +75,8 @@ function initialize() {
 
         runwayMap[`${runwayList[r].airport}_${runwayList[r].runway}`] = { latitude: runwayList[r].startLatitude, longitude: runwayList[r].startLongitude };
         runwayMap[`${runwayList[r].airport}_${runwayList[r].oppositeRunway}`] = { latitude: runwayList[r].endLatitude, longitude: runwayList[r].endLongitude };
+        runwayOppositeMap[`${runwayList[r].airport}_${runwayList[r].oppositeRunway}`] = { latitude: runwayList[r].startLatitude, longitude: runwayList[r].startLongitude };
+        runwayOppositeMap[`${runwayList[r].airport}_${runwayList[r].runway}`] = { latitude: runwayList[r].endLatitude, longitude: runwayList[r].endLongitude };
     }
 
     // console.log(JSON.stringify(navaidList, null, '\t'));
