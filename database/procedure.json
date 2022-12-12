@@ -1350,6 +1350,272 @@
             "DALKA",
             "PIPAN"
         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "SEL1F",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "N037.30.02.000 E126.51.55.000",
+            "SEL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "SOT1E",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "N037.30.02.000 E126.51.55.000",
+            "SOT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "BULTI2U",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "UD050",
+            "UD060",
+            "UD080",
+            "UD100",
+            "UD160",
+            "BULTI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "NOPIK2U",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "UD050",
+            "UP050",
+            "UP060",
+            "UP059",
+            "UP100",
+            "NOPIK"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "EGOBA2U",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "UD050",
+            "SEL",
+            "EGOBA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "OSPOT2U",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "UD050",
+            "UD060",
+            "UD080",
+            "UG100",
+            "UG130",
+            "OSPOT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "BULTI2Z",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "UD050",
+            "UP050",
+            "ZD080",
+            "ZD100",
+            "ZD120",
+            "ZD119",
+            "BULTI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "OSPOT2Z",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "UD050",
+            "UP050",
+            "ZD080",
+            "ZD100",
+            "ZG130",
+            "OSPOT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "BULTI2T",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "TD040",
+            "TD050",
+            "TD100",
+            "TD120",
+            "TD130",
+            "TD180",
+            "TD200",
+            "BULTI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "EGOBA2T",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "TD040",
+            "TD050",
+            "TD100",
+            "TD120",
+            "TK130",
+            "EGOBA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "NOPIK2T",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "TD040",
+            "TD050",
+            "TP080",
+            "TP120",
+            "NOPIK"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "OSPOT2T",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "TD040",
+            "TD050",
+            "TD100",
+            "TD120",
+            "OSPOT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "BULTI2Q",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "QD040",
+            "QD050",
+            "QD080",
+            "QD090",
+            "QD110",
+            "QD150",
+            "QD160",
+            "BULTI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "EGOBA2Q",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "QD040",
+            "QD050",
+            "QD080",
+            "QK080",
+            "SEL",
+            "EGOBA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "NOPIK2Q",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "QD040",
+            "QD050",
+            "QP080",
+            "QP079",
+            "QP120",
+            "NOPIK"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "OSPOT2Q",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "QD040",
+            "QD050",
+            "QD080",
+            "QD090",
+            "QD110",
+            "QD150",
+            "QG180",
+            "OSPOT"
+        ]
     }
 ]
 
