@@ -2092,6 +2092,248 @@
             "N037.31.00.800 E126.50.40.900",
             "N037.32.32.800 E126.48.41.700"
         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "AKPON1E",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "PALRI",
+            "AKPON"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "KAMIT2E",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "PC811",
+            "OLLEH",
+            "KAMIT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "LIMDI1E",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "PALRI",
+            "PC813",
+            "CJU",
+            "PC816",
+            "LIMDI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "PANSI2E",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "PALRI",
+            "PC813",
+            "CJU",
+            "PC814",
+            "PANSI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "TAMNA2E",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "PALRI",
+            "TAMNA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "IPDAS4K",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "N033.33.59.571 E126.36.11.616",
+            "N033.53.01.437 E126.40.44.492",
+            "IPDAS"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "MAKET4K",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "N033.33.59.571 E126.36.11.616",
+            "N033.37.57.981 E126.43.24.458",
+            "MAKET"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "TAMNA2K",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "N033.33.59.571 E126.36.11.616",
+            "N033.37.57.981 E126.43.24.458",
+            "N033.29.29.647 E126.55.00.198",
+            "TMANA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "CJU4K",
+        "runway": [
+            "07"
+        ],
+        "fixList": [
+            "N033.33.59.571 E126.36.11.616",
+            "N033.37.57.981 E126.43.24.458",
+            "N033.27.35.782 E126.49.47.105",
+            "CJU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "AKPON1W",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "PC841",
+            "PC842",
+            "PC846",
+            "ATIMO",
+            "PAPLU",
+            "AKPON"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "KAMIT1W",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "MEXER",
+            "PC832",
+            "PC833",
+            "OLLEH",
+            "KAMIT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "LIMDI1W",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "MEXER",
+            "LEDIN",
+            "LIMDI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "PANSI2W",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "PC841",
+            "PANSI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "TAMNA3W",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "PC841",
+            "PC842",
+            "PC846",
+            "ATIMO",
+            "PC845",
+            "TAMNA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "CJU2L",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "N033.27.25.662 E126.23.13.288",
+            "N33.28.54.047 E126.22.28.107",
+            "N33.31.03.054 E126.22.02.104",
+            "N33.33.04.274 E126.22.35.492",
+            "N33.35.08.688 E126.24.24.722",
+            "YDM",
+            "CJU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "AKPON1N",
+        "runway": [
+            "31"
+        ],
+        "fixList": [
+            "PC861",
+            "PC871",
+            "PC872",
+            "TOREN",
+            "PC874",
+            "AKPON"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "KAMIT2N",
+        "runway": [
+            "31"
+        ],
+        "fixList": [
+            "PC861",
+            "PC871",
+            "PC872",
+            "TOREN",
+            "OLLEH",
+            "KAMIT"
+        ]
     }
 ]
 
