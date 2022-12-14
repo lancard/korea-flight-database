@@ -1833,6 +1833,265 @@
             "PU029",
             "DOKDO"
         ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILSZ14L",
+        "runway": "14L",
+        "fixList": [
+            "DOKDO",
+            "GU009",
+            "GU004"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILSY14L",
+        "runway": "14L",
+        "fixList": [
+            "CAVOI",
+            "N037.39.20.600 E126.40.16.700",
+            "N037.37.07.100 E126.43.04.800",
+            "N037.35.32.200 E126.45.04.300",
+            "N037.34.41.100 E126.46.08.400"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "RNP14L",
+        "runway": "14L",
+        "fixList": [
+            "DOKDO",
+            "GU009",
+            "GU004",
+            "GU002"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILS14R",
+        "runway": "14R",
+        "fixList": [
+            "DOKDO",
+            "DU009",
+            "DU004"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "RNP14R",
+        "runway": "14R",
+        "fixList": [
+            "DOKDO",
+            "DU009",
+            "DU004",
+            "DU002"
+        ]
+    },
+     {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILS32L.BUMSI",
+        "runway": "32L",
+        "fixList": [
+            "BUMSI",
+            "PUDUB",
+            "WONKO",
+            "DT009",
+            "DT007",
+            "DT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILS32L.PT022",
+        "runway": "32L",
+        "fixList": [
+            "PT022",
+            "PT017",
+            "WONKO",
+            "DT009",
+            "DT007",
+            "DT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILS32L.KT023",
+        "runway": "32L",
+        "fixList": [
+            "KT023",
+            "KT018",
+            "WONKO",
+            "DT009",
+            "DT007",
+            "DT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "RNP32L.BUMSI",
+        "runway": "32L",
+        "fixList": [
+            "BUMSI",
+            "PUDUB",
+            "WONKO",
+            "DT009",
+            "DT007",
+            "DT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "RNP32L.PT022",
+        "runway": "32L",
+        "fixList": [
+            "PT022",
+            "PT017",
+            "WONKO",
+            "DT009",
+            "DT007",
+            "DT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "RNP32L.KT023",
+        "runway": "32L",
+        "fixList": [
+            "KT023",
+            "KT018",
+            "WONKO",
+            "DT009",
+            "DT007",
+            "DT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "VOR32L",
+        "runway": "32L",
+        "fixList": [
+            "BUMSI",
+            "N037.19.00.400 E127.04.54.700",
+            "N037.20.27.200 E127.03.10.700",
+            "N037.23.55.400 E126.59.00.700",
+            "N037.26.31.400 E126.55.52.900",
+            "N037.28.41.400 E126.53.16.300",
+            "N037.31.17.300 E126.50.08.200",
+            "N037.32.30.800 E126.48.39.200"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILS32R.BUMSI",
+        "runway": "32R",
+        "fixList": [
+            "BUMSI",
+            "PUDUB",
+            "MOBAK",
+            "GT009",
+            "GT007",
+            "GT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILS32R.PT022",
+        "runway": "32R",
+        "fixList": [
+            "PT022",
+            "PT017",
+            "MOBAK",
+            "GT009",
+            "GT007",
+            "GT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "ILS32R.KT023",
+        "runway": "32R",
+        "fixList": [
+            "KT023",
+            "KT018",
+            "MOBAK",
+            "GT009",
+            "GT007",
+            "GT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "RNP32R.BUMSI",
+        "runway": "32R",
+        "fixList": [
+            "BUMSI",
+            "PUDUB",
+            "MOBAK",
+            "GT009",
+            "GT007",
+            "GT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "RNP32R.PT022",
+        "runway": "32R",
+        "fixList": [
+            "PT022",
+            "PT017",
+            "MOBAK",
+            "GT009",
+            "GT007",
+            "GT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "RNP32R.KT023",
+        "runway": "32R",
+        "fixList": [
+            "KT023",
+            "KT018",
+            "MOBAK",
+            "GT009",
+            "GT007",
+            "GT006"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSS",
+        "name": "VOR32R",
+        "runway": "32R",
+        "fixList": [
+            "BUMSI",
+            "N037.19.29.900 E127.05.32.000",
+            "N037.20.53.800 E127.03.44.200",
+            "N037.24.15.200 E126.59.25.700",
+            "N037.26.45.900 E126.56.11.200",
+            "N037.28.47.000 E126.53.34.100",
+            "N037.31.00.800 E126.50.40.900",
+            "N037.32.32.800 E126.48.41.700"
+        ]
     }
 ]
 
