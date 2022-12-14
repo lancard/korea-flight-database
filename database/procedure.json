@@ -1616,6 +1616,223 @@
             "QG180",
             "OSPOT"
         ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "GUKDO2U",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "GUKDO",
+            "GU069",
+            "DU063",
+            "SUPOM",
+            "SEL",
+            "DU030",
+            "DU025",
+            "DU022",
+            "DU018",
+            "DOKDO"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "KARBU2U",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "EGOBA",
+            "SEL",
+            "DU030",
+            "DU025",
+            "DU022",
+            "DU018",
+            "DOKDO"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "OLMEN2U",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "OLMEN",
+            "DU066",
+            "KAKSO",
+            "DU063",
+            "SUPOM",
+            "SEL",
+            "DU030",
+            "DU025",
+            "DU022",
+            "DU018",
+            "DOKDO"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "REBIT2U",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "REBIT",
+            "PU060",
+            "PU046",
+            "PU033",
+            "PU025",
+            "DOKDO"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "REBIT2Z",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "REBIT",
+            "PZ061",
+            "PZ049",
+            "PZ040",
+            "PZ035",
+            "PZ030",
+            "PZ026",
+            "DU022",
+            "DU018",
+            "DOKDO"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "GUKDO2T",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "GUKDO",
+            "GT044",
+            "DT038",
+            "DT034",
+            "BUMSI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "KARBU2T",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "KARBU",
+            "EGOBA",
+            "KT033",
+            "BUMSI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "OLMEN2T",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "OLMEN",
+            "DT043",
+            "KAKSO",
+            "DT038",
+            "DT034",
+            "BUMSI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "REBIT2T",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "REBIT",
+            "PT091",
+            "PT062",
+            "PT055",
+            "PT041",
+            "PT030",
+            "BUMSI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "REBIT2Q",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "REBIT",
+            "PQ091",
+            "PQ078",
+            "PQ070",
+            "PQ058",
+            "PQ032",
+            "BUMSI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "LEGAK1T.GONAV",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "GONAV",
+            "LEGAK",
+            "PT075",
+            "PT054",
+            "PT042",
+            "PT029",
+            "PT022"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
+        "name": "LEGAK1U.GONAV",
+        "runway": [
+            "14L",
+            "14R"
+        ],
+        "fixList": [
+            "LEGAK",
+            "PU063",
+            "PU044",
+            "PU029",
+            "DOKDO"
+        ]
     }
 ]
 
