@@ -1,0 +1,543 @@
+{
+	"BUILD-C__24": {
+		"airport": "RKJM",
+		"name": "BUILD-C__24",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.31.211",
+				"longitude1": "E126.22.59.235",
+				"latitude2": "N034.45.30.466",
+				"longitude2": "E126.23.00.013"
+			},
+			{
+				"latitude1": "N034.45.30.466",
+				"longitude1": "E126.23.00.013",
+				"latitude2": "N034.45.31.978",
+				"longitude2": "E126.23.02.235"
+			},
+			{
+				"latitude1": "N034.45.31.978",
+				"longitude1": "E126.23.02.235",
+				"latitude2": "N034.45.32.738",
+				"longitude2": "E126.23.01.461"
+			},
+			{
+				"latitude1": "N034.45.32.738",
+				"longitude1": "E126.23.01.461",
+				"latitude2": "N034.45.31.191",
+				"longitude2": "E126.22.59.240"
+			}
+		]
+	},
+	"BUILD-C__25": {
+		"airport": "RKJM",
+		"name": "BUILD-C__25",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.30.743",
+				"longitude1": "E126.22.58.530",
+				"latitude2": "N034.45.29.912",
+				"longitude2": "E126.22.57.270"
+			},
+			{
+				"latitude1": "N034.45.29.912",
+				"longitude1": "E126.22.57.270",
+				"latitude2": "N034.45.29.145",
+				"longitude2": "E126.22.58.012"
+			},
+			{
+				"latitude1": "N034.45.29.145",
+				"longitude1": "E126.22.58.012",
+				"latitude2": "N034.45.29.145",
+				"longitude2": "E126.22.58.012"
+			},
+			{
+				"latitude1": "N034.45.29.145",
+				"longitude1": "E126.22.58.012",
+				"latitude2": "N034.45.30.036",
+				"longitude2": "E126.22.59.293"
+			},
+			{
+				"latitude1": "N034.45.30.036",
+				"longitude1": "E126.22.59.293",
+				"latitude2": "N034.45.30.739",
+				"longitude2": "E126.22.58.524"
+			},
+			{
+				"latitude1": "N034.45.30.739",
+				"longitude1": "E126.22.58.524",
+				"latitude2": "N034.45.30.739",
+				"longitude2": "E126.22.58.524"
+			}
+		]
+	},
+	"RKJM-Border__1130": {
+		"airport": "RKJM",
+		"name": "RKJM-Border__1130",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.35.982",
+				"longitude1": "E126.22.56.405",
+				"latitude2": "N034.45.35.878",
+				"longitude2": "E126.22.56.823"
+			},
+			{
+				"latitude1": "N034.45.35.878",
+				"longitude1": "E126.22.56.823",
+				"latitude2": "N034.45.34.737",
+				"longitude2": "E126.22.57.983"
+			},
+			{
+				"latitude1": "N034.45.34.737",
+				"longitude1": "E126.22.57.983",
+				"latitude2": "N034.45.34.737",
+				"longitude2": "E126.22.57.983"
+			},
+			{
+				"latitude1": "N034.45.34.737",
+				"longitude1": "E126.22.57.983",
+				"latitude2": "N034.45.34.514",
+				"longitude2": "E126.22.57.991"
+			},
+			{
+				"latitude1": "N034.45.34.514",
+				"longitude1": "E126.22.57.991",
+				"latitude2": "N034.45.34.272",
+				"longitude2": "E126.22.57.931"
+			},
+			{
+				"latitude1": "N034.45.34.272",
+				"longitude1": "E126.22.57.931",
+				"latitude2": "N034.45.32.256",
+				"longitude2": "E126.22.54.999"
+			},
+			{
+				"latitude1": "N034.45.32.256",
+				"longitude1": "E126.22.54.999",
+				"latitude2": "N034.45.29.981",
+				"longitude2": "E126.22.57.354"
+			}
+		]
+	},
+	"RKJM-Border__1131": {
+		"airport": "RKJM",
+		"name": "RKJM-Border__1131",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.30.633",
+				"longitude1": "E126.22.58.665",
+				"latitude2": "N034.45.30.633",
+				"longitude2": "E126.22.58.665"
+			},
+			{
+				"latitude1": "N034.45.30.633",
+				"longitude1": "E126.22.58.665",
+				"latitude2": "N034.45.30.633",
+				"longitude2": "E126.22.58.665"
+			},
+			{
+				"latitude1": "N034.45.30.633",
+				"longitude1": "E126.22.58.665",
+				"latitude2": "N034.45.31.106",
+				"longitude2": "E126.22.59.365"
+			}
+		]
+	},
+	"RKJM-Border__1132": {
+		"airport": "RKJM",
+		"name": "RKJM-Border__1132",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.32.613",
+				"longitude1": "E126.23.01.558",
+				"latitude2": "N034.45.33.416",
+				"longitude2": "E126.23.02.669"
+			},
+			{
+				"latitude1": "N034.45.33.416",
+				"longitude1": "E126.23.02.669",
+				"latitude2": "N034.45.33.927",
+				"longitude2": "E126.23.02.376"
+			},
+			{
+				"latitude1": "N034.45.33.927",
+				"longitude1": "E126.23.02.376",
+				"latitude2": "N034.45.34.387",
+				"longitude2": "E126.23.02.622"
+			},
+			{
+				"latitude1": "N034.45.34.387",
+				"longitude1": "E126.23.02.622",
+				"latitude2": "N034.45.36.241",
+				"longitude2": "E126.23.00.706"
+			},
+			{
+				"latitude1": "N034.45.36.241",
+				"longitude1": "E126.23.00.706",
+				"latitude2": "N034.45.35.572",
+				"longitude2": "E126.22.59.734"
+			},
+			{
+				"latitude1": "N034.45.35.572",
+				"longitude1": "E126.22.59.734",
+				"latitude2": "N034.45.35.487",
+				"longitude2": "E126.22.59.366"
+			},
+			{
+				"latitude1": "N034.45.35.487",
+				"longitude1": "E126.22.59.366",
+				"latitude2": "N034.45.35.436",
+				"longitude2": "E126.22.59.010"
+			},
+			{
+				"latitude1": "N034.45.35.436",
+				"longitude1": "E126.22.59.010",
+				"latitude2": "N034.45.35.581",
+				"longitude2": "E126.22.58.623"
+			},
+			{
+				"latitude1": "N034.45.35.581",
+				"longitude1": "E126.22.58.623",
+				"latitude2": "N034.45.36.378",
+				"longitude2": "E126.22.57.800"
+			},
+			{
+				"latitude1": "N034.45.36.378",
+				"longitude1": "E126.22.57.800",
+				"latitude2": "N034.45.36.868",
+				"longitude2": "E126.22.57.719"
+			}
+		]
+	},
+	"RKJM-Border__1133": {
+		"airport": "RKJM",
+		"name": "RKJM-Border__1133",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.47.276",
+				"longitude1": "E126.23.10.080",
+				"latitude2": "N034.45.47.323",
+				"longitude2": "E126.23.09.479"
+			},
+			{
+				"latitude1": "N034.45.47.323",
+				"longitude1": "E126.23.09.479",
+				"latitude2": "N034.45.49.107",
+				"longitude2": "E126.23.07.649"
+			},
+			{
+				"latitude1": "N034.45.49.107",
+				"longitude1": "E126.23.07.649",
+				"latitude2": "N034.45.50.216",
+				"longitude2": "E126.23.09.311"
+			},
+			{
+				"latitude1": "N034.45.50.216",
+				"longitude1": "E126.23.09.311",
+				"latitude2": "N034.45.49.317",
+				"longitude2": "E126.23.10.228"
+			},
+			{
+				"latitude1": "N034.45.49.317",
+				"longitude1": "E126.23.10.228",
+				"latitude2": "N034.45.51.653",
+				"longitude2": "E126.23.13.654"
+			},
+			{
+				"latitude1": "N034.45.51.653",
+				"longitude1": "E126.23.13.654",
+				"latitude2": "N034.45.51.264",
+				"longitude2": "E126.23.14.025"
+			},
+			{
+				"latitude1": "N034.45.51.264",
+				"longitude1": "E126.23.14.025",
+				"latitude2": "N034.45.54.500",
+				"longitude2": "E126.23.15.039"
+			},
+			{
+				"latitude1": "N034.45.54.500",
+				"longitude1": "E126.23.15.039",
+				"latitude2": "N034.45.52.808",
+				"longitude2": "E126.23.12.593"
+			},
+			{
+				"latitude1": "N034.45.52.808",
+				"longitude1": "E126.23.12.593",
+				"latitude2": "N034.45.52.203",
+				"longitude2": "E126.23.13.210"
+			},
+			{
+				"latitude1": "N034.45.52.203",
+				"longitude1": "E126.23.13.210",
+				"latitude2": "N034.45.50.319",
+				"longitude2": "E126.23.10.461"
+			},
+			{
+				"latitude1": "N034.45.50.319",
+				"longitude1": "E126.23.10.461",
+				"latitude2": "N034.45.52.301",
+				"longitude2": "E126.23.08.436"
+			},
+			{
+				"latitude1": "N034.45.52.301",
+				"longitude1": "E126.23.08.436",
+				"latitude2": "N034.45.48.657",
+				"longitude2": "E126.23.03.196"
+			},
+			{
+				"latitude1": "N034.45.48.657",
+				"longitude1": "E126.23.03.196",
+				"latitude2": "N034.45.47.147",
+				"longitude2": "E126.23.04.762"
+			},
+			{
+				"latitude1": "N034.45.47.147",
+				"longitude1": "E126.23.04.762",
+				"latitude2": "N034.45.47.147",
+				"longitude2": "E126.23.04.762"
+			},
+			{
+				"latitude1": "N034.45.47.147",
+				"longitude1": "E126.23.04.762",
+				"latitude2": "N034.45.48.699",
+				"longitude2": "E126.23.07.022"
+			},
+			{
+				"latitude1": "N034.45.48.699",
+				"longitude1": "E126.23.07.022",
+				"latitude2": "N034.45.46.952",
+				"longitude2": "E126.23.08.752"
+			},
+			{
+				"latitude1": "N034.45.46.952",
+				"longitude1": "E126.23.08.752",
+				"latitude2": "N034.45.46.351",
+				"longitude2": "E126.23.08.804"
+			},
+			{
+				"latitude1": "N034.45.46.351",
+				"longitude1": "E126.23.08.804",
+				"latitude2": "N034.45.46.351",
+				"longitude2": "E126.23.08.804"
+			}
+		]
+	},
+	"RKJM-Runway-PrethresholdArea__70": {
+		"airport": "RKJM",
+		"name": "RKJM-Runway-PrethresholdArea__70",
+		"description": "PrethresholdArea",
+		"lineList": [
+			{
+				"latitude1": "N034.45.14.723",
+				"longitude1": "E126.22.25.113",
+				"latitude2": "N034.45.14.723",
+				"longitude2": "E126.22.25.113"
+			},
+			{
+				"latitude1": "N034.45.14.723",
+				"longitude1": "E126.22.25.113",
+				"latitude2": "N034.45.13.508",
+				"longitude2": "E126.22.23.391"
+			},
+			{
+				"latitude1": "N034.45.13.508",
+				"longitude1": "E126.22.23.391",
+				"latitude2": "N034.45.14.291",
+				"longitude2": "E126.22.22.589"
+			},
+			{
+				"latitude1": "N034.45.14.291",
+				"longitude1": "E126.22.22.589",
+				"latitude2": "N034.45.15.477",
+				"longitude2": "E126.22.24.306"
+			},
+			{
+				"latitude1": "N034.45.15.477",
+				"longitude1": "E126.22.24.306",
+				"latitude2": "N034.45.14.697",
+				"longitude2": "E126.22.25.118"
+			}
+		]
+	},
+	"RKJM-Runway-PrethresholdArea__71": {
+		"airport": "RKJM",
+		"name": "RKJM-Runway-PrethresholdArea__71",
+		"description": "PrethresholdArea",
+		"lineList": [
+			{
+				"latitude1": "N034.45.47.817",
+				"longitude1": "E126.23.13.281",
+				"latitude2": "N034.45.49.002",
+				"longitude2": "E126.23.15.008"
+			},
+			{
+				"latitude1": "N034.45.49.002",
+				"longitude1": "E126.23.15.008",
+				"latitude2": "N034.45.49.790",
+				"longitude2": "E126.23.14.221"
+			},
+			{
+				"latitude1": "N034.45.49.790",
+				"longitude1": "E126.23.14.221",
+				"latitude2": "N034.45.48.640",
+				"longitude2": "E126.23.12.491"
+			},
+			{
+				"latitude1": "N034.45.48.640",
+				"longitude1": "E126.23.12.491",
+				"latitude2": "N034.45.47.864",
+				"longitude2": "E126.23.13.268"
+			}
+		]
+	},
+	"RunwayColor__727": {
+		"airport": "RKJM",
+		"name": "RunwayColor__727",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.17.816",
+				"longitude1": "E126.22.30.020",
+				"latitude2": "N034.45.17.816",
+				"longitude2": "E126.22.30.020"
+			},
+			{
+				"latitude1": "N034.45.17.816",
+				"longitude1": "E126.22.30.020",
+				"latitude2": "N034.45.35.989",
+				"longitude2": "E126.22.56.439"
+			}
+		]
+	},
+	"RunwayColor__728": {
+		"airport": "RKJM",
+		"name": "RunwayColor__728",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.36.863",
+				"longitude1": "E126.22.57.711",
+				"latitude2": "N034.45.45.366",
+				"longitude2": "E126.23.10.035"
+			},
+			{
+				"latitude1": "N034.45.45.366",
+				"longitude1": "E126.23.10.035",
+				"latitude2": "N034.45.45.178",
+				"longitude2": "E126.23.12.021"
+			},
+			{
+				"latitude1": "N034.45.45.178",
+				"longitude1": "E126.23.12.021",
+				"latitude2": "N034.45.46.861",
+				"longitude2": "E126.23.14.454"
+			},
+			{
+				"latitude1": "N034.45.46.861",
+				"longitude1": "E126.23.14.454",
+				"latitude2": "N034.45.47.902",
+				"longitude2": "E126.23.13.372"
+			}
+		]
+	},
+	"RunwayColor__729": {
+		"airport": "RKJM",
+		"name": "RunwayColor__729",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.48.686",
+				"longitude1": "E126.23.12.591",
+				"latitude2": "N034.45.48.844",
+				"longitude2": "E126.23.12.410"
+			},
+			{
+				"latitude1": "N034.45.48.844",
+				"longitude1": "E126.23.12.410",
+				"latitude2": "N034.45.47.276",
+				"longitude2": "E126.23.10.103"
+			},
+			{
+				"latitude1": "N034.45.47.276",
+				"longitude1": "E126.23.10.103",
+				"latitude2": "N034.45.47.276",
+				"longitude2": "E126.23.10.103"
+			}
+		]
+	},
+	"RunwayColor__730": {
+		"airport": "RKJM",
+		"name": "RunwayColor__730",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.46.351",
+				"longitude1": "E126.23.08.778",
+				"latitude2": "N034.45.15.690",
+				"longitude2": "E126.22.24.151"
+			},
+			{
+				"latitude1": "N034.45.15.690",
+				"longitude1": "E126.22.24.151",
+				"latitude2": "N034.45.15.528",
+				"longitude2": "E126.22.24.298"
+			}
+		]
+	},
+	"RunwayColor__731": {
+		"airport": "RKJM",
+		"name": "RunwayColor__731",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N034.45.14.551",
+				"longitude1": "E126.22.25.264",
+				"latitude2": "N034.45.14.551",
+				"longitude2": "E126.22.25.264"
+			},
+			{
+				"latitude1": "N034.45.14.551",
+				"longitude1": "E126.22.25.264",
+				"latitude2": "N034.45.14.700",
+				"longitude2": "E126.22.25.123"
+			},
+			{
+				"latitude1": "N034.45.14.700",
+				"longitude1": "E126.22.25.123",
+				"latitude2": "N034.45.13.563",
+				"longitude2": "E126.22.26.284"
+			},
+			{
+				"latitude1": "N034.45.13.563",
+				"longitude1": "E126.22.26.284",
+				"latitude2": "N034.45.13.563",
+				"longitude2": "E126.22.26.284"
+			},
+			{
+				"latitude1": "N034.45.13.563",
+				"longitude1": "E126.22.26.284",
+				"latitude2": "N034.45.15.942",
+				"longitude2": "E126.22.29.730"
+			},
+			{
+				"latitude1": "N034.45.15.942",
+				"longitude1": "E126.22.29.730",
+				"latitude2": "N034.45.17.858",
+				"longitude2": "E126.22.30.015"
+			},
+			{
+				"latitude1": "N034.45.17.858",
+				"longitude1": "E126.22.30.015",
+				"latitude2": "N034.45.17.858",
+				"longitude2": "E126.22.30.015"
+			}
+		]
+	}
+}

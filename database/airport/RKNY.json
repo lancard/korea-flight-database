@@ -1,0 +1,405 @@
+{
+	"RKNY-BlastPad_34": {
+		"airport": "RKNY",
+		"name": "RKNY-BlastPad_34",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.04.12.861",
+				"longitude1": "E128.39.37.414",
+				"latitude2": "N038.04.15.765",
+				"longitude2": "E128.39.34.369"
+			},
+			{
+				"latitude1": "N038.04.15.765",
+				"longitude1": "E128.39.34.369",
+				"latitude2": "N038.04.14.635",
+				"longitude2": "E128.39.32.508"
+			},
+			{
+				"latitude1": "N038.04.14.635",
+				"longitude1": "E128.39.32.508",
+				"latitude2": "N038.04.13.207",
+				"longitude2": "E128.39.33.960"
+			},
+			{
+				"latitude1": "N038.04.13.207",
+				"longitude1": "E128.39.33.960",
+				"latitude2": "N038.04.11.596",
+				"longitude2": "E128.39.35.650"
+			}
+		]
+	},
+	"RKNY-BlastPad_35": {
+		"airport": "RKNY",
+		"name": "RKNY-BlastPad_35",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.08.547",
+				"longitude1": "E128.40.40.438",
+				"latitude2": "N038.03.05.666",
+				"longitude2": "E128.40.43.462"
+			},
+			{
+				"latitude1": "N038.03.05.666",
+				"longitude1": "E128.40.43.462",
+				"latitude2": "N038.03.06.836",
+				"longitude2": "E128.40.45.348"
+			},
+			{
+				"latitude1": "N038.03.06.836",
+				"longitude1": "E128.40.45.348",
+				"latitude2": "N038.03.09.808",
+				"longitude2": "E128.40.42.332"
+			}
+		]
+	},
+	"RKNY-Border__1084": {
+		"airport": "RKNY",
+		"name": "RKNY-Border__1084",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.42.558",
+				"longitude1": "E128.40.03.342",
+				"latitude2": "N038.03.37.388",
+				"longitude2": "E128.39.55.214"
+			},
+			{
+				"latitude1": "N038.03.37.388",
+				"longitude1": "E128.39.55.214",
+				"latitude2": "N038.03.41.890",
+				"longitude2": "E128.39.50.551"
+			},
+			{
+				"latitude1": "N038.03.41.890",
+				"longitude1": "E128.39.50.551",
+				"latitude2": "N038.03.37.218",
+				"longitude2": "E128.39.43.386"
+			},
+			{
+				"latitude1": "N038.03.37.218",
+				"longitude1": "E128.39.43.386",
+				"latitude2": "N038.03.34.580",
+				"longitude2": "E128.39.45.948"
+			}
+		]
+	},
+	"RKNY-Border__1085": {
+		"airport": "RKNY",
+		"name": "RKNY-Border__1085",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.42.138",
+				"longitude1": "E128.40.04.103",
+				"latitude2": "N038.03.35.886",
+				"longitude2": "E128.39.54.356"
+			},
+			{
+				"latitude1": "N038.03.35.886",
+				"longitude1": "E128.39.54.356",
+				"latitude2": "N038.03.35.462",
+				"longitude2": "E128.39.54.019"
+			},
+			{
+				"latitude1": "N038.03.35.462",
+				"longitude1": "E128.39.54.019",
+				"latitude2": "N038.03.34.977",
+				"longitude2": "E128.39.53.780"
+			},
+			{
+				"latitude1": "N038.03.34.977",
+				"longitude1": "E128.39.53.780",
+				"latitude2": "N038.03.34.399",
+				"longitude2": "E128.39.53.699"
+			},
+			{
+				"latitude1": "N038.03.34.399",
+				"longitude1": "E128.39.53.699",
+				"latitude2": "N038.03.33.882",
+				"longitude2": "E128.39.53.890"
+			},
+			{
+				"latitude1": "N038.03.33.882",
+				"longitude1": "E128.39.53.890",
+				"latitude2": "N038.03.33.344",
+				"longitude2": "E128.39.54.254"
+			},
+			{
+				"latitude1": "N038.03.33.344",
+				"longitude1": "E128.39.54.254",
+				"latitude2": "N038.03.30.107",
+				"longitude2": "E128.39.57.853"
+			},
+			{
+				"latitude1": "N038.03.30.107",
+				"longitude1": "E128.39.57.853",
+				"latitude2": "N038.03.27.021",
+				"longitude2": "E128.39.52.845"
+			},
+			{
+				"latitude1": "N038.03.27.021",
+				"longitude1": "E128.39.52.845",
+				"latitude2": "N038.03.28.859",
+				"longitude2": "E128.39.50.913"
+			}
+		]
+	},
+	"RKNY-Border__1086": {
+		"airport": "RKNY",
+		"name": "RKNY-Border__1086",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.39.874",
+				"longitude1": "E128.39.47.403",
+				"latitude2": "N038.03.45.461",
+				"longitude2": "E128.39.56.276"
+			},
+			{
+				"latitude1": "N038.03.14.284",
+				"longitude1": "E128.40.27.996",
+				"latitude2": "N038.03.35.372",
+				"longitude2": "E128.40.06.264"
+			},
+			{
+				"latitude1": "N038.03.35.372",
+				"longitude1": "E128.40.06.264",
+				"latitude2": "N038.03.30.678",
+				"longitude2": "E128.39.58.288"
+			},
+			{
+				"latitude1": "N038.03.45.461",
+				"longitude1": "E128.39.56.276",
+				"latitude2": "N038.04.17.750",
+				"longitude2": "E128.39.22.926"
+			},
+			{
+				"latitude1": "N038.04.17.750",
+				"longitude1": "E128.39.22.926",
+				"latitude2": "N038.04.23.740",
+				"longitude2": "E128.39.32.202"
+			},
+			{
+				"latitude1": "N038.04.23.740",
+				"longitude1": "E128.39.32.202",
+				"latitude2": "N038.03.03.691",
+				"longitude2": "E128.40.54.928"
+			},
+			{
+				"latitude1": "N038.03.03.691",
+				"longitude1": "E128.40.54.928",
+				"latitude2": "N038.02.57.634",
+				"longitude2": "E128.40.45.034"
+			},
+			{
+				"latitude1": "N038.02.57.634",
+				"longitude1": "E128.40.45.034",
+				"latitude2": "N038.03.02.431",
+				"longitude2": "E128.40.40.301"
+			},
+			{
+				"latitude1": "N038.03.02.431",
+				"longitude1": "E128.40.40.301",
+				"latitude2": "N038.03.02.274",
+				"longitude2": "E128.40.38.783"
+			},
+			{
+				"latitude1": "N038.03.02.274",
+				"longitude1": "E128.40.38.783",
+				"latitude2": "N038.03.13.419",
+				"longitude2": "E128.40.27.520"
+			},
+			{
+				"latitude1": "N038.03.13.419",
+				"longitude1": "E128.40.27.520",
+				"latitude2": "N038.03.14.284",
+				"longitude2": "E128.40.27.996"
+			}
+		]
+	},
+	"RKNY-Building-MainTerminal": {
+		"airport": "RKNY",
+		"name": "RKNY-Building-MainTerminal",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.34.853",
+				"longitude1": "E128.39.44.754",
+				"latitude2": "N038.03.29.394",
+				"longitude2": "E128.39.50.333"
+			},
+			{
+				"latitude1": "N038.03.29.394",
+				"longitude1": "E128.39.50.333",
+				"latitude2": "N038.03.29.219",
+				"longitude2": "E128.39.50.071"
+			},
+			{
+				"latitude1": "N038.03.29.219",
+				"longitude1": "E128.39.50.071",
+				"latitude2": "N038.03.29.702",
+				"longitude2": "E128.39.49.593"
+			},
+			{
+				"latitude1": "N038.03.29.702",
+				"longitude1": "E128.39.49.593",
+				"latitude2": "N038.03.28.362",
+				"longitude2": "E128.39.47.582"
+			},
+			{
+				"latitude1": "N038.03.28.362",
+				"longitude1": "E128.39.47.582",
+				"latitude2": "N038.03.33.090",
+				"longitude2": "E128.39.42.777"
+			},
+			{
+				"latitude1": "N038.03.33.090",
+				"longitude1": "E128.39.42.777",
+				"latitude2": "N038.03.34.386",
+				"longitude2": "E128.39.44.841"
+			},
+			{
+				"latitude1": "N038.03.34.386",
+				"longitude1": "E128.39.44.841",
+				"latitude2": "N038.03.34.708",
+				"longitude2": "E128.39.44.510"
+			},
+			{
+				"latitude1": "N038.03.34.708",
+				"longitude1": "E128.39.44.510",
+				"latitude2": "N038.03.34.865",
+				"longitude2": "E128.39.44.738"
+			}
+		]
+	},
+	"RKNY-RunwayColor__688": {
+		"airport": "RKNY",
+		"name": "RKNY-RunwayColor__688",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.09.813",
+				"longitude1": "E128.40.42.300",
+				"latitude2": "N038.04.12.644",
+				"longitude2": "E128.39.37.333"
+			}
+		]
+	},
+	"RKNY-RunwayColor__689": {
+		"airport": "RKNY",
+		"name": "RKNY-RunwayColor__689",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.13.675",
+				"longitude1": "E128.40.35.652",
+				"latitude2": "N038.03.41.843",
+				"longitude2": "E128.40.06.646"
+			}
+		]
+	},
+	"RKNY-RunwayColor__690": {
+		"airport": "RKNY",
+		"name": "RKNY-RunwayColor__690",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.44.727",
+				"longitude1": "E128.40.03.600",
+				"latitude2": "N038.04.08.494",
+				"longitude2": "E128.39.39.249"
+			}
+		]
+	},
+	"RKNY-RunwayColor__692": {
+		"airport": "RKNY",
+		"name": "RKNY-RunwayColor__692",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.04.11.589",
+				"longitude1": "E128.39.35.641",
+				"latitude2": "N038.04.11.025",
+				"longitude2": "E128.39.34.841"
+			},
+			{
+				"latitude1": "N038.04.11.025",
+				"longitude1": "E128.39.34.841",
+				"latitude2": "N038.04.09.264",
+				"longitude2": "E128.39.36.630"
+			},
+			{
+				"latitude1": "N038.04.09.264",
+				"longitude1": "E128.39.36.630",
+				"latitude2": "N038.04.08.461",
+				"longitude2": "E128.39.39.247"
+			}
+		]
+	},
+	"RKNY-RunwayColor__693": {
+		"airport": "RKNY",
+		"name": "RKNY-RunwayColor__693",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.08.814",
+				"longitude1": "E128.40.40.586",
+				"latitude2": "N038.03.07.897",
+				"longitude2": "E128.40.39.125"
+			},
+			{
+				"latitude1": "N038.03.07.897",
+				"longitude1": "E128.40.39.125",
+				"latitude2": "N038.03.10.668",
+				"longitude2": "E128.40.36.276"
+			},
+			{
+				"latitude1": "N038.03.10.668",
+				"longitude1": "E128.40.36.276",
+				"latitude2": "N038.03.13.675",
+				"longitude2": "E128.40.35.671"
+			}
+		]
+	},
+	"RKNY-TaxiwayCenterLine_A": {
+		"airport": "RKNY",
+		"name": "RKNY-TaxiwayCenterLine_A",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.43.671",
+				"longitude1": "E128.40.05.825",
+				"latitude2": "N038.03.34.837",
+				"longitude2": "E128.39.52.040"
+			}
+		]
+	},
+	"RKNY-TaxiwayCenterLine_R": {
+		"airport": "RKNY",
+		"name": "RKNY-TaxiwayCenterLine_R",
+		"description": "지형 및 바운더리 등",
+		"lineList": [
+			{
+				"latitude1": "N038.03.31.188",
+				"longitude1": "E128.39.55.977",
+				"latitude2": "N038.03.34.913",
+				"longitude2": "E128.39.51.956"
+			},
+			{
+				"latitude1": "N038.03.34.913",
+				"longitude1": "E128.39.51.956",
+				"latitude2": "N038.03.35.202",
+				"longitude2": "E128.39.51.190"
+			},
+			{
+				"latitude1": "N038.03.35.202",
+				"longitude1": "E128.39.51.190",
+				"latitude2": "N038.03.39.262",
+				"longitude2": "E128.39.47.126"
+			}
+		]
+	}
+}
