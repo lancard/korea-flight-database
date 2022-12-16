@@ -88,6 +88,14 @@ module.exports = {
             ret.push(`${e.latitude1} ${e.longitude1} ${e.latitude2} ${e.longitude2} CoastLine`);
         });
 
+        for (var airport in airportObject) {
+            for (obj in airportObject[airport]) {
+                airportObject[airport][obj].lineList.forEach(e => {
+                    ret.push(`${e.latitude1} ${e.longitude1} ${e.latitude2} ${e.longitude2} ${airportObject[airport][obj].colorProfile}`);
+                });
+            }
+        }
+
         return ret.join("\n");
     },
     getVor() {

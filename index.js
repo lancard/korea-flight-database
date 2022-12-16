@@ -17,6 +17,7 @@ global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
 global.labelList = require('./database/label.json');
 global.regionList = require('./database/region.json');
+global.airportObject = {};
 global.runwayMap = {};
 global.runwayOppositeMap = {};
 
@@ -29,6 +30,12 @@ Array.prototype.last = function () {
 }
 
 function initialize() {
+    // get airport objects from directory
+    fs.readdirSync('./database/airport').forEach(e => {
+        var airportName = path.parse(e).name;
+        airportObject[airportName] = require('./database/airport/' + e);
+    });
+
     // get last version (git)
     global.gitHeadVersion = fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(" ")[1];
     global.gitHeadDateTime = dayjs.unix(fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(">")[1].split("\t")[0].trim().split(" ")[0]);
