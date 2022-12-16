@@ -1,6 +1,6 @@
 [
     {
-        "name": "inputLater",
+        "name": "MOA1",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -13,7 +13,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA10",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -27,7 +27,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA11",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -39,7 +39,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA12",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -51,7 +51,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA13",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -65,7 +65,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA14",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -79,7 +79,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA15",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -91,7 +91,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA16",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -103,7 +103,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA17",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -116,7 +116,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA18",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -128,7 +128,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA19",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -141,7 +141,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA2",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -160,7 +160,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA20",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -170,7 +170,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA21",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -181,7 +181,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA22",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -192,7 +192,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA23",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -203,7 +203,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA24",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -214,7 +214,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA25",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -229,7 +229,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA26",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -240,7 +240,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA27",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -251,7 +251,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA28",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -262,7 +262,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA29",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -275,7 +275,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA3",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -288,7 +288,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA30",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -299,7 +299,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA31",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -311,7 +311,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA32",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -323,7 +323,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA33",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -334,7 +334,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA34",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -345,7 +345,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA35",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -357,7 +357,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA36",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -370,7 +370,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA37",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -381,7 +381,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA38",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -393,7 +393,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA39",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -406,7 +406,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA4",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -417,7 +417,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA40",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -429,7 +429,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA41",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -441,7 +441,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA42",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -453,7 +453,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA43",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -466,7 +466,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA44",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -478,7 +478,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA45",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -490,7 +490,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA46",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -502,7 +502,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA47",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -516,7 +516,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA48",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -528,7 +528,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA49",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -539,7 +539,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA5",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -550,7 +550,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA50",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -562,7 +562,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA51",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -574,7 +574,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA52",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -590,7 +590,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA53",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -606,7 +606,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA54",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -618,7 +618,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA55",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -629,7 +629,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA6",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -641,7 +641,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA7",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -653,7 +653,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA8",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -666,7 +666,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "MOA9",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
         "fixList": [
@@ -677,7 +677,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR107_DongHaeBukBu",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -688,7 +688,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR110_PilSeung",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -699,7 +699,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR115_DongHae",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -709,7 +709,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR17_YeoJu",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -836,7 +836,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR80_SeoHaeJungBu",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -847,7 +847,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR81_NakDong",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -974,7 +974,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR84_SeoHaeNamBu",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -985,7 +985,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR88_SeoHaeBukBu",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -996,7 +996,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKR75_SEOUL_CITY",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
@@ -1018,7 +1018,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKD1_GORI",
         "regionType": "DangerArea",
         "colorProfile": "Area-DangerArea",
         "fixList": [
@@ -1042,7 +1042,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKD2_WOLSEONG",
         "regionType": "DangerArea",
         "colorProfile": "Area-DangerArea",
         "fixList": [
@@ -1109,7 +1109,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKD7_HANBIT",
         "regionType": "DangerArea",
         "colorProfile": "Area-DangerArea",
         "fixList": [
@@ -1176,7 +1176,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKD8_HANUL",
         "regionType": "DangerArea",
         "colorProfile": "Area-DangerArea",
         "fixList": [
@@ -1243,7 +1243,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKP518",
         "regionType": "ProhibitedArea",
         "colorProfile": "Area-ProhibitedArea",
         "fixList": [
@@ -1302,7 +1302,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKP73B",
         "regionType": "ProhibitedArea",
         "colorProfile": "Area-ProhibitedArea",
         "fixList": [
@@ -1442,7 +1442,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "RKP73A",
         "regionType": "ProhibitedArea",
         "colorProfile": "Area-ProhibitedArea",
         "fixList": [
@@ -1629,7 +1629,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "ZKD01",
         "regionType": "ProhibitedArea",
         "colorProfile": "Area-ProhibitedArea",
         "fixList": [
@@ -1645,7 +1645,7 @@
         ]
     },
     {
-        "name": "inputLater",
+        "name": "ZKP01",
         "regionType": "ProhibitedArea",
         "colorProfile": "Area-ProhibitedArea",
         "fixList": [
