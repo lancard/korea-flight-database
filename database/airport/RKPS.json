@@ -3,6 +3,7 @@
 		"airport": "RKPS",
 		"name": "BlastPad_48",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N035.05.42.415",
@@ -34,6 +35,7 @@
 		"airport": "RKPS",
 		"name": "BlastPad_49",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N035.05.48.161",
@@ -71,6 +73,7 @@
 		"airport": "RKPS",
 		"name": "BlastPad_50",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N035.04.52.623",
@@ -102,6 +105,7 @@
 		"airport": "RKPS",
 		"name": "BlastPad_51",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N035.04.46.898",
@@ -139,6 +143,7 @@
 		"airport": "RKPS",
 		"name": "BUILD-C__26",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Building",
 		"lineList": [
 			{
 				"latitude1": "N035.05.28.926",
@@ -236,6 +241,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1134",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.04.58.108",
@@ -291,6 +297,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1135",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.04.56.424",
@@ -430,6 +437,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1136",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.45.536",
@@ -485,6 +493,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1137",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.27.507",
@@ -546,6 +555,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1138",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.20.049",
@@ -601,6 +611,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1139",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.20.002",
@@ -674,6 +685,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1140",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.30.481",
@@ -777,6 +789,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1141",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.19.392",
@@ -844,6 +857,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1142",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.15.250",
@@ -905,6 +919,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1143",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.08.711",
@@ -966,6 +981,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1144",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.04.52.572",
@@ -1057,6 +1073,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1145",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.04.51.476",
@@ -1328,6 +1345,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1146",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.30.114",
@@ -1479,6 +1497,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1147",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.40.846",
@@ -1564,6 +1583,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1148",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.20.019",
@@ -1643,6 +1663,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1149",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.04.56.079",
@@ -1686,6 +1707,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1150",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.04.52.401",
@@ -1711,6 +1733,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1151",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.11.738",
@@ -1748,6 +1771,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1152",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.08.141",
@@ -1785,6 +1809,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1153",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.26.147",
@@ -1828,6 +1853,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1154",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.22.768",
@@ -1865,6 +1891,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1155",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.44.261",
@@ -1950,6 +1977,7 @@
 		"airport": "RKPS",
 		"name": "RKPS-Border__1156",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.05.42.987",
@@ -1969,6 +1997,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__732",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.04.51.314",
@@ -1988,6 +2017,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__733",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.04.52.525",
@@ -2013,6 +2043,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__734",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.06.666",
@@ -2026,6 +2057,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__735",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.21.366",
@@ -2039,6 +2071,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__736",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.41.832",
@@ -2058,6 +2091,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__737",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.43.660",
@@ -2077,6 +2111,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__738",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.41.485",
@@ -2096,6 +2131,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__739",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.21.332",
@@ -2115,6 +2151,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__740",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.06.636",
@@ -2134,6 +2171,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__741",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.04.56.113",
@@ -2147,6 +2185,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__742",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.13.123",
@@ -2166,6 +2205,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__743",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.27.540",
@@ -2185,6 +2225,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__744",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.45.531",
@@ -2204,6 +2245,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__745",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.27.494",
@@ -2223,6 +2265,7 @@
 		"airport": "RKPS",
 		"name": "RunwayColor__746",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.05.13.033",

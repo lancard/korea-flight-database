@@ -3,6 +3,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-1",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.10.45.807",
@@ -634,6 +635,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-18",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.23.137",
@@ -689,6 +691,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-19",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.25.753",
@@ -810,6 +813,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-2",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.20.874",
@@ -907,6 +911,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-20",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.10.29.934",
@@ -986,6 +991,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-21",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.10.11.504",
@@ -1071,6 +1077,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-22",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.10.05.426",
@@ -1138,6 +1145,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-23",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.10.00.185",
@@ -1199,6 +1207,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-24",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.48.701",
@@ -1302,6 +1311,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-25",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.58.763",
@@ -1363,6 +1373,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-26",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.43.326",
@@ -1448,6 +1459,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-27",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.54.241",
@@ -1521,6 +1533,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-28",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.57.715",
@@ -1624,6 +1637,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-29",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.30.605",
@@ -1703,6 +1717,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-3",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.26.488",
@@ -1788,6 +1803,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-30",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.30.560",
@@ -1831,6 +1847,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-31",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.09.26.232",
@@ -1910,6 +1927,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-50",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.10.29.118",
@@ -1959,6 +1977,7 @@
 		"airport": "ZKWS",
 		"name": "ZKWS-Border-51",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N039.10.32.523",

@@ -3,6 +3,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-BlastPad_34",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N038.04.12.861",
@@ -34,6 +35,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-BlastPad_35",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N038.03.08.547",
@@ -59,6 +61,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-Border__1084",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N038.03.42.558",
@@ -90,6 +93,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-Border__1085",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N038.03.42.138",
@@ -151,6 +155,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-Border__1086",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N038.03.39.874",
@@ -224,6 +229,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-Building-MainTerminal",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Building",
 		"lineList": [
 			{
 				"latitude1": "N038.03.34.853",
@@ -279,6 +285,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-RunwayColor__688",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N038.03.09.813",
@@ -292,6 +299,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-RunwayColor__689",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N038.03.13.675",
@@ -305,6 +313,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-RunwayColor__690",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N038.03.44.727",
@@ -318,6 +327,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-RunwayColor__692",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N038.04.11.589",
@@ -343,6 +353,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-RunwayColor__693",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N038.03.08.814",
@@ -368,6 +379,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-TaxiwayCenterLine_A",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N038.03.43.671",
@@ -381,6 +393,7 @@
 		"airport": "RKNY",
 		"name": "RKNY-TaxiwayCenterLine_R",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N038.03.31.188",

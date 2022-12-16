@@ -3,6 +3,7 @@
 		"airport": "RKBJ",
 		"name": "Nodeulsum_Helipad",
 		"description": "노들섬헬기장",
+		"colorProfile": "Airport-Helipad",
 		"lineList": [
 			{
 				"latitude1": "N037.31.00.881",

@@ -3,6 +3,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Border__57",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N034.58.43.648",
@@ -208,6 +209,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Border__58",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.00.13.134",
@@ -299,6 +301,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Border__59",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N034.59.49.384",
@@ -384,6 +387,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Border__60",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N034.59.49.265",
@@ -505,6 +509,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Runway__63",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N035.00.14.292",
@@ -518,6 +523,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Runway__64",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N034.58.45.493",
@@ -543,6 +549,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Runway__65",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N034.59.51.828",
@@ -568,6 +575,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Runway-PrethresholdArea__66",
 		"description": "PrethresholdArea",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N034.58.43.494",
@@ -599,6 +607,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Runway-PrethresholdArea__67",
 		"description": "PrethresholdArea",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N035.00.14.219",
@@ -636,6 +645,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Runway-PrethresholdArea__68",
 		"description": "PrethresholdArea",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N035.00.14.343",
@@ -649,6 +659,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-Runway-PrethresholdArea__69",
 		"description": "PrethresholdArea",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N034.58.43.622",
@@ -668,6 +679,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-TaxiwayCenterLine_1",
 		"description": "N1",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N034.59.49.125",
@@ -681,6 +693,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-TaxiwayCenterLine_10",
 		"description": "APRON",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N034.59.50.074",
@@ -700,6 +713,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-TaxiwayCenterLine_2",
 		"description": "N2",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N034.59.47.115",
@@ -713,6 +727,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-TaxiwayCenterLine_3",
 		"description": "N3",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N034.59.45.241",
@@ -726,6 +741,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-TaxiwayCenterLine_4",
 		"description": "N4",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N034.59.43.326",
@@ -739,6 +755,7 @@
 		"airport": "RKJB",
 		"name": "RKJB-TaxiwayCenterLine_5",
 		"description": "N5",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N034.59.41.443",

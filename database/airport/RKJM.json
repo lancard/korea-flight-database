@@ -3,6 +3,7 @@
 		"airport": "RKJM",
 		"name": "BUILD-C__24",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Building",
 		"lineList": [
 			{
 				"latitude1": "N034.45.31.211",
@@ -34,6 +35,7 @@
 		"airport": "RKJM",
 		"name": "BUILD-C__25",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Building",
 		"lineList": [
 			{
 				"latitude1": "N034.45.30.743",
@@ -77,6 +79,7 @@
 		"airport": "RKJM",
 		"name": "RKJM-Border__1130",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N034.45.35.982",
@@ -126,6 +129,7 @@
 		"airport": "RKJM",
 		"name": "RKJM-Border__1131",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N034.45.30.633",
@@ -151,6 +155,7 @@
 		"airport": "RKJM",
 		"name": "RKJM-Border__1132",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N034.45.32.613",
@@ -218,6 +223,7 @@
 		"airport": "RKJM",
 		"name": "RKJM-Border__1133",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N034.45.47.276",
@@ -333,6 +339,7 @@
 		"airport": "RKJM",
 		"name": "RKJM-Runway-PrethresholdArea__70",
 		"description": "PrethresholdArea",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N034.45.14.723",
@@ -370,6 +377,7 @@
 		"airport": "RKJM",
 		"name": "RKJM-Runway-PrethresholdArea__71",
 		"description": "PrethresholdArea",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N034.45.47.817",
@@ -401,6 +409,7 @@
 		"airport": "RKJM",
 		"name": "RunwayColor__727",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N034.45.17.816",
@@ -420,6 +429,7 @@
 		"airport": "RKJM",
 		"name": "RunwayColor__728",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N034.45.36.863",
@@ -451,6 +461,7 @@
 		"airport": "RKJM",
 		"name": "RunwayColor__729",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N034.45.48.686",
@@ -476,6 +487,7 @@
 		"airport": "RKJM",
 		"name": "RunwayColor__730",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N034.45.46.351",
@@ -495,6 +507,7 @@
 		"airport": "RKJM",
 		"name": "RunwayColor__731",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
 		"lineList": [
 			{
 				"latitude1": "N034.45.14.551",

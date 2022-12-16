@@ -3,6 +3,7 @@
 		"airport": "RKSY",
 		"name": "Yongsan_Helipad",
 		"description": "용산헬기장",
+		"colorProfile": "Airport-Helipad",
 		"lineList": [
 			{
 				"latitude1": "N037.31.42.382",

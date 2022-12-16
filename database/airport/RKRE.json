@@ -3,6 +3,7 @@
 		"airport": "RKRE",
 		"name": "RKRE-Heliport",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N037.31.06.232",

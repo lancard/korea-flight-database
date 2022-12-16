@@ -3,6 +3,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-Border_1",
 		"description": "공항 외곽선",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N037.25.59.292",
@@ -178,6 +179,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-KSM-DME14__431",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airway-DmeArc",
 		"lineList": [
 			{
 				"latitude1": "N037.40.21.250",
@@ -545,6 +547,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-North-BlastPad",
 		"description": "영역",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N037.27.33.889",
@@ -594,6 +597,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-South-Rwy01-BlastPad",
 		"description": "남쪽 블라스트 패드",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N037.25.52.743",
@@ -625,6 +629,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-South-Rwy02-BlastPad",
 		"description": "남쪽 블라스트 패드",
+		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
 				"latitude1": "N037.25.47.320",
@@ -656,6 +661,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-TaxiwayCenterLine_1",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N037.27.31.180",
@@ -717,6 +723,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-TaxiwayCenterLine_2",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N037.27.12.686",
@@ -730,6 +737,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-TaxiwayCenterLine_3",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N037.26.50.351",
@@ -743,6 +751,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-TaxiwayCenterLine_4",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N037.26.27.472",
@@ -756,6 +765,7 @@
 		"airport": "RKSM",
 		"name": "RKSM-TaxiwayCenterLine_5",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
 			{
 				"latitude1": "N037.26.05.078",

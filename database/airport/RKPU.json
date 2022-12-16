@@ -3,6 +3,7 @@
 		"airport": "RKPU",
 		"name": "RKPU-Border__1200",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.36.10.750",
@@ -244,6 +245,7 @@
 		"airport": "RKPU",
 		"name": "RKPU-Border__1201",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.35.39.807",
@@ -299,6 +301,7 @@
 		"airport": "RKPU",
 		"name": "RKPU-Border__1202",
 		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
 				"latitude1": "N035.35.36.965",

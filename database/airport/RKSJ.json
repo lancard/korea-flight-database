@@ -3,6 +3,7 @@
 		"airport": "RKSJ",
 		"name": "Jamsil_Helipad",
 		"description": "잠실헬기장",
+		"colorProfile": "Airport-Helipad",
 		"lineList": [
 			{
 				"latitude1": "N037.31.09.978",
