@@ -16,6 +16,7 @@ global.runwayList = require('./database/runway.json');
 global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
 global.labelList = require('./database/label.json');
+global.regionList = require('./database/region.json');
 global.runwayMap = {};
 global.runwayOppositeMap = {};
 

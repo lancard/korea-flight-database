@@ -338,6 +338,19 @@ module.exports = {
 
         return ret.join("\n");
     },
+    getRegion() {
+        var ret = [];
+
+        regionList.forEach(r => {
+            var color = r.colorProfile;
+            r.fixList.forEach(e => {
+                ret.push(`${color} ${e.split(" ")[0]} ${e.split(" ")[1]}`);
+                color = '';
+            });
+        });
+
+        return ret.join("\n");
+    },
     getLabel() {
         var ret = [];
 
@@ -392,6 +405,9 @@ module.exports = {
 
         contents += "\n\n[GEO]\n";
         contents += this.getGeo();
+
+        contents += "\n\n[REGIONS]\n";
+        contents += this.getRegion();
 
         contents += "\n\n[LABELS]\n";
         contents += this.getLabel();
