@@ -3617,14 +3617,6 @@
     },
     {
         "name": "YCorridor",
-        "seq": 11,
-        "description": "VFR Route",
-        "airwayType": "VFR",
-        "fixStart": "YP-5",
-        "fixEnd": "YP-10"
-    },
-    {
-        "name": "YCorridor",
         "seq": 12,
         "description": "VFR Route",
         "airwayType": "VFR",
