@@ -9375,7 +9375,7 @@
         "latitude": "N037.38.07.500",
         "longitude": "E126.41.39.600",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS"
+        "airport": "RKSS"
     },
     {
         "name": "SI395",
@@ -9385,7 +9385,7 @@
         "latitude": "N037.29.54.500",
         "longitude": "E126.51.57.600",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS"
+        "airport": "RKSS"
     },
     {
         "name": "SI396",
@@ -9395,7 +9395,7 @@
         "latitude": "N037.25.09.300",
         "longitude": "E126.46.13.600",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS"
+        "airport": "RKSS"
     },
     {
         "name": "SI512",
@@ -12311,7 +12311,7 @@
     },
     {
         "name": "CP-1",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.31.34.000",
@@ -12320,7 +12320,7 @@
     },
     {
         "name": "CP-10",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.35.30.000",
@@ -12329,7 +12329,7 @@
     },
     {
         "name": "CP-11",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.37.01.000",
@@ -12338,7 +12338,7 @@
     },
     {
         "name": "CP-12",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.39.21.000",
@@ -12347,7 +12347,7 @@
     },
     {
         "name": "CP-13",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.40.24.000",
@@ -12356,7 +12356,7 @@
     },
     {
         "name": "CP-14",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.40.43.000",
@@ -12365,7 +12365,7 @@
     },
     {
         "name": "CP-15",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.42.46.000",
@@ -12374,7 +12374,7 @@
     },
     {
         "name": "CP-16",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.43.21.000",
@@ -12383,7 +12383,7 @@
     },
     {
         "name": "CP-17",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.41.36.000",
@@ -12392,7 +12392,7 @@
     },
     {
         "name": "CP-18",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.40.33.000",
@@ -12401,7 +12401,7 @@
     },
     {
         "name": "CP-19",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.38.27.000",
@@ -12410,7 +12410,7 @@
     },
     {
         "name": "CP-2",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.29.51.000",
@@ -12419,7 +12419,7 @@
     },
     {
         "name": "CP-20",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.36.56.000",
@@ -12428,7 +12428,7 @@
     },
     {
         "name": "CP-21",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.34.47.000",
@@ -12437,7 +12437,7 @@
     },
     {
         "name": "CP-22",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.32.33.000",
@@ -12446,7 +12446,7 @@
     },
     {
         "name": "CP-23",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.31.26.000",
@@ -12455,7 +12455,7 @@
     },
     {
         "name": "CP-3",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.28.17.000",
@@ -12464,7 +12464,7 @@
     },
     {
         "name": "CP-4",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.28.16.000",
@@ -12473,7 +12473,7 @@
     },
     {
         "name": "CP-5",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.29.33.000",
@@ -12482,7 +12482,7 @@
     },
     {
         "name": "CP-6",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.31.01.000",
@@ -12491,7 +12491,7 @@
     },
     {
         "name": "CP-7",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.31.51.000",
@@ -12500,7 +12500,7 @@
     },
     {
         "name": "CP-8",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.33.10.000",
@@ -12509,7 +12509,7 @@
     },
     {
         "name": "CP-9",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "P73 VFR route Visual Check points",
         "latitude": "N037.33.57.000",
@@ -12518,7 +12518,7 @@
     },
     {
         "name": "JP-1",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "노들섬 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.33.57.000",
@@ -12527,7 +12527,7 @@
     },
     {
         "name": "JP-2",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "노들섬 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.33.07.000",
@@ -12536,7 +12536,7 @@
     },
     {
         "name": "JP-3",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "노들섬 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.32.32.000",
@@ -12545,7 +12545,7 @@
     },
     {
         "name": "JP-4",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "노들섬 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.32.18.000",
@@ -12554,7 +12554,7 @@
     },
     {
         "name": "JP-5",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "노들섬 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.31.37.000",
@@ -12563,7 +12563,7 @@
     },
     {
         "name": "JP-6",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "노들섬 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.30.59.000",
@@ -12580,8 +12580,17 @@
         "frequency": "381.000"
     },
     {
-        "name": "SP-1",
+        "name": "WK",
         "navaidType": "NDB",
+        "extraType": "NDB",
+        "description": "NDB",
+        "latitude": "N039.19.20.200",
+        "longitude": "E125.40.37.600",
+        "frequency": "320.000"
+    },
+    {
+        "name": "SP-1",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "수색 공항 Traffic Area Connecting points",
         "latitude": "N037.33.29.000",
@@ -12590,7 +12599,7 @@
     },
     {
         "name": "SP-2",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "수색 공항 Traffic Area Connecting points",
         "latitude": "N037.34.32.000",
@@ -12599,7 +12608,7 @@
     },
     {
         "name": "SP-3",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "수색 공항 Traffic Area Connecting points",
         "latitude": "N037.35.14.000",
@@ -12608,7 +12617,7 @@
     },
     {
         "name": "SP-4",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "수색 공항 Traffic Area Connecting points",
         "latitude": "N037.36.32.000",
@@ -12617,7 +12626,7 @@
     },
     {
         "name": "SP-5",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "수색 공항 Traffic Area Connecting points",
         "latitude": "N037.37.25.000",
@@ -12626,7 +12635,7 @@
     },
     {
         "name": "SP-6",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "수색 공항 Traffic Area Connecting points",
         "latitude": "N037.37.04.000",
@@ -12635,7 +12644,7 @@
     },
     {
         "name": "SP-7",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "수색 공항 Traffic Area Connecting points",
         "latitude": "N037.35.30.000",
@@ -12644,7 +12653,7 @@
     },
     {
         "name": "SP-8",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "수색 공항 Traffic Area Connecting points",
         "latitude": "N037.33.57.000",
@@ -12653,7 +12662,7 @@
     },
     {
         "name": "VFR-JY-Point(A)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N034.51.12.000",
@@ -12664,7 +12673,7 @@
     },
     {
         "name": "VFR-JY-Point(B)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N034.45.26.000",
@@ -12675,7 +12684,7 @@
     },
     {
         "name": "VFR-JY-Point(C)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N034.47.51.000",
@@ -12686,7 +12695,7 @@
     },
     {
         "name": "VFR-JY-Point(D)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N034.54.18.000",
@@ -12697,7 +12706,7 @@
     },
     {
         "name": "VFR-JY-Point(E)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N034.51.20.000",
@@ -12708,7 +12717,7 @@
     },
     {
         "name": "VFR-NH-Point(C)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.23.03.420",
@@ -12719,7 +12728,7 @@
     },
     {
         "name": "VFR-NH-Point(D)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.33.10.560",
@@ -12730,7 +12739,7 @@
     },
     {
         "name": "VFR-NH-Point(E)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.29.34.890",
@@ -12741,7 +12750,7 @@
     },
     {
         "name": "VFR-NH-Point(G)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.23.13.340",
@@ -12752,7 +12761,7 @@
     },
     {
         "name": "VFR-NY-Point(D)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N038.02.16.000",
@@ -12763,7 +12772,7 @@
     },
     {
         "name": "VFR-NY-Point(E)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N038.06.59.000",
@@ -12774,7 +12783,7 @@
     },
     {
         "name": "VFR-NY-Point(H)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.55.13.000",
@@ -12785,7 +12794,7 @@
     },
     {
         "name": "VFR-NY-Point(I)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N038.00.15.000",
@@ -12796,7 +12805,7 @@
     },
     {
         "name": "VFR-NY-Point(K)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N038.07.55.000",
@@ -12807,7 +12816,7 @@
     },
     {
         "name": "VFR-NY-Point(N)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N038.05.00.000",
@@ -12818,7 +12827,7 @@
     },
     {
         "name": "VFR-NY-Point(P)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.59.56.000",
@@ -12829,7 +12838,7 @@
     },
     {
         "name": "VFR-NY-Point(W)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N038.03.11.000",
@@ -12840,7 +12849,7 @@
     },
     {
         "name": "VFR-PC-Point(EA)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.33.36.940",
@@ -12851,7 +12860,7 @@
     },
     {
         "name": "VFR-PC-Point(EB)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.33.29.600",
@@ -12862,7 +12871,7 @@
     },
     {
         "name": "VFR-PC-Point(EC)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.31.27.350",
@@ -12873,7 +12882,7 @@
     },
     {
         "name": "VFR-PC-Point(NE)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.37.26.440",
@@ -12884,7 +12893,7 @@
     },
     {
         "name": "VFR-PC-Point(NW)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.43.46.210",
@@ -12895,7 +12904,7 @@
     },
     {
         "name": "VFR-PC-Point(S)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.28.33.200",
@@ -12906,7 +12915,7 @@
     },
     {
         "name": "VFR-PC-Point(SE)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.26.40.200",
@@ -12917,7 +12926,7 @@
     },
     {
         "name": "VFR-PC-Point(SW)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.22.37.610",
@@ -12928,7 +12937,7 @@
     },
     {
         "name": "VFR-PC-Point(T)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.33.22.360",
@@ -12939,7 +12948,7 @@
     },
     {
         "name": "VFR-PC-Point(WA)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.28.10.690",
@@ -12950,7 +12959,7 @@
     },
     {
         "name": "VFR-PC-Point(WB)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.24.35.470",
@@ -12961,7 +12970,7 @@
     },
     {
         "name": "VFR-PC-Point(WC)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.18.45.350",
@@ -12972,7 +12981,7 @@
     },
     {
         "name": "VFR-PD-Point(D)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.19.39.700",
@@ -12983,7 +12992,7 @@
     },
     {
         "name": "VFR-PD-Point(M)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.23.41.500",
@@ -12994,7 +13003,7 @@
     },
     {
         "name": "VFR-PD-Point(R)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.28.39.700",
@@ -13005,7 +13014,7 @@
     },
     {
         "name": "VFR-PD-Point(W)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.16.02.500",
@@ -13016,7 +13025,7 @@
     },
     {
         "name": "VFR-PD-Point(Y)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N033.24.20.100",
@@ -13027,7 +13036,7 @@
     },
     {
         "name": "VFR-PK-Point(A)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.11.19.000",
@@ -13038,7 +13047,7 @@
     },
     {
         "name": "VFR-PK-Point(B)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.06.11.000",
@@ -13049,7 +13058,7 @@
     },
     {
         "name": "VFR-PK-Point(C)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.13.11.000",
@@ -13060,7 +13069,7 @@
     },
     {
         "name": "VFR-PK-Point(D)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.03.11.000",
@@ -13071,7 +13080,7 @@
     },
     {
         "name": "VFR-PK-Point(E)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.17.11.000",
@@ -13082,7 +13091,7 @@
     },
     {
         "name": "VFR-PK-Point(EAST)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.15.00.000",
@@ -13093,7 +13102,7 @@
     },
     {
         "name": "VFR-PK-Point(G)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.18.11.000",
@@ -13104,7 +13113,7 @@
     },
     {
         "name": "VFR-PK-Point(SOUTH)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.05.00.000",
@@ -13115,7 +13124,7 @@
     },
     {
         "name": "VFR-PK-Point(WEST)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.11.05.000",
@@ -13126,205 +13135,205 @@
     },
     {
         "name": "VFR-SS-Point(A)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.29.57.395",
         "longitude": "E126.27.12.400",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(A)"
     },
     {
         "name": "VFR-SS-Point(B)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.27.02.430",
         "longitude": "E126.22.48.367",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(B)"
     },
     {
         "name": "VFR-SS-Point(C)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.25.06.185",
         "longitude": "E126.24.51.455",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(C)"
     },
     {
         "name": "VFR-SS-Point(D)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.29.06.576",
         "longitude": "E126.29.19.660",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(D)"
     },
     {
         "name": "VFR-SS-Point(E)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.30.26.651",
         "longitude": "E126.30.45.786",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(E)"
     },
     {
         "name": "VFR-SS-Point(F)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.33.17.154",
         "longitude": "E126.36.53.242",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(F)"
     },
     {
         "name": "VFR-SS-Point(I)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.27.24.350",
         "longitude": "E126.29.23.601",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(I)"
     },
     {
         "name": "VFR-SS-Point(J)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.22.07.659",
         "longitude": "E126.52.08.472",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(J)"
     },
     {
         "name": "VFR-SS-Point(K)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.31.31.669",
         "longitude": "E126.45.07.264",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(K)"
     },
     {
         "name": "VFR-SS-Point(M)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.34.08.957",
         "longitude": "E126.47.39.442",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(M)"
     },
     {
         "name": "VFR-SS-Point(N)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.34.58.965",
         "longitude": "E126.48.16.302",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(N)"
     },
     {
         "name": "VFR-SS-Point(R)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.36.05.501",
         "longitude": "E126.48.46.676",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(R)"
     },
     {
         "name": "VFR-SS-Point(S)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.23.45.196",
         "longitude": "E126.44.29.580",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(S)"
     },
     {
         "name": "VFR-SS-Point(T)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.28.53.000",
         "longitude": "E126.33.19.000",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(T)"
     },
     {
         "name": "VFR-SS-Point(W)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.28.32.184",
         "longitude": "E126.35.57.065",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(W)"
     },
     {
         "name": "VFR-SS-Point(X)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.24.05.408",
         "longitude": "E126.23.31.400",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(X)"
     },
     {
         "name": "VFR-SS-Point(Y)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.17.12.947",
         "longitude": "E126.27.42.356",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(Y)"
     },
     {
         "name": "VFR-SS-Point(Z)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N037.19.44.547",
         "longitude": "E126.40.17.472",
         "frequency": "000.000",
-        "airport": "RKSI\/RKSS",
+        "airport": "RKSS",
         "runway": "Point(Z)"
     },
     {
         "name": "VFR-TH-Point(B)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.55.24.000",
@@ -13335,7 +13344,7 @@
     },
     {
         "name": "VFR-TH-Point(C)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N035.54.07.000",
@@ -13346,7 +13355,7 @@
     },
     {
         "name": "VFR-TH-Point(D)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.04.56.000",
@@ -13357,7 +13366,7 @@
     },
     {
         "name": "VFR-TH-Point(E)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.02.30.000",
@@ -13368,7 +13377,7 @@
     },
     {
         "name": "VFR-TH-Point(N)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.04.34.000",
@@ -13379,7 +13388,7 @@
     },
     {
         "name": "VFR-TL-Point(A)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.48.53.560",
@@ -13390,7 +13399,7 @@
     },
     {
         "name": "VFR-TL-Point(B)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.43.41.060",
@@ -13401,7 +13410,7 @@
     },
     {
         "name": "VFR-TL-Point(C)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.49.49.960",
@@ -13412,7 +13421,7 @@
     },
     {
         "name": "VFR-TL-Point(D)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.44.43.330",
@@ -13423,7 +13432,7 @@
     },
     {
         "name": "VFR-TL-Point(H)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.46.34.000",
@@ -13434,7 +13443,7 @@
     },
     {
         "name": "VFR-TL-Point(N)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.51.32.750",
@@ -13445,7 +13454,7 @@
     },
     {
         "name": "VFR-TL-Point(S)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "VFR Reporting point",
         "latitude": "N036.40.41.110",
@@ -13456,7 +13465,7 @@
     },
     {
         "name": "VFR-TL-Point(T)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "Beacon(비행장등대)",
         "latitude": "N036.46.44.670",
@@ -13467,7 +13476,7 @@
     },
     {
         "name": "VFR-TL-Point(W)",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "VFR-Reporting-Point",
         "description": "Gilgokri(길곡리)",
         "latitude": "N036.49.15.700",
@@ -13477,17 +13486,8 @@
         "runway": "Point(W)"
     },
     {
-        "name": "WK",
-        "navaidType": "NDB",
-        "extraType": "NDB",
-        "description": "NDB",
-        "latitude": "N039.19.20.200",
-        "longitude": "E125.40.37.600",
-        "frequency": "320.000"
-    },
-    {
         "name": "YP-1",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.31.34.000",
@@ -13496,7 +13496,7 @@
     },
     {
         "name": "YP-10",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.30.10.000",
@@ -13505,7 +13505,7 @@
     },
     {
         "name": "YP-11",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.28.17.000",
@@ -13514,7 +13514,7 @@
     },
     {
         "name": "YP-2",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.31.48.000",
@@ -13523,7 +13523,7 @@
     },
     {
         "name": "YP-3",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.32.15.000",
@@ -13532,7 +13532,7 @@
     },
     {
         "name": "YP-4",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.32.09.000",
@@ -13541,7 +13541,7 @@
     },
     {
         "name": "YP-5",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.31.38.000",
@@ -13550,7 +13550,7 @@
     },
     {
         "name": "YP-6",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.30.57.000",
@@ -13559,7 +13559,7 @@
     },
     {
         "name": "YP-7",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.30.37.000",
@@ -13568,7 +13568,7 @@
     },
     {
         "name": "YP-8",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.31.05.000",
@@ -13577,7 +13577,7 @@
     },
     {
         "name": "YP-9",
-        "navaidType": "NDB",
+        "navaidType": "VFR_REPORTING_POINT",
         "extraType": "SEOUL_VFR_VISUAL_CHECK_POINT",
         "description": "용산회랑 VFR route Visual Check points (한강회랑)",
         "latitude": "N037.31.41.000",
