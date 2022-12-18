@@ -20,6 +20,16 @@
         "airport": "RKTU"
     },
     {
+        "name": "NY000",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N038.05.45.500",
+        "longitude": "E128.38.00.900",
+        "frequency": "000.000",
+        "airport": "RKNY"
+    },
+    {
         "name": "AD020",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
