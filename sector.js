@@ -110,7 +110,7 @@ module.exports = {
     getNdb() {
         var ret = [];
 
-        navaidList.filter(e => e.navaidType == "NDB").forEach(e => {
+        navaidList.filter(e => e.navaidType == "NDB" || e.navaidType == "VFR_REPORTING_POINT").forEach(e => {
             ret.push(`${e.name} ${e.frequency} ${e.latitude} ${e.longitude}`);
         });
 
