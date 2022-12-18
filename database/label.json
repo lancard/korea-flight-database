@@ -4032,14 +4032,6 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
-        "airport": "RKSI",
-        "labelType": "Gate-Number",
-        "name": "520",
-        "latitude": "N037.28.30.570",
-        "longitude": "E123.25.33.820",
-        "colorProfile": "Airport-GateNumber"
-    },
-    {
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "520",
