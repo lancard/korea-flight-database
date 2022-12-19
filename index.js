@@ -5,6 +5,7 @@ const path = require('path');
 const util = require('./util.js');
 const euroscope = require('./euroscope.js');
 const sector = require('./sector.js');
+const ese = require('./ese.js');
 const openstreetmap = require('./openstreetmap.js');
 
 global.aircraftList = require('./database/aircraft.json');
@@ -123,6 +124,8 @@ initialize();
 
 sector.initialize();
 sector.generateSectorFile();
+
+ese.generateEseFile();
 
 euroscope.initialize();
 euroscope.createEuroscopeAircraftFile();

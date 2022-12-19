@@ -1,0 +1,170 @@
+{
+    "RKDA_C_CTR": {
+        "name": "DAEGU CONTROL",
+        "frequency": "125.370",
+        "initialID": "KE",
+        "middleFix": "C",
+        "prefix": "RKDA",
+        "position": "CTR"
+    },
+    "RKDA_CTR": {
+        "name": "DAEGU CONTROL",
+        "frequency": "120.570",
+        "initialID": "DG",
+        "middleFix": "-",
+        "prefix": "RKDA",
+        "position": "CTR"
+    },
+    "RKDA_E_CTR": {
+        "name": "DAEGU CONTROL",
+        "frequency": "134.170",
+        "initialID": "KE",
+        "middleFix": "E",
+        "prefix": "RKDA",
+        "position": "CTR"
+    },
+    "RKJJ_APP": {
+        "name": "GWANGJU APPROACH",
+        "frequency": "130.000",
+        "initialID": "JD",
+        "middleFix": "-",
+        "prefix": "RKJJ",
+        "position": "APP"
+    },
+    "RKJK_APP": {
+        "name": "GUNSAN APPROACH",
+        "frequency": "124.100",
+        "initialID": "JG",
+        "middleFix": "-",
+        "prefix": "RKJK",
+        "position": "APP"
+    },
+    "RKNN_APP": {
+        "name": "GANGNEUNG APPROACH",
+        "frequency": "124.600",
+        "initialID": "NN",
+        "middleFix": "-",
+        "prefix": "RKNN",
+        "position": "APP"
+    },
+    "RKNW_APP": {
+        "name": "WONJU APPROACH",
+        "frequency": "130.200",
+        "initialID": "NP",
+        "middleFix": "-",
+        "prefix": "RKNW",
+        "position": "APP"
+    },
+    "RKPC_APP": {
+        "name": "JEJU APPROACH",
+        "frequency": "121.200",
+        "initialID": "PC",
+        "middleFix": "-",
+        "prefix": "RKPC",
+        "position": "APP"
+    },
+    "RKPK_APP": {
+        "name": "GIMHAE APPROACH",
+        "frequency": "125.500",
+        "initialID": "PH",
+        "middleFix": "-",
+        "prefix": "RKPK",
+        "position": "APP"
+    },
+    "RKPS_APP": {
+        "name": "SACHEON APPROACH",
+        "frequency": "135.400",
+        "initialID": "PL",
+        "middleFix": "-",
+        "prefix": "RKPS",
+        "position": "APP"
+    },
+    "RKRR_A_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "128.325",
+        "initialID": "KR",
+        "middleFix": "A",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
+    "RKRR_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "128.700",
+        "initialID": "KR",
+        "middleFix": "-",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
+    "RKRR_N_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "132.800",
+        "initialID": "KN",
+        "middleFix": "N",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
+    "RKRR_S_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "124.520",
+        "initialID": "KS",
+        "middleFix": "S",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
+    "RKSO_APP": {
+        "name": "OSAN APPROACH",
+        "frequency": "127.900",
+        "initialID": "SN",
+        "middleFix": "-",
+        "prefix": "RKSO",
+        "position": "APP"
+    },
+    "RKSS_APP": {
+        "name": "SEOUL APPROACH",
+        "frequency": "119.750",
+        "initialID": "SR",
+        "middleFix": "-",
+        "prefix": "RKSS",
+        "position": "APP"
+    },
+    "RKTH_APP": {
+        "name": "POHANG APPROACH",
+        "frequency": "124.250",
+        "initialID": "TH",
+        "middleFix": "-",
+        "prefix": "RKTH",
+        "position": "APP"
+    },
+    "RKTI_APP": {
+        "name": "JUNGWON APPROACH",
+        "frequency": "132.550",
+        "initialID": "TK",
+        "middleFix": "-",
+        "prefix": "RKTI",
+        "position": "APP"
+    },
+    "RKTN_APP": {
+        "name": "DAEGU APPROACH",
+        "frequency": "135.900",
+        "initialID": "TM",
+        "middleFix": "-",
+        "prefix": "RKTN",
+        "position": "APP"
+    },
+    "RKTP_APP": {
+        "name": "HAEMI APPROACH",
+        "frequency": "124.600",
+        "initialID": "TP",
+        "middleFix": "-",
+        "prefix": "RKTP",
+        "position": "APP"
+    },
+    "RKTY_APP": {
+        "name": "YECHEON APPROACH",
+        "frequency": "134.500",
+        "initialID": "TU",
+        "middleFix": "-",
+        "prefix": "RKTY",
+        "position": "APP"
+    }
+}
