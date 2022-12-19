@@ -21,7 +21,9 @@ jobs:
           node-version: 16
           
       - run: npm install
-      
+
+      - run: node predownload.js
+
       - run: node index.js
       
       - name: Create Release
