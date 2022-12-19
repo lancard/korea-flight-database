@@ -91,5 +91,14 @@ module.exports = {
             return false;
 
         return true;
+    },
+    isNearestAirport(icaoCode) {
+        if (icaoCode.length != 4)
+            return false;
+
+        if (!icaoCode.startsWith('RK') && !icaoCode.startsWith('Z') && !icaoCode.startsWith('RJ'))
+            return false;
+
+        return true;
     }
 }

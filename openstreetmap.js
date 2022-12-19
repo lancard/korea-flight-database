@@ -7,8 +7,8 @@ module.exports = {
         }
     },
     getNavaidSql() {
-        var ret = 
-        `
+        var ret =
+            `
         CREATE TABLE public.navaid (
             osm_id int8 PRIMARY KEY,
             name text NULL,
@@ -23,17 +23,17 @@ module.exports = {
         `
 
         var nodeIndex = 140000;
-        
+
         navaidList.forEach(e => {
             nodeIndex++;
             ret += ` INSERT INTO public.navaid VALUES(${nodeIndex}, '${e.name}', '${e.navaidType}', '${e.extraType ? e.extraType : ''}', '${e.vorType ? e.vorType : ''}', '${e.description}', '${e.airport ? e.airport : ''}', '${e.frequency}', ST_Transform(ST_GeomFromText('POINT (${e.longitudeDecimal} ${e.latitudeDecimal})', 4326), 3857)); `;
         });
-   
+
         return ret;
     },
     getAirwaySql() {
-        var ret = 
-        `
+        var ret =
+            `
         CREATE TABLE public.airway (
             osm_id int8 PRIMARY KEY,
             name text NULL,
@@ -65,11 +65,40 @@ module.exports = {
 
         return ret;
     },
+    getAirportSql() {
+        var ret =
+            `
+        CREATE TABLE public.airport (
+            osm_id int8 PRIMARY KEY,
+            icao_code text NULL,
+            iata_code text NULL,
+            description text NULL,
+            continent text NULL,
+            country text NULL,
+            municipality text NULL,
+            airport_type text NULL,
+            elevation int8 NULL,
+            way public.geometry(point, 3857) NULL
+        );
+        `
+
+        var airportIndex = 740000;
+
+        for (icao in airportList) {
+            airportIndex++;
+            var e = airportList[icao];
+
+            ret += ` INSERT INTO public.airport VALUES(${airportIndex}, '${e.icaoCode}', '${e.iataCode}', '${e.description.split("'").join("｀")}', '${e.continent.split("'").join("｀")}', '${e.country.split("'").join("｀")}', '${e.municipality.split("'").join("｀")}', '${e.type}', ${e.elevationInFeet}, ST_Transform(ST_GeomFromText('POINT (${e.longitudeDecimal} ${e.latitudeDecimal})', 4326), 3857)); `;
+        };
+
+        return ret;
+    },
     generateOpenstreetmap() {
         var fileContents = "";
 
         fileContents += this.getNavaidSql();
         fileContents += this.getAirwaySql();
+        fileContents += this.getAirportSql();
 
         fs.writeFileSync('openstreetmap/data.sql', fileContents);
     }

@@ -33,8 +33,13 @@ function initialize() {
     // get world airport
     const airports = require('./temp/airports.json');
     airports.forEach((e) => {
-        if (e.type == 'closed' || e.type == "small_airport")
+        if (e.type == 'closed')
             return;
+
+        if (e.type == "small_airport" || e.type == 'seaplane_base' || e.type == 'balloonport' || e.type == 'heliport') {
+            if (!util.isNearestAirport(e.ident))
+                return;
+        }
 
         global.airportList[e.ident] = {
             "continent": e.continent,
@@ -42,13 +47,16 @@ function initialize() {
             "description": e.name,
             "type": e.type,
             "latitude": util.convertDecimalToMinutes(e.latitude_deg, "NS"),
-            "longitude": util.convertDecimalToMinutes(e.latitude_deg, "EW"),
+            "longitude": util.convertDecimalToMinutes(e.longitude_deg, "EW"),
             "country": e.iso_country,
             "iataCode": e.iata_code,
             "icaoCode": e.ident,
             "elevationInFeet": +e.elevation_ft
         };
     });
+
+    // write to temp directory for debug
+    fs.writeFileSync('temp/airport.json', JSON.stringify(global.airportList, null, '\t'));
 
     // get airport objects from directory
     fs.readdirSync('./database/airport').forEach(e => {

@@ -135,10 +135,7 @@ module.exports = {
         for (const airport in airportList) {
             const icaoCode = airportList[airport].icaoCode;
 
-            if (icaoCode.length != 4)
-                continue;
-
-            if (!icaoCode.startsWith('RK') && !icaoCode.startsWith('Z') && !icaoCode.startsWith('RJ'))
+            if(!util.isNearestAirport(icaoCode))
                 continue;
 
             ret.push(`${icaoCode} 000.000 ${airportList[airport].latitude} ${airportList[airport].longitude} C`);
