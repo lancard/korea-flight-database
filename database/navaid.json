@@ -3525,7 +3525,7 @@
         "frequency": "111.300",
         "airport": "RKPC",
         "runway": "25",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ICHG",
@@ -3537,7 +3537,7 @@
         "frequency": "111.700",
         "airport": "RKTU",
         "runway": "24R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ICHJ",
@@ -3549,7 +3549,7 @@
         "frequency": "110.300",
         "airport": "RKTU",
         "runway": "06L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ICJU",
@@ -3561,7 +3561,7 @@
         "frequency": "109.900",
         "airport": "RKPC",
         "runway": "07",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IDAG",
@@ -3573,7 +3573,7 @@
         "frequency": "111.900",
         "airport": "RKTN",
         "runway": "31R",
-        "approachType": "LOC\/DME"
+        "approachType": "LOC"
     },
     {
         "name": "IDIVU",
@@ -3658,7 +3658,7 @@
         "frequency": "108.300",
         "airport": "RKPD",
         "runway": "01",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IKADI",
@@ -3715,7 +3715,7 @@
         "frequency": "109.500",
         "airport": "RKPK",
         "runway": "36R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IKISO",
@@ -3736,7 +3736,7 @@
         "frequency": "108.500",
         "airport": "RKPK",
         "runway": "36L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IKMO",
@@ -3748,7 +3748,7 @@
         "frequency": "108.300",
         "airport": "RKSS",
         "runway": "32L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IKPO",
@@ -3760,7 +3760,7 @@
         "frequency": "110.900",
         "airport": "RKTH",
         "runway": "10",
-        "approachType": "LOC\/DME"
+        "approachType": "LOC"
     },
     {
         "name": "IKUZ",
@@ -3772,7 +3772,7 @@
         "frequency": "110.300",
         "airport": "RKJK",
         "runway": "36",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IMAN",
@@ -3784,7 +3784,7 @@
         "frequency": "108.900",
         "airport": "RKJB",
         "runway": "19",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IMDG",
@@ -3796,7 +3796,7 @@
         "frequency": "111.100",
         "airport": "RKJJ",
         "runway": "04R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IMDH",
@@ -3808,7 +3808,7 @@
         "frequency": "108.500",
         "airport": "RKJJ",
         "runway": "22L",
-        "approachType": "LOC\/DME"
+        "approachType": "LOC"
     },
     {
         "name": "IMUN",
@@ -3820,7 +3820,7 @@
         "frequency": "111.900",
         "airport": "RKJB",
         "runway": "01",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "INLL",
@@ -3832,7 +3832,7 @@
         "frequency": "109.300",
         "airport": "RKSI",
         "runway": "33L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "INRR",
@@ -3844,7 +3844,7 @@
         "frequency": "108.900",
         "airport": "RKSI",
         "runway": "33R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "INVOK",
@@ -3865,7 +3865,7 @@
         "frequency": "108.700",
         "airport": "RKSS",
         "runway": "14R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IPDAS",
@@ -3896,7 +3896,7 @@
         "frequency": "109.950",
         "airport": "RKSI",
         "runway": "34L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IRFS",
@@ -3908,7 +3908,7 @@
         "frequency": "108.550",
         "airport": "RKSI",
         "runway": "16R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IRKN",
@@ -3920,7 +3920,7 @@
         "frequency": "108.100",
         "airport": "RKSI",
         "runway": "34R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IRKS",
@@ -3932,7 +3932,7 @@
         "frequency": "110.350",
         "airport": "RKSI",
         "runway": "16L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IROMA",
@@ -3962,7 +3962,7 @@
         "frequency": "109.100",
         "airport": "RKPS",
         "runway": "06L",
-        "approachType": "LOC\/DME"
+        "approachType": "LOC"
     },
     {
         "name": "ISDOV",
@@ -3983,7 +3983,7 @@
         "frequency": "109.900",
         "airport": "RKSS",
         "runway": "14L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ISHA",
@@ -3995,7 +3995,7 @@
         "frequency": "108.100",
         "airport": "RKPS",
         "runway": "24R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ISKP",
@@ -4007,7 +4007,7 @@
         "frequency": "110.700",
         "airport": "RKSS",
         "runway": "32R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ISLL",
@@ -4019,7 +4019,7 @@
         "frequency": "111.900",
         "airport": "RKSI",
         "runway": "15L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ISOL",
@@ -4031,7 +4031,7 @@
         "frequency": "110.900",
         "airport": "RKSM",
         "runway": "20",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ISRIV",
@@ -4047,12 +4047,12 @@
         "navaidType": "FIX",
         "extraType": "ILS",
         "description": "ILS DME",
-        "latitude": "N037.28.48.700",
-        "longitude": "E126.26.21.900",
+        "latitude": "N037.27.07.375",
+        "longitude": "E126.27.45.970",
         "frequency": "109.100",
         "airport": "RKSI",
         "runway": "15R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ISUL",
@@ -4064,7 +4064,7 @@
         "frequency": "108.950",
         "airport": "RKSM",
         "runway": "19",
-        "approachType": "LOC\/DME"
+        "approachType": "LOC"
     },
     {
         "name": "ITAG",
@@ -4076,7 +4076,7 @@
         "frequency": "108.700",
         "airport": "RKTN",
         "runway": "31L",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "ITGL",
@@ -4088,7 +4088,7 @@
         "frequency": "108.700",
         "airport": "RKTN",
         "runway": "13R",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IUJN",
@@ -4100,7 +4100,7 @@
         "frequency": "108.100",
         "airport": "RKTL",
         "runway": "35",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IUJS",
@@ -4112,7 +4112,7 @@
         "frequency": "108.100",
         "airport": "RKTL",
         "runway": "17",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IULS",
@@ -4124,7 +4124,7 @@
         "frequency": "110.300",
         "airport": "RKPU",
         "runway": "36",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IVPR",
@@ -4136,7 +4136,7 @@
         "frequency": "110.300",
         "airport": "RKJK",
         "runway": "18",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IYAN",
@@ -4148,7 +4148,7 @@
         "frequency": "109.300",
         "airport": "RKNY",
         "runway": "33",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IYSO",
@@ -4160,7 +4160,7 @@
         "frequency": "111.500",
         "airport": "RKJY",
         "runway": "17",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "IYSU",
@@ -4172,7 +4172,7 @@
         "frequency": "109.700",
         "airport": "RKJY",
         "runway": "35",
-        "approachType": "ILS\/DME"
+        "approachType": "ILS"
     },
     {
         "name": "JADOO",
@@ -8405,8 +8405,7 @@
         "longitude": "E125.43.06.049",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY423",
@@ -8417,8 +8416,7 @@
         "longitude": "E125.36.57.791",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY426",
@@ -8429,8 +8427,7 @@
         "longitude": "E125.52.59.999",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY427",
@@ -8441,8 +8438,7 @@
         "longitude": "E125.38.41.539",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY431",
@@ -8453,8 +8449,7 @@
         "longitude": "E125.38.03.278",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY432",
@@ -8465,8 +8460,7 @@
         "longitude": "E125.36.43.988",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY433",
@@ -8477,8 +8471,7 @@
         "longitude": "E125.42.53.888",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY434",
@@ -8489,8 +8482,7 @@
         "longitude": "E125.30.34.319",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY435",
@@ -8501,8 +8493,7 @@
         "longitude": "E125.34.50.588",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY521",
@@ -8513,8 +8504,7 @@
         "longitude": "E125.41.47.062",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY531",
@@ -8525,8 +8515,7 @@
         "longitude": "E125.41.47.062",
         "frequency": "000.000",
         "airport": "ZKPY",
-        "runway": "",
-        "approachType": ""
+        "runway": ""
     },
     {
         "name": "PY980",
