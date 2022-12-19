@@ -40,6 +40,8 @@ module.exports = {
             seq int8 NULL,
             description text NULL,
             airway_type text NULL,
+            fixStart text NULL,
+            fixEnd text NULL,
             way public.geometry(linestring, 3857) NULL
         );
         `
@@ -58,7 +60,7 @@ module.exports = {
                 console.log(`airway fix not exist: ${e.fixStart} / ${e.fixEnd}`);
             }
 
-            ret += ` INSERT INTO public.airway VALUES(${wayIndex}, '${e.name}', ${e.seq}, '${e.description}', '${e.airwayType}', ST_Transform(ST_GeomFromText('LINESTRING (${fixToIdMap[e.fixStart].longitudeDecimal} ${fixToIdMap[e.fixStart].latitudeDecimal}, ${fixToIdMap[e.fixEnd].longitudeDecimal} ${fixToIdMap[e.fixEnd].latitudeDecimal})', 4326), 3857)); `;
+            ret += ` INSERT INTO public.airway VALUES(${wayIndex}, '${e.name}', ${e.seq}, '${e.description}', '${e.airwayType}', '${e.fixStart}', '${e.fixEnd}', ST_Transform(ST_GeomFromText('LINESTRING (${fixToIdMap[e.fixStart].longitudeDecimal} ${fixToIdMap[e.fixStart].latitudeDecimal}, ${fixToIdMap[e.fixEnd].longitudeDecimal} ${fixToIdMap[e.fixEnd].latitudeDecimal})', 4326), 3857)); `;
         });
 
         return ret;
