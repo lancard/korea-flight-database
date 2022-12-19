@@ -11,12 +11,12 @@ module.exports = {
     getPosition() {
         const positionList = require('./database/position.json');
 
-        var ret;
+        var ret = [];
 
         for(var callsign in positionList) {
             var e = positionList[callsign];
     
-            ret += [
+            ret.push([
                 callsign,
                 e.name,
                 e.frequency,
@@ -28,7 +28,7 @@ module.exports = {
                 '-',
                 '0000',
                 '7777'
-            ].join(":");
+            ].join(":"));
         }
 
         return ret.join("\n");
