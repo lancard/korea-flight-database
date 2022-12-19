@@ -424,7 +424,6 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
-        "airport": "",
         "labelType": "ETC",
         "name": "100",
         "latitude": "N035.18.57.720",
@@ -432,7 +431,6 @@
         "colorProfile": "Area-DangerArea-Label"
     },
     {
-        "airport": "",
         "labelType": "ETC",
         "name": "100",
         "latitude": "N035.42.03.806",
@@ -440,7 +438,6 @@
         "colorProfile": "Area-DangerArea-Label"
     },
     {
-        "airport": "",
         "labelType": "ETC",
         "name": "100",
         "latitude": "N035.24.32.927",
@@ -2592,7 +2589,6 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
-        "airport": "",
         "labelType": "ETC",
         "name": "30",
         "latitude": "N035.39.42.632",
@@ -9792,7 +9788,6 @@
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RJCG(Sapporo)",
         "latitude": "N040.00.01.848",
@@ -9800,39 +9795,34 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
-        "name": "RJDG(Fukuoka)\/RJTG_A(Tokyo)",
+        "name": "RJDG(Fukuoka),RJTG(Tokyo)",
         "latitude": "N029.52.17.822",
         "longitude": "E124.44.37.306",
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
-        "name": "RJDG(Fukuoka)\/RJTG_A(Tokyo)",
+        "name": "RJDG(Fukuoka),RJTG(Tokyo)",
         "latitude": "N032.25.02.213",
         "longitude": "E127.06.23.674",
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
-        "name": "RJDG(Fukuoka)\/RJTG_A(Tokyo)",
+        "name": "RJDG(Fukuoka),RJTG(Tokyo)",
         "latitude": "N033.31.08.779",
         "longitude": "E128.22.57.850",
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
-        "name": "RJDG(Fukuoka)\/RJTG_A(Tokyo)",
+        "name": "RJDG(Fukuoka),RJTG(Tokyo)",
         "latitude": "N034.53.10.123",
         "longitude": "E129.33.48.730",
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RJTG(Tokyo)",
         "latitude": "N035.55.24.446",
@@ -9840,7 +9830,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RJTG(Tokyo)",
         "latitude": "N036.27.43.493",
@@ -9848,7 +9837,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RJTG(Tokyo)",
         "latitude": "N037.12.36.922",
@@ -9856,7 +9844,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N037.57.05.875",
@@ -9864,7 +9851,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N033.42.11.879",
@@ -9872,7 +9858,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N037.14.28.843",
@@ -9880,7 +9865,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N032.05.59.429",
@@ -9888,7 +9872,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N030.10.28.997",
@@ -9896,7 +9879,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N032.36.35.256",
@@ -9904,7 +9886,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N033.41.13.349",
@@ -9912,7 +9893,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N035.05.23.717",
@@ -9920,7 +9900,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N035.59.57.240",
@@ -9928,7 +9907,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N036.37.33.317",
@@ -9936,7 +9914,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N037.33.27.941",
@@ -9944,7 +9921,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "RKRR",
         "latitude": "N038.33.18.494",
@@ -10192,7 +10168,6 @@
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "UHHH(KHABAROVSK)",
         "latitude": "N041.36.33.696",
@@ -10312,7 +10287,6 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZKKP(PyongYang)",
         "latitude": "N038.02.00.787",
@@ -10320,7 +10294,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZKKP(PyongYang)",
         "latitude": "N038.42.38.827",
@@ -10328,7 +10301,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZKKP(PyongYang)",
         "latitude": "N038.41.32.472",
@@ -10336,7 +10308,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZKKP(PyongYang)",
         "latitude": "N040.26.45.946",
@@ -10344,7 +10315,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZKKP(PyongYang)",
         "latitude": "N041.22.47.943",
@@ -10352,7 +10322,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZSHA(Shanghai)",
         "latitude": "N033.47.31.719",
@@ -10360,7 +10329,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZSHA(Shanghai)",
         "latitude": "N037.10.03.422",
@@ -10368,7 +10336,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZSHA(Shanghai)",
         "latitude": "N031.54.44.818",
@@ -10376,7 +10343,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZSHA(Shanghai)",
         "latitude": "N038.10.49.272",
@@ -10384,7 +10350,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZYSH(Shenyang)",
         "latitude": "N038.18.55.877",
@@ -10392,7 +10357,6 @@
         "colorProfile": "FIR-Label"
     },
     {
-        "airport": "",
         "labelType": "FIR-Labels",
         "name": "ZYSH(Shenyang)",
         "latitude": "N038.53.20.261",
