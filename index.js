@@ -9,7 +9,7 @@ const openstreetmap = require('./openstreetmap.js');
 
 global.aircraftList = require('./database/aircraft.json');
 global.airlineList = require('./database/airline.json');
-global.airportList = require('./database/airport.json');
+global.airportList = {};
 global.airwayList = require('./database/airway.json');
 global.navaidList = require('./database/navaid.json');
 global.runwayList = require('./database/runway.json');
@@ -30,6 +30,26 @@ Array.prototype.last = function () {
 }
 
 function initialize() {
+    // get world airport
+    const airports = require('./temp/airports.json');
+    airports.forEach((e) => {
+        if (e.type == 'closed' || e.type == "small_airport")
+            return;
+
+        global.airportList[e.ident] = {
+            "continent": e.continent,
+            "municipality": e.municipality,
+            "description": e.name,
+            "type": e.type,
+            "latitude": util.convertDecimalToMinutes(e.latitude_deg, "NS"),
+            "longitude": util.convertDecimalToMinutes(e.latitude_deg, "EW"),
+            "country": e.iso_country,
+            "iataCode": e.iata_code,
+            "icaoCode": e.ident,
+            "elevationInFeet": +e.elevation_ft
+        };
+    });
+
     // get airport objects from directory
     fs.readdirSync('./database/airport').forEach(e => {
         var airportName = path.parse(e).name;

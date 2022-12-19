@@ -1,5 +1,4 @@
 const fs = require('fs');
-const downloadFileSync = require('download-file-sync');
 
 const util = require('./util.js');
 
@@ -174,12 +173,10 @@ module.exports = {
         return ret.join("\n");
     },
     getArtcc() {
-        // download vatspy boundaries
-        const contents = downloadFileSync("https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/master/Boundaries.geojson");
-
         var artcc = {};
 
-        const geojson = JSON.parse(contents);
+        const geojson = require('./temp/boundaries.json');
+
         geojson.features.forEach(e => {
             if (
                 e.properties.id.startsWith("RK") ||
@@ -205,12 +202,10 @@ module.exports = {
         return ret.join("\n");
     },
     getTracon() {
-        // download vatsim tracon boundaries
-        const contents = downloadFileSync("https://raw.githubusercontent.com/vatsimnetwork/simaware-tracon-project/main/TRACONBoundaries.geojson");
-
         var tracon = {};
 
-        const geojson = JSON.parse(contents);
+        const geojson = require('./temp/tracons.json');
+        
         geojson.features.forEach(e => {
             if (e.properties.id.startsWith("RK")) {
                 tracon[e.properties.id] = e.geometry.coordinates[0][0];
