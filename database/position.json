@@ -1,4 +1,36 @@
 {
+    "RKRR_A_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "128.325",
+        "initialID": "KA",
+        "middleFix": "A",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
+    "RKRR_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "128.700",
+        "initialID": "KR",
+        "middleFix": "-",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
+    "RKRR_N_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "132.150",
+        "initialID": "KN",
+        "middleFix": "N",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
+    "RKRR_S_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "124.520",
+        "initialID": "KS",
+        "middleFix": "S",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
     "RKDA_C_CTR": {
         "name": "DAEGU CONTROL",
         "frequency": "125.370",
@@ -7,11 +39,11 @@
         "prefix": "RKDA",
         "position": "CTR"
     },
-    "RKDA_CTR": {
+    "RKDA_W_CTR": {
         "name": "DAEGU CONTROL",
-        "frequency": "120.570",
-        "initialID": "DG",
-        "middleFix": "-",
+        "frequency": "132.800",
+        "initialID": "KW",
+        "middleFix": "W",
         "prefix": "RKDA",
         "position": "CTR"
     },
@@ -20,6 +52,14 @@
         "frequency": "134.170",
         "initialID": "KE",
         "middleFix": "E",
+        "prefix": "RKDA",
+        "position": "CTR"
+    },
+    "RKDA_CTR": {
+        "name": "DAEGU CONTROL",
+        "frequency": "120.570",
+        "initialID": "DG",
+        "middleFix": "-",
         "prefix": "RKDA",
         "position": "CTR"
     },
@@ -78,38 +118,6 @@
         "middleFix": "-",
         "prefix": "RKPS",
         "position": "APP"
-    },
-    "RKRR_A_CTR": {
-        "name": "INCHEON CONTROL",
-        "frequency": "128.325",
-        "initialID": "KR",
-        "middleFix": "A",
-        "prefix": "RKRR",
-        "position": "CTR"
-    },
-    "RKRR_CTR": {
-        "name": "INCHEON CONTROL",
-        "frequency": "128.700",
-        "initialID": "KR",
-        "middleFix": "-",
-        "prefix": "RKRR",
-        "position": "CTR"
-    },
-    "RKRR_N_CTR": {
-        "name": "INCHEON CONTROL",
-        "frequency": "132.800",
-        "initialID": "KN",
-        "middleFix": "N",
-        "prefix": "RKRR",
-        "position": "CTR"
-    },
-    "RKRR_S_CTR": {
-        "name": "INCHEON CONTROL",
-        "frequency": "124.520",
-        "initialID": "KS",
-        "middleFix": "S",
-        "prefix": "RKRR",
-        "position": "CTR"
     },
     "RKSO_APP": {
         "name": "OSAN APPROACH",
