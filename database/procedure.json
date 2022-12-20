@@ -1,37 +1,6 @@
 [
     {
         "procedureType": "SID",
-        "airport": "RKSS",
-        "name": "OSPOT2U",
-        "runway": [
-            "14L",
-            "14R"
-        ],
-        "fixList": [
-            "UD050",
-            "UD060",
-            "UD080",
-            "UG100",
-            "UG130",
-            "OSPOT"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKSS",
-        "name": "EGOBA2U",
-        "runway": [
-            "14L",
-            "14R"
-        ],
-        "fixList": [
-            "UD050",
-            "SEL",
-            "EGOBA"
-        ]
-    },
-    {
-        "procedureType": "SID",
         "airport": "RKPK",
         "name": "OPONO3",
         "runway": [
@@ -122,43 +91,7 @@
             "YEJEE"
         ]
     },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKSI",
-        "name": "ILSZ15L.MUNAN",
-        "runway": "15L",
-        "fixList": [
-            "MUNAN",
-            "PUDIM",
-            "SAKOS"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKSI",
-        "name": "ILSZ15L.BITIM",
-        "runway": "15L",
-        "fixList": [
-            "BITIM",
-            "OLTEM",
-            "PUDIM",
-            "SAKOS"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKSI",
-        "name": "VOR15L",
-        "runway": "15L",
-        "fixList": [
-            "POSEP",
-            "N037.37.52.400 E126.18.33.700",
-            "N037.33.12.400 E126.22.42.400"
-        ]
-    },
-    
-    
-    
+  
     
     
     
