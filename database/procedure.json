@@ -2544,7 +2544,137 @@
             "GURUM",
             "DUKAL"
         ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "ILSZ07",
+        "runway": "07",
+        "fixList": [
+            "YUMIN",
+            "LIMSO",
+            "N033.27.17.600 E126.22.51.800",
+            "N033.28.43.800 E126.25.39.300",
+            "N033.29.21.600 E126.26.52.700"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "ILSY07",
+        "runway": "07",
+        "fixList": [
+            "AKBIN",
+            "N033.24.35.000 E126.17.36.800",
+            "N033.27.17.600 E126.22.51.800",
+            "N033.28.43.800 E126.25.39.300",
+            "N033.29.21.600 E126.26.52.700"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "RNP07",
+        "runway": "07",
+        "fixList": [
+            "YUMIN",
+            "LIMSO",
+            "TEWOO",
+            "PC401"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "VOR07",
+        "runway": "07",
+        "fixList": [
+            "AKBIN",
+            "N033.24.10.500 E126.17.12.100",
+            "N033.26.07.900 E126.20.48.900",
+            "N033.27.16.300 E126.22.55.400",
+            "N033.28.17.900 E126.24.43.900",
+            "N033.29.23.300 E126.26.50.600"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "ILSZ25",
+        "runway": "25",
+        "fixList": [
+            "DUKAL",
+            "TOKIN",
+            "N033.33.36.400 E126.35.08.700",
+            "N033.31.20.000 E126.30.43.000"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "ILSY25.OMKEL",
+        "runway": "25",
+        "fixList": [
+            "OMKEL",
+            "N033.39.01.317 E126.46.02.079"
+            "N033.36.18.200 E126.40.24.900",
+            "N033.33.36.400 E126.35.08.700",
+            "N033.31.20.000 E126.30.43.000"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "ILSY25.PETAA",
+        "runway": "25",
+        "fixList": [
+            "OMKEL",
+            "N033.42.11.251 E126.52.18.164",
+            "N033.39.01.317 E126.46.02.079",
+            "N033.36.18.200 E126.40.24.900",
+            "N033.33.36.400 E126.35.08.700",
+            "N033.31.20.000 E126.30.43.000"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "RNP25",
+        "runway": "25",
+        "fixList": [
+            "DUKAL",
+            "TOKIN",
+            "RENEK"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "VOR25.OMKEL",
+        "runway": "25",
+        "fixList": [
+            "OMKEL",
+            "N033.39.01.317 E126.46.02.079"
+            "N033.36.18.200 E126.40.24.900",
+            "N033.33.36.400 E126.35.08.700",
+            "N033.31.20.000 E126.30.43.000"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "VOR25.PETAA",
+        "runway": "25",
+        "fixList": [
+            "OMKEL",
+            "N033.42.11.251 E126.52.18.164",
+            "N033.39.01.317 E126.46.02.079",
+            "N033.36.18.200 E126.40.24.900",
+            "N033.33.36.400 E126.35.08.700",
+            "N033.31.20.000 E126.30.43.000"
+        ]
     }
+    
 ]
 
 
