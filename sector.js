@@ -110,12 +110,12 @@ module.exports = {
         var ret = [];
 
         navaidList.filter(e => e.navaidType == "NDB" || e.navaidType == "VFR_REPORTING_POINT").forEach(e => {
-            ret.push(`${e.name} ${e.frequency} ${e.latitude} ${e.longitude}`);
+            ret.push(`${e.name} ${e.frequency ? e.frequency : "000.000"} ${e.latitude} ${e.longitude}`);
         });
 
         // add fixes to ndb (near airport)
         navaidList.filter(e => e.navaidType == "FIX" && e.extraType == "NEAR_AIRPORT_FIX").forEach(e => {
-            ret.push(`${e.name} ${e.frequency} ${e.latitude} ${e.longitude}`);
+            ret.push(`${e.name} ${e.frequency ? e.frequency : "000.000"} ${e.latitude} ${e.longitude}`);
         });
 
         return ret.join("\n");
