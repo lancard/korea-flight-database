@@ -31,6 +31,23 @@ Array.prototype.last = function () {
 }
 
 function initialize() {
+    // check all fix in navaids
+    procedureList.forEach(p => {
+        p.fixList.forEach(e => {
+            if (e.length > 10)
+                return;
+
+            var exist = false;
+            navaidList.forEach(n => {
+                if (n.name == e)
+                    exist = true;
+            });
+            if (!exist) {
+                console.log("fix not exist in navaid.json: " + e);
+            }
+        });
+    });
+
     // get world airport
     const airports = require('./temp/airports.json');
     airports.forEach((e) => {

@@ -120,6 +120,7 @@ module.exports = {
             tracon[app].forEach(e => {
                 ret.push(`COORD:${util.convertDecimalToMinutes(e[1], "NS")}:${util.convertDecimalToMinutes(e[0], "EW")}`)
             });
+            ret.push(`COORD:${util.convertDecimalToMinutes(tracon[app][0][1], "NS")}:${util.convertDecimalToMinutes(tracon[app][0][0], "EW")}`)
 
             ret.push("\n");
 

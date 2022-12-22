@@ -135,7 +135,7 @@ module.exports = {
         for (const airport in airportList) {
             const icaoCode = airportList[airport].icaoCode;
 
-            if(!util.isNearestAirport(icaoCode))
+            if (!util.isNearestAirport(icaoCode))
                 continue;
 
             ret.push(`${icaoCode} 000.000 ${airportList[airport].latitude} ${airportList[airport].longitude} C`);
@@ -202,7 +202,7 @@ module.exports = {
         var tracon = {};
 
         const geojson = require('./temp/tracons.json');
-        
+
         geojson.features.forEach(e => {
             if (e.properties.id.startsWith("RK")) {
                 tracon[e.properties.id] = e.geometry.coordinates[0][0];
@@ -215,6 +215,8 @@ module.exports = {
             for (var b = 0; b < tracon[app].length - 1; b++) {
                 ret.push(`${app}_APP ${util.convertDecimalToMinutes(tracon[app][b][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][b][0], "EW")} ${util.convertDecimalToMinutes(tracon[app][b + 1][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][b + 1][0], "EW")}`)
             }
+            // close path
+            ret.push(`${app}_APP ${util.convertDecimalToMinutes(tracon[app][b][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][b][0], "EW")} ${util.convertDecimalToMinutes(tracon[app][0][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][0][0], "EW")}`)
         }
 
         return ret.join("\n");
