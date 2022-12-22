@@ -114,7 +114,7 @@ module.exports = {
         });
 
         // add fixes to ndb (near airport)
-        navaidList.filter(e => e.navaidType == "FIX" && e.extraType == "NEAR_AIRPORT_FIX").forEach(e => {
+        navaidList.filter(e => e.navaidType == "FIX" && e.extraType == "NEAR_AIRPORT_FIX" && e.isUsedByNavigation).forEach(e => {
             ret.push(`${e.name} ${e.frequency ? e.frequency : "000.000"} ${e.latitude} ${e.longitude}`);
         });
 
