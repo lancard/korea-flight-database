@@ -133,7 +133,11 @@ function initialize() {
         runwayOppositeMap[`${runwayList[r].airport}_${runwayList[r].runway}`] = { latitude: runwayList[r].endLatitude, longitude: runwayList[r].endLongitude };
     }
 
-    // console.log(JSON.stringify(navaidList, null, '\t'));
+    // print unused fixes
+    navaidList.filter(e => e.navaidType == 'FIX' && !e.isUsedByNavigation).forEach(e => {
+        console.log("unused fix: " + e.name);
+    });
+
 }
 
 // ----------------- run -------------------
