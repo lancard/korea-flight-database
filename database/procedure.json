@@ -45,6 +45,12 @@
 
 
 
+
+
+
+
+
+
     {
         "procedureType": "SID",
         "airport": "RKTU",
@@ -618,7 +624,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "KAE2E",
-        "runway": "15",
+        "runway": [
+            "15"
+        ],
         "fixList": [
             "NY050",
             "NY070",
@@ -630,7 +638,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "BIKSI2E",
-        "runway": "15",
+        "runway": [
+            "15"
+        ],
         "fixList": [
             "NY050",
             "NY070",
@@ -643,7 +653,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "PILIT2E",
-        "runway": "15",
+        "runway": [
+            "15"
+        ],
         "fixList": [
             "NY050",
             "NY070",
@@ -656,7 +668,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "YAG2S",
-        "runway": "15",
+        "runway": [
+            "15"
+        ],
         "fixList": [
             "KAE"
         ]
@@ -665,7 +679,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "YAG2T",
-        "runway": "15",
+        "runway": [
+            "15"
+        ],
         "fixList": [
             "YAG",
             "KAE"
@@ -675,7 +691,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "KAE2N",
-        "runway": "33",
+        "runway": [
+            "33"
+        ],
         "fixList": [
             "NY000",
             "NY040",
@@ -689,7 +707,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "BIKSI2N",
-        "runway": "33",
+        "runway": [
+            "33"
+        ],
         "fixList": [
             "NY000",
             "NY040",
@@ -704,7 +724,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "PILIT2N",
-        "runway": "33",
+        "runway": [
+            "33"
+        ],
         "fixList": [
             "NY000",
             "NY040",
@@ -719,7 +741,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "YAG2A.AB",
-        "runway": "33",
+        "runway": [
+            "33"
+        ],
         "fixList": [
             "YAG",
             "KAE"
@@ -729,7 +753,9 @@
         "procedureType": "SID",
         "airport": "RKNY",
         "name": "YAG2A.CD",
-        "runway": "33",
+        "runway": [
+            "33"
+        ],
         "fixList": [
             "KAE"
         ]
@@ -738,7 +764,6 @@
         "procedureType": "STAR",
         "airport": "RKNY",
         "name": "KAE2H",
-        "runway": "33",
         "fixList": [
             "KAE",
             "NY049",
@@ -752,7 +777,6 @@
         "procedureType": "STAR",
         "airport": "RKNY",
         "name": "BIKSI2H",
-        "runway": "33",
         "fixList": [
             "BIKSI",
             "NY049",
@@ -809,7 +833,9 @@
         "procedureType": "SID",
         "airport": "RKPU",
         "name": "KPO1M",
-        "runway": "18",
+        "runway": [
+            "18"
+        ],
         "fixList": [
             "PU851",
             "PU852",
@@ -821,7 +847,9 @@
         "procedureType": "SID",
         "airport": "RKPU",
         "name": "APARU1M",
-        "runway": "18",
+        "runway": [
+            "18"
+        ],
         "fixList": [
             "PU851",
             "APARU"
@@ -831,7 +859,9 @@
         "procedureType": "SID",
         "airport": "RKPU",
         "name": "APARU1R",
-        "runway": "36",
+        "runway": [
+            "36"
+        ],
         "fixList": [
             "PU801",
             "PU802",
@@ -843,7 +873,9 @@
         "procedureType": "SID",
         "airport": "RKPU",
         "name": "KPO1R",
-        "runway": "36",
+        "runway": [
+            "36"
+        ],
         "fixList": [
             "PU801",
             "PU802",
@@ -854,7 +886,6 @@
         "procedureType": "STAR",
         "airport": "RKPU",
         "name": "LAPAL2D",
-        "runway": "18",
         "fixList": [
             "LAPAL",
             "DOGDI",
@@ -865,7 +896,6 @@
         "procedureType": "STAR",
         "airport": "RKPU",
         "name": "APARU2D",
-        "runway": "18",
         "fixList": [
             "APARU",
             "PU751",
@@ -877,7 +907,6 @@
         "procedureType": "STAR",
         "airport": "RKPU",
         "name": "LAPAL2C",
-        "runway": "36",
         "fixList": [
             "LAPAL",
             "DOGDI",
@@ -889,7 +918,6 @@
         "procedureType": "STAR",
         "airport": "RKPU",
         "name": "APARU2C",
-        "runway": "36",
         "fixList": [
             "APARU",
             "PU701",
@@ -987,8 +1015,11 @@
 
 
 
-    
 
+
+
+
+    
     {
         "procedureType": "SID",
         "airport": "RKSI",
