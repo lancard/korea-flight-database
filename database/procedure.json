@@ -524,9 +524,51 @@
             "CHO"
         ]
     },
-    
-    
-    
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
+        "name": "ILS13R",
+        "runway": "13R",
+        "fixList": [
+            "YAWAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
+        "name": "ILS31L",
+        "runway": "31L",
+        "fixList": [
+            "UKBAT"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
+        "name": "VORDME31L",
+        "runway": "31L",
+        "fixList": [
+            "UKBAT"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
+        "name": "LOCDME31R",
+        "runway": "31R",
+        "fixList": [
+            "UKBAT"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
+        "name": "VORDME31R",
+        "runway": "31R",
+        "fixList": [
+            "UKBAT"
+        ]
+    },    
     
     
     
