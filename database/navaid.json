@@ -63,6 +63,87 @@
         "airport": "RKNY"
     },
     {
+        "name": "NY049",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N037.45.11.200",
+        "longitude": "E128.40.24.700",
+        "airport": "RKNY"
+    },
+    {
+        "name": "NY042",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N037.52.29.400",
+        "longitude": "E128.40.25.100",
+        "airport": "RKNY"
+    },
+    {
+        "name": "NY031",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N038.03.34.100",
+        "longitude": "E128.40.25.800",
+        "airport": "RKNY"
+    },
+    {
+        "name": "NY015",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N037.58.31.200",
+        "longitude": "E128.53.33.600",
+        "airport": "RKNY"
+    },
+    {
+        "name": "NY010",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N037.55.22.300",
+        "longitude": "E128.48.38.800",
+        "airport": "RKNY"
+    },
+    {
+        "name": "NY004",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N037.59.40.600",
+        "longitude": "E128.44.14.900",
+        "airport": "RKNY"
+    },
+    {
+        "name": "NY003",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N038.00.49.200",
+        "longitude": "E128.43.04.700",
+        "airport": "RKNY"
+    },
+    {
+        "name": "RW330",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N038.03.09.210",
+        "longitude": "E128.40.41.250",
+        "airport": "RKNY"
+    },
+    {
+        "name": "NIMAL",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N038.04.21.600",
+        "longitude": "E128.45.59.800",
+        "airport": "RKNY"
+    },
+    {
         "name": "AD020",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -7387,6 +7468,24 @@
         "airport": "RKSS"
     },
     {
+        "name": "PU402",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N035.44.14.200",
+        "longitude": "E129.18.21.400",
+        "airport": "RKPU"
+    },
+    {
+        "name": "PU403",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N035.39.15.500",
+        "longitude": "E129.20.05.600",
+        "airport": "RKPU"
+    },
+    {
         "name": "PU406",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -7411,6 +7510,15 @@
         "description": "FIX(비행장근처)",
         "latitude": "N035.29.53.200",
         "longitude": "E129.28.33.200",
+        "airport": "RKPU"
+    },
+    {
+        "name": "PU501",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N035.26.18.100",
+        "longitude": "E129.29.02.900",
         "airport": "RKPU"
     },
     {
@@ -7494,6 +7602,15 @@
         "longitude": "E129.18.51.501",
         "airport": "RKPU"
     },
+    {
+        "name": "RW180",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N035.36.08.900",
+        "longitude": "E129.21.03.500",
+        "airport": "RKPU"
+    },    
     {
         "name": "PUDEN",
         "navaidType": "FIX",
