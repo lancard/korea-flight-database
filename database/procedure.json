@@ -569,6 +569,61 @@
             "UKBAT"
         ]
     },    
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJJ",
+        "name": "ILSDME04R",
+        "runway": "04R",
+        "fixList": [
+            "KOTTY"
+        ]
+    },    
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJJ",
+        "name": "VORDME04R",
+        "runway": "04R",
+        "fixList": [
+            "KOTTY"
+        ]
+    },    
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJJ",
+        "name": "VORDME04L",
+        "runway": "04L",
+        "fixList": [
+            "KOTTY"
+        ]
+    },    
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJJ",
+        "name": "LOCDME22L",
+        "runway": "22L",
+        "fixList": [
+            "JADOO",
+            "ELPEX"
+        ]
+    },    
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJJ",
+        "name": "VORDME22L",
+        "runway": "22L",
+        "fixList": [
+            "JADOO"
+        ]
+    },    
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJJ",
+        "name": "VORDME22R",
+        "runway": "22R",
+        "fixList": [
+            "JADOO"
+        ]
+    },    
     
     
     

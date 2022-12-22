@@ -3785,6 +3785,14 @@
         "longitude": "E127.14.23.000"
     },
     {
+        "name": "ELPEX",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N035.22.16.504",
+        "longitude": "E126.59.08.821"
+    },
+    {
         "name": "JANDY",
         "navaidType": "FIX",
         "extraType": "FIX",
