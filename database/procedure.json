@@ -1298,7 +1298,7 @@
         "fixList": [
             "YD020",
             "YD040",
-            "YD080",
+            "YP080",
             "NOPIK"
         ]
     },
@@ -1373,7 +1373,7 @@
             "KAKSO",
             "NODUN",
             "GC072",
-            "GC081",
+            "GC071",
             "SEL",
             "GC036",
             "GC026",
@@ -1428,7 +1428,7 @@
             "KAKSO",
             "NODUN",
             "GC072",
-            "CG071",
+            "GC071",
             "SEL",
             "GH034",
             "SANLA",
@@ -1711,7 +1711,7 @@
             "OLTEM",
             "PUDIM",
             "NOPEN",
-            "CG002"
+            "GC002"
         ]
     },
     {
@@ -1723,7 +1723,7 @@
             "MUNAN",
             "PUDIM",
             "NOPEN",
-            "CG002"
+            "GC002"
         ]
     },
     {
@@ -1741,36 +1741,9 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSI",
-        "name": "HANEEVIS15L.YEWON",
+        "name": "HANEEVIS15L",
         "runway": "15L",
         "fixList": [
-            "YEWON",
-            "HANEE",
-            "SEROO",
-            "MODOE",
-            "SINDO"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKSI",
-        "name": "HANEEVIS15L.COPUS",
-        "runway": "15L",
-        "fixList": [
-            "COPUS",
-            "HANEE",
-            "SEROO",
-            "MODOE",
-            "SINDO"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKSI",
-        "name": "HANEEVIS15L.SEREE",
-        "runway": "15L",
-        "fixList": [
-            "SEREE",
             "HANEE",
             "SEROO",
             "MODOE",
@@ -1851,36 +1824,9 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSI",
-        "name": "HANEEVIS15R.YEWON",
+        "name": "HANEEVIS15R",
         "runway": "15R",
         "fixList": [
-            "YEWON",
-            "HANEE",
-            "SEROO",
-            "WUNSO",
-            "MADAN"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKSI",
-        "name": "HANEEVIS15R.COPUS",
-        "runway": "15R",
-        "fixList": [
-            "COPUS",
-            "HANEE",
-            "SEROO",
-            "WUNSO",
-            "MADAN"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKSI",
-        "name": "HANEEVIS15R.SEREE",
-        "runway": "15R",
-        "fixList": [
-            "SEREE",
             "HANEE",
             "SEROO",
             "WUNSO",

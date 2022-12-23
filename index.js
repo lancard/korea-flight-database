@@ -133,10 +133,17 @@ function initialize() {
         runwayOppositeMap[`${runwayList[r].airport}_${runwayList[r].runway}`] = { latitude: runwayList[r].endLatitude, longitude: runwayList[r].endLongitude };
     }
 
-    // print unused fixes
-    navaidList.filter(e => e.navaidType == 'FIX' && !e.isUsedByNavigation).forEach(e => {
+    // print duplicated && unused fixes
+    var navaidMap = {};
+    navaidList.filter(e => e.navaidType == 'FIX' && e.extraType != "ILS" && !e.isUsedByNavigation).forEach(e => {
         console.log("unused fix: " + e.name);
+        if (navaidMap[e.name]) {
+            console.log("duplicated fix: " + e.name);
+            return;
+        }
+        navaidMap[e.name] = true;
     });
+
 
 }
 
