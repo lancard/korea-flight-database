@@ -5,8 +5,7 @@
         "extraType": "NEAR_AIRPORT_FIX",
         "description": "FIX(비행장근처)",
         "latitude": "N032.07.22.062",
-        "longitude": "E125.10.56.081",
-        "airport": "RKPC"
+        "longitude": "E125.10.56.081"
     },
     {
         "name": "LEDUD",
@@ -1646,24 +1645,6 @@
         "airport": "RKSI"
     },
     {
-        "name": "DH989",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.18.55.000",
-        "longitude": "E126.19.59.000",
-        "airport": "RKSI"
-    },
-    {
-        "name": "DH993",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.21.12.600",
-        "longitude": "E126.24.53.100",
-        "airport": "RKSI"
-    },
-    {
         "name": "DIAGO",
         "navaidType": "FIX",
         "extraType": "FIX",
@@ -1889,15 +1870,6 @@
         "airport": "RKSS"
     },
     {
-        "name": "DT993",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.38.07.500",
-        "longitude": "E126.41.39.600",
-        "airport": "RKSS"
-    },
-    {
         "name": "DU002",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -1952,15 +1924,6 @@
         "airport": "RKSS"
     },
     {
-        "name": "DU028",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.28.38.400",
-        "longitude": "E126.46.58.600",
-        "airport": "RKSS"
-    },
-    {
         "name": "DU030",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -1985,24 +1948,6 @@
         "description": "FIX(비행장근처)",
         "latitude": "N037.01.25.600",
         "longitude": "E127.19.16.400",
-        "airport": "RKSS"
-    },
-    {
-        "name": "DU987",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.25.09.300",
-        "longitude": "E126.46.13.600",
-        "airport": "RKSS"
-    },
-    {
-        "name": "DU994",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.29.54.500",
-        "longitude": "E126.51.57.600",
         "airport": "RKSS"
     },
     {
@@ -2061,15 +2006,6 @@
         "description": "경로 픽스",
         "latitude": "N036.56.12.500",
         "longitude": "E126.53.08.400"
-    },
-    {
-        "name": "DY994",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.27.26.900",
-        "longitude": "E126.19.07.500",
-        "airport": "RKSI"
     },
     {
         "name": "ECKEY",
@@ -2188,15 +2124,6 @@
         "description": "경로 픽스",
         "latitude": "N031.46.53.000",
         "longitude": "E125.56.17.000"
-    },
-    {
-        "name": "ELGUK",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.19.59.400",
-        "longitude": "E125.45.24.700",
-        "airport": "RKSI"
     },
     {
         "name": "ELMAP",
@@ -2535,33 +2462,6 @@
         "airport": "RKSI"
     },
     {
-        "name": "GC963",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.17.53.000",
-        "longitude": "E126.18.58.000",
-        "airport": "RKSI"
-    },
-    {
-        "name": "GC980",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.17.33.800",
-        "longitude": "E126.36.02.500",
-        "airport": "RKSI"
-    },
-    {
-        "name": "GC990",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.27.25.800",
-        "longitude": "E126.38.10.300",
-        "airport": "RKSI"
-    },
-    {
         "name": "GE016",
         "navaidType": "FIX",
         "extraType": "FIX",
@@ -2649,24 +2549,6 @@
         "description": "경로 픽스",
         "latitude": "N037.27.47.000",
         "longitude": "E126.13.29.000"
-    },
-    {
-        "name": "GE984",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.33.23.200",
-        "longitude": "E126.15.41.700",
-        "airport": "RKSI"
-    },
-    {
-        "name": "GE991",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.35.49.900",
-        "longitude": "E126.23.56.800",
-        "airport": "RKSI"
     },
     {
         "name": "GEOGA",
@@ -4664,24 +4546,6 @@
         "airport": "RKSI"
     },
     {
-        "name": "KC976",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.12.03.900",
-        "longitude": "E126.27.45.900",
-        "airport": "RKSI"
-    },
-    {
-        "name": "KC988",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.21.25.500",
-        "longitude": "E126.37.29.300",
-        "airport": "RKSI"
-    },
-    {
         "name": "KE035",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -4697,15 +4561,6 @@
         "description": "FIX(비행장근처)",
         "latitude": "N037.22.23.800",
         "longitude": "E127.16.40.700",
-        "airport": "RKSI"
-    },
-    {
-        "name": "KE991",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.35.45.497",
-        "longitude": "E126.23.41.500",
         "airport": "RKSI"
     },
     {
@@ -6659,33 +6514,6 @@
         "longitude": "E126.55.33.999"
     },
     {
-        "name": "PH036",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.18.41.600",
-        "longitude": "E125.54.49.400",
-        "airport": "RKSI"
-    },
-    {
-        "name": "PH037",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.13.54.300",
-        "longitude": "E126.02.15.200",
-        "airport": "RKSI"
-    },
-    {
-        "name": "PH988",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.17.34.000",
-        "longitude": "E126.29.57.500",
-        "airport": "RKSI"
-    },
-    {
         "name": "KC002",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -7172,15 +7000,6 @@
         "airport": "RKSS"
     },
     {
-        "name": "PT053",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.03.58.400",
-        "longitude": "E126.37.09.600",
-        "airport": "RKSS"
-    },
-    {
         "name": "PT054",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -7304,33 +7123,6 @@
         "description": "FIX(비행장근처)",
         "latitude": "N035.39.15.500",
         "longitude": "E129.20.05.600",
-        "airport": "RKPU"
-    },
-    {
-        "name": "PU406",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N035.31.29.100",
-        "longitude": "E129.22.52.300",
-        "airport": "RKPU"
-    },
-    {
-        "name": "PU407",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N035.29.30.200",
-        "longitude": "E129.21.36.800",
-        "airport": "RKPU"
-    },
-    {
-        "name": "PU408",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N035.29.53.200",
-        "longitude": "E129.28.33.200",
         "airport": "RKPU"
     },
     {
@@ -7599,24 +7391,6 @@
         "latitude": "N039.08.20.738",
         "longitude": "E125.41.47.062",
         "airport": "ZKPY"
-    },
-    {
-        "name": "PY980",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.17.58.700",
-        "longitude": "E126.14.09.000",
-        "airport": "RKSI"
-    },
-    {
-        "name": "PY994",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.30.26.200",
-        "longitude": "E126.20.41.900",
-        "airport": "RKSI"
     },
     {
         "name": "PZ026",
@@ -8596,24 +8370,6 @@
         "description": "FIX(비행장근처)",
         "latitude": "N037.33.41.100",
         "longitude": "E126.35.37.100",
-        "airport": "RKSS"
-    },
-    {
-        "name": "TD060",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.34.45.500",
-        "longitude": "E126.37.04.700",
-        "airport": "RKSS"
-    },
-    {
-        "name": "TD080",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N037.31.17.700",
-        "longitude": "E126.32.22.300",
         "airport": "RKSS"
     },
     {

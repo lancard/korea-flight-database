@@ -39,18 +39,6 @@
             "ENGOT"
         ]
     },
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "procedureType": "SID",
         "airport": "RKTU",
@@ -1005,21 +993,51 @@
             "HAEGU"
         ]
     },
+    {
+        "procedureType": "SID",
+        "airport": "RKJY",
+        "name": "ANUBA1M",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "JY801",
+            "JY802",
+            "JY803",
+            "YSU",
+            "ANUBA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKJY",
+        "name": "POVOR1M",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "JY801",
+            "JY806",
+            "POVOR"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKJY",
+        "name": "TEDAN1M",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "JY804",
+            "JY805",
+            "TEDAN"
+        ]
+    },
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-    
     {
         "procedureType": "SID",
         "airport": "RKSI",
