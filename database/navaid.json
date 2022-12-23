@@ -687,7 +687,8 @@
         "extraType": "FIX",
         "description": "경로 픽스",
         "latitude": "N035.18.24.200",
-        "longitude": "E128.43.46.200"
+        "longitude": "E128.43.46.200",
+        "airport": "RKPK"
     },
     {
         "name": "BEVSI",
@@ -1207,14 +1208,6 @@
         "description": "경로 픽스",
         "latitude": "N039.21.53.000",
         "longitude": "E127.12.46.000"
-    },
-    {
-        "name": "COPUS",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.28.22.000",
-        "longitude": "E126.13.22.000"
     },
     {
         "name": "CORTS",
@@ -4660,14 +4653,6 @@
         "longitude": "E126.20.46.000"
     },
     {
-        "name": "KOTRA",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.12.21.300",
-        "longitude": "E126.32.17.400"
-    },
-    {
         "name": "KOTTY",
         "navaidType": "FIX",
         "extraType": "FIX",
@@ -7258,14 +7243,6 @@
         "description": "경로 픽스",
         "latitude": "N036.52.00.000",
         "longitude": "E127.28.04.000"
-    },
-    {
-        "name": "PULUN",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.10.22.198",
-        "longitude": "E126.42.55.699"
     },
     {
         "name": "PY037",
