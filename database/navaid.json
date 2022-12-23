@@ -126,15 +126,6 @@
         "airport": "RKNY"
     },
     {
-        "name": "RW330",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N038.03.09.210",
-        "longitude": "E128.40.41.250",
-        "airport": "RKNY"
-    },
-    {
         "name": "NIMAL",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -4179,15 +4170,6 @@
         "airport": "RKJY"
     },
     {
-        "name": "RW350",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N034.50.00.530",
-        "longitude": "E127.37.17.700",
-        "airport": "RKJY"
-    },
-    {
         "name": "JY752",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -7158,15 +7140,6 @@
         "airport": "RKPU"
     },
     {
-        "name": "RW180",
-        "navaidType": "FIX",
-        "extraType": "NEAR_AIRPORT_FIX",
-        "description": "FIX(비행장근처)",
-        "latitude": "N035.36.08.900",
-        "longitude": "E129.21.03.500",
-        "airport": "RKPU"
-    },
-    {
         "name": "PUDEN",
         "navaidType": "FIX",
         "extraType": "FIX",
@@ -7691,86 +7664,6 @@
         "latitude": "N036.08.26.000",
         "longitude": "E129.31.55.000",
         "airport": "RKTH"
-    },
-    {
-        "name": "RWY03",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N036.49.11.064",
-        "longitude": "E126.32.40.463"
-    },
-    {
-        "name": "RWY10",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N036.37.42.979",
-        "longitude": "E128.10.25.756"
-    },
-    {
-        "name": "RWY14",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.02.24.019",
-        "longitude": "E126.54.50.949"
-    },
-    {
-        "name": "RWY15",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N036.35.52.439",
-        "longitude": "E126.17.37.280"
-    },
-    {
-        "name": "RWY17",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N034.51.06.453",
-        "longitude": "E127.36.45.798"
-    },
-    {
-        "name": "RWY19",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N037.33.18.853",
-        "longitude": "E127.06.57.354"
-    },
-    {
-        "name": "RWY21",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N036.35.17.057",
-        "longitude": "E126.24.54.708"
-    },
-    {
-        "name": "RWY32",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N036.52.40.972",
-        "longitude": "E127.09.01.529"
-    },
-    {
-        "name": "RWY33",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N036.35.23.065",
-        "longitude": "E126.17.57.636"
-    },
-    {
-        "name": "RWY35",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N034.49.57.536",
-        "longitude": "E127.37.18.89"
     },
     {
         "name": "SABET",
