@@ -4203,6 +4203,42 @@
         "longitude": "E127.02.08.599"
     },
     {
+        "name": "JY401",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N034.58.37.800",
+        "longitude": "E127.33.04.000",
+        "airport": "RKJY"
+    },
+    {
+        "name": "IDROL",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N034.52.32.900",
+        "longitude": "E127.36.03.100",
+        "airport": "RKJY"
+    },
+    {
+        "name": "TIQUE",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N034.41.14.700",
+        "longitude": "E127.41.34.500",
+        "airport": "RKJY"
+    },
+    {
+        "name": "RW350",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "FIX(비행장근처)",
+        "latitude": "N034.50.00.530",
+        "longitude": "E127.37.17.700",
+        "airport": "RKJY"
+    },
+    {
         "name": "JY505",
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
@@ -5162,7 +5198,8 @@
         "extraType": "FIX",
         "description": "경로 픽스",
         "latitude": "N034.35.46.201",
-        "longitude": "E127.35.07.900"
+        "longitude": "E127.35.07.900",
+        "airport": "RKJY"
     },
     {
         "name": "MENOL",
@@ -6557,7 +6594,7 @@
         "latitude": "N037.30.00.400",
         "longitude": "E126.23.07.800",
         "airport": "RKSI"
-    },    
+    },
     {
         "name": "KE008",
         "navaidType": "FIX",
@@ -7223,7 +7260,7 @@
         "latitude": "N035.36.08.900",
         "longitude": "E129.21.03.500",
         "airport": "RKPU"
-    },    
+    },
     {
         "name": "PUDEN",
         "navaidType": "FIX",
@@ -8198,7 +8235,8 @@
         "extraType": "FIX",
         "description": "경로 픽스",
         "latitude": "N034.38.27.499",
-        "longitude": "E127.42.56.001"
+        "longitude": "E127.42.56.001",
+        "airport": "RKJY"
     },
     {
         "name": "SOORO",
@@ -9524,9 +9562,19 @@
         "name": "YEONA",
         "navaidType": "FIX",
         "extraType": "FIX",
-        "description": "경로 픽스",
+        "description": "IAF 경로 픽스",
         "latitude": "N034.57.03.801",
-        "longitude": "E127.24.52.099"
+        "longitude": "E127.24.52.099",
+        "airport": "RKJY"
+    },
+    {
+        "name": "ADGES",
+        "navaidType": "FIX",
+        "extraType": "NEAR_AIRPORT_FIX",
+        "description": "경로 픽스",
+        "latitude": "N034.38.03.000",
+        "longitude": "E127.35.14.000",
+        "airport": "RKJY"
     },
     {
         "name": "YG160",

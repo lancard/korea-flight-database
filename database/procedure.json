@@ -1034,6 +1034,209 @@
             "TEDAN"
         ]
     },
+    {
+        "procedureType": "SID",
+        "airport": "RKJY",
+        "name": "ANUBA5S",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "YSU",
+            "ANUBA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKJY",
+        "name": "POVOR1R",
+        "runway": [
+            "35"
+        ],
+        "fixList": [
+            "JY851",
+            "JY852",
+            "JY853",
+            "JY857",
+            "JY854",
+            "POVOR"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKJY",
+        "name": "POVOR6R",
+        "runway": [
+            "35"
+        ],
+        "fixList": [
+            "JY865",
+            "JY866",
+            "POVOR"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKJY",
+        "name": "ANUBA1R",
+        "runway": [
+            "35"
+        ],
+        "fixList": [
+            "ANUBA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKJY",
+        "name": "TEDAN1R",
+        "runway": [
+            "35"
+        ],
+        "fixList": [
+            "TEDAN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKJY",
+        "name": "TEDAN1D",
+        "fixList": [
+            "TEDAN",
+            "YEONA"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKJY",
+        "name": "NISAV1D",
+        "fixList": [
+            "NISAV",
+            "AMENT",
+            "ADGES",
+            "ISDOV",
+            "BUGYO",
+            "YEONA"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKJY",
+        "name": "TEDAN3C",
+        "fixList": [
+            "TEDAN",
+            "ISRIV",
+            "SEHEE",
+            "MENIV",
+            "SOONA"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKJY",
+        "name": "NISAV1C",
+        "fixList": [
+            "NISAV",
+            "JY752",
+            "SOONA"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "ILSY17",
+        "runway": "17",
+        "fixList": [
+            "YEONA",
+            "N035.01.41.400 E127.31.33.600"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "ILSZ17",
+        "runway": "17",
+        "fixList": [
+            "SKOTA",
+            "AGUTI",
+            "JY401"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "RNP17",
+        "runway": "17",
+        "fixList": [
+            "SKOTA",
+            "AGUTI",
+            "JY401",
+            "KAKRU",
+            "IDROL"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "VOR17",
+        "runway": "17",
+        "fixList": [
+            "YEONA",
+            "N035.01.24.800 E127.30.50.300"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "ILSY35",
+        "runway": "35",
+        "fixList": [
+            "SOONA"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "ILSZ35",
+        "runway": "35",
+        "fixList": [
+            "SOONA",
+            "TIQUE"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "RNP35",
+        "runway": "35",
+        "fixList": [
+            "SOONA",
+            "TIQUE",
+            "ANJAY",
+            "RW350"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "VOR35",
+        "runway": "35",
+        "fixList": [
+            "SOONA"
+        ]
+    },
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
