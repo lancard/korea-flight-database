@@ -136,7 +136,7 @@ function initialize() {
     // print duplicated && unused fixes
     var navaidMap = {};
     navaidList.filter(e => e.navaidType == 'FIX' && e.extraType != "ILS" && !e.isUsedByNavigation).forEach(e => {
-        // console.log("unused fix: " + e.name + (e.airport ? " / " + e.airport : ""));
+        console.log("unused fix: " + e.name + (e.airport ? " / " + e.airport : ""));
         if (navaidMap[e.name]) {
             console.log("duplicated fix: " + e.name);
             return;
