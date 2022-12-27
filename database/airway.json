@@ -1472,6 +1472,14 @@
         "fixEnd": "SP-7"
     },
     {
+        "name": "Susaek",
+        "seq": 7,
+        "description": "VFR Route",
+        "airwayType": "VFR",
+        "fixStart": "SP-7",
+        "fixEnd": "SP-8"
+    },
+    {
         "name": "V11",
         "seq": 370,
         "description": "고고도항로",
