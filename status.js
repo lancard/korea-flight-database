@@ -9,7 +9,7 @@ navaidList.forEach(e => {
         navaidMap[e.name] = {};
 
     airwayList.forEach(p => {
-        if (p.fixStart == e.name || e.fixEnd == e.name) {
+        if (p.fixStart == e.name || p.fixEnd == e.name) {
             navaidMap[e.name]["AIRWAY"] = true;
         }
     });
