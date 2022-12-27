@@ -46,7 +46,14 @@ navaidList.forEach(e => {
     });
 });
 
-
+// non ref fixes
 for (navaid in navaidMap) {
-    console.log(`${navaid}: ${Object.keys(navaidMap[navaid])}`);
+    if (Object.keys(navaidMap[navaid]).length == 0)
+        console.log(`${navaid}: ${Object.keys(navaidMap[navaid])}`);
+}
+
+// ref fixes
+for (navaid in navaidMap) {
+    if (Object.keys(navaidMap[navaid]).length != 0)
+        console.log(`${navaid}: ${Object.keys(navaidMap[navaid])}`);
 }
