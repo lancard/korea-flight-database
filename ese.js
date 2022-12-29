@@ -75,7 +75,7 @@ module.exports = {
 
         // APPROACH only
         procedureList.filter(e => e.procedureType == "APPROACH").forEach(e => {
-            ret.push(["SID", e.airport, e.runway, e.name, getRawCoordRemovedList(e.fixList).join(" ")].join(":"));
+            ret.push(["STAR", e.airport, e.runway, e.name, getRawCoordRemovedList(e.fixList).join(" ")].join(":"));
         });
 
         // STAR + APPROACH
