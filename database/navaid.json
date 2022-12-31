@@ -4678,8 +4678,8 @@
         "navaidType": "FIX",
         "extraType": "NEAR_AIRPORT_FIX",
         "description": "FIX(비행장근처)",
-        "latitude": "N033.34.06.100",
-        "longitude": "E126.06.46.300",
+        "latitude": "N033.19.15.600",
+        "longitude": "E126.35.28.600",
         "airport": "RKPC"
     },
     {
