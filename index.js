@@ -7,6 +7,7 @@ const euroscope = require('./euroscope.js');
 const sector = require('./sector.js');
 const ese = require('./ese.js');
 const openstreetmap = require('./openstreetmap.js');
+const vatspy = require('./vatspy.js');
 
 global.aircraftList = require('./database/aircraft.json');
 global.airlineList = require('./database/airline.json');
@@ -18,6 +19,7 @@ global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
 global.labelList = require('./database/label.json');
 global.regionList = require('./database/region.json');
+global.sectorList = require('./database/sector-boundary.json');
 global.airportObject = {};
 global.runwayMap = {};
 global.runwayOppositeMap = {};
@@ -133,6 +135,20 @@ function initialize() {
         runwayOppositeMap[`${runwayList[r].airport}_${runwayList[r].runway}`] = { latitude: runwayList[r].endLatitude, longitude: runwayList[r].endLongitude };
     }
 
+    // minutes to decimal conversion
+    for (var sector in sectorList) {
+        for (var a = 0; a < sectorList[sector].length; a++) {
+            var str = sectorList[sector][a];
+
+            sectorList[sector][a] = {
+                latitude: str.split(" ")[0],
+                longitude: str.split(" ")[1],
+                latitudeDecimal: util.convertMinutesToDecimal(str.split(" ")[0]),
+                longitudeDecimal: util.convertMinutesToDecimal(str.split(" ")[1])
+            }
+        }
+    }
+
     // print duplicated && unused fixes
     var navaidMap = {};
     navaidList.filter(e => e.navaidType == 'FIX' && e.extraType != "ILS" && !e.isUsedByNavigation).forEach(e => {
@@ -143,9 +159,8 @@ function initialize() {
         }
         navaidMap[e.name] = true;
     });
-
-
 }
+
 
 // ----------------- run -------------------
 initialize();
@@ -162,3 +177,6 @@ euroscope.createEuroscopeAirportFile();
 
 openstreetmap.initialize();
 openstreetmap.generateOpenstreetmap();
+
+vatspy.initialize();
+vatspy.generateVatspyFile();
