@@ -41,6 +41,10 @@ module.exports = {
         ret = mergeSectorList(["JEJU NORTH SECTOR", "JEJU SOUTH SECTOR"]);
         lines.push('RKRR_S_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
 
+        ret = mergeSectorList(["WEST-SEA NORTH SECTOR", "WEST-SEA SOUTH SECTOR", "EAST-SEA SECTOR", "GANGNEUNG AREA SECTOR", "POHANG AREA SECTOR",
+            "DAEGU AREA SECTOR", "NAMHAE AREA SECTOR"]);
+        lines.push('RKDA_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
+
         ret = mergeSectorList(["WEST-SEA NORTH SECTOR", "WEST-SEA SOUTH SECTOR"]);
         lines.push('RKDA_W_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
 
@@ -50,6 +54,6 @@ module.exports = {
         ret = mergeSectorList(["DAEGU AREA SECTOR", "NAMHAE AREA SECTOR"]);
         lines.push('RKDA_C_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
 
-        fs.writeFileSync('vatspy/geojson.txt', lines.join("\n"));
+        fs.writeFileSync('vatspy/geojson.txt', lines.join("\n").split(",").join(", "));
     }
 };
