@@ -26,10 +26,3 @@ if (!fs.existsSync('temp/boundaries.json')) {
         response.pipe(fs.createWriteStream('temp/boundaries.json'));
     });
 }
-
-// download vatsim tracon boundaries
-if (!fs.existsSync('temp/tracons.json')) {
-    https.get("https://raw.githubusercontent.com/vatsimnetwork/simaware-tracon-project/main/TRACONBoundaries.geojson", (response) => {
-        response.pipe(fs.createWriteStream('temp/tracons.json'));
-    });
-}

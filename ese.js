@@ -1,5 +1,5 @@
 const fs = require('fs');
-
+const path = require('path');
 const util = require('./util.js');
 
 const positionList = require('./database/position.json');
@@ -100,16 +100,18 @@ module.exports = {
         });
 
         // get tracon
-        geojson = require('./temp/tracons.json');
+        fs.readdirSync('./database/airspace').forEach(e => {
+            var fileInfo = path.parse(e);
 
-        geojson.features.forEach(e => {
-            if (e.properties.id.startsWith("RK")) {
-                tracon[e.properties.id] = e.geometry.coordinates[0][0];
-            }
+            if (fileInfo.ext != ".geojson")
+                return;
+
+            var airportName = fileInfo.name;
+            var t = JSON.parse(fs.readFileSync('./database/airspace/' + e)).geometry.coordinates[0][0];
+            tracon[airportName] = t;
         });
 
         // -------------------------------------
-
         var ret = [];
         var additionalRet = [];
 

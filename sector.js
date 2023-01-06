@@ -1,5 +1,5 @@
 const fs = require('fs');
-
+const path = require('path');
 const util = require('./util.js');
 
 function getSidStarLatitudeLongitudeString(fixOrCoord) {
@@ -199,25 +199,22 @@ module.exports = {
         return ret.join("\n");
     },
     getTracon() {
-        var tracon = {};
-
-        const geojson = require('./temp/tracons.json');
-
-        geojson.features.forEach(e => {
-            if (e.properties.id.startsWith("RK")) {
-                tracon[e.properties.id] = e.geometry.coordinates[0][0];
-            }
-        });
-
         var ret = [];
 
-        for (var app in tracon) {
-            for (var b = 0; b < tracon[app].length - 1; b++) {
-                ret.push(`${app}_APP ${util.convertDecimalToMinutes(tracon[app][b][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][b][0], "EW")} ${util.convertDecimalToMinutes(tracon[app][b + 1][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][b + 1][0], "EW")}`)
+        // get airport objects from directory
+        fs.readdirSync('./database/airspace').forEach(e => {
+            var fileInfo = path.parse(e);
+
+            if (fileInfo.ext != ".geojson")
+                return;
+
+            var airportName = fileInfo.name;
+            var tracon = JSON.parse(fs.readFileSync('./database/airspace/' + e)).geometry.coordinates[0][0];
+
+            for (var b = 0; b < tracon.length - 1; b++) {
+                ret.push(`${airportName}_APP ${util.convertDecimalToMinutes(tracon[b][1], "NS")} ${util.convertDecimalToMinutes(tracon[b][0], "EW")} ${util.convertDecimalToMinutes(tracon[b + 1][1], "NS")} ${util.convertDecimalToMinutes(tracon[b + 1][0], "EW")}`)
             }
-            // close path
-            ret.push(`${app}_APP ${util.convertDecimalToMinutes(tracon[app][b][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][b][0], "EW")} ${util.convertDecimalToMinutes(tracon[app][0][1], "NS")} ${util.convertDecimalToMinutes(tracon[app][0][0], "EW")}`)
-        }
+        });
 
         return ret.join("\n");
     },
