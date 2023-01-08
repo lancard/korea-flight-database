@@ -56,10 +56,8 @@ function initialize() {
         if (e.type == 'closed')
             return;
 
-        if (e.type == "small_airport" || e.type == 'seaplane_base' || e.type == 'balloonport' || e.type == 'heliport') {
-            if (!util.isNearestAirport(e.ident))
-                return;
-        }
+        if (e.type == "small_airport" || e.type == 'seaplane_base' || e.type == 'balloonport' || e.type == 'heliport')
+            return;
 
         global.airportList[e.ident] = {
             "continent": e.continent,
