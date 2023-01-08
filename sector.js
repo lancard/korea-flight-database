@@ -129,7 +129,7 @@ module.exports = {
     getFix() {
         var ret = [];
 
-        navaidList.filter(e => e.navaidType == "FIX" && nearAirportFix(e.name) && e.isUsedByNavigation).forEach(e => {
+        navaidList.filter(e => e.navaidType == "FIX" && !nearAirportFix(e.name) && e.isUsedByNavigation).forEach(e => {
             ret.push(`${e.name} ${e.latitude} ${e.longitude}`);
         });
 
