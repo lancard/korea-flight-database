@@ -1,6 +1,6 @@
 # korea-flight-database
-South Korea Aviation Database / 한국 항공 데이터베이스
-Refer database directory
+- South Korea Aviation Database / 한국 항공 데이터베이스
+- Refer database directory
 
 # How to build for Euroscope and VATSIM / Euroscope 및 VATSIM용 빌드 절차
 - install node.js / 먼저 node.js 를 설치해주세요.
