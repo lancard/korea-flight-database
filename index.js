@@ -8,6 +8,7 @@ const sector = require('./sector.js');
 const ese = require('./ese.js');
 const openstreetmap = require('./openstreetmap.js');
 const vatspy = require('./vatspy.js');
+const etc = require('./etc.js');
 
 global.aircraftList = require('./database/aircraft.json');
 global.airlineList = require('./database/airline.json');
@@ -178,3 +179,6 @@ openstreetmap.generateOpenstreetmap();
 
 vatspy.initialize();
 vatspy.generateVatspyFile();
+
+etc.initialize();
+etc.generateNuetrainerFile();
