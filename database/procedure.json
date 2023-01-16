@@ -4420,6 +4420,22 @@
     {
         "procedureType": "SID",
         "airport": "RKSS",
+        "name": "KARBU1W",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "N037.36.59.357 E126.43.04.302",
+            "N037.42.02.749 E126.43.25.209",
+            "YJU",
+            "N037.30.21.794 E127.29.42.028",
+            "KARBU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
         "name": "BULTI2U",
         "runway": [
             "14L",
@@ -4661,10 +4677,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "GUKDO2U",
-        "runway": [
-            "14L",
-            "14R"
-        ],
         "fixList": [
             "GUKDO",
             "GU069",
@@ -4682,10 +4694,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "KARBU2U",
-        "runway": [
-            "14L",
-            "14R"
-        ],
         "fixList": [
             "EGOBA",
             "SEL",
@@ -4700,10 +4708,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "OLMEN2U",
-        "runway": [
-            "14L",
-            "14R"
-        ],
         "fixList": [
             "OLMEN",
             "DU066",
@@ -4722,10 +4726,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "REBIT2U",
-        "runway": [
-            "14L",
-            "14R"
-        ],
         "fixList": [
             "REBIT",
             "PU060",
@@ -4739,10 +4739,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "REBIT2Z",
-        "runway": [
-            "14L",
-            "14R"
-        ],
         "fixList": [
             "REBIT",
             "PZ061",
@@ -4760,10 +4756,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "GUKDO2T",
-        "runway": [
-            "32L",
-            "32R"
-        ],
         "fixList": [
             "GUKDO",
             "GT044",
@@ -4776,10 +4768,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "KARBU2T",
-        "runway": [
-            "32L",
-            "32R"
-        ],
         "fixList": [
             "KARBU",
             "EGOBA",
@@ -4791,10 +4779,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "OLMEN2T",
-        "runway": [
-            "32L",
-            "32R"
-        ],
         "fixList": [
             "OLMEN",
             "DT043",
@@ -4808,10 +4792,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "REBIT2T",
-        "runway": [
-            "32L",
-            "32R"
-        ],
         "fixList": [
             "REBIT",
             "PT091",
@@ -4826,10 +4806,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "REBIT2Q",
-        "runway": [
-            "32L",
-            "32R"
-        ],
         "fixList": [
             "REBIT",
             "PQ091",
@@ -4844,10 +4820,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "LEGAK1T.GONAV",
-        "runway": [
-            "32L",
-            "32R"
-        ],
         "fixList": [
             "GONAV",
             "LEGAK",
@@ -4862,10 +4834,6 @@
         "procedureType": "STAR",
         "airport": "RKSS",
         "name": "LEGAK1U.GONAV",
-        "runway": [
-            "14L",
-            "14R"
-        ],
         "fixList": [
             "LEGAK",
             "PU063",
@@ -5379,9 +5347,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "DOTOL2P",
-        "runway": [
-            "07"
-        ],
         "fixList": [
             "DOTOL",
             "CHUJA",
@@ -5404,9 +5369,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "LIMDI1P",
-        "runway": [
-            "07"
-        ],
         "fixList": [
             "LIMDI",
             "PC727",
@@ -5430,9 +5392,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "SOSDO2P",
-        "runway": [
-            "07"
-        ],
         "fixList": [
             "SOSDO",
             "CJU",
@@ -5454,9 +5413,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "TAMNA2P",
-        "runway": [
-            "07"
-        ],
         "fixList": [
             "TAMNA",
             "CJU",
@@ -5478,9 +5434,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "TOSAN2P",
-        "runway": [
-            "07"
-        ],
         "fixList": [
             "TOSAN",
             "CJU",
@@ -5502,9 +5455,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "UPGOS1P",
-        "runway": [
-            "07"
-        ],
         "fixList": [
             "UPGOS",
             "PC728",
@@ -5528,9 +5478,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "DOTOL2T",
-        "runway": [
-            "25"
-        ],
         "fixList": [
             "DOTOL",
             "PC731",
@@ -5548,9 +5495,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "LIMDI1T",
-        "runway": [
-            "25"
-        ],
         "fixList": [
             "LIMDI",
             "LEDIN",
@@ -5571,9 +5515,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "SOSDO3T",
-        "runway": [
-            "25"
-        ],
         "fixList": [
             "SOSDO",
             "NUSLO",
@@ -5594,9 +5535,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "TOSAN3T",
-        "runway": [
-            "25"
-        ],
         "fixList": [
             "TOSAN",
             "NUSLO",
@@ -5617,9 +5555,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "TAMNA2T",
-        "runway": [
-            "25"
-        ],
         "fixList": [
             "TAMNA",
             "PC738",
@@ -5639,9 +5574,6 @@
         "procedureType": "STAR",
         "airport": "RKPC",
         "name": "UPGOS1T",
-        "runway": [
-            "25"
-        ],
         "fixList": [
             "UPGOS",
             "JAREE",
