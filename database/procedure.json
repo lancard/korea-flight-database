@@ -4390,6 +4390,36 @@
     {
         "procedureType": "SID",
         "airport": "RKSS",
+        "name": "SEL1W",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "N037.36.59.357 E126.43.04.302",
+            "N037.36.11.229 E126.37.36.301",
+            "N037.29.27.398 E126.36.21.707",
+            "SEL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
+        "name": "SOT1W",
+        "runway": [
+            "32L",
+            "32R"
+        ],
+        "fixList": [
+            "N037.36.59.357 E126.43.04.302",
+            "N037.36.11.229 E126.37.36.301",
+            "N037.29.27.398 E126.36.21.707",
+            "SOT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSS",
         "name": "BULTI2U",
         "runway": [
             "14L",
