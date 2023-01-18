@@ -537,7 +537,7 @@
         "labelType": "Taxiway",
         "name": "RD",
         "latitude": "N037.33.31.570",
-        "longitude": "126.47.49.900",
+        "longitude": "E126.47.49.900",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
