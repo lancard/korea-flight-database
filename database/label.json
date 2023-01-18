@@ -533,6 +533,14 @@
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
+        "airport": "RKSS",
+        "labelType": "Taxiway",
+        "name": "RD",
+        "latitude": "N037.33.31.570",
+        "longitude": "126.47.49.900",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
         "airport": "RKTL",
         "labelType": "Gate-Number",
         "name": "11",
