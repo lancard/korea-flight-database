@@ -1392,8 +1392,8 @@
         "airport": "RKNY",
         "labelType": "Gate-Number",
         "name": "2",
-        "latitude": "N035.55.29.394",
-        "longitude": "E126.36.57.433",
+        "latitude": "N038.03.32.410",
+        "longitude": "E128.39.49.840",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -1599,9 +1599,9 @@
     {
         "airport": "RKNY",
         "labelType": "Gate-Number",
-        "name": "21",
-        "latitude": "N038.03.38.023",
-        "longitude": "E128.39.51.442",
+        "name": "6",
+        "latitude": "N038.03.40.130",
+        "longitude": "E128.39.49.470",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -1687,9 +1687,9 @@
     {
         "airport": "RKNY",
         "labelType": "Gate-Number",
-        "name": "22",
-        "latitude": "N038.03.39.885",
-        "longitude": "E128.39.49.502",
+        "name": "7",
+        "latitude": "N038.03.38.240",
+        "longitude": "E128.39.51.390",
         "colorProfile": "Airport-GateNumber"
     },
     {
