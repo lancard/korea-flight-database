@@ -6055,8 +6055,8 @@
         "airport": "RKJK",
         "labelType": "Taxiway",
         "name": "A",
-        "latitude": "N035.53.31.081",
-        "longitude": "E126.37.11.579",
+        "latitude": "N035.53.30.781",
+        "longitude": "E126.37.12.384",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -6431,8 +6431,8 @@
         "airport": "RKJK",
         "labelType": "Taxiway",
         "name": "B",
-        "latitude": "N035.53.49.901",
-        "longitude": "E126.37.06.965",
+        "latitude": "N035.53.51.908",
+        "longitude": "E126.37.06.706",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -6663,8 +6663,8 @@
         "airport": "RKJK",
         "labelType": "Taxiway",
         "name": "C",
-        "latitude": "N035.54.13.816",
-        "longitude": "E126.37.01.057",
+        "latitude": "N035.54.20.000",
+        "longitude": "E126.36.59.049",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
