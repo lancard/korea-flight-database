@@ -6956,6 +6956,22 @@
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
+        "airport": "RKNW",
+        "labelType": "Taxiway",
+        "name": "G",
+        "latitude": "N037.25.45.356",
+        "longitude": "E127.57.21.939",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKNW",
+        "labelType": "Taxiway",
+        "name": "G",
+        "latitude": "N037.26.24.671",
+        "longitude": "E127.57.46.230",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
         "airport": "RKJK",
         "labelType": "Taxiway",
         "name": "D",
