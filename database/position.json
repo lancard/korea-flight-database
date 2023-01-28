@@ -286,5 +286,53 @@
         "middleFix": "-",
         "prefix": "RKTY",
         "position": "APP"
+    },
+    "ZKKP_CTR": {
+        "name": "PYONGYANG CONTROL",
+        "frequency": "120.900",
+        "initialID": "KP",
+        "middleFix": "-",
+        "prefix": "ZKKP",
+        "position": "CTR"
+    },
+    "ZKPY_APP": {
+        "name": "PYONGYANG APPROACH",
+        "frequency": "133.900",
+        "initialID": "PA",
+        "middleFix": "-",
+        "prefix": "ZKPY",
+        "position": "APP"
+    },
+    "ZKPY_DEP": {
+        "name": "PYONGYANG DEPARTURE",
+        "frequency": "130.000",
+        "initialID": "PD",
+        "middleFix": "-",
+        "prefix": "ZKPY",
+        "position": "DEP"
+    },
+    "ZKPY_TWR": {
+        "name": "PYONGYANG TOWER",
+        "frequency": "118.300",
+        "initialID": "PT",
+        "middleFix": "-",
+        "prefix": "ZKPY",
+        "position": "APP"
+    },
+    "ZKPY_GND": {
+        "name": "PYONGYANG GROUND",
+        "frequency": "121.800",
+        "initialID": "PG",
+        "middleFix": "-",
+        "prefix": "ZKPY",
+        "position": "GND"
+    },
+    "ZKPY_DEL": {
+        "name": "PYONGYANG DELIVERY",
+        "frequency": "121.900",
+        "initialID": "PE",
+        "middleFix": "-",
+        "prefix": "ZKPY",
+        "position": "DEL"
     }
 }
