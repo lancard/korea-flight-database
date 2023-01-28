@@ -593,10 +593,26 @@
     },
     {
         "name": "B332",
-        "seq": 800,
+        "seq": 792,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "SONDO",
+        "fixEnd": "GOSIM"
+    },
+    {
+        "name": "B332",
+        "seq": 794,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOSIM",
+        "fixEnd": "BIROB"
+    },
+    {
+        "name": "B332",
+        "seq": 800,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BIROB",
         "fixEnd": "GAZIN"
     },
     {
@@ -1301,6 +1317,22 @@
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "MESOV",
+        "fixEnd": "GOSIM"
+    },
+    {
+        "name": "N513",
+        "seq": 20,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOSIM",
+        "fixEnd": "SUBUK"
+    },
+    {
+        "name": "N513",
+        "seq": 30,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SUBUK",
         "fixEnd": "RIVAT"
     },
     {
@@ -1365,6 +1397,14 @@
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "KANSU",
+        "fixEnd": "SUBUK"
+    },
+    {
+        "name": "R224",
+        "seq": 610,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SUBUK",
         "fixEnd": "KAKPU"
     },
     {

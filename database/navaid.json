@@ -1694,6 +1694,30 @@
         "longitude": "E125.26.41.000"
     },
     {
+        "name": "GOSIM",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.01.57.477",
+        "longitude": "E130.43.07.878"
+    },
+    {
+        "name": "BIROB",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N038.58.20.744",
+        "longitude": "E131.00.07.959"
+    },
+    {
+        "name": "SUBUK",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N040.07.57.673",
+        "longitude": "E131.24.49.056"
+    },
+    {
         "name": "GAYHA",
         "navaidType": "FIX",
         "extraType": "FIX",
