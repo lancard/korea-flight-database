@@ -21,7 +21,7 @@
         "description": "저고도항로(평양특수항로)",
         "airwayType": "CONVENTIONAL",
         "fixStart": "PONIL",
-        "fixEnd": "PONT2"
+        "fixEnd": "P2"
     },
     {
         "name": "A326",

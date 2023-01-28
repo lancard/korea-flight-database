@@ -5143,7 +5143,7 @@
         "longitude": "E124.14.48.000"
     },
     {
-        "name": "PONT2",
+        "name": "P2",
         "navaidType": "FIX",
         "extraType": "FIX",
         "description": "경로 픽스",
