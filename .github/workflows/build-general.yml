@@ -57,9 +57,6 @@ jobs:
           asset_name: sector.ese
           asset_content_type: text/plain
 
-      - name: test
-        run: echo 
-
       - name: notify discord
         # if: ${{ github.event_name == 'workflow_dispatch' }}
         run: |
