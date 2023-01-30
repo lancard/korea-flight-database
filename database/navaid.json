@@ -1096,6 +1096,168 @@
         "airport": "RKNY"
     },
     {
+        "name": "KM401",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.13.05.630",
+        "longitude": "E127.26.30.050",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM402",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.14.46.740",
+        "longitude": "E127.25.06.690",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM403",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.16.27.760",
+        "longitude": "E127.23.43.330",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM404",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.18.08.900",
+        "longitude": "E127.22.19.760",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM405",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.24.04.330",
+        "longitude": "E127.23.39.700",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM411",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.13.14.420",
+        "longitude": "E127.26.33.140",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM412",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.14.55.520",
+        "longitude": "E127.25.09.750",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM413",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.16.36.600",
+        "longitude": "E127.23.46.300",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM414",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.18.17.660",
+        "longitude": "E127.22.22.780",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM501",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.05.57.440",
+        "longitude": "E127.32.22.330",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM502",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.06.41.180",
+        "longitude": "E127.33.49.940",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM503",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.07.24.890",
+        "longitude": "E127.35.17.580",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM504",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.09.44.660",
+        "longitude": "E127.39.58.230",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM505",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.19.04.000",
+        "longitude": "E127.32.44.000",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM511",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.06.01.140",
+        "longitude": "E127.32.29.730",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM601",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.21.11.970",
+        "longitude": "E127.27.32.980",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM701",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.18.28.450",
+        "longitude": "E127.22.03.380",
+        "airport": "ZKWS"
+    },
+    {
+        "name": "KM702",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N039.23.09.800",
+        "longitude": "E127.23.12.860",
+        "airport": "ZKWS"
+    },
+    {
         "name": "DH017",
         "navaidType": "FIX",
         "extraType": "FIX",
