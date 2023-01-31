@@ -59,6 +59,7 @@ module.exports = {
             "#define Airport-Helipad 65535\n" +
             "#define Airport-HoldPositionMark 255\n" +
             "#define Airport-Jetway 255\n" +
+            "#define Airport-Pushback-Point 255\n" +
             "#define Airport-LeadInLight 2302755\n" +
             "#define Airport-Runway 5592405\n" +
             "#define Airport-TaxiwayCenterLine 8344958\n" +
