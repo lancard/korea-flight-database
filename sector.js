@@ -152,26 +152,26 @@ module.exports = {
     getRunway() {
         var ret = [];
 
-        for (const runway in runwayList) {
+        runwayList.forEach(e => {
             var bearing = util.calculateBearing(
-                runwayList[runway].startLatitudeDecimal,
-                runwayList[runway].startLongitudeDecimal,
-                runwayList[runway].endLatitudeDecimal,
-                runwayList[runway].endLongitudeDecimal
+                e.startLatitudeDecimal,
+                e.startLongitudeDecimal,
+                e.endLatitudeDecimal,
+                e.endLongitudeDecimal
             )
             var oppositeBearing = util.calculateBearing(
-                runwayList[runway].endLatitudeDecimal,
-                runwayList[runway].endLongitudeDecimal,
-                runwayList[runway].startLatitudeDecimal,
-                runwayList[runway].startLongitudeDecimal
+                e.endLatitudeDecimal,
+                e.endLongitudeDecimal,
+                e.startLatitudeDecimal,
+                e.startLongitudeDecimal
             )
 
             // magnetic variation
             bearing = +bearing.toFixed(0) + 7;
             oppositeBearing = +oppositeBearing.toFixed(0) + 7;
 
-            ret.push(`${runwayList[runway].runway} ${runwayList[runway].oppositeRunway} ${bearing} ${oppositeBearing} ${runwayList[runway].startLatitude} ${runwayList[runway].startLongitude} ${runwayList[runway].endLatitude} ${runwayList[runway].endLongitude} ${runwayList[runway].airport}`);
-        }
+            ret.push(`${e.runway} ${e.oppositeRunway} ${bearing} ${oppositeBearing} ${e.startLatitude} ${e.startLongitude} ${e.endLatitude} ${e.endLongitude} ${e.airport}`);
+        });
 
         return ret.join("\n");
     },
