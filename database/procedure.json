@@ -3395,267 +3395,6 @@
     },
     {
         "procedureType": "SID",
-        "airport": "ZKPY",
-        "name": "SASRI11D",
-        "runway": [
-            "17"
-        ],
-        "fixList": [
-            "SASRI"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "ZKPY",
-        "name": "SOCHA11D",
-        "runway": [
-            "17"
-        ],
-        "fixList": [
-            "PY531",
-            "SOCHA"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "ZKPY",
-        "name": "BODOK11D",
-        "runway": [
-            "17"
-        ],
-        "fixList": [
-            "BODOK"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "ZKPY",
-        "name": "JONJU11D",
-        "runway": [
-            "17"
-        ],
-        "fixList": [
-            "BODOK",
-            "JONJU"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "ZKPY",
-        "name": "BODOK21D",
-        "runway": [
-            "17"
-        ],
-        "fixList": [
-            "BODOK"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "ZKPY",
-        "name": "JONJU21D",
-        "runway": [
-            "17"
-        ],
-        "fixList": [
-            "BODOK",
-            "JONJU"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "ZKPY",
-        "name": "SASRI21D",
-        "runway": [
-            "35"
-        ],
-        "fixList": [
-            "PY521",
-            "SASRI"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "ZKPY",
-        "name": "SOCHA21D",
-        "runway": [
-            "35"
-        ],
-        "fixList": [
-            "PY531",
-            "SOCHA"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "ZKPY",
-        "name": "SASRI11A",
-        "fixList": [
-            "SASRI",
-            "PY621",
-            "PY434"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "ZKPY",
-        "name": "SOCHA11A",
-        "fixList": [
-            "SOCHA",
-            "PY426",
-            "PY433"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "ZKPY",
-        "name": "BODOK11A",
-        "fixList": [
-            "BODOK",
-            "PY435"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "ZKPY",
-        "name": "GASAN11A",
-        "fixList": [
-            "GASAN",
-            "PY435"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "ZKPY",
-        "name": "SASRI21A",
-        "fixList": [
-            "SASRI",
-            "PY423"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "ZKPY",
-        "name": "SOCHA21A",
-        "fixList": [
-            "SOCHA",
-            "PY426",
-            "PY621",
-            "PY423"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "ZKPY",
-        "name": "BODOK21A",
-        "fixList": [
-            "BODOK",
-            "PY622",
-            "PY621",
-            "PY423"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "ZKPY",
-        "name": "GASAN21A",
-        "fixList": [
-            "GASAN",
-            "PY622",
-            "PY621",
-            "PY423"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "ZKPY",
-        "name": "ILSDME17.PY435",
-        "runway": "17",
-        "fixList": [
-            "PY435",
-            "PY432",
-            "PY431"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "ZKPY",
-        "name": "ILSDME17.PY434",
-        "runway": "17",
-        "fixList": [
-            "PY434",
-            "PY432",
-            "PY431"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "ZKPY",
-        "name": "ILSDME17.PY433",
-        "runway": "17",
-        "fixList": [
-            "PY433",
-            "PY432",
-            "PY431"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "ZKPY",
-        "name": "ILS35",
-        "runway": "35",
-        "fixList": [
-            "PY423",
-            "PY422",
-            "PY421"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "ZKPY",
-        "name": "RNP17.PY435",
-        "runway": "17",
-        "fixList": [
-            "PY435",
-            "PY432",
-            "PY431"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "ZKPY",
-        "name": "RNP17.PY434",
-        "runway": "17",
-        "fixList": [
-            "PY434",
-            "PY432",
-            "PY431"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "ZKPY",
-        "name": "RNP17.PY433",
-        "runway": "17",
-        "fixList": [
-            "PY433",
-            "PY432",
-            "PY431"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "ZKPY",
-        "name": "RNP35",
-        "runway": "35",
-        "fixList": [
-            "PY423",
-            "PY422",
-            "PY421"
-        ]
-    },
-    {
-        "procedureType": "SID",
         "airport": "RKSI",
         "name": "BOPTA2C",
         "runway": [
@@ -6130,6 +5869,486 @@
             "N033.36.18.200 E126.40.24.900",
             "N033.33.36.400 E126.35.08.700",
             "N033.31.20.000 E126.30.43.000"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "SASRI11D",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "SASRI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "SOCHA11D",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "PY531",
+            "SOCHA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "BODOK11D",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "BODOK"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "JONJU11D",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "BODOK",
+            "JONJU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "BODOK21D",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "BODOK"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "JONJU21D",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "BODOK",
+            "JONJU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "SASRI21D",
+        "runway": [
+            "35"
+        ],
+        "fixList": [
+            "PY521",
+            "SASRI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "SOCHA21D",
+        "runway": [
+            "35"
+        ],
+        "fixList": [
+            "PY531",
+            "SOCHA"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKPY",
+        "name": "SASRI11A",
+        "fixList": [
+            "SASRI",
+            "PY621",
+            "PY434"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKPY",
+        "name": "SOCHA11A",
+        "fixList": [
+            "SOCHA",
+            "PY426",
+            "PY433"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKPY",
+        "name": "BODOK11A",
+        "fixList": [
+            "BODOK",
+            "PY435"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKPY",
+        "name": "GASAN11A",
+        "fixList": [
+            "GASAN",
+            "PY435"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKPY",
+        "name": "SASRI21A",
+        "fixList": [
+            "SASRI",
+            "PY423"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKPY",
+        "name": "SOCHA21A",
+        "fixList": [
+            "SOCHA",
+            "PY426",
+            "PY621",
+            "PY423"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKPY",
+        "name": "BODOK21A",
+        "fixList": [
+            "BODOK",
+            "PY622",
+            "PY621",
+            "PY423"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKPY",
+        "name": "GASAN21A",
+        "fixList": [
+            "GASAN",
+            "PY622",
+            "PY621",
+            "PY423"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKPY",
+        "name": "ILSDME17.PY435",
+        "runway": "17",
+        "fixList": [
+            "PY435",
+            "PY432",
+            "PY431"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKPY",
+        "name": "ILSDME17.PY434",
+        "runway": "17",
+        "fixList": [
+            "PY434",
+            "PY432",
+            "PY431"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKPY",
+        "name": "ILSDME17.PY433",
+        "runway": "17",
+        "fixList": [
+            "PY433",
+            "PY432",
+            "PY431"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKPY",
+        "name": "ILS35",
+        "runway": "35",
+        "fixList": [
+            "PY423",
+            "PY422",
+            "PY421"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKPY",
+        "name": "RNP17.PY435",
+        "runway": "17",
+        "fixList": [
+            "PY435",
+            "PY432",
+            "PY431"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKPY",
+        "name": "RNP17.PY434",
+        "runway": "17",
+        "fixList": [
+            "PY434",
+            "PY432",
+            "PY431"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKPY",
+        "name": "RNP17.PY433",
+        "runway": "17",
+        "fixList": [
+            "PY433",
+            "PY432",
+            "PY431"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKPY",
+        "name": "RNP35",
+        "runway": "35",
+        "fixList": [
+            "PY423",
+            "PY422",
+            "PY421"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKWS",
+        "name": "CONAR11D",
+        "runway": [
+            "15L",
+            "15R"
+        ],
+        "fixList": [
+            "KM601",
+            "CONAR"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKWS",
+        "name": "CONAR21D",
+        "runway": [
+            "33L",
+            "33R"
+        ],
+        "fixList": [
+            "KM701",
+            "CONAR"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKWS",
+        "name": "GUMSA11D",
+        "runway": [
+            "15L",
+            "15R"
+        ],
+        "fixList": [
+            "KM601",
+            "GUMSA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKWS",
+        "name": "GUMSA21D",
+        "runway": [
+            "33L",
+            "33R"
+        ],
+        "fixList": [
+            "KM701",
+            "KM702",
+            "GUMSA"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKWS",
+        "name": "CONAR11A",
+        "fixList": [
+            "CONAR",
+            "KM404"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKWS",
+        "name": "CONAR12A",
+        "fixList": [
+            "CONAR",
+            "KM414"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKWS",
+        "name": "CONAR21A",
+        "fixList": [
+            "CONAR",
+            "KM505",
+            "KM504"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKWS",
+        "name": "CONAR11A",
+        "fixList": [
+            "CONAR",
+            "KM405",
+            "KM404"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKWS",
+        "name": "CONAR12A",
+        "fixList": [
+            "CONAR",
+            "KM405",
+            "KM414"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "ZKWS",
+        "name": "CONAR21A",
+        "fixList": [
+            "CONAR",
+            "KM505",
+            "KM504"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "ILS15L.KM414",
+        "runway": "15L",
+        "fixList": [
+            "KM414",
+            "KM413",
+            "KM412",
+            "KM411"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "ILS15L.KM412",
+        "runway": "15L",
+        "fixList": [
+            "KM412",
+            "KM411"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "RNAV15L.KM414",
+        "runway": "15L",
+        "fixList": [
+            "KM414",
+            "KM413",
+            "KM412",
+            "KM411"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "RNAV15L.KM412",
+        "runway": "15L",
+        "fixList": [
+            "KM412",
+            "KM411"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "RNAV15R.KM404",
+        "runway": "15R",
+        "fixList": [
+            "KM404",
+            "KM403",
+            "KM402",
+            "KM401"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "RNAV15R.KM402",
+        "runway": "15R",
+        "fixList": [
+            "KM402",
+            "KM401"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "RNAVV33L.KM504",
+        "runway": "33L",
+        "fixList": [
+            "KM504",
+            "KM503",
+            "KM502",
+            "KM501"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "RNAVV33L.KM502",
+        "runway": "33L",
+        "fixList": [
+            "KM502",
+            "KM501"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "RNAVV33R.KM504",
+        "runway": "33R",
+        "fixList": [
+            "KM504",
+            "KM503",
+            "KM511"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "ZKWS",
+        "name": "RNAVV33R.KM511",
+        "runway": "33R",
+        "fixList": [
+            "KM511"
         ]
     }
 ]
