@@ -4,12 +4,12 @@ const util = require('./util.js');
 
 function getSidStarLatitudeLongitudeString(fixOrCoord) {
     if (fixOrCoord.length < 10) {
-        return `${fixOrCoord.paddingRight(16)}${fixOrCoord.paddingRight(16)}`;
+        return `${fixOrCoord.paddingRight(17)}${fixOrCoord.paddingRight(17)}`;
     }
 
     var arr = fixOrCoord.split(/\s+/);
 
-    return `${arr[0].paddingRight(16)}${arr[1].paddingRight(16)}`;
+    return `${arr[0].paddingRight(17)}${arr[1].paddingRight(17)}`;
 }
 
 const nearAirportFixRegExpression = /[A-Z][A-Z][0-9][0-9][0-9]/
@@ -232,14 +232,14 @@ module.exports = {
             e.runway.forEach(r => {
                 // first fix
                 var name = `${e.name}(${r})`;
-                ret.push(`${name.substring(0, 26).paddingRight(32)}` +
-                    `${runwayOppositeMap[e.airport + "_" + r].latitude.paddingRight(16)}${runwayOppositeMap[e.airport + "_" + r].longitude.paddingRight(16)}` +
+                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
+                    `${runwayOppositeMap[e.airport + "_" + r].latitude.paddingRight(17)}${runwayOppositeMap[e.airport + "_" + r].longitude.paddingRight(17)}` +
                     `${getSidStarLatitudeLongitudeString(e.fixList[0])}`
                 );
 
                 // other fix
                 for (var a = 0; a < e.fixList.length - 1; a++) {
-                    ret.push(`${' '.paddingRight(32)}` +
+                    ret.push(`${' '.paddingRight(33)}` +
                         `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
                         `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`
                     );
@@ -257,7 +257,7 @@ module.exports = {
             var name = `${e.airport}-${e.name}`;
 
             for (var a = 0; a < e.fixList.length - 1; a++) {
-                ret.push(`${name.substring(0, 26).paddingRight(32)}` +
+                ret.push(`${name.substring(0, 26).paddingRight(33)}` +
                     `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
                     `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`
                 );
@@ -272,7 +272,7 @@ module.exports = {
 
             // fix
             for (var a = 0; a < e.fixList.length - 1; a++) {
-                ret.push(`${name.paddingRight(32)}` +
+                ret.push(`${name.paddingRight(33)}` +
                     `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
                     `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`
                 );
@@ -283,9 +283,9 @@ module.exports = {
             const lastFix = e.fixList[e.fixList.length - 1];
 
             // other last + runway
-            ret.push(`${' '.paddingRight(32)}` +
+            ret.push(`${' '.paddingRight(33)}` +
                 `${getSidStarLatitudeLongitudeString(lastFix)}` +
-                `${runwayMap[e.airport + "_" + e.runway].latitude.paddingRight(16)}${runwayMap[e.airport + "_" + e.runway].longitude.paddingRight(16)}`
+                `${runwayMap[e.airport + "_" + e.runway].latitude.paddingRight(17)}${runwayMap[e.airport + "_" + e.runway].longitude.paddingRight(17)}`
             );
         });
 
@@ -297,7 +297,7 @@ module.exports = {
 
                 // print STAR first
                 for (var a = 0; a < e.fixList.length - 1; a++) {
-                    ret.push(`${name.paddingRight(32)}` +
+                    ret.push(`${name.paddingRight(33)}` +
                         `${getSidStarLatitudeLongitudeString(e.fixList[a])}` +
                         `${getSidStarLatitudeLongitudeString(e.fixList[a + 1])}`
                     );
@@ -307,7 +307,7 @@ module.exports = {
 
                 // print APPROACH last
                 for (var a = 0; a < t.fixList.length - 1; a++) {
-                    ret.push(`${' '.paddingRight(32)}` +
+                    ret.push(`${' '.paddingRight(33)}` +
                         `${getSidStarLatitudeLongitudeString(t.fixList[a])}` +
                         `${getSidStarLatitudeLongitudeString(t.fixList[a + 1])}`
                     );
@@ -316,9 +316,9 @@ module.exports = {
                 const lastFix = t.fixList[t.fixList.length - 1];
 
                 // other last + runway
-                ret.push(`${' '.paddingRight(32)}` +
+                ret.push(`${' '.paddingRight(33)}` +
                     `${getSidStarLatitudeLongitudeString(lastFix)}` +
-                    `${runwayMap[t.airport + "_" + t.runway].latitude.paddingRight(16)}${runwayMap[t.airport + "_" + t.runway].longitude.paddingRight(16)}`
+                    `${runwayMap[t.airport + "_" + t.runway].latitude.paddingRight(17)}${runwayMap[t.airport + "_" + t.runway].longitude.paddingRight(17)}`
                 );
             });
         });
