@@ -127,7 +127,7 @@ module.exports = {
             ret.push("\n");
 
             additionalRet.push(
-                `SECTOR:${app}_TMA:500:18500\n` +
+                `SECTOR:${app}_TMA:0:18500\n` +
                 `OWNER:${getInitialID(app)}:KA\n` +
                 `BORDER:${app}_TMA_BORDER\n`
             )
