@@ -6428,5 +6428,68 @@
             "N035.52.33.839 E126.37.22.931",
             "PORIX"
          ]
+    },
+     {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "ILSY18.WYZRD",
+        "runway": "18",
+        "fixList": [
+            "WYZRD",
+            "N036.03.29.354 E126.20.35.807",
+            "BLAZZ",
+            "LUKKI",
+            "APDOP"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPK",
+        "name": "ILSY18.WWOLF",
+        "runway": "18",
+        "fixList": [
+            "WWOLF",
+            "N036.05.32.380 E126.51.12.638",
+            "BLAZZ",
+            "LUKKI",
+            "APDOP"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPK",
+        "name": "RNP18",
+        "runway": "18",
+        "fixList": [
+            "EKIVA",
+            "UPMAN",
+            "LUKKI"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "VORTAC18",
+        "runway": "18",
+        "fixList": [
+            "WYZRD",
+            "N036.03.29.354 E126.20.35.807",
+            "JINRO",
+            "KIXIS",
+            "RETAG"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPK",
+        "name": "VORTAC",
+        "runway": "18",
+        "fixList": [
+            "WWOLF",
+            "N036.05.32.380 E126.51.12.638",
+            "JINRO",
+            "KIXIS",
+            "RETAG"
+        ]
     }
 ]
