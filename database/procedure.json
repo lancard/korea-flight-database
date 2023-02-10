@@ -6491,5 +6491,105 @@
             "KIXIS",
             "RETAG"
         ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "ILS36.WYZRD",
+        "runway": "36",
+        "fixList": [
+            "WYZRD",
+            "N035.42.20.688 E126.25.39.064",
+            "VIPIR",
+            "BOXOL",
+            "ROCEE",
+            "BEZEE"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "ILS36.WWOLF",
+        "runway": "36",
+        "fixList": [
+            "WYZRD",
+            "N035.46.15.343 E126.53.56.743",
+            "VIPIR",
+            "BOXOL",
+            "ROCEE",
+            "BEZEE"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "ILS36.EKIVA",
+        "runway": "36",
+        "fixList": [
+            "EKIVA",
+            "N036.05.32.380 E126.51.12.638",
+            "WYZRD",
+            "N035.46.15.343 E126.53.56.743",
+            "VIPIR",
+            "BOXOL",
+            "ROCEE",
+            "BEZEE"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "RNP36",
+        "runway": "36",
+        "fixList": [
+            "WAROB",
+            "HEDOD",
+            "CIKRA",
+            "ZUDUX"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "VORTAC36.WYZRD",
+        "runway": "36",
+        "fixList": [
+            "WYZRD",
+            "N035.42.20.688 E126.25.39.064",
+            "BOREV",
+            "HALUN",
+            "LEBUX",
+            "WONAP"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "ILS36.WWOLF",
+        "runway": "36",
+        "fixList": [
+            "WYZRD",
+            "N035.46.15.343 E126.53.56.743",
+            "BOREV",
+            "HALUN",
+            "LEBUX",
+            "WONAP"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "ILS36.EKIVA",
+        "runway": "36",
+        "fixList": [
+            "EKIVA",
+            "N036.05.32.380 E126.51.12.638",
+            "WYZRD",
+            "N035.46.15.343 E126.53.56.743",
+            "BOREV",
+            "HALUN",
+            "LEBUX",
+            "WONAP"
+        ]
     }
 ]
