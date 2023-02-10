@@ -8148,14 +8148,6 @@
         "longitude": "E126.13.15.500"
     },
     {
-        "name": "ZAKRO",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N033.58.27.737",
-        "longitude": "E129.39.07.027"
-    },
-    {
         "name": "ZD080",
         "navaidType": "FIX",
         "extraType": "FIX",

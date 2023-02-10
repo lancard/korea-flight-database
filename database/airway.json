@@ -1,28 +1,301 @@
 [
     {
-        "name": "3AW1",
-        "seq": 10,
-        "description": "저고도항로(평양특수항로)",
+        "name": "A582",
+        "seq": 1,
+        "description": "주요항로",
         "airwayType": "CONVENTIONAL",
-        "fixStart": "GASAN",
-        "fixEnd": "SOKGE"
+        "fixStart": "SEL",
+        "fixEnd": "POLEG"
     },
     {
-        "name": "3AW2",
-        "seq": 10,
-        "description": "저고도항로(평양특수항로)",
+        "name": "A582",
+        "seq": 2,
+        "description": "주요항로",
         "airwayType": "CONVENTIONAL",
-        "fixStart": "YOMJU",
-        "fixEnd": "PONIL"
+        "fixStart": "POLEG",
+        "fixEnd": "SOT"
     },
     {
-        "name": "3AW2",
-        "seq": 20,
-        "description": "저고도항로(평양특수항로)",
+        "name": "A582",
+        "seq": 3,
+        "description": "주요항로",
         "airwayType": "CONVENTIONAL",
-        "fixStart": "PONIL",
-        "fixEnd": "P2"
+        "fixStart": "SOT",
+        "fixEnd": "OSPOT"
     },
+    {
+        "name": "A582",
+        "seq": 4,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "OSPOT",
+        "fixEnd": "VASLI"
+    },
+    {
+        "name": "A582",
+        "seq": 5,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "VASLI",
+        "fixEnd": "MAKDU"
+    },
+    {
+        "name": "A582",
+        "seq": 6,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MAKDU",
+        "fixEnd": "BITUX"
+    },
+    {
+        "name": "A582",
+        "seq": 7,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BITUX",
+        "fixEnd": "TGU"
+    },
+    {
+        "name": "A582",
+        "seq": 8,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TGU",
+        "fixEnd": "KALOD"
+    },
+    {
+        "name": "A582",
+        "seq": 9,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KALOD",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "A582",
+        "seq": 10,
+        "description": "주요항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PSN",
+        "fixEnd": "APELA"
+    },
+    {
+        "name": "A586",
+        "seq": 1,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TENAS",
+        "fixEnd": "AGSUS"
+    },
+    {
+        "name": "A586",
+        "seq": 2,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "AGSUS",
+        "fixEnd": "DABIK"
+    },
+    {
+        "name": "A586",
+        "seq": 3,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "DABIK",
+        "fixEnd": "BULGA"
+    },
+    {
+        "name": "A586",
+        "seq": 4,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BULGA",
+        "fixEnd": "BEDOM"
+    },
+    {
+        "name": "A586",
+        "seq": 5,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BEDOM",
+        "fixEnd": "PSN"
+    },
+    {
+        "name": "A586",
+        "seq": 6,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PSN",
+        "fixEnd": "OMOTU"
+    },
+    {
+        "name": "A586",
+        "seq": 7,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "OMOTU",
+        "fixEnd": "TOPAX"
+    },
+    {
+        "name": "A586",
+        "seq": 8,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TOPAX",
+        "fixEnd": "GOSBO"
+    },
+    {
+        "name": "A586",
+        "seq": 9,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOSBO",
+        "fixEnd": "MAKET"
+    },
+    {
+        "name": "A586",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MAKET",
+        "fixEnd": "ATINA"
+    },
+    {
+        "name": "A586",
+        "seq": 11,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ATINA",
+        "fixEnd": "MANOL"
+    },
+    {
+        "name": "A586",
+        "seq": 12,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "MANOL",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "A586",
+        "seq": 13,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "CJU",
+        "fixEnd": "TOSAN"
+    },
+    {
+        "name": "A586",
+        "seq": 14,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TOSAN",
+        "fixEnd": "RUGMA"
+    },
+    {
+        "name": "A593",
+        "seq": 1,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "FUE",
+        "fixEnd": "GOMAR"
+    },
+    {
+        "name": "A593",
+        "seq": 2,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOMAR",
+        "fixEnd": "AZUKI"
+    },
+    {
+        "name": "A593",
+        "seq": 3,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "AZUKI",
+        "fixEnd": "POTET"
+    },
+    {
+        "name": "A593",
+        "seq": 4,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "POTET",
+        "fixEnd": "ONIKU"
+    },
+    {
+        "name": "A593",
+        "seq": 5,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "ONIKU",
+        "fixEnd": "NIRAT"
+    },
+    {
+        "name": "A593",
+        "seq": 6,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "NIRAT",
+        "fixEnd": "PONIK"
+    },
+    {
+        "name": "A593",
+        "seq": 7,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PONIK",
+        "fixEnd": "SADLI"
+    },
+    {
+        "name": "A593",
+        "seq": 8,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SADLI",
+        "fixEnd": "LAMEN"
+    },
+    {
+        "name": "A593",
+        "seq": 9,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "LAMEN",
+        "fixEnd": "AKARA"
+    },
+    {
+        "name": "A595",
+        "seq": 1,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "CJU",
+        "fixEnd": "TAMNA"
+    },
+    {
+        "name": "A595",
+        "seq": 2,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TAMNA",
+        "fixEnd": "SAMDO"
+    },
+    {
+        "name": "A595",
+        "seq": 3,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SAMDO",
+        "fixEnd": "GOURA"
+    },
+    {
+        "name": "A595",
+        "seq": 4,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOURA",
+        "fixEnd": "IKE"
+    },
+
     {
         "name": "A326",
         "seq": 10,
@@ -152,238 +425,6 @@
         "fixEnd": "DDG"
     },
     {
-        "name": "A582",
-        "seq": 10,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "SEL",
-        "fixEnd": "POLEG"
-    },
-    {
-        "name": "A582",
-        "seq": 20,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "POLEG",
-        "fixEnd": "SOT"
-    },
-    {
-        "name": "A582",
-        "seq": 30,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "SOT",
-        "fixEnd": "POSAN"
-    },
-    {
-        "name": "A582",
-        "seq": 40,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "POSAN",
-        "fixEnd": "OSPOT"
-    },
-    {
-        "name": "A582",
-        "seq": 50,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "OSPOT",
-        "fixEnd": "VASLI"
-    },
-    {
-        "name": "A582",
-        "seq": 60,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "VASLI",
-        "fixEnd": "MAKDU"
-    },
-    {
-        "name": "A582",
-        "seq": 70,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "MAKDU",
-        "fixEnd": "BITUX"
-    },
-    {
-        "name": "A582",
-        "seq": 80,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "BITUX",
-        "fixEnd": "TGU"
-    },
-    {
-        "name": "A582",
-        "seq": 90,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "TGU",
-        "fixEnd": "KALOD"
-    },
-    {
-        "name": "A582",
-        "seq": 100,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "KALOD",
-        "fixEnd": "PSN"
-    },
-    {
-        "name": "A582",
-        "seq": 110,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "PSN",
-        "fixEnd": "APELA"
-    },
-    {
-        "name": "A582",
-        "seq": 120,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "APELA",
-        "fixEnd": "ZAKRO"
-    },
-    {
-        "name": "A582",
-        "seq": 130,
-        "description": "주요항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "ZAKRO",
-        "fixEnd": "IKE"
-    },
-    {
-        "name": "A586",
-        "seq": 10,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "TENAS",
-        "fixEnd": "AGSUS"
-    },
-    {
-        "name": "A586",
-        "seq": 20,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "AGSUS",
-        "fixEnd": "DABIK"
-    },
-    {
-        "name": "A586",
-        "seq": 30,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "DABIK",
-        "fixEnd": "BULGA"
-    },
-    {
-        "name": "A586",
-        "seq": 40,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "BULGA",
-        "fixEnd": "BEDOM"
-    },
-    {
-        "name": "A586",
-        "seq": 50,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "BEDOM",
-        "fixEnd": "PSN"
-    },
-    {
-        "name": "A586",
-        "seq": 60,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "PSN",
-        "fixEnd": "OMOTU"
-    },
-    {
-        "name": "A586",
-        "seq": 65,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "OMOTU",
-        "fixEnd": "TOPAX"
-    },
-    {
-        "name": "A586",
-        "seq": 70,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "TOPAX",
-        "fixEnd": "GOSBO"
-    },
-    {
-        "name": "A586",
-        "seq": 80,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "GOSBO",
-        "fixEnd": "MAKET"
-    },
-    {
-        "name": "A586",
-        "seq": 90,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "MAKET",
-        "fixEnd": "ATINA"
-    },
-    {
-        "name": "A586",
-        "seq": 100,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "ATINA",
-        "fixEnd": "MANOL"
-    },
-    {
-        "name": "A586",
-        "seq": 105,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "MANOL",
-        "fixEnd": "CJU"
-    },
-    {
-        "name": "A586",
-        "seq": 110,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "CJU",
-        "fixEnd": "TOSAN"
-    },
-    {
-        "name": "A586",
-        "seq": 120,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "TOSAN",
-        "fixEnd": "RUGMA"
-    },
-    {
-        "name": "A586",
-        "seq": 130,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "RUGMA",
-        "fixEnd": "POTET"
-    },
-    {
-        "name": "A586",
-        "seq": 140,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "POTET",
-        "fixEnd": "ESBIS"
-    },
-    {
         "name": "A591",
         "seq": 10,
         "description": "저고도항로",
@@ -406,102 +447,6 @@
         "airwayType": "CONVENTIONAL",
         "fixStart": "IKEKA",
         "fixEnd": "AGAVO"
-    },
-    {
-        "name": "A593",
-        "seq": 1090,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "FUE",
-        "fixEnd": "GOMAR"
-    },
-    {
-        "name": "A593",
-        "seq": 1100,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "GOMAR",
-        "fixEnd": "AZUKI"
-    },
-    {
-        "name": "A593",
-        "seq": 1110,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "AZUKI",
-        "fixEnd": "POTET"
-    },
-    {
-        "name": "A593",
-        "seq": 1120,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "POTET",
-        "fixEnd": "ONIKU"
-    },
-    {
-        "name": "A593",
-        "seq": 1130,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "ONIKU",
-        "fixEnd": "NIRAT"
-    },
-    {
-        "name": "A593",
-        "seq": 1140,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "NIRAT",
-        "fixEnd": "SADLI"
-    },
-    {
-        "name": "A593",
-        "seq": 1150,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "SADLI",
-        "fixEnd": "LAMEN"
-    },
-    {
-        "name": "A593",
-        "seq": 1160,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "LAMEN",
-        "fixEnd": "AKARA"
-    },
-    {
-        "name": "A595",
-        "seq": 2180,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "CJU",
-        "fixEnd": "TAMNA"
-    },
-    {
-        "name": "A595",
-        "seq": 2190,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "TAMNA",
-        "fixEnd": "SAMDO"
-    },
-    {
-        "name": "A595",
-        "seq": 2200,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "SAMDO",
-        "fixEnd": "GOURA"
-    },
-    {
-        "name": "A595",
-        "seq": 2210,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "GOURA",
-        "fixEnd": "IKE"
     },
     {
         "name": "A900",
@@ -3894,5 +3839,29 @@
         "airwayType": "RNAV",
         "fixStart": "PSN",
         "fixEnd": "INVOK"
+    },
+    {
+        "name": "3AW1",
+        "seq": 1,
+        "description": "저고도항로(평양특수항로)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GASAN",
+        "fixEnd": "SOKGE"
+    },
+    {
+        "name": "3AW2",
+        "seq": 2,
+        "description": "저고도항로(평양특수항로)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "YOMJU",
+        "fixEnd": "PONIL"
+    },
+    {
+        "name": "3AW2",
+        "seq": 3,
+        "description": "저고도항로(평양특수항로)",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PONIL",
+        "fixEnd": "P2"
     }
 ]
