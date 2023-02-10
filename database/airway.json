@@ -3341,14 +3341,14 @@
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "CJU",
-        "fixEnd": "LONSI"
+        "fixEnd": "LOSNI"
     },
     {
         "name": "Y722",
         "seq": 80,
         "description": "주요항로",
         "airwayType": "RNAV",
-        "fixStart": "LONSI",
+        "fixStart": "LOSNI",
         "fixEnd": "GUKSU"
     },
     {

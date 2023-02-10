@@ -3807,12 +3807,12 @@
         "longitude": "E126.51.18.998"
     },
     {
-        "name": "LONSI",
+        "name": "LOSNI",
         "navaidType": "FIX",
         "extraType": "FIX",
         "description": "경로 픽스",
         "latitude": "N033.33.15.000",
-        "longitude": "E126.41.52.999"
+        "longitude": "E126.41.53.000"
     },
     {
         "name": "LOSTO",
