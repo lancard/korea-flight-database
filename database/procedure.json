@@ -6355,7 +6355,7 @@
         "procedureType": "SID",
         "airport": "RKJK",
         "name": "ENTEL2",
-        "runway": "18",
+        "runway": ["18"]
         "fixList": [
             "N035.55.27.215 E126.36.40.377",
             "N036.20.38.470 E126.55.11.111",
