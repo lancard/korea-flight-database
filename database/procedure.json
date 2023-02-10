@@ -6444,7 +6444,7 @@
     },
     {
         "procedureType": "APPROACH",
-        "airport": "RKPK",
+        "airport": "RKJK",
         "name": "ILSY18.WWOLF",
         "runway": "18",
         "fixList": [
@@ -6457,7 +6457,7 @@
     },
     {
         "procedureType": "APPROACH",
-        "airport": "RKPK",
+        "airport": "RKJK",
         "name": "RNP18",
         "runway": "18",
         "fixList": [
@@ -6481,7 +6481,7 @@
     },
     {
         "procedureType": "APPROACH",
-        "airport": "RKPK",
+        "airport": "RKJK",
         "name": "VORTAC",
         "runway": "18",
         "fixList": [
