@@ -6350,5 +6350,17 @@
         "fixList": [
             "KM511"
         ]
-    }
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKJK",
+        "name": "ENTEL2",
+        "runway": [
+            "18"
+        ],
+        "fixList": [
+            "N035.055.043 E126.036.039",
+            "N037.344.097 E126.919.753"
+        ]
+    },
 ]
