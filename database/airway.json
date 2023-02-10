@@ -295,6 +295,126 @@
         "fixStart": "GOURA",
         "fixEnd": "IKE"
     },
+    {
+        "name": "B332",
+        "seq": 1,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SANKO",
+        "fixEnd": "TOMUK"
+    },
+    {
+        "name": "B332",
+        "seq": 2,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "TOMUK",
+        "fixEnd": "PONIL"
+    },
+    {
+        "name": "B332",
+        "seq": 3,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PONIL",
+        "fixEnd": "BODOK"
+    },
+    {
+        "name": "B332",
+        "seq": 4,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BODOK",
+        "fixEnd": "SOKGE"
+    },
+    {
+        "name": "B332",
+        "seq": 5,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SOKGE",
+        "fixEnd": "JENAM"
+    },
+    {
+        "name": "B332",
+        "seq": 6,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "JENAM",
+        "fixEnd": "WASAN"
+    },
+    {
+        "name": "B332",
+        "seq": 7,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "WASAN",
+        "fixEnd": "SONDO"
+    },
+    {
+        "name": "B332",
+        "seq": 8,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SONDO",
+        "fixEnd": "GOSIM"
+    },
+    {
+        "name": "B332",
+        "seq": 9,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GOSIM",
+        "fixEnd": "BIROB"
+    },
+    {
+        "name": "B332",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "BIROB",
+        "fixEnd": "GAZIN"
+    },
+    {
+        "name": "B332",
+        "seq": 11,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "GAZIN",
+        "fixEnd": "KANSU"
+    },
+    {
+        "name": "B332",
+        "seq": 12,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "KANSU",
+        "fixEnd": "PALDU"
+    },
+    {
+        "name": "B332",
+        "seq": 13,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PALDU",
+        "fixEnd": "SABET"
+    },
+    {
+        "name": "B332",
+        "seq": 14,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "SABET",
+        "fixEnd": "IGRAS"
+    },
+    {
+        "name": "B332",
+        "seq": 15,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "IGRAS",
+        "fixEnd": "XZE"
+    },
 
     {
         "name": "A326",
@@ -479,126 +599,6 @@
         "airwayType": "CONVENTIONAL",
         "fixStart": "NULAR",
         "fixEnd": "NATEK"
-    },
-    {
-        "name": "B332",
-        "seq": 730,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "SANKO",
-        "fixEnd": "TOMUK"
-    },
-    {
-        "name": "B332",
-        "seq": 740,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "TOMUK",
-        "fixEnd": "PONIL"
-    },
-    {
-        "name": "B332",
-        "seq": 750,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "PONIL",
-        "fixEnd": "BODOK"
-    },
-    {
-        "name": "B332",
-        "seq": 760,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "BODOK",
-        "fixEnd": "SOKGE"
-    },
-    {
-        "name": "B332",
-        "seq": 770,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "SOKGE",
-        "fixEnd": "JENAM"
-    },
-    {
-        "name": "B332",
-        "seq": 780,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "JENAM",
-        "fixEnd": "WASAN"
-    },
-    {
-        "name": "B332",
-        "seq": 790,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "WASAN",
-        "fixEnd": "SONDO"
-    },
-    {
-        "name": "B332",
-        "seq": 792,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "SONDO",
-        "fixEnd": "GOSIM"
-    },
-    {
-        "name": "B332",
-        "seq": 794,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "GOSIM",
-        "fixEnd": "BIROB"
-    },
-    {
-        "name": "B332",
-        "seq": 800,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "BIROB",
-        "fixEnd": "GAZIN"
-    },
-    {
-        "name": "B332",
-        "seq": 810,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "GAZIN",
-        "fixEnd": "KANSU"
-    },
-    {
-        "name": "B332",
-        "seq": 820,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "KANSU",
-        "fixEnd": "PALDU"
-    },
-    {
-        "name": "B332",
-        "seq": 830,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "PALDU",
-        "fixEnd": "SABET"
-    },
-    {
-        "name": "B332",
-        "seq": 840,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "SABET",
-        "fixEnd": "IGRAS"
-    },
-    {
-        "name": "B332",
-        "seq": 850,
-        "description": "저고도항로",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "IGRAS",
-        "fixEnd": "XZE"
     },
     {
         "name": "B355",
