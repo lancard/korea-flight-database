@@ -1288,22 +1288,6 @@
         "fixEnd": "ANDOL"
     },
     {
-        "name": "L512",
-        "seq": 2140,
-        "description": "RNAV항로",
-        "airwayType": "RNAV",
-        "fixStart": "ANDOL",
-        "fixEnd": "KAMSA"
-    },
-    {
-        "name": "L512",
-        "seq": 2150,
-        "description": "RNAV항로",
-        "airwayType": "RNAV",
-        "fixStart": "KAMSA",
-        "fixEnd": "IGOBI"
-    },
-    {
         "name": "L771",
         "seq": 10,
         "description": "RNAV항로",
@@ -2333,14 +2317,14 @@
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "SARAM",
-        "fixEnd": "ANKUS"
+        "fixEnd": "KANBO"
     },
     {
         "name": "Y253",
         "seq": 1170,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "ANKUS",
+        "fixStart": "KANBO",
         "fixEnd": "PSN"
     },
     {
@@ -2541,87 +2525,31 @@
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "AGSUS",
-        "fixEnd": "BULGA"
+        "fixEnd": "DABIK"
     },
     {
         "name": "Y579",
         "seq": 260,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "BULGA",
-        "fixEnd": "PSN"
+        "fixStart": "DABIK",
+        "fixEnd": "BULGA"
     },
     {
         "name": "Y579",
         "seq": 270,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "PSN",
-        "fixEnd": "OMOTU"
-    },
-    {
-        "name": "Y579",
-        "seq": 275,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "OMOTU",
-        "fixEnd": "TOPAX"
+        "fixStart": "BULGA",
+        "fixEnd": "BEDOM"
     },
     {
         "name": "Y579",
         "seq": 280,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "TOPAX",
-        "fixEnd": "GOSBO"
-    },
-    {
-        "name": "Y579",
-        "seq": 290,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "GOSBO",
-        "fixEnd": "MAKET"
-    },
-    {
-        "name": "Y579",
-        "seq": 300,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "MAKET",
-        "fixEnd": "CJU"
-    },
-    {
-        "name": "Y579",
-        "seq": 310,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "CJU",
-        "fixEnd": "TOSAN"
-    },
-    {
-        "name": "Y579",
-        "seq": 320,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "TOSAN",
-        "fixEnd": "RUGMA"
-    },
-    {
-        "name": "Y579",
-        "seq": 330,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "RUGMA",
-        "fixEnd": "POTET"
-    },
-    {
-        "name": "Y579",
-        "seq": 340,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "POTET",
-        "fixEnd": "ESBIS"
+        "fixStart": "BEDOM",
+        "fixEnd": "PSN"
     },
     {
         "name": "Y590",
@@ -3753,6 +3681,14 @@
     },
     {
         "name": "Z50",
+        "seq": 570,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "EGOBA",
+        "fixEnd": "SOT"
+    },
+    {
+        "name": "Z50",
         "seq": 580,
         "description": "고고도항로",
         "airwayType": "RNAV",
@@ -3806,6 +3742,22 @@
         "airwayType": "RNAV",
         "fixStart": "TEBEX",
         "fixEnd": "BASEM"
+    },
+    {
+        "name": "Z54",
+        "seq": 20,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "SOT",
+        "fixEnd": "MONSI"
+    },
+    {
+        "name": "Z54",
+        "seq": 30,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "MONSI",
+        "fixEnd": "GOGET"
     },
     {
         "name": "Z55",
