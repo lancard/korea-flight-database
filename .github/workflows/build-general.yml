@@ -41,7 +41,7 @@ jobs:
           echo "SECTOR_URL:https://github.com/lancard/korea-flight-database/releases/latest/download/sector.7z" >> VATKOR_Sector.txt
 
       - name: Copy All Resources for Euroscope Provider
-        run: 
+        run: |
           cp vatsim/sector.ese ./sector_${{ env.VERSION_STRING }}.ese
           cp vatsim/sector.sct2 ./sector_${{ env.VERSION_STRING }}.sct2
 
