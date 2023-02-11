@@ -6801,5 +6801,84 @@
             "N035.05.58.788 E128.05.31.772",
             "N035.08.55.290 E128.11.22.118"
          ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPS",
+        "name": "VOR06L",
+        "runway": "06L",
+        "fixList": [
+            "SOLYI",
+            "MUBIX",
+            "AKPET",
+            "GONYA",
+            "KAIFA"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPS",
+        "name": "VOR06R",
+        "runway": "06R",
+        "fixList": [
+            "SOLYI",
+            "MAEMI",
+            "IKUMU",
+            "OKTUL",
+            "MABON",
+            "UPLAP"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPS",
+        "name": "ILS24R",
+        "runway": "24R",
+        "fixList": [
+            "KABVO",
+            "PEGMI",
+            "SLOTA",
+            "OLNIG"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPS",
+        "name": "LOC24R",
+        "runway": "24R",
+        "fixList": [
+            "KABVO",
+            "PEGMI",
+            "HWANI",
+            "SOONI",
+            "JUNNI",
+            "CHANO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPS",
+        "name": "VOR24R",
+        "runway": "24R",
+        "fixList": [
+            "KABVO",
+            "BIKLA",
+            "NAISS",
+            "UPREX",
+            "WINTE"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPS",
+        "name": "VOR24L",
+        "runway": "24L",
+        "fixList": [
+            "KABVO",
+            "JALDA",
+            "POMOX",
+            "TUVRO",
+            "SACUN"
+        ]
     }
 ]
