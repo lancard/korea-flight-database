@@ -47,7 +47,7 @@ jobs:
 
       - uses: edgarrc/action-7z@v1
         with:
-          args: 7z a -t7z -mx=9 sector.7z sector_${{ env.VERSION_STRING }}.ese sector_${{ env.VERSION_STRING }}.sct2
+          args: 7z a sector.7z sector_${{ env.VERSION_STRING }}.ese sector_${{ env.VERSION_STRING }}.sct2
       
       - name: Create Release
         id: create_release
