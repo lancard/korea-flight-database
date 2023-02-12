@@ -909,20 +909,20 @@
         "longitude": "E126.28.36.852"
     },
     {
-        "name": "BOLOD",
-        "navaidType": "FIX",
-        "extraType": "FIX",
-        "description": "경로 픽스",
-        "latitude": "N029.35.12.968",
-        "longitude": "E125.01.29.439"
-    },
-    {
         "name": "BONSO",
         "navaidType": "FIX",
         "extraType": "FIX",
         "description": "경로 픽스",
         "latitude": "N030.28.40.000",
         "longitude": "E125.08.50.998"
+    },
+    {
+        "name": "DANTI",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N037.18.06.000",
+        "longitude": "E124.39.29.000"
     },
     {
         "name": "BOPKI",
@@ -1005,6 +1005,14 @@
         "description": "경로 픽스",
         "latitude": "N034.59.52.300",
         "longitude": "E128.56.48.100"
+    },
+    {
+        "name": "BOLUT",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N028.46.22.000",
+        "longitude": "E124.42.12.000"
     },
     {
         "name": "BUSKO",
@@ -8450,6 +8458,78 @@
         "description": "경로 픽스",
         "latitude": "N035.09.48.100",
         "longitude": "E128.54.07.800"
+    },
+    {
+        "name": "DANYANG-1",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N036.56.23.000",
+        "longitude": "E128.18.12.000"
+    },
+    {
+        "name": "DANYANG-2",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N036.57.25.000",
+        "longitude": "E128.19.58.000"
+    },
+    {
+        "name": "DANYANG-3",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N036.58.47.000",
+        "longitude": "E128.20.36.000"
+    },
+    {
+        "name": "DANYANG-4",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N036.58.46.000",
+        "longitude": "E128.22.19.000"
+    },
+    {
+        "name": "DANYANG-5",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N037.00.18.000",
+        "longitude": "E128.20.45.000"
+    },
+    {
+        "name": "DANYANG-6",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N037.00.01.000",
+        "longitude": "E128.23.12.000"
+    },
+    {
+        "name": "DANYANG-7",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N037.01.48.000",
+        "longitude": "E128.23.02.000"
+    },
+    {
+        "name": "DANYANG-8",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N037.02.37.000",
+        "longitude": "E128.24.50.000"
+    },
+    {
+        "name": "DANYANG-9",
+        "navaidType": "VFR_REPORTING_POINT",
+        "extraType": "DANYANG_VFR_TOURIST_ROUTE",
+        "description": "DANYANG_TOURIST_ROUTE",
+        "latitude": "N037.03.37.000",
+        "longitude": "E128.24.56.000"
     },
     {
         "name": "CP-1",
