@@ -705,6 +705,74 @@
         "airport": "RKSI"
     },
     {
+        "name": "MEESA",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N037.34.43.870",
+        "longitude": "E127.14.44.779",
+        "airport": "RKSM"
+    },
+    {
+        "name": "MUGAR",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N037.17.45.499",
+        "longitude": "E127.19.08.601",
+        "airport": "RKSM"
+    },
+    {
+        
+        "name": "PINEV",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N037.15.10.000",
+        "longitude": "E127.19.04.000",
+        "airport": "RKSM"
+    },
+    {
+        
+        "name": "BIDBA",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N037.20.33.298",
+        "longitude": "E127.19.14.498",
+        "airport": "RKSM"
+    },
+    {
+        
+        "name": "YEOJU",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N037.24.46.418",
+        "longitude": "E127.26.49.880",
+        "airport": "RKSM"
+    },
+    {
+        
+        "name": "VEMUM",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N037.32.21.300",
+        "longitude": "E127.20.12.400",
+        "airport": "RKSM"
+    },
+    {
+        
+        "name": "UPTAD",
+        "navaidType": "FIX",
+        "extraType": "FIX",
+        "description": "경로 픽스",
+        "latitude": "N037.27.21.301",
+        "longitude": "E127.11.04.199",
+        "airport": "RKSM"
+    },
+    {
         "name": "BEDAR",
         "navaidType": "FIX",
         "extraType": "FIX",
