@@ -30,7 +30,7 @@ module.exports = {
             "; used only VATSIM airtraffic controlling\n" +
             "; DO NOT used for sale or commercial use.\n" +
             "; \n" +
-            "; contact point: vatkor10@vatkor.net\n" +
+            "; contact point: vatkor3@vatkor.net\n" +
             ";\n" +
             ";\n" +
             "; < Revision History >\n" +
