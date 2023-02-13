@@ -4229,14 +4229,6 @@
 		"longitude": "E133.44.01.998"
 	},
 	{
-		"name": "KANBO",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.07.30.000",
-		"longitude": "E128.46.16.000"
-	},
-	{
 		"name": "KANKA",
 		"navaidType": "FIX",
 		"extraType": "FIX",
