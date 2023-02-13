@@ -6880,5 +6880,259 @@
             "TUVRO",
             "SACUN"
         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "EGOBA5",
+        "runway": [
+            "20",
+            "19"
+        ],
+        "fixList": [
+            "N037.23.21.856 E127.06.21.845",
+            "N037.27.58.885 E127.15.56.136",
+            "EGOBA"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "EGOBA5",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.30.15.323 E127.08.01.687",
+            "N037.27.58.885 E127.15.56.136",
+            "EGOBA"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "MEESA1.KARBU",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.30.15.323 E127.08.01.687",
+            "MEESA",
+            "KARBU"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "MEESA1.EGOBA",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.30.15.323 E127.08.01.687",
+            "MEESA",
+            "EGOBA"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "MEESA1.PINEV",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.30.15.323 E127.08.01.687",
+            "MEESA",
+            "EGOBA",
+            "MUGAR",
+            "PINEV"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "MUGAR1",
+        "runway": [
+            "20",
+            "19"
+        ],
+        "fixList": [
+            "N037.23.21.856 E127.06.21.845",
+            "MUGAR"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "PINEV5",
+        "runway": [
+            "20",
+            "19"
+        ],
+        "fixList": [
+            "N037.23.21.856 E127.06.21.845",
+            "N037.22.52.715 E127.11.27.046",
+            "MUGAR"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "PINEV5",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.30.15.323 E127.08.01.687",
+            "N037.22.52.715 E127.11.27.046",
+            "MUGAR"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "SEOUL1.KARBU",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.28.38.856 E127.07.18.792",
+            "N037.30.31.412 E127.18.58.951",
+            "N037.28.39.724 E127.19.14.622",
+            "KARBU"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "SEOUL1.SEL",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.28.38.856 E127.07.18.792",
+            "N037.30.31.412 E127.18.58.951",
+            "N037.28.39.724 E127.19.14.622",
+            "SEL"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "SEOUL2.KARBU",
+        "runway": [
+            "20",
+            "19"
+        ],
+        "fixList": [
+            "N037.23.21.856 E127.06.21.845",
+            "N037.23.32.359 E127.10.56.920",
+            "N037.30.37.917 E127.14.08.761",
+            "N037.35.21.738 E127.23.02.267",
+            "N037.29.50.602 E127.26.24.780",
+            "KARBU"
+         ]
+    },
+        {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "SEOUL2.SEL",
+        "runway": [
+            "20",
+            "19"
+        ],
+        "fixList": [
+            "N037.23.21.856 E127.06.21.845",
+            "N037.23.32.359 E127.10.56.920",
+            "N037.30.37.917 E127.14.08.761",
+            "N037.35.21.738 E127.23.02.267",
+            "N037.29.50.602 E127.26.24.780",
+            "SEL"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "SEOUL2.KARBU",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.28.38.856 E127.07.18.792",
+            "N037.30.37.917 E127.14.08.761",
+            "N037.35.21.738 E127.23.02.267",
+            "N037.29.50.602 E127.26.24.780",
+            "KARBU"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "SEOUL2.SEL",
+        "runway": [
+            "02",
+            "01"
+        ],
+        "fixList": [
+            "N037.28.38.856 E127.07.18.792",
+            "N037.30.37.917 E127.14.08.761",
+            "N037.35.21.738 E127.23.02.267",
+            "N037.29.50.602 E127.26.24.780",
+            "SEL"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "SOT1",
+        "runway": [
+            "20",
+            "19"
+        ],
+        "fixList": [
+            "N037.22.38.558 E127.06.22.116",
+            "SOT"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "YEOJU1.KARBU",
+        "runway": [
+            "20",
+            "19"
+        ],
+        "fixList": [
+            "N037.22.38.558 E127.06.22.116",
+            "EIDBA",
+            "YEOJU",
+            "KARBU"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSM",
+        "name": "YEOJU1.SEL",
+        "runway": [
+            "20",
+            "19"
+        ],
+        "fixList": [
+            "N037.22.38.558 E127.06.22.116",
+            "EIDBA",
+            "YEOJU",
+            "VEMUM",
+            "UPTAD",
+            "SEL"
+         ]
     }
 ]
