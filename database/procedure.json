@@ -1,5 +1,76 @@
 [
     {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
+        "name": "RNP21.JOOKA",
+        "runway": "21",
+        "fixList": [
+            "JOOKA",
+            "ANOTI",
+            "CASTO",
+            "OLTOV",
+            "POLLU",
+            "ANKEG"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
+        "name": "RNP21.VEMTI",
+        "runway": "21",
+        "fixList": [
+            "VEMTI",
+            "ANOTI",
+            "CASTO",
+            "OLTOV",
+            "POLLU",
+            "ANKEG"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
+        "name": "RNP03.ENDEX",
+        "runway": "03",
+        "fixList": [
+            "ENDEX",
+            "IKOSU",
+            "DOXEL",
+            "KORHA",
+            "OLSAX",
+            "DUBAL"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
+        "name": "RNP03.OLGOD",
+        "runway": "03",
+        "fixList": [
+            "OLGOD",
+            "IKOSU",
+            "DOXEL",
+            "KORHA",
+            "OLSAX",
+            "DUBAL"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
+        "name": "VORA03",
+        "runway": "03",
+        "fixList": [
+            "ORINU",
+            "N037.14.34.017 E127.46.38.464",
+            "N037.14.14.475 E127.47.28.919",
+            "N037.14.05.878 E127.48.10.942",
+            "N037.14.05.549 E127.48.51.262",
+            "N037.14.12.168 E127.49.16.420",
+            "N037.14.28.469 E127.49.40.096"
+        ]
+    },
+    {
         "procedureType": "SID",
         "airport": "RKPK",
         "name": "OPONO3",

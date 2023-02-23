@@ -1,5 +1,140 @@
 [
 	{
+		"name": "JOOKA",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.34.08.840",
+		"longitude": "E128.13.45.270",
+		"airport": "RKNW"
+	},
+	{
+		"name": "ANOTI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.37.42.860",
+		"longitude": "E128.04.44.260",
+		"airport": "RKNW"
+	},
+	{
+		"name": "CASTO",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.34.05.590",
+		"longitude": "E128.02.28.870",
+		"airport": "RKNW"
+	},
+	{
+		"name": "OLTOV",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.32.16.910",
+		"longitude": "E128.01.21.180",
+		"airport": "RKNW"
+	},
+	{
+		"name": "POLLU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.29.37.540",
+		"longitude": "E127.59.42.090",
+		"airport": "RKNW"
+	},
+	{
+		"name": "ANKEG",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.28.06.750",
+		"longitude": "E127.58.45.690",
+		"airport": "RKNW"
+	},
+	{
+		"name": "VEMTI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.39.56.270",
+		"longitude": "E127.59.05.690",
+		"airport": "RKNW"
+	},
+	{
+		"name": "ENDEX",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.17.03.210",
+		"longitude": "E127.44.55.610",
+		"airport": "RKNW"
+	},
+	{
+		"name": "IKOSU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.14.50.450",
+		"longitude": "E127.50.32.840",
+		"airport": "RKNW"
+	},
+	{
+		"name": "DOXEL",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.19.03.510",
+		"longitude": "E127.53.09.140",
+		"airport": "RKNW"
+	},
+	{
+		"name": "KORHA",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.20.15.880",
+		"longitude": "E127.53.53.870",
+		"airport": "RKNW"
+	},
+	{
+		"name": "OLSAX",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.22.55.320",
+		"longitude": "E127.55.32.560",
+		"airport": "RKNW"
+	},
+	{
+		"name": "DUBAL",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.24.26.960",
+		"longitude": "E127.56.29.330",
+		"airport": "RKNW"
+	},
+	{
+		"name": "OLGOD",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.12.37.420",
+		"longitude": "E127.56.09.750",
+		"airport": "RKNW"
+	},
+	{
+		"name": "ORINU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.14.14.999",
+		"longitude": "E127.44.44.001",
+		"airport": "RKNW"
+	},
+	{
 		"name": "AD020",
 		"navaidType": "FIX",
 		"extraType": "FIX",
