@@ -260,7 +260,7 @@
 		"longitude": "E129.35.23.000"
 	},
 	{
-		"name": "AMENT",
+		"name": "AVMET",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -599,7 +599,7 @@
 		"airport": "RKSM"
 	},
 	{
-		"name": "BIENN",
+		"name": "OPIBA",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -834,7 +834,7 @@
 		"airport": "RKJK"
 	},
 	{
-		"name": "BUDLE",
+		"name": "OPASI",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -1337,7 +1337,7 @@
 		"longitude": "E129.31.54.999"
 	},
 	{
-		"name": "DAEIN",
+		"name": "VADRO",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -1757,7 +1757,7 @@
 		"longitude": "E129.21.29.700"
 	},
 	{
-		"name": "DOOSA",
+		"name": "PUMEG",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -2194,7 +2194,7 @@
 		"longitude": "E127.47.14.200"
 	},
 	{
-		"name": "FRISA",
+		"name": "ORUSA",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -2448,7 +2448,7 @@
 		"longitude": "E129.20.34.300"
 	},
 	{
-		"name": "GOEUL",
+		"name": "GOMUX",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -3217,7 +3217,7 @@
 		"airport": "RKSI"
 	},
 	{
-		"name": "IPSAE",
+		"name": "LILVI",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -3806,7 +3806,7 @@
 		"frequency": "117.900"
 	},
 	{
-		"name": "JEBEE",
+		"name": "IPDUT",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -4707,7 +4707,7 @@
 		"frequency": "113.500"
 	},
 	{
-		"name": "KOMAK",
+		"name": "GUMAK",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -5146,7 +5146,7 @@
 		"longitude": "E127.47.23.000"
 	},
 	{
-		"name": "MESIL",
+		"name": "JISUN",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -5263,7 +5263,7 @@
 		"longitude": "E124.57.12.000"
 	},
 	{
-		"name": "MUJIN",
+		"name": "MARYO",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -5391,7 +5391,7 @@
 		"longitude": "E127.58.35.000"
 	},
 	{
-		"name": "NOBEL",
+		"name": "TEPEL",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -5482,7 +5482,7 @@
 		"longitude": "E125.39.04.999"
 	},
 	{
-		"name": "NOVEM",
+		"name": "ARIMU",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -5642,7 +5642,7 @@
 		"airport": "RKNY"
 	},
 	{
-		"name": "OCTER",
+		"name": "IGBEM",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -7497,7 +7497,7 @@
 		"airport": "RKJK"
 	},
 	{
-		"name": "ROYAL",
+		"name": "GUMAM",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -7765,7 +7765,7 @@
 		"longitude": "E137.07.46.689"
 	},
 	{
-		"name": "SERAN",
+		"name": "LUVOL",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -8353,7 +8353,7 @@
 		"airport": "RKTH"
 	},
 	{
-		"name": "TIGER",
+		"name": "PIGEL",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -9788,7 +9788,7 @@
 		"airport": "RKJK"
 	},
 	{
-		"name": "XEROX",
+		"name": "XEMIX",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",

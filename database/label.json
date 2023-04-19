@@ -2493,6 +2493,14 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
+        "airport": "RKTN",
+        "labelType": "Gate-Number",
+        "name": "31",
+        "latitude": "N035.54.06.210",
+        "longitude": "E128.38.15.380",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKNY",
         "labelType": "Gate-Number",
         "name": "31",
