@@ -1339,47 +1339,47 @@
     {
         "procedureType": "SID",
         "airport": "RKJJ",
-        "name": "IPSAE1.IGDOK",
+        "name": "LILVI1.IGDOK",
         "runway": [
             "04L",
             "04R"
         ],
         "fixList": [
-            "IPSAE",
+            "LILVI",
             "JJ401",
-            "DOOSA",
-            "ROYAL",
+            "PUMEG",
+            "GUMAM",
             "IGDOK"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKJJ",
-        "name": "IPSAE1.TEDAN",
+        "name": "LILVI1.TEDAN",
         "runway": [
             "04L",
             "04R"
         ],
         "fixList": [
-            "IPSAE",
+            "LILVI",
             "JJ401",
             "JJ402",
-            "OCTER",
+            "IGBEM",
             "TEDAN"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKJJ",
-        "name": "IPSAE1.DOTOL",
+        "name": "LILVI1.DOTOL",
         "runway": [
             "04L",
             "04R"
         ],
         "fixList": [
-            "IPSAE",
+            "LILVI",
             "JJ401",
-            "MESIL",
+            "JISUN",
             "JJ403",
             "DOTOL"
         ]
@@ -1439,13 +1439,13 @@
     {
         "procedureType": "SID",
         "airport": "RKJJ",
-        "name": "MUJIN1.DOTOL",
+        "name": "MARYO1.DOTOL",
         "runway": [
             "22L",
             "22R"
         ],
         "fixList": [
-            "MUJIN",
+            "MARYO",
             "JJ224",
             "DOTOL"
         ]
@@ -1453,47 +1453,47 @@
     {
         "procedureType": "SID",
         "airport": "RKJJ",
-        "name": "MUJIN1.TEDAN",
+        "name": "MARYO1.TEDAN",
         "runway": [
             "22L",
             "22R"
         ],
         "fixList": [
-            "MUJIN",
+            "MARYO",
             "JJ221",
-            "MESIL",
+            "JISUN",
             "TEDAN"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKJJ",
-        "name": "MUJIN1.IGDOK",
+        "name": "MARYO1.IGDOK",
         "runway": [
             "22L",
             "22R"
         ],
         "fixList": [
-            "MUJIN",
+            "MARYO",
             "JJ221",
-            "MESIL",
+            "JISUN",
             "JJ223",
-            "ROYAL",
+            "GUMAM",
             "IGDOK"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKJJ",
-        "name": "MUJIN1.MAKSA",
+        "name": "MARYO1.MAKSA",
         "runway": [
             "22L",
             "22R"
         ],
         "fixList": [
-            "MUJIN",
+            "MARYO",
             "JJ221",
-            "MESIL",
+            "JISUN",
             "JJ222",
             "MAKSA"
         ]
@@ -1553,13 +1553,13 @@
     {
         "procedureType": "STAR",
         "airport": "RKJJ",
-        "name": "NOVEM1.IGDOK",
+        "name": "ARIMU1.IGDOK",
         "fixList": [
             "IGDOK",
             "JJ502",
             "JJ503",
             "JJ504",
-            "NOVEM"
+            "ARIMU"
         ]
     },
     {
@@ -1569,7 +1569,7 @@
         "fixList": [
             "TEDAN",
             "JJ504",
-            "NOVEM"
+            "ARIMU"
         ]
     },
     {
@@ -1578,47 +1578,47 @@
         "name": "NOVEM1.KAMIT",
         "fixList": [
             "KAMIT",
-            "NOVEM"
+            "ARIMU"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKJJ",
-        "name": "XEROX1.MANGI",
+        "name": "XEMIX1.MANGI",
         "fixList": [
             "MANGI",
             "JJ501",
-            "XEROX"
+            "XEMIX"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKJJ",
-        "name": "FRISA1.IGDOK",
+        "name": "ORUSA1.IGDOK",
         "fixList": [
             "IGDOK",
             "JJ321",
-            "FRISA"
+            "ORUSA"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKJJ",
-        "name": "FRISA1.TEDAN",
+        "name": "ORUSA1.TEDAN",
         "fixList": [
             "TEDAN",
-            "FRISA"
+            "ORUSA"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKJJ",
-        "name": "FRISA1.KAMIT",
+        "name": "ORUSA1.KAMIT",
         "fixList": [
             "KAMIT",
             "JJ322",
             "JJ323",
-            "FRISA"
+            "ORUSA"
         ]
     },
     {
@@ -1633,49 +1633,49 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKJJ",
-        "name": "RNP04R.XEROX",
+        "name": "RNP04R.XEMIX",
         "runway": "04R",
         "fixList": [
-            "XEROX",
-            "DAEIN",
+            "XEMIX",
+            "VADRO",
             "JJ581",
-            "NOBEL"
+            "TEPEL"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKJJ",
-        "name": "RNP04R.NOVEM",
+        "name": "RNP04R.ARIMU",
         "runway": "04R",
         "fixList": [
-            "NOVEM",
-            "DAEIN",
+            "ARIMU",
+            "VADRO",
             "JJ581",
-            "NOBEL"
+            "TEPEL"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKJJ",
-        "name": "RNP04L.XEROX",
+        "name": "RNP04L.XEMIX",
         "runway": "04L",
         "fixList": [
-            "XEROX",
-            "BUDLE",
+            "XEMIX",
+            "OPASI",
             "JJ481",
-            "TIGER"
+            "PIGEL"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKJJ",
-        "name": "RNP04L.NOVEM",
+        "name": "RNP04L.ARIMU",
         "runway": "04L",
         "fixList": [
-            "NOVEM",
-            "BUDLE",
+            "ARIMU",
+            "OPASI",
             "JJ481",
-            "TIGER"
+            "PIGEL"
         ]
     },
     {
@@ -1713,39 +1713,39 @@
         "runway": "22L",
         "fixList": [
             "MANGI",
-            "SERAN",
-            "BIENN",
+            "LUVOL",
+            "OPIBA",
             "JJ681",
             "JJ682",
-            "GOEUL",
+            "GOMUX",
             "JJ683"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKJJ",
-        "name": "RNP22L.SERAN",
+        "name": "RNP22L.LUVOL",
         "runway": "22L",
         "fixList": [
-            "SERAN",
-            "BIENN",
+            "LUVOL",
+            "OPIBA",
             "JJ681",
             "JJ682",
-            "GOEUL",
+            "GOMUX",
             "JJ683"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKJJ",
-        "name": "RNP22L.FRISA",
+        "name": "RNP22L.ORUSA",
         "runway": "22L",
         "fixList": [
-            "FRISA",
-            "BIENN",
+            "ORUSA",
+            "OPIBA",
             "JJ681",
             "JJ682",
-            "GOEUL",
+            "GOMUX",
             "JJ683"
         ]
     },
@@ -1765,39 +1765,39 @@
         "runway": "22R",
         "fixList": [
             "MANGI",
-            "SERAN",
-            "JEBEE",
+            "LUVOL",
+            "IPDUT",
             "JJ781",
             "JJ782",
-            "KOMAK",
+            "GUMAK",
             "JJ783"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKJJ",
-        "name": "RNP22R.SERAN",
+        "name": "RNP22R.LUVOL",
         "runway": "22R",
         "fixList": [
-            "SERAN",
-            "JEBEE",
+            "LUVOL",
+            "IPDUT",
             "JJ781",
             "JJ782",
-            "KOMAK",
+            "GUMAK",
             "JJ783"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKJJ",
-        "name": "RNP22R.FRISA",
+        "name": "RNP22R.ORUSA",
         "runway": "22R",
         "fixList": [
-            "FRISA",
-            "JEBEE",
+            "ORUSA",
+            "IPDUT",
             "JJ781",
             "JJ782",
-            "KOMAK",
+            "GUMAK",
             "JJ783"
         ]
     },
@@ -2312,7 +2312,7 @@
         "name": "NISAV1D",
         "fixList": [
             "NISAV",
-            "AMENT",
+            "AVMET",
             "ADGES",
             "ISDOV",
             "BUGYO",
