@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@turf/turf": "^6.5.0",
+    "csvtojson": "^2.0.10",
+    "dayjs": "^1.11.6"
+  }
+}

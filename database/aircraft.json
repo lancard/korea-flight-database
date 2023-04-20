@@ -2,7 +2,7 @@
     "A20N": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "M",
         "manufacturer": "Airbus",
         "description": "A321-NEO"
@@ -10,7 +10,7 @@
     "A320": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "M",
         "manufacturer": "Airbus",
         "description": "A320-200"
@@ -18,7 +18,7 @@
     "A321": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "M",
         "manufacturer": "Airbus",
         "description": "A321-100,A321-200"
@@ -26,7 +26,7 @@
     "A332": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Airbus",
         "description": "A330-200"
@@ -34,7 +34,7 @@
     "A333": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Airbus",
         "description": "A330-300"
@@ -42,7 +42,7 @@
     "A359": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Airbus",
         "description": "A350-900"
@@ -50,7 +50,7 @@
     "A388": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "4",
+        "engineCount": 4,
         "wakeTurbulenceCategory": "J",
         "manufacturer": "Airbus",
         "description": "A380-800"
@@ -58,7 +58,7 @@
     "B37M": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "M",
         "manufacturer": "Boeing",
         "description": "B737-8(MAX)"
@@ -66,7 +66,7 @@
     "B738": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "M",
         "manufacturer": "Boeing",
         "description": "B737-800"
@@ -74,7 +74,7 @@
     "B739": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "M",
         "manufacturer": "Boeing",
         "description": "B737-900,B737-900ER"
@@ -82,7 +82,7 @@
     "B743": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "4",
+        "engineCount": 4,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "A321-NEO"
@@ -90,7 +90,7 @@
     "B744": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "4",
+        "engineCount": 4,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B747-400,B747-400F,B747-400M"
@@ -98,7 +98,7 @@
     "B748": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "4",
+        "engineCount": 4,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B747-8I,B747-8F"
@@ -106,7 +106,7 @@
     "B763": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B767-300"
@@ -114,7 +114,7 @@
     "B772": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "MH",
         "manufacturer": "Boeing",
         "description": "B777-200,B777-200ER"
@@ -122,7 +122,7 @@
     "B773": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B777-300"
@@ -130,7 +130,7 @@
     "B77L": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B777-200LR,B777-200 Freighteer"
@@ -138,7 +138,7 @@
     "B77W": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B777-300ER"
@@ -146,7 +146,7 @@
     "B789": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B787-9"
@@ -154,7 +154,7 @@
     "C172": {
         "aircraftType": "Landplane",
         "engineType": "Piston",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "L",
         "manufacturer": "Cessna",
         "description": "C172"
@@ -162,7 +162,7 @@
     "DH8D": {
         "aircraftType": "Landplane",
         "engineType": "Turboprop/Turboshaft",
-        "engineCount": "2",
+        "engineCount": 2,
         "wakeTurbulenceCategory": "M",
         "manufacturer": "De Havilland Aircraft of Canada",
         "description": "DASH8-Q400"
