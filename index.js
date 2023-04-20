@@ -20,7 +20,6 @@ global.coastlineList = require('./database/coastline.json');
 global.procedureList = require('./database/procedure.json');
 global.labelList = require('./database/label.json');
 global.regionList = require('./database/region.json');
-global.sectorList = require('./database/airspace/SECTOR.json');
 global.airportObject = {};
 global.runwayMap = {};
 global.runwayOppositeMap = {};
@@ -142,20 +141,6 @@ function initialize() {
         runwayMap[`${runwayList[r].airport}_${runwayList[r].oppositeRunway}`] = { latitude: runwayList[r].endLatitude, longitude: runwayList[r].endLongitude };
         runwayOppositeMap[`${runwayList[r].airport}_${runwayList[r].oppositeRunway}`] = { latitude: runwayList[r].startLatitude, longitude: runwayList[r].startLongitude };
         runwayOppositeMap[`${runwayList[r].airport}_${runwayList[r].runway}`] = { latitude: runwayList[r].endLatitude, longitude: runwayList[r].endLongitude };
-    }
-
-    // minutes to decimal conversion
-    for (var sector in sectorList) {
-        for (var a = 0; a < sectorList[sector].length; a++) {
-            var str = sectorList[sector][a];
-
-            sectorList[sector][a] = {
-                latitude: str.split(" ")[0],
-                longitude: str.split(" ")[1],
-                latitudeDecimal: util.convertMinutesToDecimal(str.split(" ")[0]),
-                longitudeDecimal: util.convertMinutesToDecimal(str.split(" ")[1])
-            }
-        }
     }
 
     // print duplicated && unused fixes

@@ -106,6 +106,9 @@ module.exports = {
             if (fileInfo.ext != ".geojson")
                 return;
 
+            if (fileInfo.name == "FIR")
+                return;
+
             var airportName = fileInfo.name;
             var t = JSON.parse(fs.readFileSync('./database/airspace/' + e)).geometry.coordinates[0][0];
             tracon[airportName] = t;

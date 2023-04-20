@@ -30,7 +30,7 @@ module.exports = {
             "; used only VATSIM airtraffic controlling\n" +
             "; DO NOT used for sale or commercial use.\n" +
             "; \n" +
-            "; contact point: vatkor10@vatkor.net\n" +
+            "; contact point: vatkor3@vatkor.net\n" +
             ";\n" +
             ";\n" +
             "; < Revision History >\n" +
@@ -185,11 +185,13 @@ module.exports = {
             if (
                 e.properties.id.startsWith("RK") ||
                 e.properties.id.startsWith("RJ") ||
-                e.properties.id.startsWith("RORG") ||
+                e.properties.id.startsWith("ZKKP") ||
                 e.properties.id.startsWith("ZSHA") ||
+                e.properties.id.startsWith("ZYTL") ||
+                e.properties.id.startsWith("ZSSS") ||
+                e.properties.id.startsWith("ZSQD") ||
                 e.properties.id.startsWith("ZYSH") ||
-                e.properties.id.startsWith("UHHH") ||
-                e.properties.id.startsWith("ZKKP")
+                e.properties.id.startsWith("UHHH")
             ) {
                 artcc[e.properties.id] = e.geometry.coordinates[0][0];
             }
@@ -213,6 +215,9 @@ module.exports = {
             var fileInfo = path.parse(e);
 
             if (fileInfo.ext != ".geojson")
+                return;
+
+            if (fileInfo.name == "FIR")
                 return;
 
             var airportName = fileInfo.name;

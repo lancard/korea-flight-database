@@ -25,6 +25,29 @@ jobs:
       - run: node predownload.js
 
       - run: node index.js
+
+      - name: Generate Euroscope Sector File Provider
+        run: |
+          echo "EuroScope Sector File Provider File" > VATKOR_Sector.txt
+          echo "" >> VATKOR_Sector.txt
+          echo "NAME:VATSIM Korea Sector File - Github" >> VATKOR_Sector.txt
+          echo "URL:https://github.com/lancard/korea-flight-database/releases/latest/download/VATKOR_Sector.txt" >> VATKOR_Sector.txt
+          echo "DOWNLOADINTERVAL:12" >> VATKOR_Sector.txt
+          echo "" >> VATKOR_Sector.txt
+          echo "" >> VATKOR_Sector.txt
+          echo "SECTOR_NAME:VATSIM Korea Sector File" >> VATKOR_Sector.txt
+          echo "SECTOR_FILE_NAME:sector" >> VATKOR_Sector.txt
+          echo "SECTOR_VERSION:${{ env.VERSION_STRING }}" >> VATKOR_Sector.txt
+          echo "SECTOR_URL:https://github.com/lancard/korea-flight-database/releases/latest/download/sector.7z" >> VATKOR_Sector.txt
+
+      - name: Copy All Resources for Euroscope Provider
+        run: |
+          cp vatsim/sector.ese ./sector_${{ env.VERSION_STRING }}.ese
+          cp vatsim/sector.sct2 ./sector_${{ env.VERSION_STRING }}.sct2
+
+      - uses: edgarrc/action-7z@v1
+        with:
+          args: 7z a -t7z -m0=BCJ -m1=LZMA:d=21 sector.7z sector_${{ env.VERSION_STRING }}.ese sector_${{ env.VERSION_STRING }}.sct2
       
       - name: Create Release
         id: create_release
@@ -36,6 +59,26 @@ jobs:
           release_name: Release ${{ env.VERSION_STRING }}
           draft: false
           prerelease: false
+
+      - name: upload sector file provider file
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: VATKOR_Sector.txt
+          asset_name: VATKOR_Sector.txt
+          asset_content_type: text/plain
+
+      - name: upload sector file for euroscope auto downloader
+        uses: actions/upload-release-asset@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # This token is provided by Actions, you do not need to create your own token
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: sector.7z
+          asset_name: sector.7z
+          asset_content_type: application/x-7z-compressed
 
       - name: upload sector file
         uses: actions/upload-release-asset@v1

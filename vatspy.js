@@ -1,24 +1,4 @@
 const fs = require('fs');
-const turf = require('@turf/turf');
-
-function sectorToGeoJSON(sector) {
-    var ret = [];
-    sector.forEach(element => {
-        ret.push([element.longitudeDecimal, element.latitudeDecimal]);
-    });
-
-    return turf.polygon([ret]);
-}
-
-function mergeSectorList(list) {
-    var poly = sectorToGeoJSON(sectorList[list[0]]);
-
-    for (var a = 1; a < list.length; a++) {
-        poly = turf.union(poly, sectorToGeoJSON(sectorList[list[a]]));
-    }
-
-    return poly;
-}
 
 module.exports = {
     initialize() {
@@ -27,33 +7,29 @@ module.exports = {
         }
     },
     generateVatspyFile() {
-        var ret;
-        var lines = [];
+        // get fir
+        var geojsonFeatures = JSON.parse(fs.readFileSync('./database/airspace/FIR.geojson')).features;
 
-        ret = mergeSectorList(["DAEGU AREA SECTOR", "EAST-SEA SECTOR", "GANGNEUNG AREA SECTOR", "GUNSAN EAST SECTOR", "GUNSAN WEST SECTOR",
-            "GWANGJU EAST SECTOR", "GWANGJU WEST SECTOR", "JEJU NORTH SECTOR", "JEJU SOUTH SECTOR", "NAMHAE AREA SECTOR",
-            "POHANG AREA SECTOR", "WEST-SEA NORTH SECTOR", "WEST-SEA SOUTH SECTOR"]);
-        lines.push('RKRR_A_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
+        var ret = [];
 
-        ret = mergeSectorList(["GUNSAN EAST SECTOR", "GUNSAN WEST SECTOR", "GWANGJU EAST SECTOR", "GWANGJU WEST SECTOR"]);
-        lines.push('RKRR_N_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
+        geojsonFeatures.forEach(e => {
+            var label_lon = 0;
+            var label_lat = 0;
 
-        ret = mergeSectorList(["JEJU NORTH SECTOR", "JEJU SOUTH SECTOR"]);
-        lines.push('RKRR_S_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
+            e.geometry.coordinates[0][0].forEach(f => {
+                label_lon += f[0];
+                label_lat += f[1];
+            });
 
-        ret = mergeSectorList(["WEST-SEA NORTH SECTOR", "WEST-SEA SOUTH SECTOR", "EAST-SEA SECTOR", "GANGNEUNG AREA SECTOR", "POHANG AREA SECTOR",
-            "DAEGU AREA SECTOR", "NAMHAE AREA SECTOR"]);
-        lines.push('RKDA_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
+            label_lon /= e.geometry.coordinates[0][0].length;
+            label_lat /= e.geometry.coordinates[0][0].length;
 
-        ret = mergeSectorList(["WEST-SEA NORTH SECTOR", "WEST-SEA SOUTH SECTOR"]);
-        lines.push('RKDA_W_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
+            e.properties.label_lon = label_lon.toFixed(6);
+            e.properties.label_lat = label_lat.toFixed(6);
 
-        ret = mergeSectorList(["EAST-SEA SECTOR", "GANGNEUNG AREA SECTOR", "POHANG AREA SECTOR"]);
-        lines.push('RKDA_E_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
+            ret.push(e.properties.id + ": " + JSON.stringify(e, null, ' ').split("\n").join("").split("  ").join(" ").split("  ").join(" ").split("  ").join(" "));
+        });
 
-        ret = mergeSectorList(["DAEGU AREA SECTOR", "NAMHAE AREA SECTOR"]);
-        lines.push('RKDA_C_CTR: ' + JSON.stringify(ret.geometry.coordinates[0]));
-
-        fs.writeFileSync('vatspy/geojson.txt', lines.join("\n").split(",").join(", "));
+        fs.writeFileSync('vatspy/geojson.txt', ret.join("\n"));
     }
 };
