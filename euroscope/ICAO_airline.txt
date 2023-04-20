@@ -1,0 +1,69 @@
+AAL	American	American
+AAR	Asiana	Asiana
+ABL	Air busan	Air busan
+ABW	Air Bridge	Air Bridge
+ACA	Air Canada	Air Canada
+AFL	AeroFlot	AeroFlot
+AFR	Air France	Air France
+AHK	Air hongkong	Air hongkong
+AIH	Air Incheon	Air Incheon
+AJX	Air Japan	Air Japan
+AMX	Aero Mexico	Aero Mexico
+ANA	All nippon	All nippon
+APJ	Air Peach	Air Peach
+APZ	Air Premia	Air Premia
+ASV	Air Seoul	Air Seoul
+AZQ	Silk line	Silk line
+BAW	SpeedBird	SpeedBird
+CCA	Air China	Air China
+CDG	Shandong	Shandong
+CES	China Eastern	China Eastern
+CKK	Cargo King	Cargo King
+CKS	Connie	Connie
+CLX	Cargolux	Cargolux
+CPA	Cathay	Cathay
+CQH	Air Spring	Air Spring
+CSN	China Southern	China Southern
+CXA	Xiamen Air	Xiamen Air
+CYZ	China Post	China Post
+DAL	Delta	Delta
+DLH	Lufthansa	Lufthansa
+EOK	Aero Hanguk	Aero Hanguk
+ESR	Eastar	Eastar
+ETD	Ethihad	Ethihad
+ETH	Ethiopian	Ethiopian
+EVA	Eva	Eva
+FDX	Fedex	Fedex
+FGW	Fly gangwon	Fly gangwon
+FIN	Finnair	Finnair
+GIA	Indonesia (Garuda)	Indonesia (Garuda)
+GTI	Giant	Giant
+HAL	Hawaiian	Hawaiian
+HGG	Hi Air	Hi Air
+ICV	Cargo Med (Cargolux Italia)	Cargo Med (Cargolux Italia)
+JAL	Japan Air	Japan Air
+JJA	Jeju Air	Jeju Air
+JNA	Jin Air	Jin Air
+KAL	Korean Air	Korean Air
+KLM	KLM	KLM
+KZR	Astana Line (Air Astana)	Astana Line (Air Astana)
+LOT	Poland/Polish/Pollot	Poland/Polish/Pollot
+MAS	Malaysian	Malaysian
+MMA	Myanmar	Myanmar
+PAC	Polar	Polar
+QDA	Sky Legend (Qingdao Airlines)	Sky Legend (Qingdao Airlines)
+QFA	Qantas	Qantas
+QTR	Qatari	Qatari
+SBI	Siberian	Siberian
+SHU	Aurora	Aurora
+SIA	Singapore	Singapore
+SOO	Southern Air	Southern Air
+TGW	Scooter	Scooter
+THA	Thai	Thai
+THY	Turkish	Turkish
+TWB	Tway	Tway
+TZP	Zippy (Zipair)	Zippy (Zipair)
+UAE	Emirate	Emirate
+UAL	United	United
+UPS	UPS	UPS
+UZB	Uzbek	Uzbek
