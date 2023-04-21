@@ -10799,6 +10799,22 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
+        "airport": "RKPC",
+        "labelType": "Taxiway",
+        "name": "W",
+        "latitude": "N033.30.40.500",
+        "longitude": "E126.29.49.760",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKPC",
+        "labelType": "Taxiway",
+        "name": "E",
+        "latitude": "N033.30.56.050",
+        "longitude": "E126.29.11.560",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKSI",
         "labelType": "Taxiway",
         "name": "W",
