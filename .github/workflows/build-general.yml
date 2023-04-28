@@ -9,6 +9,7 @@ on:
 
 jobs:
   build:
+    permissions: write-all
     runs-on: ubuntu-latest
     steps:
       - name: Generate version string
@@ -137,3 +138,21 @@ jobs:
           asset_path: etc/nuetrainer_sector.json
           asset_name: nuetrainer_sector.json
           asset_content_type: text/plain
+
+      - name: prepare pages
+        run: |
+          mkdir pages
+          mv database pages
+          mv vatsim/sector.sct2 pages
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: './pages'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
