@@ -2661,6 +2661,105 @@
 		"longitude": "E127.25.56.000"
 	},
 	{
+		"name": "GUKOB",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IAF",
+		"latitude": "N037.06.20.284",
+		"longitude": "E127.08.01.922",
+		"airport": "RKSM"
+	},
+	{
+		"name": "UNTOM",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IF",
+		"latitude": "N037.15.09.393",
+		"longitude": "E127.06.28.185",
+		"airport": "RKSM"
+	},
+	{
+		"name": "KALIN",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "FAF",
+		"latitude": "N037.20.09.630",
+		"longitude": "E127.06.39.996",
+		"airport": "RKSM"
+	},
+	{
+		"name": "UNVET",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.25.02.594",
+		"longitude": "E127.06.51.532",
+		"airport": "RKSM"
+	},
+	{
+		"name": "KAINA",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IF",
+		"latitude": "N037.14.34.840",
+		"longitude": "E127.04.36.958",
+		"airport": "RKSM"
+	},
+	{
+		"name": "BORNU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "FAF",
+		"latitude": "N037.19.32.247",
+		"longitude": "E127.05.29.748",
+		"airport": "RKSM"
+	},
+	{
+		"name": "WADIO",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.24.57.129",
+		"longitude": "E127.06.27.532",
+		"airport": "RKSM"
+	},
+	{
+		"name": "TORIA",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IAF",
+		"latitude": "N037.38.02.374",
+		"longitude": "E127.21.30.613",
+		"airport": "RKSM"
+	},
+	{
+		"name": "BUNDA",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IF",
+		"latitude": "N037.39.16.251",
+		"longitude": "E127.09.00.855",
+		"airport": "RKSM"
+	},
+	{
+		"name": "SCURU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "FAF",
+		"latitude": "N037.34.18.885",
+		"longitude": "E127.08.07.731",
+		"airport": "RKSM"
+	},
+	{
+		"name": "MILOO",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.29.04.295",
+		"longitude": "E127.07.11.574",
+		"airport": "RKSM"
+	},
+	{
 		"name": "GUNKU",
 		"navaidType": "FIX",
 		"extraType": "FIX",

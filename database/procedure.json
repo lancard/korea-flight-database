@@ -7205,5 +7205,130 @@
             "UPTAD",
             "SEL"
          ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP01.GUKOB",
+        "runway": "01",
+        "fixList": [
+            "GUKOB",
+            "UNTOM",
+            "KALIN",
+            "UNVET"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP01.KAKSO",
+        "runway": "01",
+        "fixList": [
+            "KAKSO",
+            "UNTOM",
+            "KALIN",
+            "UNVET"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP02.GUKOB",
+        "runway": "01",
+        "fixList": [
+            "GUKOB",
+            "KAINA",
+            "BORNU",
+            "WADIO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP02.KAKSO",
+        "runway": "01",
+        "fixList": [
+            "KAKSO",
+            "GUKOB",
+            "KAINA",
+            "BORNU",
+            "WADIO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP19.KARBU",
+        "runway": "01",
+        "fixList": [
+            "KARBU",
+            "TORIA",
+            "BUNDA",
+            "SCURU",
+            "MILOO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP19.MUGAR",
+        "runway": "01",
+        "fixList": [
+            "MUGAR",
+            "TORIA",
+            "BUNDA",
+            "SCURU",
+            "MILOO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP19.TORIA",
+        "runway": "01",
+        "fixList": [
+            "TORIA",
+            "BUNDA",
+            "SCURU",
+            "MILOO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP20.KARBU",
+        "runway": "01",
+        "fixList": [
+            "KARBU",
+            "TORIA",
+            "BUNDA",
+            "SCURU",
+            "MILOO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP20.MUGAR",
+        "runway": "01",
+        "fixList": [
+            "MUGAR",
+            "TORIA",
+            "BUNDA",
+            "SCURU",
+            "MILOO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSM",
+        "name": "RNP20.TORIA",
+        "runway": "01",
+        "fixList": [
+            "TORIA",
+            "BUNDA",
+            "SCURU",
+            "MILOO"
+        ]
     }
 ]
