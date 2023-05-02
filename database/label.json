@@ -7004,6 +7004,38 @@
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
+        "airport": "RKTU",
+        "labelType": "Taxiway",
+        "name": "E1",
+        "latitude": "N036.43.23.310",
+        "longitude": "E127.30.09.050",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKTU",
+        "labelType": "Taxiway",
+        "name": "E2",
+        "latitude": "N036.43.10.630",
+        "longitude": "E127.29.50.390",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKTU",
+        "labelType": "Taxiway",
+        "name": "E3",
+        "latitude": "N036.42.58.210",
+        "longitude": "E127.29.32.800",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKTU",
+        "labelType": "Taxiway",
+        "name": "E6",
+        "latitude": "N036.42.42.330",
+        "longitude": "E127.29.07.280",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
         "airport": "RKSI",
         "labelType": "Taxiway",
         "name": "B5",
