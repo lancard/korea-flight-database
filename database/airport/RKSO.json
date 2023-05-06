@@ -1,0 +1,16 @@
+{
+	"RKSO-Border_1": {
+		"airport": "RKSO",
+		"name": "RKSO-Border_1",
+		"description": "공항 외곽선",
+		"colorProfile": "Airport-Border",
+		"lineList": [
+			{
+				"latitude1": "N037.05.21.159",
+				"longitude1": "E127.00.54.690",
+				"latitude2": "N037.05.20.974",
+				"longitude2": "E127.00.54.149"
+			}
+		]
+	}
+}
