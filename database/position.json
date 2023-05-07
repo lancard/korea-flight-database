@@ -1,7 +1,7 @@
 {
     "RKSI_DEL": {
         "name": "INCHEON DELIVERY",
-        "frequency": "121.850",
+        "frequency": "121.600",
         "initialID": "ID",
         "middleFix": "-",
         "prefix": "RKSI",

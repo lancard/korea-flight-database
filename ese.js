@@ -3,6 +3,7 @@ const path = require('path');
 const util = require('./util.js');
 
 const positionList = require('./database/position.json');
+const copxList = require('./database/copx.json');
 
 
 function getRawCoordRemovedList(arr) {
@@ -39,6 +40,29 @@ module.exports = {
         if (!fs.existsSync('vatsim')) {
             fs.mkdirSync('vatsim');
         }
+    },
+    getCopx() {
+        var ret = [];
+
+        for (var copxname in copxList) {
+            var e = copxList[copxname];
+
+            ret.push([
+                e.COPX,
+                e.DEP,
+                e.DEPRWY,
+                e.FIX,
+                e.ARR,
+                e.ARRRWY,
+                e.FROM,
+                e.TO,
+                e.CLB,
+                e.DES,
+                e.FIX
+            ].join(":"));
+        }
+
+        return ret.join("\n");
     },
     getPosition() {
         var ret = [];
@@ -149,6 +173,12 @@ module.exports = {
 
         contents += "\n\n[AIRSPACE]\n";
         contents += this.getAirspace();
+
+        // COPX ADD LINE
+        contents += "\n\n;-COPX START\n\n"
+        contents += this.getCopx();
+        contents += "\n\n;-COPX END\n"
+
 
         fs.writeFileSync('vatsim/sector.ese', contents.split("\n").join("\r\n"));
     }
