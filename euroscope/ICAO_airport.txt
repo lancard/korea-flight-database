@@ -28,7 +28,6 @@ AYVN	Vanimo Airport	PG
 AYWD	Wapenamanda Airport	PG
 AYWK	Wewak International Airport	PG
 AZ-0001	Zabrat Airport	AZ
-AZ-0011	Fuzuli International Airport	AZ
 AZ-0013	Sitalchay Airbase	AZ
 AZ-0021	Qizilagach Air Base	AZ
 BCW	Benguera Island Airport	MZ
@@ -179,6 +178,7 @@ CN-0344	Paozhuwan Air Base	CN
 CN-0345	Shanpo Air Base	CN
 CN-0353	Zhanjiang Wuchuan Airport	CN
 CN-0396	Shaodong Airport	CN
+CN-0401	Ningxiang	CN
 CN-JNZ	Sanshilipu Air Base	CN
 CN-NTG	Nantong Xingdong International Airport	CN
 CNC3	Brampton-Caledon Airport	CA
@@ -630,7 +630,6 @@ EBLG	Liège Airport	BE
 EBOS	Ostend-Bruges International Airport	BE
 EDAC	Altenburg-Nobitz Airport	DE
 EDAH	Heringsdorf Airport	DE
-EDBM	Magdeburg "City" Airport	DE
 EDBN	Neubrandenburg Airport	DE
 EDBR	Rothenburg/Görlitz Airfield	DE
 EDDB	Berlin Brandenburg Airport	DE
@@ -725,7 +724,6 @@ EGBE	Coventry Airport	GB
 EGBJ	Gloucestershire Airport	GB
 EGBN	Nottingham Airport	GB
 EGCC	Manchester Airport	GB
-EGCN	Robin Hood Doncaster Sheffield Airport	GB
 EGDC	Royal Marines Base Chivenor Airport	GB
 EGDM	MoD Boscombe Down Airport	GB
 EGDR	RNAS Culdrose	GB
@@ -802,13 +800,11 @@ EGVO	RAF Odiham	GB
 EGWC	DCAE Cosford Air Base	GB
 EGWU	RAF Northolt	GB
 EGXC	RAF Coningsby	GB
-EGXD	RAF Dishforth	GB
 EGXE	RAF Leeming Air Base	GB
 EGXG	Leeds East Airport	GB
 EGXH	RAF Honington	GB
 EGXP	RAF Scampton	GB
 EGXT	RAF Wittering	GB
-EGXU	RAF Linton-On-Ouse	GB
 EGXW	RAF Waddington	GB
 EGXZ	RAF Topcliffe	GB
 EGYD	RAF Cranwell	GB
@@ -823,11 +819,12 @@ EHDP	De Peel Air Base	NL
 EHEH	Eindhoven Airport	NL
 EHGG	Eelde Airport	NL
 EHGR	Gilze Rijen Air Base	NL
-EHKD	De Kooy Airport	NL
+EHKD	De Kooy Airfield / Den Helder Naval Air Station	NL
 EHLE	Lelystad Airport	NL
 EHLW	Leeuwarden Air Base	NL
 EHRD	Rotterdam The Hague Airport	NL
 EHTW	Twente Airport	NL
+EHU	Ezhou Huahu Airport	CN
 EHVK	Volkel Air Base	NL
 EHWO	Woensdrecht Air Base	NL
 EICK	Cork Airport	IE
@@ -919,7 +916,7 @@ EPLK	Lask Military Air Base	PL
 EPLL	Łódź Władysław Reymont Airport	PL
 EPLS	Leszno-Strzyzewice Airport	PL
 EPLY	Leczyca Military Air Base	PL
-EPMB	Malbork Military Air Base	PL
+EPMB	22nd Air Base	PL
 EPMI	Miroslawiec Military Air Base	PL
 EPMM	Minsk Mazowiecki Military Air Base	PL
 EPMO	Modlin Airport	PL
@@ -949,7 +946,6 @@ ESKK	Karlskoga Airport	SE
 ESKM	Mora Airport	SE
 ESKN	Stockholm Skavsta Airport	SE
 ESKS	Scandinavian Mountains Airport	SE
-ESKX	Björkvik Air Base	SE
 ESMK	Kristianstad Airport	SE
 ESMQ	Kalmar Airport	SE
 ESMS	Malmö Sturup Airport	SE
@@ -1203,6 +1199,7 @@ FQTT	Chingozi Airport	MZ
 FQVL	Vilankulo Airport	MZ
 FSIA	Seychelles International Airport	SC
 FSPP	Praslin Airport	SC
+FTFY	Ouadi Doum Air Base	TD
 FTTC	Abeche Airport	TD
 FTTD	Moundou Airport	TD
 FTTJ	N'Djamena International Airport	TD
@@ -1333,7 +1330,7 @@ HAJJ	Wilwal International Airport	ET
 HAJM	Jimma Airport	ET
 HAKD	Kebri Dahar Airport	ET
 HALA	Hawassa International Airport	ET
-HAMK	Mekele Airport	ET
+HAMK	Alula Aba Nega Airport	ET
 HASO	Asosa Airport	ET
 HBBA	Bujumbura Melchior Ndadaye International Airport	BI
 HCMH	Egal International Airport	SO
@@ -1431,7 +1428,7 @@ HTMW	Mwanza Airport	TZ
 HTPE	Pemba Airport	TZ
 HTTG	Tanga Airport	TZ
 HTZA	Abeid Amani Karume International Airport	TZ
-HU-0002	Kalocsa/Foktő Airfield	HU
+HU-0002	Kalocsa-Foktő Airport	HU
 HUAR	Arua Airport	UG
 HUEN	Entebbe International Airport	UG
 HUGU	Gulu Airport	UG
@@ -1439,8 +1436,10 @@ HUSO	Soroti Airport	UG
 HZU	Chengdu Huaizhou Airport	CN
 IBL	Indigo Bay Lodge Airport	MZ
 ID-0274	Sangia Nibandera Airport	ID
+ID-0277	Kediri Airport	ID
 ID-ZGP	Bilogai-Sugapa Airport	ID
 IN-0011	Jakkur Aerodrome	IN
+IN-0277	Mopa International Airport	IN
 IN-0308	Itanagar Donyi Polo Hollongi Airport	IN
 IQ-0016	H1 New Air Base	IQ
 IQ-0017	H2 Air Base	IQ
@@ -1515,6 +1514,7 @@ KBAB	Beale Air Force Base	US
 KBAD	Barksdale Air Force Base	US
 KBAF	Westfield-Barnes Regional Airport	US
 KBAK	Columbus Municipal Airport	US
+KBAZ	New Braunfels Municipal Airport	US
 KBBD	Curtis Field	US
 KBCE	Bryce Canyon Airport	US
 KBDE	Baudette International Airport	US
@@ -1988,7 +1988,6 @@ KNYL	Yuma International Airport / Marine Corps Air Station Yuma	US
 KNZY	North Island Naval Air Station-Halsey Field	US
 KOAJ	Albert J Ellis Airport	US
 KOAK	Metropolitan Oakland International Airport	US
-KOFF	Offutt Air Force Base	US
 KOFK	Karl Stefan Memorial Airport	US
 KOGB	Orangeburg Municipal Airport	US
 KOGD	Ogden Hinckley Airport	US
@@ -2087,7 +2086,7 @@ KRHI	Rhinelander Oneida County Airport	US
 KRIC	Richmond International Airport	US
 KRIL	Garfield County Regional Airport	US
 KRIV	March Air Reserve Base	US
-KRIW	Riverton Regional Airport	US
+KRIW	Central Wyoming Regional Airport	US
 KRKS	Southwest Wyoming Regional Airport	US
 KRME	Griffiss International Airport	US
 KRMG	Richard B Russell Airport	US
@@ -2848,7 +2847,7 @@ MMQT	Querétaro Intercontinental Airport	MX
 MMRX	General Lucio Blanco International Airport	MX
 MMSD	Aeropuerto Internacional de Los Cabos	MX
 MMSL	Cabo San Lucas International Airport	MX
-MMSM	Santa Lucía Air Force Base / General Felipe Ángeles International Airport	MX
+MMSM	General Felipe Ángeles International Airport	MX
 MMSP	Ponciano Arriaga International Airport	MX
 MMTB	Terán Air Base	MX
 MMTC	Francisco Sarabia Tinoco International Airport	MX
@@ -3428,7 +3427,7 @@ RCYU	Hualien Airport	TW
 RJAA	Narita International Airport	JP
 RJAF	Shinshu-Matsumoto Airport	JP
 RJAH	Ibaraki Airport / JASDF Hyakuri Air Base	JP
-RJAW	Ioto (Iwo Jima) Air Base	JP
+RJAW	Iwo Jima Airbase	JP
 RJBB	Kansai International Airport	JP
 RJBD	Nanki Shirahama Airport	JP
 RJBE	Kobe Airport	JP
@@ -3618,10 +3617,8 @@ RU-0023	Chindant Air Base	RU
 RU-0028	Kaliningrad Chkalovsk Naval Air Base	RU
 RU-0035	Grozny Airport	RU
 RU-0036	Irkutsk Northwest Airport	RU
-RU-0040	Syktyvkar Southwest	RU
 RU-0043	Mius Airport	RU
 RU-0050	Yamburg Airport	RU
-RU-0059	Alakurtti Naval Air Base	RU
 RU-0060	Chernyakhovsk Naval Air Base	RU
 RU-0064	Ostrov Naval Air Base	RU
 RU-0065	Pribylovo Naval Air Base	RU
@@ -3642,14 +3639,12 @@ RU-0304	Kapustin Yar Airfield	RU
 RU-0327	Vozdvizhenka Air Base	RU
 RU-0372	Rostov-on-Don Central Air Base	RU
 RU-0380	Akhtubinsk Air Base	RU
-RU-0717	Utrenneye Airport	RU
 RU-0764	Kubinka Air Base	RU
 RU-1071	Kamensk-Uralskiy Air Base	RU
 RU-1892	Dolinsk-Sokol Air Base	RU
 RU-2344	Samara Kryazh Air Base	RU
 RU-2844	Dzhida Air Base	RU
-RU-3095	Shadrinsk Air Base	RU
-RU-3686	Vorotynsk Air Base	RU
+RU-3686	Oreshkovo	RU
 RU-3709	Bagay-Baranovka Air Base	RU
 RU-3880	Kansk Air Base	RU
 RU-4339	Tambov Air Base	RU
@@ -3659,25 +3654,19 @@ RU-4536	Rogachyovo Air Base	RU
 RU-4609	Shatalovo Air Base	RU
 RU-4827	Cheryomushki Air Base	RU
 RU-5105	Chuguyevka Air Base	RU
-RU-5276	Kilpyavr Air Base	RU
 RU-5376	Smuravyovo Air Base	RU
 RU-5672	Ivanovo North Air Base	RU
 RU-6558	Lyambir Air Base	RU
 RU-6560	Ulan-Ude East Airport	RU
 RU-6687	Michurinsk Air Base	RU
 RU-7576	Step Air Base	RU
-RU-7847	Ukkurey Air Base	RU
-RU-7911	Yugorsk Sovetsky Air Base	RU
 RU-7978	Uprun Air Base	RU
 RU-8363	Voronezh Baltimor Air Base	RU
 RU-8499	Sharomy Air Base	RU
 RU-8602	Engels Air Base	RU
 RU-8709	Dorokhovo Air Base	RU
-RU-8964	Beryozovka Air Base	RU
-RU-8974	Yaroslavl Levtsovo Air Base	RU
 RU-9129	Vorkuta Sovetskiy Air Base	RU
 RU-9345	Krechevitsy Air Base	RU
-RU-9545	Zherdevka Air Base	RU
 RU-9937	Rzhev Air Base	RU
 RU-9942	Shaykovka Air Base	RU
 SAAC	Comodoro Pierrestegui Airport	AR
@@ -3730,7 +3719,7 @@ SAVV	Gobernador Castello Airport	AR
 SAVY	El Tehuelche Airport	AR
 SAWC	El Calafate - Commander Armando Tola International Airport	AR
 SAWD	Puerto Deseado Airport	AR
-SAWE	Hermes Quijada International Airport	AR
+SAWE	Gobernador Ramón Trejo Noel International Airport	AR
 SAWG	Piloto Civil N. Fernández Airport	AR
 SAWH	Malvinas Argentinas Airport	AR
 SAWJ	Capitan D Daniel Vazquez Airport	AR
@@ -4009,6 +3998,7 @@ SLVM	Teniente Coronel Rafael Pabón Airport	BO
 SLVR	Viru Viru International Airport	BO
 SLYA	Yacuiba Airport	BO
 SMJP	Johan Adolf Pengel International Airport	SR
+SN6L	Dr. Luciano de Arruda Coelho Regional Airport	BR
 SNCP	Planalto Serrano Regional Airport	BR
 SNRS	Russas - João De Deus Regional Airport	BR
 SO-0001	K50 International Airport	SO
@@ -4029,7 +4019,7 @@ SPJI	Juanjui Airport	PE
 SPJJ	Francisco Carle Airport	PE
 SPJL	Inca Manco Capac International Airport	PE
 SPJR	Mayor General FAP Armando Revoredo Iglesias Airport	PE
-SPLO	Ilo Airport	PE
+SPLO	General Jorge Fernandez Maldon Airport	PE
 SPME	Captain Pedro Canga Rodríguez International Airport	PE
 SPMS	Moises Benzaquen Rengifo Airport	PE
 SPNC	Alferez Fap David Figueroa Fernandini Airport	PE
@@ -4117,7 +4107,7 @@ TFFG	Grand Case-Espérance Airport	MF
 TFFJ	Saint Barthélemy - Rémy de Haenen Airport	BL
 TFFM	Les Bases Airport	GP
 TFFR	Pointe-à-Pitre Le Raizet International  Airport	GP
-TGPY	Point Salines International Airport	GD
+TGPY	Maurice Bishop International Airport	GD
 TIST	Cyril E. King Airport	VI
 TISX	Henry E Rohlsen Airport	VI
 TJ-UT45	Gissar Air Base	TJ
@@ -4226,11 +4216,11 @@ UG22	Tbilisi Marneuli Air Base	GE
 UG24	Tbilisi Soganlug Air Base	GE
 UG27	Vaziani Air Base	GE
 UG28	Bolshiye Shiraki Air Base	GE
+UGAM	Ambrolauri Airport	GE
 UGKO	David the Builder Kutaisi International Airport	GE
 UGSB	Batumi International Airport	GE
 UGSS	Sukhumi Babushara /  Vladislav Ardzinba International Airport	GE
 UGTB	Tbilisi International Airport	GE
-UHB1	Birofeld Air Base	RU
 UHBB	Ignatyevo Airport	RU
 UHHH	Khabarovsk Novy Airport	RU
 UHKD	Dzemgi Airport	RU
@@ -4259,7 +4249,6 @@ UIBB	Bratsk Airport	RU
 UIBV	Zheleznogorsk Airport	RU
 UIII	Irkutsk International Airport	RU
 UITT	Ust-Kut Airport	RU
-UIUB	Bagdarin Airport	RU
 UIUU	Baikal International Airport	RU
 UKBB	Boryspil International Airport	UA
 UKCM	Mariupol International Airport	UA
@@ -4295,7 +4284,6 @@ ULH	Majeed Bin Abdulaziz Airport	SA
 ULKK	Kotlas Airport	RU
 ULLI	Pulkovo Airport	RU
 ULLP	Pushkin Airport	RU
-ULLS	Siversky Air Base	RU
 ULMM	Murmansk Airport	RU
 ULNR	Staraya Russa Air Base	RU
 ULOO	Pskov Airport	RU
@@ -4322,7 +4310,6 @@ UNIS	Severo-Yeniseysk Airport	RU
 UNIW	Vanavara Airport	RU
 UNKL	Krasnoyarsk International Airport	RU
 UNKM	Krasnoyarsk Cheremshanka Airport	RU
-UNKO	Sharypovo Airport	RU
 UNKS	Achinsk Airport	RU
 UNKY	Kyzyl Airport	RU
 UNNE	Yeltsovka Airport	RU
@@ -4453,14 +4440,13 @@ UWPP	Penza Airport	RU
 UWPS	Saransk Airport	RU
 UWSB	Balakovo Airport	RU
 UWSG	Gagarin International Airport	RU
-UWUM	Maksimovka Airport	RU
 UWUU	Ufa International Airport	RU
 UWWB	Buguruslan Severny Airport	RU
 UWWG	Bezymyanka Airfield	RU
 UWWW	Kurumoch International Airport	RU
 VA1G	Rewa Airport, Chorhata, REWA	IN
-VA2C	Birsi Airport	IN
-VAAH	Sardar Vallabhbhai Patel International Airport	IN
+VA2C	Gondia Airport	IN
+VAAH	Sardar Vallabh Bhai Patel International Airport	IN
 VAAK	Akola Airport	IN
 VAAU	Aurangabad Airport	IN
 VABB	Chhatrapati Shivaji International Airport	IN
@@ -4507,6 +4493,7 @@ VDPP	Phnom Penh International Airport	KH
 VDRK	Ratanakiri Airport	KH
 VDSR	Siem Reap International Airport	KH
 VE44	Hashimara Air Force Station	IN
+VE89	Darbhanga Airport	IN
 VEAN	Along Airport	IN
 VEAT	Agartala - Maharaja Bir Bikram Airport	IN
 VEBD	Bagdogra Airport	IN
@@ -4534,7 +4521,7 @@ VEPT	Jay Prakash Narayan Airport	IN
 VERC	Birsa Munda Airport	IN
 VERK	Rourkela Airport	IN
 VETZ	Tezpur Airport	IN
-VEVZ	Visakhapatnam Airport / INS Dega	IN
+VEVZ	Visakhapatnam Airport	IN
 VEZO	Ziro Airport	IN
 VGBR	Barisal Airport	BD
 VGCB	Cox's Bazar Airport	BD
@@ -4548,7 +4535,7 @@ VGZR	Hazrat Shahjalal International Airport	BD
 VHHH	Hong Kong International Airport	HK
 VHSK	Shek Kong Air Base	HK
 VIAG	Agra Airport / Agra Air Force Station	IN
-VIAL	Prayagraj Deendayal Upadhyay Airport / Bamrauli Air Force Station	IN
+VIAL	Prayagraj Airport	IN
 VIAM	Ambala Air Force Station	IN
 VIAR	Sri Guru Ram Dass Jee International Airport	IN
 VIBK	Nal Airport	IN
@@ -4563,7 +4550,7 @@ VIDN	Dehradun Jolly Grant Airport	IN
 VIDP	Indira Gandhi International Airport	IN
 VIGG	Kangra Airport	IN
 VIGR	Gwalior Airport	IN
-VIHR	Hissar Airport	IN
+VIHR	Hisar Airport	IN
 VIJO	Jodhpur Airport	IN
 VIJP	Jaipur International Airport	IN
 VIJR	Jaisalmer Airport	IN
@@ -4586,6 +4573,7 @@ VLVT	Wattay International Airport	LA
 VMI	Aeropuerto Nacional Dr. Juan Plate	PY
 VMMC	Macau International Airport	MO
 VN-0001	Dong Hoi Airport	VN
+VN-0055	TK88	VN
 VNBW	Gautam Buddha International Airport	NP
 VNJP	Janakpur Airport	NP
 VNKT	Tribhuvan International Airport	NP
@@ -4619,8 +4607,9 @@ VOPC	Pondicherry Airport	IN
 VOPN	Sri Sathya Sai Airport	IN
 VORY	Rajahmundry Airport	IN
 VOSM	Salem Airport	IN
+VOSR	Sindhudurg Airport	IN
 VOTR	Tiruchirappalli International Airport	IN
-VOTV	Trivandrum International Airport	IN
+VOTV	Thiruvananthapuram International Airport	IN
 VQGP	Gelephu Airport	BT
 VQPR	Paro International Airport	BT
 VRDA	Maafaru International Airport	MV
@@ -4784,6 +4773,7 @@ WIMG	Tabing Airport	ID
 WIMK	Soewondo Air Force Base	ID
 WIMM	Kualanamu International Airport	ID
 WIMS	Dr. Ferdinand Lumban Tobing Airport	ID
+WIMU	Alas Leuser Airport	ID
 WIOG	Nanga Pinoh Airport	ID
 WIOK	Rahadi Osman Airport	ID
 WION	Ranai-Natuna Airport	ID
@@ -4953,6 +4943,7 @@ YMOG	Mount Magnet Airport	AU
 YMOR	Moree Airport	AU
 YMRB	Moranbah Airport	AU
 YMRY	Moruya Airport	AU
+YMTG	Mount Gambier Airport	AU
 YNAR	Narrandera Airport	AU
 YNBR	Narrabri Airport	AU
 YNGU	Ngukurr Airport	AU
