@@ -3465,6 +3465,364 @@
         ]
     },
     {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "ILS09L.CROUN",
+        "runway": "09L",
+        "fixList": [
+            "CROUN",
+            "MONRO",
+            "JERMY",
+            "CASPR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "ILS09L.JADUB",
+        "runway": "09L",
+        "fixList": [
+            "JADUB",
+            "MONRO",
+            "JERMY",
+            "CASPR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "ILS27R.CROUN",
+        "runway": "27R",
+        "fixList": [
+            "CROUN",
+            "CNNDY",
+            "BEAMR",
+            "CELMU",
+            "WONLI",
+            "ZOBES"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "ILS27R.AVRIG",
+        "runway": "27R",
+        "fixList": [
+            "AVRIG",
+            "BEAMR",
+            "CELMU",
+            "WONLI",
+            "ZOBES"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "RNV09L",
+        "runway": "09L",
+        "fixList": [
+            "JADUB",
+            "JERMY",
+            "CASPR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "RNV09R",
+        "runway": "09R",
+        "fixList": [
+            "VISEN",
+            "LAGER",
+            "KAYJE",
+            "VOKOT"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "RNV27L",
+        "runway": "27L",
+        "fixList": [
+            "STNNN",
+            "JINEL",
+            "STOWT"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "RNV27R",
+        "runway": "27L",
+        "fixList": [
+            "AVRIG",
+            "CELMU",
+            "WONLI"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "VDM09L.CROUN",
+        "runway": "09L",
+        "fixList": [
+            "CROUN",
+            "JISOV",
+            "BANDT",
+            "HUVSU"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "VDM09L.OBGIE",
+        "runway": "09L",
+        "fixList": [
+            "OGBIE",
+            "JISOV",
+            "BANDT",
+            "HUVSU"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "TCN09L.CROUN",
+        "runway": "09L",
+        "fixList": [
+            "CROUN",
+            "JISOV",
+            "BANDT",
+            "HUVSU"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "TCN09L.OBGIE",
+        "runway": "09L",
+        "fixList": [
+            "OGBIE",
+            "JISOV",
+            "BANDT",
+            "HUVSU"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "TCN09R.CROUN",
+        "runway": "09R",
+        "fixList": [
+            "CROUN",
+            "SOJUE",
+            "TIMAY",
+            "OSIKE"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "TCN09R.BRREW",
+        "runway": "09R",
+        "fixList": [
+            "BRREW",
+            "SOJUE",
+            "TIMAY",
+            "OSIKE"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "VDM27L.CROUN",
+        "runway": "27L",
+        "fixList": [
+            "CROUN",
+            "CNNDY",
+            "MOKLI",
+            "BOBAE",
+            "PLSNR",
+            "BRRRR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "VDM27L.OSCOR",
+        "runway": "27L",
+        "fixList": [
+            "OSCOR",
+            "MOKLI",
+            "BOBAE",
+            "PLSNR",
+            "BRRRR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "TCN27L.CROUN",
+        "runway": "27L",
+        "fixList": [
+            "CROUN",
+            "CNNDY",
+            "MOKLI",
+            "BOBAE",
+            "PLSNR",
+            "BRRRR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "TCN27L.OSCOR",
+        "runway": "27L",
+        "fixList": [
+            "OSCOR",
+            "MOKLI",
+            "BOBAE",
+            "PLSNR",
+            "BRRRR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "VDM27R.CROUN",
+        "runway": "27R",
+        "fixList": [
+            "CROUN",
+            "CNNDY",
+            "MOKLI",
+            "BOBAE",
+            "PLSNR",
+            "BRRRR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "VDM27R.OSCOR",
+        "runway": "27R",
+        "fixList": [
+            "OSCOR",
+            "MOKLI",
+            "BOBAE",
+            "PLSNR",
+            "BRRRR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "TCN27R.CROUN",
+        "runway": "27R",
+        "fixList": [
+            "CROUN",
+            "CNNDY",
+            "MOKLI",
+            "BOBAE",
+            "PLSNR",
+            "BRRRR"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKSO",
+        "name": "TCN27R.OSCOR",
+        "runway": "27R",
+        "fixList": [
+            "OSCOR",
+            "MOKLI",
+            "BOBAE",
+            "PLSNR",
+            "BRRRR"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSO",
+        "name": "DRGGN9.09",
+        "runway": [
+            "09L",
+            "09R"
+        ],
+        "fixList": [
+            "N037.06.05.100 E127.08.07.600",
+            "N037.08.59.200 E127.11.59.300",
+            "DRGGN"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSO",
+        "name": "DRGGN9.27",
+        "runway": [
+            "27L",
+            "27R"
+        ],
+        "fixList": [
+            "N037.04.55.400 E126.55.43.100",
+            "SOT",
+            "DRGGN"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSO",
+        "name": "GOJI1.09",
+        "runway": [
+            "09L",
+            "09R"
+        ],
+        "fixList": [
+            "N037.02.12.200 E127.06.20.200",
+            "POSAN"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSO",
+        "name": "GOJI1.27",
+        "runway": [
+            "27L",
+            "27R"
+        ],
+        "fixList": [
+            "N037.01.08.600 E127.07.34.100",
+            "POSAN"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSO",
+        "name": "MUSTG5.09",
+        "runway": [
+            "09L",
+            "09R"
+        ],
+        "fixList": [
+            "N037.05.56.000 E127.06.18.600",
+            "N036.54.14.200 E127.00.46.500",
+            "MUSTG"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSO",
+        "name": "MUSTG5.27",
+        "runway": [
+            "27L",
+            "27R"
+        ],
+        "fixList": [
+            "N037.05.13.200 E126.59.12.900",
+            "N036.55.44.000 E127.00.58.300",
+            "MUSTG"
+        ]
+    },
+    {
         "procedureType": "SID",
         "airport": "RKSI",
         "name": "BOPTA2C",

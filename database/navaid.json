@@ -1808,6 +1808,270 @@
 		"longitude": "E133.50.07.850"
 	},
 	{
+		"name": "DRGGN",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.13.03.300",
+		"longitude": "E127.25.11.200"
+	},
+	{
+		"name": "MUSTG",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.40.44.200",
+		"longitude": "E126.59.00.400"
+	},
+	{
+		"name": "CROUN",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IAF",
+		"latitude": "N036.50.39.200",
+		"longitude": "E127.01.10.900"
+	},
+	{
+		"name": "JADUB",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IAF",
+		"latitude": "N037.03.24.600",
+		"longitude": "E126.37.04.000"
+	},
+	{
+		"name": "MONRO",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IF",
+		"latitude": "N037.03.58.800",
+		"longitude": "E126.43.16.300"
+	},
+	{
+		"name": "JERMY",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "FAF",
+		"latitude": "N037.04.54.600",
+		"longitude": "E126.54.07.900"
+	},
+	{
+		"name": "CASPR",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.25.100",
+		"longitude": "E127.00.10.600"
+	},
+	{
+		"name": "BEAMR",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.07.05.300",
+		"longitude": "E127.20.34.000"
+	},
+	{
+		"name": "CELMU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.06.29.000",
+		"longitude": "E127.13.06.200"
+	},
+	{
+		"name": "WONLI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.06.10.600",
+		"longitude": "E127.09.20.900"
+	},
+	{
+		"name": "ZOBES",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.40.600",
+		"longitude": "E127.03.16.500"
+	},
+	{
+		"name": "AVRIG",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.07.33.100",
+		"longitude": "E127.26.47.500"
+	},
+	{
+		"name": "STNNN",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.07.23.700",
+		"longitude": "E127.26.48.500"
+	},
+	{
+		"name": "JINEL",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.06.22.000",
+		"longitude": "E127.13.06.900"
+	},
+	{
+		"name": "STOWT",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.06.03.200",
+		"longitude": "E127.09.15.600"
+	},
+	{
+		"name": "VISEN",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.03.15.700",
+		"longitude": "E126.37.05.300"
+	},
+	{
+		"name": "LAGER",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.03.52.400",
+		"longitude": "E126.43.20.000"
+	},
+	{
+		"name": "KAYJE",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.04.48.300",
+		"longitude": "E126.54.15.500"
+	},
+	{
+		"name": "VOKOT",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.18.300",
+		"longitude": "E127.00.12.400"
+	},
+	{
+		"name": "CNNDY",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.54.37.800",
+		"longitude": "E127.14.36.500"
+	},
+	{
+		"name": "OGBIE",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.02.12.600",
+		"longitude": "E126.37.17.100"
+	},
+	{
+		"name": "JISOV",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.03.04.900",
+		"longitude": "E126.43.26.100"
+	},
+	{
+		"name": "BANDT",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.04.38.100",
+		"longitude": "E126.54.30.700"
+	},
+	{
+		"name": "HUVSU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.30.500",
+		"longitude": "E127.00.47.500"
+	},
+	{
+		"name": "BRREW",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.00.30.300",
+		"longitude": "E126.37.45.500"
+	},
+	{
+		"name": "SOJUE",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.01.48.100",
+		"longitude": "E126.43.47.300"
+	},
+	{
+		"name": "TIMAY",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.04.07.400",
+		"longitude": "E126.54.39.100"
+	},
+	{
+		"name": "OSIKE",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.18.200",
+		"longitude": "E127.00.12.500"
+	},
+	{
+		"name": "OSCOR",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.11.900",
+		"longitude": "E127.26.53.400"
+	},
+	{
+		"name": "MOKLI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.19.300",
+		"longitude": "E127.20.38.600"
+	},
+	{
+		"name": "BOBAE",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.27.800",
+		"longitude": "E127.13.8.800"
+	},
+	{
+		"name": "PLSNR",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.31.900",
+		"longitude": "E127.09.23.900"
+	},
+	{
+		"name": "BRRRR",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.05.38.200",
+		"longitude": "E127.03.24.000"
+	},
+	{
 		"name": "DT006",
 		"navaidType": "FIX",
 		"extraType": "FIX",
