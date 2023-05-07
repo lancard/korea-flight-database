@@ -1,0 +1,289 @@
+{
+	"RKRS-Border_1": {
+		"airport": "RKRS",
+		"name": "RKRS-Border_1",
+		"description": "공항 외곽선",
+		"colorProfile": "Airport-Border",
+		"lineList": [
+			{
+				"latitude1": "N037.36.17.895",
+				"longitude1": "E126.51.47.898",
+				"latitude2": "N037.36.18.278",
+				"longitude2": "E126.51.51.278"
+			}
+		]
+    },
+    "RKRS-Border_2": {
+		"airport": "RKRS",
+		"name": "RKRS-Border_2",
+		"description": "공항 외곽선",
+		"colorProfile": "Airport-Border",
+		"lineList": [
+			{
+				"latitude1": "N037.36.17.895",
+				"longitude1": "E126.51.47.898",
+				"latitude2": "N037.36.17.278",
+				"longitude2": "E126.51.51.278"
+			}
+		]
+    },
+    "RKRS-Border_3": {
+		"airport": "RKRS",
+		"name": "RKRS-Border_3",
+		"description": "공항 외곽선",
+		"colorProfile": "Airport-Border",
+		"lineList": [
+			{
+				"latitude1": "N037.36.17.895",
+				"longitude1": "E126.51.47.898",
+				"latitude2": "N037.36.16.278",
+				"longitude2": "E126.51.51.278"
+			}
+		]
+    },
+    "RKRS-Border_4": {
+		"airport": "RKRS",
+		"name": "RKRS-Border_4",
+		"description": "공항 외곽선",
+		"colorProfile": "Airport-Border",
+		"lineList": [
+			{
+				"latitude1": "N037.36.17.895",
+				"longitude1": "E126.51.47.898",
+				"latitude2": "N037.36.15.278",
+				"longitude2": "E126.51.51.278"
+			}
+		]
+    },
+    "RKRS-Border_5": {
+		"airport": "RKRS",
+		"name": "RKRS-Border_5",
+		"description": "공항 외곽선",
+		"colorProfile": "Airport-Border",
+		"lineList": [
+			{
+				"latitude1": "N037.36.17.895",
+				"longitude1": "E126.51.47.898",
+				"latitude2": "N037.36.14.278",
+				"longitude2": "E126.51.51.278"
+			}
+		]
+    },
+    "RKRS-Border_6": {
+		"airport": "RKRS",
+		"name": "RKRS-Border_6",
+		"description": "공항 외곽선",
+		"colorProfile": "Airport-Border",
+		"lineList": [
+			{
+				"latitude1": "N037.36.17.895",
+				"longitude1": "E126.51.47.898",
+				"latitude2": "N037.36.13.278",
+				"longitude2": "E126.51.51.278"
+			}
+		]
+    },
+	"RunwayColor__1": {
+		"airport": "RKRS",
+		"name": "RunwayColor__1",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
+		"lineList": [
+			{
+				"latitude1": "N037.36.11.561",
+				"longitude1": "E126.51.58.305",
+				"latitude2": "N037.36.07.859",
+				"longitude2": "E126.52.02.515"
+			}
+		]
+    },
+	"RunwayColor__2": {
+		"airport": "RKRS",
+		"name": "RunwayColor__2",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
+		"lineList": [
+			{
+				"latitude1": "N037.36.11.561",
+				"longitude1": "E126.51.58.305",
+				"latitude2": "N037.36.08.859",
+				"longitude2": "E126.52.02.515"
+			}
+		]
+    },
+	"RunwayColor__3": {
+		"airport": "RKRS",
+		"name": "RunwayColor__3",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
+		"lineList": [
+			{
+				"latitude1": "N037.36.11.561",
+				"longitude1": "E126.51.58.305",
+				"latitude2": "N037.36.09.859",
+				"longitude2": "E126.52.02.515"
+			}
+		]
+    },
+	"RunwayColor__4": {
+		"airport": "RKRS",
+		"name": "RunwayColor__4",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
+		"lineList": [
+			{
+				"latitude1": "N037.36.11.561",
+				"longitude1": "E126.51.58.305",
+				"latitude2": "N037.36.06.859",
+				"longitude2": "E126.52.02.515"
+			}
+		]
+    },
+	"RunwayColor__5": {
+		"airport": "RKRS",
+		"name": "RunwayColor__5",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Runway",
+		"lineList": [
+			{
+				"latitude1": "N037.36.11.561",
+				"longitude1": "E126.51.58.305",
+				"latitude2": "N037.36.05.859",
+				"longitude2": "E126.52.02.515"
+			}
+		]
+    },
+    "RKRS-Helipad_1": {
+		"airport": "RKRS",
+		"name": "RKRS-Helipad_1",
+		"description": "Helipad",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.35.48.479",
+				"longitude1": "E126.52.19.439",
+				"latitude2": "N037.35.48.410",
+				"longitude2": "E126.52.20.955"
+			}
+		]
+	}
+    ,
+    "RKRS-Helipad_2": {
+		"airport": "RKRS",
+		"name": "RKRS-Helipad_2",
+		"description": "Helipad",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.35.48.479",
+				"longitude1": "E126.52.19.439",
+				"latitude2": "N037.35.47.410",
+				"longitude2": "E126.52.20.955"
+			}
+		]
+	}
+    ,
+    "RKRS-Helipad_3": {
+		"airport": "RKRS",
+		"name": "RKRS-Helipad_3",
+		"description": "Helipad",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.35.48.479",
+				"longitude1": "E126.52.19.439",
+				"latitude2": "N037.35.46.410",
+				"longitude2": "E126.52.20.955"
+			}
+		]
+	}
+    ,
+    "RKRS-Helipad_4": {
+		"airport": "RKRS",
+		"name": "RKRS-Helipad_4",
+		"description": "Helipad",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.35.48.479",
+				"longitude1": "E126.52.19.439",
+				"latitude2": "N037.35.45.410",
+				"longitude2": "E126.52.20.955"
+			}
+		]
+	}
+    ,
+    "RKRS-Helipad_5": {
+		"airport": "RKRS",
+		"name": "RKRS-Helipad_5",
+		"description": "Helipad",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.35.48.479",
+				"longitude1": "E126.52.19.439",
+				"latitude2": "N037.35.44.410",
+				"longitude2": "E126.52.20.955"
+			}
+		]
+	}
+    ,
+    "RKRS-Helipad_6": {
+		"airport": "RKRS",
+		"name": "RKRS-Helipad_6",
+		"description": "Helipad",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.35.48.479",
+				"longitude1": "E126.52.19.439",
+				"latitude2": "N037.35.43.410",
+				"longitude2": "E126.52.20.955"
+			}
+		]
+	}
+    ,
+    "RKRS-Helipad_7": {
+		"airport": "RKRS",
+		"name": "RKRS-Helipad_7",
+		"description": "RKRS-Helipad_1",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.35.48.479",
+				"longitude1": "E126.52.19.439",
+				"latitude2": "N037.35.42.410",
+				"longitude2": "E126.52.20.955"
+			}
+		]
+	}
+    ,
+    "RKRS-Helipad_8": {
+		"airport": "RKRS",
+		"name": "RKRS-Helipad_8",
+		"description": "RKRS-Helipad_1",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.35.48.479",
+				"longitude1": "E126.52.19.439",
+				"latitude2": "N037.35.41.410",
+				"longitude2": "E126.52.20.955"
+			}
+		]
+	},
+	"RKRS-Building__1": {
+		"airport": "RKRS",
+		"name": "RKRS-Building__1",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Building",
+		"lineList": [
+			{
+				"latitude1": "N037.36.24.212",
+				"longitude1": "E126.51.41.706",
+				"latitude2": "N037.36.23.432",
+				"longitude2": "E126.51.42.942"
+			}
+		]
+	}
+}
