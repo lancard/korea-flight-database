@@ -177,7 +177,7 @@ module.exports = {
         // COPX ADD LINE
         contents += "\n\n;-COPX START\n\n"
         contents += this.getCopx();
-        contents += "\n\n;-COPX END\n"
+        contents += "\n\n;-COPX END\n\n"
 
 
         fs.writeFileSync('vatsim/sector.ese', contents.split("\n").join("\r\n"));
