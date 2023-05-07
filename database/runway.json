@@ -81,6 +81,15 @@
         "airport": "ZKWS"
     },
     {
+        "runway": "32",
+        "oppositeRunway": "14",
+        "startLatitude": "N037.35.48.376",
+        "startLongitude": "E126.52.25.585",
+        "endLatitude": "N037.36.15.182",
+        "endLongitude": "E126.51.54.357",
+        "airport": "RKRS"
+    },
+    {
         "runway": "14L",
         "oppositeRunway": "32R",
         "startLatitude": "N037.34.14.704",

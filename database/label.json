@@ -1,5 +1,29 @@
 [
     {
+        "airport": "RKRS",
+        "labelType": "Gate-Number",
+        "name": "MIL-RAMP",
+        "latitude": "N037.35.48.306",
+        "longitude": "E126.52.20.608",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKRS",
+        "labelType": "Gate-Number",
+        "name": "KAU-RAMP",
+        "latitude": "N037.36.24.536",
+        "longitude": "E126.51.43.128",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKRS",
+        "labelType": "Gate-Number",
+        "name": "RAMP",
+        "latitude": "N037.36.16.075",
+        "longitude": "E126.51.55.172",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKSO",
         "labelType": "Taxiway",
         "name": "A",

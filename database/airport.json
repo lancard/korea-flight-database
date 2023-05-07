@@ -45377,6 +45377,15 @@
         "magneticVariation": "-8",
         "elevation": null
     },
+    "RKRS": {
+        "name": "RKRS",
+        "country": "South Korea",
+        "description": "Susaek Airport",
+        "latitude": "N037.36.00.865",
+        "longitude": "E126.52.12.820",
+        "magneticVariation": "-8",
+        "elevation": null
+    },
     "RKST": {
         "name": "RKST",
         "country": "South Korea",
