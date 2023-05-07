@@ -6,7 +6,7 @@
         "FIX": "REBIT",
         "ARR": "RKSI",
         "ARRRWY": "34L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -18,7 +18,7 @@
         "FIX": "REBIT",
         "ARR": "RKSI",
         "ARRRWY": "34R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -30,7 +30,7 @@
         "FIX": "REBIT",
         "ARR": "RKSI",
         "ARRRWY": "33L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -42,7 +42,7 @@
         "FIX": "REBIT",
         "ARR": "RKSI",
         "ARRRWY": "33R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -54,7 +54,7 @@
         "FIX": "REBIT",
         "ARR": "RKSI",
         "ARRRWY": "16L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -66,7 +66,7 @@
         "FIX": "REBIT",
         "ARR": "RKSI",
         "ARRRWY": "16R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -78,7 +78,7 @@
         "FIX": "REBIT",
         "ARR": "RKSI",
         "ARRRWY": "15L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -90,7 +90,7 @@
         "FIX": "REBIT",
         "ARR": "RKSI",
         "ARRRWY": "15R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -102,7 +102,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSI",
         "ARRRWY": "34L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -114,7 +114,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSI",
         "ARRRWY": "34R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -126,7 +126,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSI",
         "ARRRWY": "33L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -138,7 +138,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSI",
         "ARRRWY": "33R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -150,7 +150,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSI",
         "ARRRWY": "16L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "19000"
@@ -162,7 +162,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSI",
         "ARRRWY": "16R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "19000"
@@ -174,7 +174,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSI",
         "ARRRWY": "15L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "19000"
@@ -186,7 +186,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSI",
         "ARRRWY": "15R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "19000"
@@ -198,7 +198,7 @@
         "FIX": "GUKDO",
         "ARR": "RKSI",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -210,7 +210,7 @@
         "FIX": "KARBU",
         "ARR": "RKSI",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "18000"
@@ -222,7 +222,7 @@
         "FIX": "REBIT",
         "ARR": "RKSS",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -234,7 +234,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSS",
         "ARRRWY": "32L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -246,7 +246,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSS",
         "ARRRWY": "32R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -258,7 +258,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSS",
         "ARRRWY": "14L",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -270,7 +270,7 @@
         "FIX": "OLMEN",
         "ARR": "RKSS",
         "ARRRWY": "14R",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -282,7 +282,7 @@
         "FIX": "GUKDO",
         "ARR": "RKSS",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -294,7 +294,7 @@
         "FIX": "KARBU",
         "ARR": "RKSS",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKSS_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -306,7 +306,7 @@
         "FIX": "MASTA",
         "ARR": "RKPK",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPK_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -318,7 +318,7 @@
         "FIX": "ANROD",
         "ARR": "RKPK",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPK_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -330,7 +330,7 @@
         "FIX": "APELA",
         "ARR": "RKPK",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPK_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -342,7 +342,7 @@
         "FIX": "INVOK",
         "ARR": "RKPK",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPK_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -354,7 +354,7 @@
         "FIX": "KALEK",
         "ARR": "RKPK",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPK_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -366,7 +366,7 @@
         "FIX": "APARU",
         "ARR": "RKPK",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPK_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -378,7 +378,7 @@
         "FIX": "KARBU",
         "ARR": "RKPK",
         "ARRRWY": "*",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPK_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -390,7 +390,7 @@
         "FIX": "DOTOL",
         "ARR": "RKPC",
         "ARRRWY": "07",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -402,7 +402,7 @@
         "FIX": "DOTOL",
         "ARR": "RKPC",
         "ARRRWY": "25",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "14000"
@@ -414,7 +414,7 @@
         "FIX": "UPGOS",
         "ARR": "RKPC",
         "ARRRWY": "07",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -426,7 +426,7 @@
         "FIX": "UPGOS",
         "ARR": "RKPC",
         "ARRRWY": "25",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "14000"
@@ -438,7 +438,7 @@
         "FIX": "TAMNA",
         "ARR": "RKPC",
         "ARRRWY": "07",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "17000"
@@ -450,7 +450,7 @@
         "FIX": "TAMNA",
         "ARR": "RKPC",
         "ARRRWY": "25",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "16000"
@@ -462,7 +462,7 @@
         "FIX": "TOSAN",
         "ARR": "RKPC",
         "ARRRWY": "07",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "15000"
@@ -474,7 +474,7 @@
         "FIX": "TOSAN",
         "ARR": "RKPC",
         "ARRRWY": "25",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "15000"
@@ -486,7 +486,7 @@
         "FIX": "SOSDO",
         "ARR": "RKPC",
         "ARRRWY": "07",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "15000"
@@ -498,7 +498,7 @@
         "FIX": "SOSDO",
         "ARR": "RKPC",
         "ARRRWY": "25",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "15000"
@@ -510,7 +510,7 @@
         "FIX": "LIMDI",
         "ARR": "RKPC",
         "ARRRWY": "07",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "19000"
@@ -522,7 +522,7 @@
         "FIX": "LIMDI",
         "ARR": "RKPC",
         "ARRRWY": "25",
-        "FROM": "RKRR_FIR",
+        "FROM": "RKRR_TMA",
         "TO": "RKPC_TMA",
         "CLB": "*",
         "DES": "19000"
