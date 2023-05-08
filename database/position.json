@@ -1,8 +1,145 @@
 {
+    
+    "RKTU_TWR": {
+        "name": "POHANG TOWER",
+        "frequency": "118.700",
+        "initialID": "TUT",
+        "middleFix": "-",
+        "prefix": "RKTU",
+        "position": "TWR"
+    },
+    "RKTN_TWR": {
+        "name": "DAEGU TOWER",
+        "frequency": "126.200",
+        "initialID": "TNT",
+        "middleFix": "-",
+        "prefix": "RKTN",
+        "position": "TWR"
+    },
+    "RKTL_TWR": {
+        "name": "POHANG TOWER",
+        "frequency": "118.550",
+        "initialID": "TLT",
+        "middleFix": "-",
+        "prefix": "RKTL",
+        "position": "TWR"
+    },
+    "RKTL_A_APP": {
+        "name": "ULJIN ARRIVAL",
+        "frequency": "120.875",
+        "initialID": "TLR",
+        "middleFix": "A",
+        "prefix": "RKTL",
+        "position": "APP"
+    },
+    "RKTH_TWR": {
+        "name": "POHANG TOWER",
+        "frequency": "126.200",
+        "initialID": "THT",
+        "middleFix": "-",
+        "prefix": "RKTH",
+        "position": "TWR"
+    },
+    "RKSM_TWR": {
+        "name": "SEOUL TOWER",
+        "frequency": "126.200",
+        "initialID": "SMT",
+        "middleFix": "-",
+        "prefix": "RKSM",
+        "position": "TWR"
+    },
+    "RKPU_TWR": {
+        "name": "ULSAN TOWER",
+        "frequency": "118.750",
+        "initialID": "PUT",
+        "middleFix": "-",
+        "prefix": "RKPU",
+        "position": "TWR"
+    },
+    "RKPU_A_APP": {
+        "name": "ULSAN ARRIVAL",
+        "frequency": "119.250",
+        "initialID": "PUR",
+        "middleFix": "A",
+        "prefix": "RKPU",
+        "position": "APP"
+    },
+    "RKPS_TWR": {
+        "name": "SACHEON TOWER",
+        "frequency": "126.200",
+        "initialID": "PST",
+        "middleFix": "-",
+        "prefix": "RKPS",
+        "position": "TWR"
+    },
+    "RKPD_TWR": {
+        "name": "JEONGSEOK TOWER",
+        "frequency": "124.350",
+        "initialID": "PDT",
+        "middleFix": "-",
+        "prefix": "RKPD",
+        "position": "TWR"
+    },
+    "RKNY_TWR": {
+        "name": "YANGYANG TOWER",
+        "frequency": "118.850",
+        "initialID": "NYT",
+        "middleFix": "-",
+        "prefix": "RKNY",
+        "position": "TWR"
+    },
+    "RKNW_TWR": {
+        "name": "WONJU TOWER",
+        "frequency": "126.200",
+        "initialID": "NWT",
+        "middleFix": "-",
+        "prefix": "RKNW",
+        "position": "TWR"
+    },
+    "RKJY_TWR": {
+        "name": "YEOSU TOWER",
+        "frequency": "122.500",
+        "initialID": "JYT",
+        "middleFix": "-",
+        "prefix": "RKJY",
+        "position": "TWR"
+    },
+    "RKJY_A_APP": {
+        "name": "YEOSU ARRIVAL",
+        "frequency": "119.725",
+        "initialID": "JYR",
+        "middleFix": "A",
+        "prefix": "RKJY",
+        "position": "APP"
+    },
+    "RKJK_TWR": {
+        "name": "GUNSAN TOWER",
+        "frequency": "126.500",
+        "initialID": "JKT",
+        "middleFix": "-",
+        "prefix": "RKJK",
+        "position": "TWR"
+    },
+    "RKJJ_TWR": {
+        "name": "GWANGJU TOWER",
+        "frequency": "118.250",
+        "initialID": "JJT",
+        "middleFix": "-",
+        "prefix": "RKJJ",
+        "position": "TWR"
+    },
+    "RKJB_TWR": {
+        "name": "MUAN TOWER",
+        "frequency": "118.250",
+        "initialID": "JBT",
+        "middleFix": "-",
+        "prefix": "RKJB",
+        "position": "TWR"
+    },
     "RKSI_DEL": {
         "name": "INCHEON DELIVERY",
         "frequency": "121.600",
-        "initialID": "ID",
+        "initialID": "SID",
         "middleFix": "-",
         "prefix": "RKSI",
         "position": "DEL"
@@ -10,7 +147,7 @@
     "RKSI_A_GND": {
         "name": "INCHEON APRON",
         "frequency": "121.650",
-        "initialID": "IA",
+        "initialID": "SI1",
         "middleFix": "A",
         "prefix": "RKSI",
         "position": "GND"
@@ -18,7 +155,7 @@
     "RKSI_1_GND": {
         "name": "INCHEON APRON",
         "frequency": "121.650",
-        "initialID": "I1",
+        "initialID": "SI2",
         "middleFix": "1",
         "prefix": "RKSI",
         "position": "GND"
@@ -26,7 +163,7 @@
     "RKSI_2_GND": {
         "name": "INCHEON APRON",
         "frequency": "122.175",
-        "initialID": "I2",
+        "initialID": "SI3",
         "middleFix": "2",
         "prefix": "RKSI",
         "position": "GND"
@@ -34,7 +171,7 @@
     "RKSI_GND": {
         "name": "INCHEON GROUND",
         "frequency": "121.750",
-        "initialID": "IG",
+        "initialID": "SIG",
         "middleFix": "-",
         "prefix": "RKSI",
         "position": "GND"
@@ -42,7 +179,7 @@
     "RKSI_TWR": {
         "name": "INCHEON TOWER",
         "frequency": "118.200",
-        "initialID": "IT",
+        "initialID": "SIT",
         "middleFix": "-",
         "prefix": "RKSI",
         "position": "TWR"
@@ -50,7 +187,7 @@
     "RKSI_E_TWR": {
         "name": "INCHEON TOWER",
         "frequency": "118.200",
-        "initialID": "IE",
+        "initialID": "SIE",
         "middleFix": "E",
         "prefix": "RKSI",
         "position": "TWR"
@@ -58,7 +195,7 @@
     "RKSI_W_TWR": {
         "name": "INCHEON TOWER",
         "frequency": "118.800",
-        "initialID": "IW",
+        "initialID": "SIW",
         "middleFix": "W",
         "prefix": "RKSI",
         "position": "TWR"
@@ -66,7 +203,7 @@
     "RKSS_DEL": {
         "name": "GIMPO DELIVERY",
         "frequency": "121.970",
-        "initialID": "SD",
+        "initialID": "SSD",
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "DEL"
@@ -74,7 +211,7 @@
     "RKSS_A_GND": {
         "name": "GIMPO APRON",
         "frequency": "130.870",
-        "initialID": "SA",
+        "initialID": "SSA",
         "middleFix": "A",
         "prefix": "RKSS",
         "position": "GND"
@@ -82,7 +219,7 @@
     "RKSS_GND": {
         "name": "GIMPO GROUND",
         "frequency": "121.900",
-        "initialID": "SG",
+        "initialID": "SSG",
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "GND"
@@ -90,7 +227,7 @@
     "RKSS_TWR": {
         "name": "GIMPO TOWER",
         "frequency": "118.100",
-        "initialID": "ST",
+        "initialID": "SST",
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "TWR"
@@ -98,7 +235,7 @@
     "RKSS_DEP": {
         "name": "SEOUL DEPARTURE",
         "frequency": "125.150",
-        "initialID": "SD",
+        "initialID": "SMD",
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "DEP"
@@ -106,7 +243,7 @@
     "RKSS_APP": {
         "name": "SEOUL APPROACH",
         "frequency": "119.750",
-        "initialID": "SR",
+        "initialID": "SSA",
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "APP"
@@ -114,7 +251,7 @@
     "RKSS_A_APP": {
         "name": "GIMPO ARRIVAL",
         "frequency": "119.100",
-        "initialID": "GA",
+        "initialID": "SSR",
         "middleFix": "A",
         "prefix": "RKSS",
         "position": "APP"
@@ -122,7 +259,7 @@
     "RKRR_A_CTR": {
         "name": "INCHEON CONTROL",
         "frequency": "128.325",
-        "initialID": "KA",
+        "initialID": "KRA",
         "middleFix": "A",
         "prefix": "RKRR",
         "position": "CTR"
@@ -138,7 +275,7 @@
     "RKRR_N_CTR": {
         "name": "INCHEON CONTROL",
         "frequency": "132.150",
-        "initialID": "KN",
+        "initialID": "KRN",
         "middleFix": "N",
         "prefix": "RKRR",
         "position": "CTR"
@@ -146,7 +283,7 @@
     "RKRR_S_CTR": {
         "name": "INCHEON CONTROL",
         "frequency": "124.520",
-        "initialID": "KS",
+        "initialID": "KRS",
         "middleFix": "S",
         "prefix": "RKRR",
         "position": "CTR"
@@ -154,7 +291,7 @@
     "RKDA_C_CTR": {
         "name": "DAEGU CONTROL",
         "frequency": "125.370",
-        "initialID": "KE",
+        "initialID": "DGE",
         "middleFix": "C",
         "prefix": "RKDA",
         "position": "CTR"
@@ -162,7 +299,7 @@
     "RKDA_W_CTR": {
         "name": "DAEGU CONTROL",
         "frequency": "132.800",
-        "initialID": "KW",
+        "initialID": "DGW",
         "middleFix": "W",
         "prefix": "RKDA",
         "position": "CTR"
@@ -170,7 +307,7 @@
     "RKDA_E_CTR": {
         "name": "DAEGU CONTROL",
         "frequency": "134.170",
-        "initialID": "KE",
+        "initialID": "DGE",
         "middleFix": "E",
         "prefix": "RKDA",
         "position": "CTR"
@@ -186,7 +323,7 @@
     "RKJJ_APP": {
         "name": "GWANGJU APPROACH",
         "frequency": "130.000",
-        "initialID": "JD",
+        "initialID": "JJA",
         "middleFix": "-",
         "prefix": "RKJJ",
         "position": "APP"
@@ -194,7 +331,7 @@
     "RKJK_APP": {
         "name": "GUNSAN APPROACH",
         "frequency": "124.100",
-        "initialID": "JG",
+        "initialID": "JKA",
         "middleFix": "-",
         "prefix": "RKJK",
         "position": "APP"
@@ -202,7 +339,7 @@
     "RKNN_APP": {
         "name": "GANGNEUNG APPROACH",
         "frequency": "124.600",
-        "initialID": "NN",
+        "initialID": "NNA",
         "middleFix": "-",
         "prefix": "RKNN",
         "position": "APP"
@@ -210,7 +347,7 @@
     "RKNW_APP": {
         "name": "WONJU APPROACH",
         "frequency": "130.200",
-        "initialID": "NP",
+        "initialID": "NWA",
         "middleFix": "-",
         "prefix": "RKNW",
         "position": "APP"
@@ -218,7 +355,7 @@
     "RKPC_APP": {
         "name": "JEJU APPROACH",
         "frequency": "121.200",
-        "initialID": "PC",
+        "initialID": "PCA",
         "middleFix": "-",
         "prefix": "RKPC",
         "position": "APP"
@@ -226,7 +363,7 @@
     "RKPK_APP": {
         "name": "GIMHAE APPROACH",
         "frequency": "125.500",
-        "initialID": "PH",
+        "initialID": "PKA",
         "middleFix": "-",
         "prefix": "RKPK",
         "position": "APP"
@@ -234,7 +371,7 @@
     "RKPS_APP": {
         "name": "SACHEON APPROACH",
         "frequency": "135.400",
-        "initialID": "PL",
+        "initialID": "PSA",
         "middleFix": "-",
         "prefix": "RKPS",
         "position": "APP"
@@ -242,7 +379,7 @@
     "RKSO_APP": {
         "name": "OSAN APPROACH",
         "frequency": "127.900",
-        "initialID": "SN",
+        "initialID": "SOA",
         "middleFix": "-",
         "prefix": "RKSO",
         "position": "APP"
@@ -250,15 +387,23 @@
     "RKTH_APP": {
         "name": "POHANG APPROACH",
         "frequency": "124.250",
-        "initialID": "TH",
+        "initialID": "THA",
         "middleFix": "-",
+        "prefix": "RKTH",
+        "position": "APP"
+    },
+    "RKTH_A_APP": {
+        "name": "POHANG ARRIVAL",
+        "frequency": "134.100",
+        "initialID": "THR",
+        "middleFix": "A",
         "prefix": "RKTH",
         "position": "APP"
     },
     "RKTI_APP": {
         "name": "JUNGWON APPROACH",
         "frequency": "134.400",
-        "initialID": "TK",
+        "initialID": "TIA",
         "middleFix": "-",
         "prefix": "RKTI",
         "position": "APP"
@@ -266,7 +411,7 @@
     "RKTN_APP": {
         "name": "DAEGU APPROACH",
         "frequency": "135.900",
-        "initialID": "TM",
+        "initialID": "TNA",
         "middleFix": "-",
         "prefix": "RKTN",
         "position": "APP"
@@ -274,7 +419,7 @@
     "RKTP_APP": {
         "name": "HAEMI APPROACH",
         "frequency": "124.600",
-        "initialID": "TP",
+        "initialID": "TPA",
         "middleFix": "-",
         "prefix": "RKTP",
         "position": "APP"
@@ -282,7 +427,7 @@
     "RKTY_APP": {
         "name": "YECHEON APPROACH",
         "frequency": "134.500",
-        "initialID": "TU",
+        "initialID": "TYA",
         "middleFix": "-",
         "prefix": "RKTY",
         "position": "APP"
@@ -290,7 +435,7 @@
     "ZKKP_CTR": {
         "name": "PYONGYANG CONTROL",
         "frequency": "120.900",
-        "initialID": "KP",
+        "initialID": "PY",
         "middleFix": "-",
         "prefix": "ZKKP",
         "position": "CTR"
@@ -298,7 +443,7 @@
     "ZKPY_APP": {
         "name": "PYONGYANG APPROACH",
         "frequency": "133.900",
-        "initialID": "PA",
+        "initialID": "PYA",
         "middleFix": "-",
         "prefix": "ZKPY",
         "position": "APP"
@@ -306,7 +451,7 @@
     "ZKPY_DEP": {
         "name": "PYONGYANG DEPARTURE",
         "frequency": "130.000",
-        "initialID": "PD",
+        "initialID": "PYD",
         "middleFix": "-",
         "prefix": "ZKPY",
         "position": "DEP"
@@ -314,7 +459,7 @@
     "ZKPY_TWR": {
         "name": "PYONGYANG TOWER",
         "frequency": "118.300",
-        "initialID": "PT",
+        "initialID": "PYT",
         "middleFix": "-",
         "prefix": "ZKPY",
         "position": "APP"
@@ -322,7 +467,7 @@
     "ZKPY_GND": {
         "name": "PYONGYANG GROUND",
         "frequency": "121.800",
-        "initialID": "PG",
+        "initialID": "PYG",
         "middleFix": "-",
         "prefix": "ZKPY",
         "position": "GND"
@@ -330,7 +475,7 @@
     "ZKPY_DEL": {
         "name": "PYONGYANG DELIVERY",
         "frequency": "121.900",
-        "initialID": "PE",
+        "initialID": "PYD",
         "middleFix": "-",
         "prefix": "ZKPY",
         "position": "DEL"
