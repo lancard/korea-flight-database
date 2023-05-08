@@ -152,11 +152,11 @@ module.exports = {
 
             ret.push("\n");
 
-            additionalRet.push(
-                `SECTOR:${app}_TMA:0:18500\n` +
-                `OWNER:${getInitialID(app)}:KRA\n` +
-                `BORDER:${app}_TMA_BORDER\n`
-            )
+            // additionalRet.push(
+            //     `SECTOR:${app}_TMA:0:18500\n` +
+            //     `OWNER:${getInitialID(app)}:KRA\n` +
+            //     `BORDER:${app}_TMA_BORDER\n`
+            // )
         }
 
         return ret.join("\n") + additionalRet.join("\n");
@@ -262,112 +262,173 @@ module.exports = {
         contents += "CIRCLE_SECTORLINE:RKTN_TWR:RKTN:5\n";
         contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:5\n";
 
+        contents += "SECTOR:RKJB_TWR:0:3000\n"
+        contents += "OWNER:JBT\n"
+        contents += "BORDER:RKJB_TWR\n\n"
 
+        contents += "SECTOR:RKJJ_TWR:0:4000\n"
+        contents += "OWNER:JJT\n"
+        contents += "BORDER:RKJJ_TWR\n\n"
 
+        contents += "SECTOR:RKJK_TWR:0:5000\n"
+        contents += "OWNER:JKT\n"
+        contents += "BORDER:RKJK_TWR\n\n"
 
-        contents += ";-MINOR TOWER SECTOR\n";
-        contents += "SECTOR:RKJB_TWR:0:3000\n";
-        contents += "OWNER:JBT\n";
-        contents += "BORDER:RKJB_TWR\n";
+        contents += "SECTOR:RKJY_TWR:0:3000\n"
+        contents += "OWNER:JYT\n"
+        contents += "BORDER:RKJY_TWR\n\n"
 
-        contents += "SECTOR:RKJJ_TWR:0:4000\n";
-        contents += "OWNER:JJT\n";
-        contents += "BORDER:RKJJ_TWR\n";
+        contents += "SECTOR:RKNW_TWR:0:5000\n"
+        contents += "OWNER:NWT\n"
+        contents += "BORDER:RKNW_TWR\n\n"
 
-        contents += "SECTOR:RKJK_TWR:0:5000\n";
-        contents += "OWNER:JKT\n";
-        contents += "BORDER:RKJK_TWR\n";
+        contents += "SECTOR:RKNY_TWR:0:3000\n"
+        contents += "OWNER:NYT\n"
+        contents += "BORDER:RKNY_TWR\n\n"
 
-        contents += "SECTOR:RKJY_TWR:0:3000\n";
-        contents += "OWNER:JYT\n";
-        contents += "BORDER:RKJY_TWR\n";
+        contents += "SECTOR:RKPD_TWR:0:3000\n"
+        contents += "OWNER:PDT\n"
+        contents += "BORDER:RKPD_TWR\n\n"
 
-        contents += "SECTOR:RKNW_TWR:0:5000\n";
-        contents += "OWNER:NWT\n";
-        contents += "BORDER:RKNW_TWR\n";
+        contents += "SECTOR:RKPS_TWR:0:4000\n"
+        contents += "OWNER:PST\n"
+        contents += "BORDER:RKPS_TWR\n\n"
 
-        contents += "SECTOR:RKNY_TWR:0:3000\n";
-        contents += "OWNER:NYT\n";
-        contents += "BORDER:RKNY_TWR\n";
+        contents += "SECTOR:RKPU_TWR:0:3000\n"
+        contents += "OWNER:PUT\n"
+        contents += "BORDER:RKPU_TWR\n\n"
 
-        contents += "SECTOR:RKPD_TWR:0:3000\n";
-        contents += "OWNER:PDT\n";
-        contents += "BORDER:RKPD_TWR\n";
+        contents += "SECTOR:RKSM_TWR:0:4000\n"
+        contents += "OWNER:SMT\n"
+        contents += "BORDER:RKSM_TWR\n\n"
 
-        contents += "SECTOR:RKPS_TWR:0:4000\n";
-        contents += "OWNER:PST\n";
-        contents += "BORDER:RKPS_TWR\n";
+        contents += "SECTOR:RKTH_TWR:0:3000\n"
+        contents += "OWNER:THT\n"
+        contents += "BORDER:RKTH_TWR\n\n"
 
-        contents += "SECTOR:RKPU_TWR:0:3000\n";
-        contents += "OWNER:PUT\n";
-        contents += "BORDER:RKPU_TWR\n";
+        contents += "SECTOR:RKTL_TWR:0:2500\n"
+        contents += "OWNER:TLT\n"
+        contents += "BORDER:RKTL_TWR\n\n"
 
-        contents += "SECTOR:RKSM_TWR:0:4000\n";
-        contents += "OWNER:SMT\n";
-        contents += "BORDER:RKSM_TWR\n";
+        contents += "SECTOR:RKTN_TWR:0:4000\n"
+        contents += "OWNER:TNT\n"
+        contents += "BORDER:RKTN_TWR\n\n"
 
-        contents += "SECTOR:RKTH_TWR:0:3000\n";
-        contents += "OWNER:THT\n";
-        contents += "BORDER:RKTH_TWR\n";
+        contents += "SECTOR:RKTU_TWR:0:5000\n"
+        contents += "OWNER:TUT\n"
+        contents += "BORDER:RKTU_TWR\n\n"
 
-        contents += "SECTOR:RKTL_TWR:0:2500\n";
-        contents += "OWNER:TLT\n";
-        contents += "BORDER:RKTL_TWR\n";
+        contents += "SECTOR:RKSI_TWR:0:3000\n"
+        contents += "OWNER:SIT:SSD:SSA:KRA\n"
+        contents += "BORDER:RKSI_TWR\n\n"
 
-        contents += "SECTOR:RKTN_TWR:0:4000\n";
-        contents += "OWNER:TNT\n";
-        contents += "BORDER:RKTN_TWR\n";
+        contents += "SECTOR:RKSS_TWR:0:3000\n"
+        contents += "OWNER:SST:SSD:SSA:KRA\n"
+        contents += "BORDER:RKSS_TWR\n\n"
 
-        contents += "SECTOR:RKTU_TWR:0:5000\n";
-        contents += "OWNER:TUT\n";
-        contents += "BORDER:RKTU_TWR\n";
+        contents += "SECTOR:RKPC_TWR:0:3000\n"
+        contents += "OWNER:PCT:PCA:KRA\n"
+        contents += "BORDER:RKPC_TWR\n\n"
 
+        contents += "SECTOR:RKPK_TWR:0:3000\n"
+        contents += "OWNER:PKT:PKA:KRA\n"
+        contents += "BORDER:RKPK_TWR\n\n"
 
-        contents += "SECTOR:RKSI_TWR:0:3000\n";
-        contents += "OWNER:SIT:SSD:SSA:KRA\n";
-        contents += "BORDER:RKSI_TWR\n";
-
-        contents += "SECTOR:RKSS_TWR:0:3000\n";
-        contents += "OWNER:SST:SSD:SSA:KRA\n";
-        contents += "BORDER:RKSS_TWR\n";
-
-        contents += "SECTOR:RKPC_TWR:0:3000\n";
-        contents += "OWNER:PCT:PCA:KRA\n";
-        contents += "BORDER:RKPC_TWR\n";
-
-        contents += "SECTOR:RKPK_TWR:0:3000\n";
-        contents += "OWNER:PKT:PKA:KRA\n";
-        contents += "BORDER:RKPK_TWR\n";
-
-
-        contents += ";-MINOR APPROACH SECTOR\n";
         contents += "SECTOR:RKTH_TMA:0:10500\n";
         contents += "OWNER:THR:THA:DGE:DG:KRA\n";
-        contents += "BORDER:RKTH_TMA_T32_BORDER\n";
+        contents += "BORDER:RKTH_TMA_T32_BORDER\n\n";
 
         contents += "SECTOR:RKTH_TMA:0:10500\n";
         contents += "OWNER:PUR:THA:DGE:DG:KRA\n";
-        contents += "BORDER:RKTH_TMA_T33_BORDER\n";
+        contents += "BORDER:RKTH_TMA_T33_BORDER\n\n";
 
         contents += "SECTOR:RKTH_TMA:0:7500\n";
         contents += "OWNER:THA:DGE:DG:KRA\n";
-        contents += "BORDER:RKTH_TMA_T34_BORDER\n";
+        contents += "BORDER:RKTH_TMA_T34_BORDER\n\n";
 
         contents += "SECTOR:RKTH_TMA:0:9500\n";
         contents += "OWNER:TLR:THA:DGE:DG:KRA\n";
-        contents += "BORDER:RKTH_TMA_T42_BORDER\n";
+        contents += "BORDER:RKTH_TMA_T42_BORDER\n\n";
 
         contents += "SECTOR:RKPS_TMA:0:13500\n";
         contents += "OWNER:PSA\n";
-        contents += "BORDER:RKPS_TMA_T30_BORDER\n";
+        contents += "BORDER:RKPS_TMA_T30_BORDER\n\n";
 
         contents += "SECTOR:RKPS_TMA:0:19500\n";
         contents += "OWNER:JYR\n";
-        contents += "BORDER:RKPS_TMA_T31_BORDER\n";
+        contents += "BORDER:RKPS_TMA_T31_BORDER\n\n";
 
         contents += "SECTOR:RKTY_TMA:0:18500\n";
         contents += "OWNER:TYA\n";
-        contents += "BORDER:RKTY_TMA_T36_BORDER\n";
+        contents += "BORDER:RKTY_TMA_T36_BORDER\n\n";
+
+        contents += "SECTOR:RKTH_TMA:0:10500\n"
+        contents += "OWNER:THR:THA:DGE:DG:KRA\n"
+        contents += "BORDER:RKTH_TMA_T32_BORDER\n\n"
+
+        contents += "SECTOR:RKTH_TMA:0:10500\n"
+        contents += "OWNER:PUR:THA:DGE:DG:KRA\n"
+        contents += "BORDER:RKTH_TMA_T33_BORDER\n\n"
+
+        contents += "SECTOR:RKTH_TMA:0:7500\n"
+        contents += "OWNER:THA:DGE:DG:KRA\n"
+        contents += "BORDER:RKTH_TMA_T34_BORDER\n\n"
+
+        contents += "SECTOR:RKTH_TMA:0:9500\n"
+        contents += "OWNER:TLR:THA:DGE:DG:KRA\n"
+        contents += "BORDER:RKTH_TMA_T42_BORDER\n\n"
+
+        contents += "SECTOR:RKPS_TMA:0:13500\n"
+        contents += "OWNER:PSA\n"
+        contents += "BORDER:RKPS_TMA_T30_BORDER\n\n"
+
+        contents += "SECTOR:RKPS_TMA:0:19500\n"
+        contents += "OWNER:JYR\n"
+        contents += "BORDER:RKPS_TMA_T31_BORDER\n\n"
+
+        contents += "SECTOR:RKTY_TMA:0:18500\n"
+        contents += "OWNER:TYA\n"
+        contents += "BORDER:RKTY_TMA_T36_BORDER\n\n"
+
+        contents += "SECTOR:RKPC_TMA:0:18500\n"
+        contents += "OWNER:PCA:KRA\n"
+        contents += "BORDER:RKPC_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKPK_TMA:0:18500\n"
+        contents += "OWNER:PKA:KRA\n"
+        contents += "BORDER:RKPK_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKSS_TMA:0:18500\n"
+        contents += "OWNER:SSA:KRA\n"
+        contents += "BORDER:RKSS_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKRR_N_TMA:0:60000\n"
+        contents += "OWNER:KRN:KRA\n"
+        contents += "BORDER:RKRR_N_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKRR_S_TMA:0:60000\n"
+        contents += "OWNER:KRS:KRA\n"
+        contents += "BORDER:RKRR_S_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKDA_TMA:0:60000\n"
+        contents += "OWNER:DG:KRA\n"
+        contents += "BORDER:RKDA_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKDA_W_TMA:0:60000\n"
+        contents += "OWNER:DGW:KRA\n"
+        contents += "BORDER:RKDA_W_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKDA_E_TMA:0:60000\n"
+        contents += "OWNER:DGE:KRA\n"
+        contents += "BORDER:RKDA_E_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKDA_C_TMA:0:60000\n"
+        contents += "OWNER:DGE:KRA\n"
+        contents += "BORDER:RKDA_C_TMA_BORDER\n\n"
+
+        contents += "SECTOR:RKRR_TMA:0:60000\n"
+        contents += "OWNER:KR:KRA\n"
+        contents += "BORDER:RKRR_TMA_BORDER\n\n"
 
         ////Sector manual input END
 
