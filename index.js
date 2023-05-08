@@ -66,10 +66,10 @@ function initialize() {
         if (e.type == 'closed')
             return;
 
-        if (e.type == "small_airport" || e.type == 'seaplane_base' || e.type == 'balloonport' || e.type == 'heliport')
+        if (e.gps_code == "" || e.type == 'seaplane_base' || e.type == 'balloonport' || e.type == 'heliport')
             return;
 
-        global.airportList[e.ident] = {
+        global.airportList[e.gps_code] = {
             "continent": e.continent,
             "municipality": e.municipality,
             "description": e.name,
@@ -78,7 +78,7 @@ function initialize() {
             "longitude": util.convertDecimalToMinutes(e.longitude_deg, "EW"),
             "country": e.iso_country,
             "iataCode": e.iata_code,
-            "icaoCode": e.ident,
+            "icaoCode": e.gps_code,
             "elevationInFeet": +e.elevation_ft
         };
     });
