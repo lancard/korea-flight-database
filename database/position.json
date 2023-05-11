@@ -1,5 +1,12 @@
 {
-    
+    "RKTU_A_APP": {
+        "name": "CHEONGJU GCA",
+        "frequency": "134.400",
+        "initialID": "TUR",
+        "middleFix": "A",
+        "prefix": "RKTU",
+        "position": "APP"
+    },
     "RKTU_TWR": {
         "name": "POHANG TOWER",
         "frequency": "118.700",
