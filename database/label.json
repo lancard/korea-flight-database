@@ -3011,6 +3011,62 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
+        "airport": "RKJB",
+        "labelType": "Gate-Number",
+        "name": "4",
+        "latitude": "N034.59.33.830",
+        "longitude": "E126.23.13.000",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKJB",
+        "labelType": "Gate-Number",
+        "name": "5",
+        "latitude": "N034.59.31.470",
+        "longitude": "E126.23.13.030",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKJB",
+        "labelType": "Gate-Number",
+        "name": "5L",
+        "latitude": "N034.59.31.960",
+        "longitude": "E126.23.11.830",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKJB",
+        "labelType": "Gate-Number",
+        "name": "5R",
+        "latitude": "N034.59.30.880",
+        "longitude": "E126.23.11.840",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKJB",
+        "labelType": "Gate-Number",
+        "name": "6",
+        "latitude": "N034.59.29.120",
+        "longitude": "E126.23.13.050",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKJB",
+        "labelType": "Gate-Number",
+        "name": "6L",
+        "latitude": "N034.59.29.640",
+        "longitude": "E126.23.11.860",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKJB",
+        "labelType": "Gate-Number",
+        "name": "6R",
+        "latitude": "N034.59.28.570",
+        "longitude": "E126.23.11.870",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKPU",
         "labelType": "Gate-Number",
         "name": "3",
@@ -4066,14 +4122,6 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
-        "airport": "RKJB",
-        "labelType": "Gate-Number",
-        "name": "4",
-        "latitude": "N034.59.33.679",
-        "longitude": "E126.23.12.854",
-        "colorProfile": "Airport-GateNumber"
-    },
-    {
         "airport": "RKPU",
         "labelType": "Gate-Number",
         "name": "4",
@@ -4407,14 +4455,6 @@
         "name": "5",
         "latitude": "N034.50.32.720",
         "longitude": "E127.36.48.270",
-        "colorProfile": "Airport-GateNumber"
-    },
-    {
-        "airport": "RKJB",
-        "labelType": "Gate-Number",
-        "name": "5",
-        "latitude": "N034.59.31.464",
-        "longitude": "E126.23.12.911",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -5327,14 +5367,6 @@
         "name": "6",
         "latitude": "N036.43.18.760",
         "longitude": "E127.29.50.532",
-        "colorProfile": "Airport-GateNumber"
-    },
-    {
-        "airport": "RKJB",
-        "labelType": "Gate-Number",
-        "name": "6",
-        "latitude": "N034.59.29.059",
-        "longitude": "E126.23.13.027",
         "colorProfile": "Airport-GateNumber"
     },
     {
