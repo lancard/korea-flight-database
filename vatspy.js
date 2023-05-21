@@ -1,4 +1,5 @@
 const fs = require('fs');
+const turf = require('@turf/turf');
 
 module.exports = {
     initialize() {
@@ -13,19 +14,11 @@ module.exports = {
         var ret = [];
 
         geojsonFeatures.forEach(e => {
-            var label_lon = 0;
-            var label_lat = 0;
+            var polygon = turf.polygon(e.geometry.coordinates[0]);
+            var center = turf.centerOfMass(polygon);
 
-            e.geometry.coordinates[0][0].forEach(f => {
-                label_lon += f[0];
-                label_lat += f[1];
-            });
-
-            label_lon /= e.geometry.coordinates[0][0].length;
-            label_lat /= e.geometry.coordinates[0][0].length;
-
-            e.properties.label_lon = label_lon.toFixed(6);
-            e.properties.label_lat = label_lat.toFixed(6);
+            e.properties.label_lon = center.geometry.coordinates[0].toFixed(6);
+            e.properties.label_lat = center.geometry.coordinates[1].toFixed(6);
 
             ret.push(e.properties.id + ": " + JSON.stringify(e, null, ' ').split("\n").join("").split("  ").join(" ").split("  ").join(" ").split("  ").join(" "));
         });
