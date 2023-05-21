@@ -92,19 +92,19 @@ module.exports = {
         // SID only
         procedureList.filter(e => e.procedureType == "SID").forEach(e => {
             e.runway.forEach(r => {
-                ret.push(["SID", e.airport, r, e.name, getRawCoordRemovedList(e.fixList).join(" ")].join(":"));
+                ret.push(["SID", e.airport, r, e.name.split(".").join("t"), getRawCoordRemovedList(e.fixList).join(" ")].join(":"));
             });
         });
 
         // APPROACH only
         procedureList.filter(e => e.procedureType == "APPROACH").forEach(e => {
-            ret.push(["STAR", e.airport, e.runway, e.name, getRawCoordRemovedList(e.fixList).join(" ")].join(":"));
+            ret.push(["STAR", e.airport, e.runway, e.name.split(".").join("t"), getRawCoordRemovedList(e.fixList).join(" ")].join(":"));
         });
 
         // STAR + APPROACH
         procedureList.filter(t => t.procedureType == "APPROACH").forEach(t => {
             procedureList.filter(e => e.procedureType == "STAR" && e.fixList.last() == t.fixList[0] && t.airport == e.airport).forEach(e => {
-                ret.push(["STAR", t.airport, t.runway, `${e.name}.${t.name}`, getRawCoordRemovedList(e.fixList.concat(t.fixList)).join(" ")].join(":"));
+                ret.push(["STAR", t.airport, t.runway, `${e.name}a${t.name.split(".").join("t")}`, getRawCoordRemovedList(e.fixList.concat(t.fixList)).join(" ")].join(":"));
             });
         });
 
