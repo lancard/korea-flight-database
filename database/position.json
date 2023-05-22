@@ -1,5 +1,164 @@
 {
-    
+    "RKSI_DEL": {
+        "name": "INCHEON DELIVERY",
+        "frequency": "121.600",
+        "initialID": "SID",
+        "middleFix": "-",
+        "prefix": "RKSI",
+        "position": "DEL",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSI_A_GND": {
+        "name": "INCHEON APRON",
+        "frequency": "121.650",
+        "initialID": "SI1",
+        "middleFix": "A",
+        "prefix": "RKSI",
+        "position": "GND",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSI_1_GND": {
+        "name": "INCHEON APRON",
+        "frequency": "121.650",
+        "initialID": "SI2",
+        "middleFix": "1",
+        "prefix": "RKSI",
+        "position": "GND",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSI_2_GND": {
+        "name": "INCHEON APRON",
+        "frequency": "122.175",
+        "initialID": "SI3",
+        "middleFix": "2",
+        "prefix": "RKSI",
+        "position": "GND",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSI_GND": {
+        "name": "INCHEON GROUND",
+        "frequency": "121.750",
+        "initialID": "SIG",
+        "middleFix": "-",
+        "prefix": "RKSI",
+        "position": "GND",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSI_TWR": {
+        "name": "INCHEON TOWER",
+        "frequency": "118.200",
+        "initialID": "SIT",
+        "middleFix": "-",
+        "prefix": "RKSI",
+        "position": "TWR",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSI_E_TWR": {
+        "name": "INCHEON TOWER",
+        "frequency": "118.200",
+        "initialID": "SIE",
+        "middleFix": "E",
+        "prefix": "RKSI",
+        "position": "TWR",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSI_W_TWR": {
+        "name": "INCHEON TOWER",
+        "frequency": "118.800",
+        "initialID": "SIW",
+        "middleFix": "W",
+        "prefix": "RKSI",
+        "position": "TWR",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSI_A_APP": {
+        "name": "INCHEON ARRIVAL",
+        "frequency": "124.200",
+        "initialID": "IAA",
+        "middleFix": "A",
+        "prefix": "RKSI",
+        "position": "APP",
+        "squawkStart": "4100",
+        "squawkEnd": "4177"
+    },
+    "RKSS_DEL": {
+        "name": "GIMPO DELIVERY",
+        "frequency": "121.970",
+        "initialID": "SSD",
+        "middleFix": "-",
+        "prefix": "RKSS",
+        "position": "DEL",
+        "squawkStart": "5100",
+        "squawkEnd": "5177"
+    },
+    "RKSS_A_GND": {
+        "name": "GIMPO APRON",
+        "frequency": "130.870",
+        "initialID": "SSA",
+        "middleFix": "A",
+        "prefix": "RKSS",
+        "position": "GND",
+        "squawkStart": "5100",
+        "squawkEnd": "5177"
+    },
+    "RKSS_GND": {
+        "name": "GIMPO GROUND",
+        "frequency": "121.900",
+        "initialID": "SSG",
+        "middleFix": "-",
+        "prefix": "RKSS",
+        "position": "GND",
+        "squawkStart": "5100",
+        "squawkEnd": "5177"
+    },
+    "RKSS_TWR": {
+        "name": "GIMPO TOWER",
+        "frequency": "118.100",
+        "initialID": "SST",
+        "middleFix": "-",
+        "prefix": "RKSS",
+        "position": "TWR",
+        "squawkStart": "5100",
+        "squawkEnd": "5177"
+    },
+    "RKSS_DEP": {
+        "name": "SEOUL DEPARTURE",
+        "frequency": "125.150",
+        "initialID": "SMD",
+        "middleFix": "-",
+        "prefix": "RKSS",
+        "position": "DEP",
+        "squawkStart": "7100",
+        "squawkEnd": "7177"
+    },
+    "RKSS_APP": {
+        "name": "SEOUL APPROACH",
+        "frequency": "119.750",
+        "initialID": "SSA",
+        "middleFix": "-",
+        "prefix": "RKSS",
+        "position": "APP",
+        "squawkStart": "7100",
+        "squawkEnd": "7177"
+    },
+    "RKSS_A_APP": {
+        "name": "GIMPO ARRIVAL",
+        "frequency": "119.100",
+        "initialID": "SSR",
+        "middleFix": "A",
+        "prefix": "RKSS",
+        "position": "APP",
+        "squawkStart": "7100",
+        "squawkEnd": "7177"
+    },
     "RKTU_TWR": {
         "name": "POHANG TOWER",
         "frequency": "118.700",
@@ -135,126 +294,6 @@
         "middleFix": "-",
         "prefix": "RKJB",
         "position": "TWR"
-    },
-    "RKSI_DEL": {
-        "name": "INCHEON DELIVERY",
-        "frequency": "121.600",
-        "initialID": "SID",
-        "middleFix": "-",
-        "prefix": "RKSI",
-        "position": "DEL"
-    },
-    "RKSI_A_GND": {
-        "name": "INCHEON APRON",
-        "frequency": "121.650",
-        "initialID": "SI1",
-        "middleFix": "A",
-        "prefix": "RKSI",
-        "position": "GND"
-    },
-    "RKSI_1_GND": {
-        "name": "INCHEON APRON",
-        "frequency": "121.650",
-        "initialID": "SI2",
-        "middleFix": "1",
-        "prefix": "RKSI",
-        "position": "GND"
-    },
-    "RKSI_2_GND": {
-        "name": "INCHEON APRON",
-        "frequency": "122.175",
-        "initialID": "SI3",
-        "middleFix": "2",
-        "prefix": "RKSI",
-        "position": "GND"
-    },
-    "RKSI_GND": {
-        "name": "INCHEON GROUND",
-        "frequency": "121.750",
-        "initialID": "SIG",
-        "middleFix": "-",
-        "prefix": "RKSI",
-        "position": "GND"
-    },
-    "RKSI_TWR": {
-        "name": "INCHEON TOWER",
-        "frequency": "118.200",
-        "initialID": "SIT",
-        "middleFix": "-",
-        "prefix": "RKSI",
-        "position": "TWR"
-    },
-    "RKSI_E_TWR": {
-        "name": "INCHEON TOWER",
-        "frequency": "118.200",
-        "initialID": "SIE",
-        "middleFix": "E",
-        "prefix": "RKSI",
-        "position": "TWR"
-    },
-    "RKSI_W_TWR": {
-        "name": "INCHEON TOWER",
-        "frequency": "118.800",
-        "initialID": "SIW",
-        "middleFix": "W",
-        "prefix": "RKSI",
-        "position": "TWR"
-    },
-    "RKSS_DEL": {
-        "name": "GIMPO DELIVERY",
-        "frequency": "121.970",
-        "initialID": "SSD",
-        "middleFix": "-",
-        "prefix": "RKSS",
-        "position": "DEL"
-    },
-    "RKSS_A_GND": {
-        "name": "GIMPO APRON",
-        "frequency": "130.870",
-        "initialID": "SSA",
-        "middleFix": "A",
-        "prefix": "RKSS",
-        "position": "GND"
-    },
-    "RKSS_GND": {
-        "name": "GIMPO GROUND",
-        "frequency": "121.900",
-        "initialID": "SSG",
-        "middleFix": "-",
-        "prefix": "RKSS",
-        "position": "GND"
-    },
-    "RKSS_TWR": {
-        "name": "GIMPO TOWER",
-        "frequency": "118.100",
-        "initialID": "SST",
-        "middleFix": "-",
-        "prefix": "RKSS",
-        "position": "TWR"
-    },
-    "RKSS_DEP": {
-        "name": "SEOUL DEPARTURE",
-        "frequency": "125.150",
-        "initialID": "SMD",
-        "middleFix": "-",
-        "prefix": "RKSS",
-        "position": "DEP"
-    },
-    "RKSS_APP": {
-        "name": "SEOUL APPROACH",
-        "frequency": "119.750",
-        "initialID": "SSA",
-        "middleFix": "-",
-        "prefix": "RKSS",
-        "position": "APP"
-    },
-    "RKSS_A_APP": {
-        "name": "GIMPO ARRIVAL",
-        "frequency": "119.100",
-        "initialID": "SSR",
-        "middleFix": "A",
-        "prefix": "RKSS",
-        "position": "APP"
     },
     "RKRR_A_CTR": {
         "name": "INCHEON CONTROL",
