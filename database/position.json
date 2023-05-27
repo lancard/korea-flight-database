@@ -6,7 +6,7 @@
         "middleFix": "-",
         "prefix": "RKSI",
         "position": "DEL",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSI_A_GND": {
@@ -16,7 +16,7 @@
         "middleFix": "A",
         "prefix": "RKSI",
         "position": "GND",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSI_1_GND": {
@@ -26,7 +26,7 @@
         "middleFix": "1",
         "prefix": "RKSI",
         "position": "GND",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSI_2_GND": {
@@ -36,7 +36,7 @@
         "middleFix": "2",
         "prefix": "RKSI",
         "position": "GND",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSI_GND": {
@@ -46,7 +46,7 @@
         "middleFix": "-",
         "prefix": "RKSI",
         "position": "GND",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSI_TWR": {
@@ -56,7 +56,7 @@
         "middleFix": "-",
         "prefix": "RKSI",
         "position": "TWR",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSI_E_TWR": {
@@ -66,7 +66,7 @@
         "middleFix": "E",
         "prefix": "RKSI",
         "position": "TWR",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSI_W_TWR": {
@@ -76,7 +76,7 @@
         "middleFix": "W",
         "prefix": "RKSI",
         "position": "TWR",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSI_A_APP": {
@@ -86,7 +86,7 @@
         "middleFix": "A",
         "prefix": "RKSI",
         "position": "APP",
-        "squawkStart": "4100",
+        "squawkStart": "4101",
         "squawkEnd": "4177"
     },
     "RKSS_DEL": {
@@ -96,7 +96,7 @@
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "DEL",
-        "squawkStart": "5100",
+        "squawkStart": "5101",
         "squawkEnd": "5177"
     },
     "RKSS_A_GND": {
@@ -106,7 +106,7 @@
         "middleFix": "A",
         "prefix": "RKSS",
         "position": "GND",
-        "squawkStart": "5100",
+        "squawkStart": "5101",
         "squawkEnd": "5177"
     },
     "RKSS_GND": {
@@ -116,7 +116,7 @@
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "GND",
-        "squawkStart": "5100",
+        "squawkStart": "5101",
         "squawkEnd": "5177"
     },
     "RKSS_TWR": {
@@ -126,7 +126,7 @@
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "TWR",
-        "squawkStart": "5100",
+        "squawkStart": "5101",
         "squawkEnd": "5177"
     },
     "RKSS_DEP": {
@@ -136,7 +136,7 @@
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "DEP",
-        "squawkStart": "7100",
+        "squawkStart": "7101",
         "squawkEnd": "7177"
     },
     "RKSS_APP": {
@@ -146,7 +146,7 @@
         "middleFix": "-",
         "prefix": "RKSS",
         "position": "APP",
-        "squawkStart": "7100",
+        "squawkStart": "7101",
         "squawkEnd": "7177"
     },
     "RKSS_A_APP": {
@@ -156,7 +156,7 @@
         "middleFix": "A",
         "prefix": "RKSS",
         "position": "APP",
-        "squawkStart": "7100",
+        "squawkStart": "7101",
         "squawkEnd": "7177"
     },
     "RKTU_TWR": {
