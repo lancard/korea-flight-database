@@ -159,6 +159,56 @@
         "squawkStart": "7101",
         "squawkEnd": "7177"
     },
+    "RKPC_DEL": {
+        "name": "JEJU DELIVERY",
+        "frequency": "121.920",
+        "initialID": "PCD",
+        "middleFix": "-",
+        "prefix": "RKPC",
+        "position": "DEL",
+        "squawkStart": "5001",
+        "squawkEnd": "5077"
+    },
+    "RKPC_GND": {
+        "name": "JEJU GROUND",
+        "frequency": "121.670",
+        "initialID": "PCG",
+        "middleFix": "-",
+        "prefix": "RKPC",
+        "position": "GND",
+        "squawkStart": "5001",
+        "squawkEnd": "5077"
+    },
+    "RKPC_TWR": {
+        "name": "JEJU TOWER",
+        "frequency": "118.250",
+        "initialID": "PCT",
+        "middleFix": "-",
+        "prefix": "RKPC",
+        "position": "TWR",
+        "squawkStart": "5001",
+        "squawkEnd": "5077"
+    },
+    "RKPC_APP": {
+        "name": "JEJU APPROACH",
+        "frequency": "121.200",
+        "initialID": "PCA",
+        "middleFix": "-",
+        "prefix": "RKPC",
+        "position": "APP",
+        "squawkStart": "5001",
+        "squawkEnd": "5077"
+    },
+    "RKPC_A_APP": {
+        "name": "JEJU ARRIVAL",
+        "frequency": "120.420",
+        "initialID": "PAA",
+        "middleFix": "A",
+        "prefix": "RKPC",
+        "position": "APP",
+        "squawkStart": "5001",
+        "squawkEnd": "5077"
+    },
     "RKTU_TWR": {
         "name": "POHANG TOWER",
         "frequency": "118.700",
@@ -389,14 +439,6 @@
         "initialID": "NWA",
         "middleFix": "-",
         "prefix": "RKNW",
-        "position": "APP"
-    },
-    "RKPC_APP": {
-        "name": "JEJU APPROACH",
-        "frequency": "121.200",
-        "initialID": "PCA",
-        "middleFix": "-",
-        "prefix": "RKPC",
         "position": "APP"
     },
     "RKPK_APP": {
