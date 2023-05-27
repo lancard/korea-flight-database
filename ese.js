@@ -104,7 +104,7 @@ module.exports = {
         // STAR + APPROACH
         procedureList.filter(t => t.procedureType == "APPROACH").forEach(t => {
             procedureList.filter(e => e.procedureType == "STAR" && e.fixList.last() == t.fixList[0] && t.airport == e.airport).forEach(e => {
-                ret.push(["STAR", t.airport, t.runway, `${e.name}a${t.name.split(".").join("t")}`, getRawCoordRemovedList(e.fixList.concat(t.fixList)).join(" ")].join(":"));
+                ret.push(["STAR", t.airport, t.runway, `${e.name.split(".").join("t")}a${t.name.split(".").join("t")}`, getRawCoordRemovedList(e.fixList.concat(t.fixList)).join(" ")].join(":"));
             });
         });
 
