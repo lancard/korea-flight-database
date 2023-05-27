@@ -164,7 +164,7 @@ module.exports = {
     generateEseFile() {
         var contents = "";
 
-        contents += "\n\n[POSITIONS]\n";
+        contents += "[POSITIONS]\n";
         contents += this.getPosition();
 
         contents += "\n\n[SIDSSTARS]\n";
