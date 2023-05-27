@@ -4813,6 +4813,15 @@
 		"airport": "RKSI"
 	},
 	{
+		"name": "GE019",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.12.06.300",
+		"longitude": "E126.41.24.300",
+		"airport": "RKSI"
+	},
+	{
 		"name": "KE035",
 		"navaidType": "FIX",
 		"extraType": "FIX",
