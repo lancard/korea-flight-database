@@ -79,8 +79,8 @@ module.exports = {
                 e.position,
                 '-',
                 '-',
-                e.squawkStart,
-                e.squawkEnd
+                e.squawkStart || '0000',
+                e.squawkEnd || '7777'
             ].join(":"));
         }
 
