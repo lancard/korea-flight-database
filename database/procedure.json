@@ -4638,7 +4638,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSI",
-        "name": "ILSZ16L.MUNAN",
+        "name": "ILS16L.MUNAN",
         "runway": "16L",
         "fixList": [
             "MUNAN",
@@ -4649,7 +4649,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSI",
-        "name": "ILSZ16L.BITIM",
+        "name": "ILS16L.BITIM",
         "runway": "16L",
         "fixList": [
             "BITIM",
@@ -4686,7 +4686,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSI",
-        "name": "ILSZ16R.MUNAN",
+        "name": "ILS16R.MUNAN",
         "runway": "16L",
         "fixList": [
             "MUNAN",
@@ -4697,7 +4697,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSI",
-        "name": "ILSZ16R.BITIM",
+        "name": "ILS16R.BITIM",
         "runway": "16R",
         "fixList": [
             "BITIM",
