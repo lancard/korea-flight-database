@@ -593,8 +593,16 @@
         "airport": "RKNW",
         "labelType": "Gate-Number",
         "name": "1",
-        "latitude": "N037.26.51.788",
-        "longitude": "E127.58.08.422",
+        "latitude": "N037.26.51.205",
+        "longitude": "E127.58.08.721",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKNW",
+        "labelType": "Gate-Number",
+        "name": "1A",
+        "latitude": "N037.26.52.531",
+        "longitude": "E127.58.08.875",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -6829,8 +6837,8 @@
         "airport": "RKNW",
         "labelType": "Taxiway",
         "name": "A",
-        "latitude": "N037.25.36.823",
-        "longitude": "E127.57.14.910",
+        "latitude": "N037.25.36.487",
+        "longitude": "E127.57.15.631",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -7197,8 +7205,8 @@
         "airport": "RKNW",
         "labelType": "Taxiway",
         "name": "B",
-        "latitude": "N037.25.50.286",
-        "longitude": "E127.57.23.056",
+        "latitude": "N037.25.48.237",
+        "longitude": "E127.57.23.058",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -7461,8 +7469,8 @@
         "airport": "RKNW",
         "labelType": "Taxiway",
         "name": "C",
-        "latitude": "N037.26.01.414",
-        "longitude": "E127.57.29.777",
+        "latitude": "N037.26.02.473",
+        "longitude": "E127.57.32.028",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -7757,24 +7765,32 @@
         "airport": "RKNW",
         "labelType": "Taxiway",
         "name": "D",
-        "latitude": "N037.26.32.986",
-        "longitude": "E127.57.49.260",
+        "latitude": "N037.26.29.074",
+        "longitude": "E127.57.48.554",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
         "airport": "RKNW",
         "labelType": "Taxiway",
         "name": "G",
-        "latitude": "N037.25.45.356",
-        "longitude": "E127.57.21.939",
+        "latitude": "N037.25.50.836",
+        "longitude": "E127.57.27.717",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
         "airport": "RKNW",
         "labelType": "Taxiway",
         "name": "G",
-        "latitude": "N037.26.24.671",
-        "longitude": "E127.57.46.230",
+        "latitude": "N037.26.11.501",
+        "longitude": "E127.57.40.581",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKNW",
+        "labelType": "Taxiway",
+        "name": "G",
+        "latitude": "N037.26.45.538",
+        "longitude": "E127.58.01.636",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -8109,8 +8125,8 @@
         "airport": "RKNW",
         "labelType": "Taxiway",
         "name": "E",
-        "latitude": "N037.26.43.796",
-        "longitude": "E127.57.56.093",
+        "latitude": "N037.26.40.844",
+        "longitude": "E127.57.55.774",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -8341,8 +8357,8 @@
         "airport": "RKNW",
         "labelType": "Taxiway",
         "name": "F",
-        "latitude": "N037.26.54.361",
-        "longitude": "E127.58.02.744",
+        "latitude": "N037.26.55.272",
+        "longitude": "E127.58.04.730",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
