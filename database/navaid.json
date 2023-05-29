@@ -3865,6 +3865,15 @@
 		"approachType": "ILS"
 	},
 	{
+		"name": "IEODO",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N032.07.22.062",
+		"longitude": "E125.10.56.081",
+		"isUsedByNavigation": true
+	},
+	{
 		"name": "JADOO",
 		"navaidType": "FIX",
 		"extraType": "FIX",
