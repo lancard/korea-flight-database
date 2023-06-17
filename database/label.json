@@ -1403,6 +1403,22 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
+        "airport": "RKSS",
+        "labelType": "Gate-Number",
+        "name": "N1-A",
+        "latitude": "N037.33.46.618",
+        "longitude": "E126.47.33.211",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKSS",
+        "labelType": "Gate-Number",
+        "name": "N1-B",
+        "latitude": "N037.33.51.180",
+        "longitude": "E126.47.27.398",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKSI",
         "labelType": "Taxiway",
         "name": "14E",
