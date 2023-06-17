@@ -1406,16 +1406,16 @@
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "N1-A",
-        "latitude": "N037.33.46.618",
-        "longitude": "E126.47.33.211",
+        "latitude": "N037.33.46.230",
+        "longitude": "E126.47.34.026",
         "colorProfile": "Airport-GateNumber"
     },
     {
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "N1-B",
-        "latitude": "N037.33.51.180",
-        "longitude": "E126.47.27.398",
+        "latitude": "N037.33.50.318",
+        "longitude": "E126.47.28.909",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -1886,16 +1886,16 @@
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "201",
-        "latitude": "N037.33.47.820",
-        "longitude": "E126.47.36.090",
+        "latitude": "N037.33.48.726",
+        "longitude": "E126.47.37.251",
         "colorProfile": "Airport-GateNumber"
     },
     {
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "202",
-        "latitude": "N037.33.49.070",
-        "longitude": "E126.47.37.680",
+        "latitude": "N037.33.50.792",
+        "longitude": "E126.47.39.897",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -2078,16 +2078,24 @@
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "221",
-        "latitude": "N037.33.51.890",
-        "longitude": "E126.47.30.070",
+        "latitude": "N037.33.52.439",
+        "longitude": "E126.47.30.217",
         "colorProfile": "Airport-GateNumber"
     },
     {
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "222",
-        "latitude": "N037.33.53.570",
-        "longitude": "E126.47.31.610",
+        "latitude": "N037.33.53.441",
+        "longitude": "E126.47.31.530",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKSS",
+        "labelType": "Gate-Number",
+        "name": "223",
+        "latitude": "N037.33.54.429",
+        "longitude": "E126.47.32.776",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -7509,8 +7517,8 @@
         "airport": "RKSS",
         "labelType": "Taxiway",
         "name": "C1",
-        "latitude": "N037.33.15.986",
-        "longitude": "E126.47.44.940",
+        "latitude": "N037.33.15.874",
+        "longitude": "E126.47.45.195",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -7573,8 +7581,8 @@
         "airport": "RKSS",
         "labelType": "Taxiway",
         "name": "C2",
-        "latitude": "N037.33.16.911",
-        "longitude": "E126.47.58.436",
+        "latitude": "N037.33.16.256",
+        "longitude": "E126.47.59.138",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -9469,8 +9477,8 @@
         "airport": "RKSS",
         "labelType": "Taxiway",
         "name": "N1",
-        "latitude": "N037.33.46.050",
-        "longitude": "E126.47.32.850",
+        "latitude": "N037.33.48.006",
+        "longitude": "E126.47.31.805",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -9501,8 +9509,8 @@
         "airport": "RKSS",
         "labelType": "Taxiway",
         "name": "N2",
-        "latitude": "N037.34.00.115",
-        "longitude": "E126.47.50.797",
+        "latitude": "N037.34.00.153",
+        "longitude": "E126.47.49.920",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -9615,6 +9623,14 @@
         "name": "N5",
         "latitude": "N037.27.52.965",
         "longitude": "E126.25.26.163",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSS",
+        "labelType": "Taxiway",
+        "name": "N5",
+        "latitude": "N037.34.13.394",
+        "longitude": "E126.47.59.620",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -10149,8 +10165,8 @@
         "airport": "RKSS",
         "labelType": "Taxiway",
         "name": "P4",
-        "latitude": "N037.33.49.029",
-        "longitude": "E126.47.41.657",
+        "latitude": "N037.33.48.121",
+        "longitude": "E126.47.40.273",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -10173,8 +10189,8 @@
         "airport": "RKSS",
         "labelType": "Taxiway",
         "name": "P5",
-        "latitude": "N037.33.52.410",
-        "longitude": "E126.47.36.524",
+        "latitude": "N037.33.52.522",
+        "longitude": "E126.47.35.078",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -10197,8 +10213,8 @@
         "airport": "RKSS",
         "labelType": "Taxiway",
         "name": "P6",
-        "latitude": "N037.33.53.423",
-        "longitude": "E126.47.24.249",
+        "latitude": "N037.33.52.277",
+        "longitude": "E126.47.23.443",
         "colorProfile": "Airport-GateNumber"
     },
     {
