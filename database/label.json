@@ -4412,6 +4412,38 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
+        "name": "1T",
+        "latitude": "N037.27.29.519",
+        "longitude": "E126.27.04.563",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
+        "name": "2T",
+        "latitude": "N037.27.13.399",
+        "longitude": "E126.26.18.955",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
+        "name": "3T",
+        "latitude": "N037.27.51.799",
+        "longitude": "E126.26.44.724",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
+        "name": "4T",
+        "latitude": "N037.27.29.167",
+        "longitude": "E126.26.04.938",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
         "name": "4E",
         "latitude": "N037.27.09.078",
         "longitude": "E126.27.26.878",
@@ -10445,24 +10477,24 @@
         "airport": "RKSI",
         "labelType": "Taxiway",
         "name": "R1",
-        "latitude": "N037.27.41.119",
-        "longitude": "E126.26.54.190",
+        "latitude": "N037.27.45.146",
+        "longitude": "E126.26.50.649",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
+        "name": "R4",
+        "latitude": "N037.27.44.882",
+        "longitude": "E126.25.51.734",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
         "name": "R1",
-        "latitude": "N037.27.51.298",
-        "longitude": "E126.26.44.612",
-        "colorProfile": "Airport-Taxiway-Label"
-    },
-    {
-        "airport": "RKSI",
-        "labelType": "Taxiway",
-        "name": "R1",
-        "latitude": "N037.27.58.819",
-        "longitude": "E126.26.37.943",
+        "latitude": "N037.28.06.962",
+        "longitude": "E126.26.30.383",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -10637,16 +10669,16 @@
         "airport": "RKSI",
         "labelType": "Taxiway",
         "name": "R4",
-        "latitude": "N037.27.11.252",
-        "longitude": "E126.26.20.652",
+        "latitude": "N037.27.10.467",
+        "longitude": "E126.26.21.514",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
         "name": "R4",
-        "latitude": "N037.27.30.923",
-        "longitude": "E126.26.03.084",
+        "latitude": "N037.27.22.603",
+        "longitude": "E126.26.10.748",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
