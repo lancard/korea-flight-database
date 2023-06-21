@@ -9462,12 +9462,21 @@
 		"airport": "RKNY"
 	},
 	{
-		"name": "VFR-NY-Point(H)",
+		"name": "VFR-NY-Point(C)",
 		"navaidType": "VFR_REPORTING_POINT",
 		"extraType": "VFR-Reporting-Point",
 		"description": "VFR Reporting point",
-		"latitude": "N037.55.13.000",
+		"latitude": "N037.57.00.000",
 		"longitude": "E128.42.18.000",
+		"airport": "RKNY"
+	},
+	{
+		"name": "VFR-NY-Point(G)",
+		"navaidType": "VFR_REPORTING_POINT",
+		"extraType": "VFR-Reporting-Point",
+		"description": "VFR Reporting point",
+		"latitude": "N037.52.17.000",
+		"longitude": "E128.43.53.000",
 		"airport": "RKNY"
 	},
 	{
