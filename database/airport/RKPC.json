@@ -4617,7 +4617,7 @@
 	},
 	"RKPC-Taxiway-G41": {
 		"airport": "RKPC",
-		"name": "RKPC-Taxiway-G40",
+		"name": "RKPC-Taxiway-G41",
 		"description": "지형 및 바운더리 등",
 		"colorProfile": "Airport-ApronCenterLine",
 		"lineList": [
