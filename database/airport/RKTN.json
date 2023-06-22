@@ -253,135 +253,45 @@
 			}
 		]
 	},
-	"BUILD-C__17": {
+	"RKTN-Border__1": {
 		"airport": "RKTN",
-		"name": "BUILD-C__17",
+		"name": "RKTN-Border__1",
 		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Building",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.54.00.236",
-				"longitude1": "E128.38.18.704",
-				"latitude2": "N035.54.00.551",
-				"longitude2": "E128.38.18.986"
-			},
-			{
-				"latitude1": "N035.54.00.551",
-				"longitude1": "E128.38.18.986",
-				"latitude2": "N035.54.00.551",
-				"longitude2": "E128.38.18.986"
-			},
-			{
-				"latitude1": "N035.54.00.551",
-				"longitude1": "E128.38.18.986",
-				"latitude2": "N035.54.01.303",
-				"longitude2": "E128.38.18.897"
-			},
-			{
-				"latitude1": "N035.54.01.303",
-				"longitude1": "E128.38.18.897",
-				"latitude2": "N035.54.01.270",
-				"longitude2": "E128.38.18.814"
-			},
-			{
-				"latitude1": "N035.54.01.270",
-				"longitude1": "E128.38.18.814",
-				"latitude2": "N035.54.00.629",
-				"longitude2": "E128.38.18.846"
-			},
-			{
-				"latitude1": "N035.54.00.629",
-				"longitude1": "E128.38.18.846",
-				"latitude2": "N035.54.00.339",
-				"longitude2": "E128.38.18.629"
+				"latitude1": "N035.54.03.161",
+				"longitude1": "E128.38.44.981",
+				"latitude2": "N035.54.05.098",
+				"longitude2": "E128.38.47.163"
 			}
 		]
 	},
-	"BUILD-C__18": {
+	"RKTN-Border__2": {
 		"airport": "RKTN",
-		"name": "BUILD-C__18",
+		"name": "RKTN-Border__2",
 		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Building",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.54.01.306",
-				"longitude1": "E128.38.16.968",
-				"latitude2": "N035.54.01.622",
-				"longitude2": "E128.38.17.257"
-			},
-			{
-				"latitude1": "N035.54.01.622",
-				"longitude1": "E128.38.17.257",
-				"latitude2": "N035.54.01.622",
-				"longitude2": "E128.38.17.257"
-			},
-			{
-				"latitude1": "N035.54.01.622",
-				"longitude1": "E128.38.17.257",
-				"latitude2": "N035.54.02.263",
-				"longitude2": "E128.38.17.104"
-			},
-			{
-				"latitude1": "N035.54.02.263",
-				"longitude1": "E128.38.17.104",
-				"latitude2": "N035.54.02.267",
-				"longitude2": "E128.38.16.965"
-			},
-			{
-				"latitude1": "N035.54.02.267",
-				"longitude1": "E128.38.16.965",
-				"latitude2": "N035.54.01.625",
-				"longitude2": "E128.38.17.132"
-			},
-			{
-				"latitude1": "N035.54.01.625",
-				"longitude1": "E128.38.17.132",
-				"latitude2": "N035.54.01.327",
-				"longitude2": "E128.38.16.874"
-			},
-			{
-				"latitude1": "N035.54.01.327",
-				"longitude1": "E128.38.16.874",
-				"latitude2": "N035.54.01.327",
-				"longitude2": "E128.38.16.874"
+				"latitude1": "N035.53.12.523",
+				"longitude1": "E128.40.16.458",
+				"latitude2": "N035.53.14.441",
+				"longitude2": "E128.40.18.800"
 			}
 		]
 	},
-	"BUILD-C__19": {
+	"RKTN-Border__3": {
 		"airport": "RKTN",
-		"name": "BUILD-C__19",
+		"name": "RKTN-Border__3",
 		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Building",
+		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.54.02.327",
-				"longitude1": "E128.38.15.118",
-				"latitude2": "N035.54.02.709",
-				"longitude2": "E128.38.15.407"
-			},
-			{
-				"latitude1": "N035.54.02.709",
-				"longitude1": "E128.38.15.407",
-				"latitude2": "N035.54.03.316",
-				"longitude2": "E128.38.15.317"
-			},
-			{
-				"latitude1": "N035.54.03.316",
-				"longitude1": "E128.38.15.317",
-				"latitude2": "N035.54.03.309",
-				"longitude2": "E128.38.15.201"
-			},
-			{
-				"latitude1": "N035.54.03.309",
-				"longitude1": "E128.38.15.201",
-				"latitude2": "N035.54.02.727",
-				"longitude2": "E128.38.15.303"
-			},
-			{
-				"latitude1": "N035.54.02.727",
-				"longitude1": "E128.38.15.303",
-				"latitude2": "N035.54.02.424",
-				"longitude2": "E128.38.15.018"
+				"latitude1": "N035.54.03.081",
+				"longitude1": "E128.38.14.111",
+				"latitude2": "N035.54.02.755",
+				"longitude2": "E128.38.14.188"
 			}
 		]
 	},
