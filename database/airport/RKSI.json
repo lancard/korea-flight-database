@@ -44853,6 +44853,134 @@
 		  }
 		]
 	  },
+	  "Airport-Building_RPBB514": {
+		"airport": "RKSI",
+		"name": "Airport-Building_514",
+		"colorProfile": "Airport-Building",
+		"description": "Airport-Building_512",
+		"lineList": [
+		  {
+			"latitude1": "N037.27.58.747",
+			"longitude1": "E126.25.36.144",
+			"latitude2": "N037.27.58.502",
+			"longitude2": "E126.25.35.724"
+		  },
+		  {
+			"latitude1": "N037.27.58.502",
+			"longitude1": "E126.25.35.724",
+			"latitude2": "N037.27.57.747",
+			"longitude2": "E126.25.36.414"
+		  },
+		  {
+			"latitude1": "N037.27.57.747",
+			"longitude1": "E126.25.36.414",
+			"latitude2": "N037.27.57.954",
+			"longitude2": "E126.25.36.815"
+		  },
+		  {
+			"latitude1": "N037.27.57.954",
+			"longitude1": "E126.25.36.815",
+			"latitude2": "N037.27.58.747",
+			"longitude2": "E126.25.36.144"
+		  }
+		]
+	  },
+	  "Airport-Building_RPBB512": {
+		"airport": "RKSI",
+		"name": "Airport-Building_512",
+		"colorProfile": "Airport-Building",
+		"description": "Airport-Building_512",
+		"lineList": [
+		  {
+			"latitude1": "N037.27.54.739",
+			"longitude1": "E126.25.39.732",
+			"latitude2": "N037.27.54.505",
+			"longitude2": "E126.25.39.273"
+		  },
+		  {
+			"latitude1": "N037.27.54.505",
+			"longitude1": "E126.25.39.273",
+			"latitude2": "N037.27.53.724",
+			"longitude2": "E126.25.39.998"
+		  },
+		  {
+			"latitude1": "N037.27.53.724",
+			"longitude1": "E126.25.39.998",
+			"latitude2": "N037.27.53.938",
+			"longitude2": "E126.25.40.408"
+		  },
+		  {
+			"latitude1": "N037.27.53.938",
+			"longitude1": "E126.25.40.408",
+			"latitude2": "N037.27.54.739",
+			"longitude2": "E126.25.39.732"
+		  }
+		]
+	  },
+	  "Airport-Building_RPBB503": {
+		"airport": "RKSI",
+		"name": "Airport-Building_503",
+		"colorProfile": "Airport-Building",
+		"description": "Airport-Building_503",
+		"lineList": [
+		  {
+			"latitude1": "N037.28.23.347",
+			"longitude1": "E126.26.19.413",
+			"latitude2": "N037.28.23.147",
+			"longitude2": "E126.26.19.037"
+		  },
+		  {
+			"latitude1": "N037.28.23.147",
+			"longitude1": "E126.26.19.037",
+			"latitude2": "N037.28.22.350",
+			"longitude2": "E126.26.19.703"
+		  },
+		  {
+			"latitude1": "N037.28.22.350",
+			"longitude1": "E126.26.19.703",
+			"latitude2": "N037.28.22.542",
+			"longitude2": "E126.26.20.147"
+		  },
+		  {
+			"latitude1": "N037.28.22.542",
+			"longitude1": "E126.26.20.147",
+			"latitude2": "N037.28.23.347",
+			"longitude2": "E126.26.19.413"
+		  }
+		]
+	  },
+	  "Airport-Building_RPBB501": {
+		"airport": "RKSI",
+		"name": "Airport-Building_501",
+		"colorProfile": "Airport-Building",
+		"description": "Airport-Building_501",
+		"lineList": [
+		  {
+			"latitude1": "N037.28.18.186",
+			"longitude1": "E126.26.23.338",
+			"latitude2": "N037.28.18.416",
+			"longitude2": "E126.26.23.791"
+		  },
+		  {
+			"latitude1": "N037.28.18.416",
+			"longitude1": "E126.26.23.791",
+			"latitude2": "N037.28.19.205",
+			"longitude2": "E126.26.23.048"
+		  },
+		  {
+			"latitude1": "N037.28.19.205",
+			"longitude1": "E126.26.23.048",
+			"latitude2": "N037.28.18.975",
+			"longitude2": "E126.26.22.633"
+		  },
+		  {
+			"latitude1": "N037.28.18.975",
+			"longitude1": "E126.26.22.633",
+			"latitude2": "N037.28.18.186",
+			"longitude2": "E126.26.23.338"
+		  }
+		]
+	  },
 	  "Airport-Building_T1": {
 		"airport": "RKSI",
 		"name": "Airport-Building_T1",
