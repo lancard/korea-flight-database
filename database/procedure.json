@@ -7592,7 +7592,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSM",
         "name": "RNP02.GUKOB",
-        "runway": "01",
+        "runway": "02",
         "fixList": [
             "GUKOB",
             "KAINA",
@@ -7604,7 +7604,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSM",
         "name": "RNP02.KAKSO",
-        "runway": "01",
+        "runway": "02",
         "fixList": [
             "KAKSO",
             "GUKOB",
@@ -7617,7 +7617,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSM",
         "name": "RNP19.KARBU",
-        "runway": "01",
+        "runway": "19",
         "fixList": [
             "KARBU",
             "TORIA",
@@ -7630,7 +7630,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSM",
         "name": "RNP19.MUGAR",
-        "runway": "01",
+        "runway": "19",
         "fixList": [
             "MUGAR",
             "TORIA",
@@ -7643,7 +7643,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSM",
         "name": "RNP19.TORIA",
-        "runway": "01",
+        "runway": "19",
         "fixList": [
             "TORIA",
             "BUNDA",
@@ -7655,7 +7655,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSM",
         "name": "RNP20.KARBU",
-        "runway": "01",
+        "runway": "20",
         "fixList": [
             "KARBU",
             "TORIA",
@@ -7668,7 +7668,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSM",
         "name": "RNP20.MUGAR",
-        "runway": "01",
+        "runway": "20",
         "fixList": [
             "MUGAR",
             "TORIA",
@@ -7681,7 +7681,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSM",
         "name": "RNP20.TORIA",
-        "runway": "01",
+        "runway": "20",
         "fixList": [
             "TORIA",
             "BUNDA",
