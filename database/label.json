@@ -8938,11 +8938,35 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "H",
+        "latitude": "N037.27.44.323",
+        "longitude": "E126.28.54.180",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "H1",
+        "latitude": "N037.26.36.667",
+        "longitude": "E126.27.34.112",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "H2",
+        "latitude": "N037.26.37.480",
+        "longitude": "E126.27.35.551",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "H3",
         "latitude": "N037.33.21.304",
-        "longitude": "E126.47.13.640 ",
+        "longitude": "E126.47.13.640",
         "colorProfile": "Airport-GateNumber"
     },
     {

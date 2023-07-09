@@ -49418,5 +49418,101 @@
 			"longitude2": "E126.24.59.267"
 		  }
 		]
-	  }
+	  },
+	  "RKSI-Helipad_1": {
+		"airport": "RKSI",
+		"name": "RKSI-Helipad_1",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-Helipad",
+		"lineList": [
+			{
+				"latitude1": "N037.27.44.430",
+				"longitude1": "E126.28.53.413",
+				"latitude2": "N037.27.43.698",
+				"longitude2": "E126.28.54.041"
+			},
+			{
+				"latitude1": "N037.27.43.698",
+				"longitude1": "E126.28.54.041",
+				"latitude2": "N037.27.44.216",
+				"longitude2": "E126.28.54.954"
+			},
+			{
+				"latitude1": "N037.27.44.216",
+				"longitude1": "E126.28.54.954",
+				"latitude2": "N037.27.44.936",
+				"longitude2": "E126.28.54.307"
+			},
+			{
+				"latitude1": "N037.27.44.936",
+				"longitude1": "E126.28.54.307",
+				"latitude2": "N037.27.44.430",
+				"longitude2": "E126.28.53.413"
+			}
+		]
+	},
+	"RKSI-Helipad_2": {
+	  "airport": "RKSI",
+	  "name": "RKSI-Helipad_2",
+	  "description": "지형 및 바운더리 등",
+	  "colorProfile": "Airport-Helipad",
+	  "lineList": [
+		  {
+			  "latitude1": "N037.26.36.752",
+			  "longitude1": "E126.27.33.509",
+			  "latitude2": "N037.26.36.188",
+			  "longitude2": "E126.27.34.011"
+		  },
+		  {
+			  "latitude1": "N037.26.36.188",
+			  "longitude1": "E126.27.34.011",
+			  "latitude2": "N037.26.36.583",
+			  "longitude2": "E126.27.34.720"
+		  },
+		  {
+			  "latitude1": "N037.26.36.583",
+			  "longitude1": "E126.27.34.720",
+			  "latitude2": "N037.26.37.154",
+			  "longitude2": "E126.27.34.214"
+		  },
+		  {
+			  "latitude1": "N037.26.37.154",
+			  "longitude1": "E126.27.34.214",
+			  "latitude2": "N037.26.36.752",
+			  "longitude2": "E126.27.33.509"
+		  }
+	  ]
+  },
+  "RKSI-Helipad_3": {
+	"airport": "RKSI",
+	"name": "RKSI-Helipad_3",
+	"description": "지형 및 바운더리 등",
+	"colorProfile": "Airport-Helipad",
+	"lineList": [
+		{
+			"latitude1": "N037.26.37.583",
+			"longitude1": "E126.27.34.967",
+			"latitude2": "N037.26.37.016",
+			"longitude2": "E126.27.35.474"
+		},
+		{
+			"latitude1": "N037.26.37.016",
+			"longitude1": "E126.27.35.474",
+			"latitude2": "N037.26.37.411",
+			"longitude2": "E126.27.36.183"
+		},
+		{
+			"latitude1": "N037.26.37.411",
+			"longitude1": "E126.27.36.183",
+			"latitude2": "N037.26.37.978",
+			"longitude2": "E126.27.35.676"
+		},
+		{
+			"latitude1": "N037.26.37.978",
+			"longitude1": "E126.27.35.676",
+			"latitude2": "N037.26.37.583",
+			"longitude2": "E126.27.34.967"
+		}
+	]
+}
 }
