@@ -7256,6 +7256,170 @@
          ]
     },
     {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "VONDU1.ANUBA",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "VONDU",
+            "PS061",
+            "PS062",
+            "ANUBA"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "VONDU1.MASTA",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "VONDU",
+            "MASTA"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "VONDU1.SARAM",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "VONDU",
+            "SARAM"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "VONDU1.GOSBO",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "VONDU",
+            "BOTRU",
+            "PS151",
+            "PS152",
+            "GOSBO"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "VONDU1.POVOR",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "VONDU",
+            "BOTRU",
+            "PS151",
+            "PS152",
+            "POVOR"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "AKLOG1.ANUBA",
+        "runway": [
+            "24L",
+            "24R"
+        ],
+        "fixList": [
+            "AKLOG",
+            "PS241",
+            "ANUBA"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "AKLOG1.MASTA1",
+        "runway": [
+            "24L",
+            "24R"
+        ],
+        "fixList": [
+            "AKLOG",
+            "PS241",
+            "PS242",
+            "MASTA"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "AKLOG1.MASTA2",
+        "runway": [
+            "24L",
+            "24R"
+        ],
+        "fixList": [
+            "AKLOG",
+            "PS243",
+            "BOTRU",
+            "MASTA"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "AKLOG1.SARAM",
+        "runway": [
+            "24L",
+            "24R"
+        ],
+        "fixList": [
+            "AKLOG",
+            "PS243",
+            "BOTRU",
+            "SARAM"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "AKLOG1.GOSBO",
+        "runway": [
+            "24L",
+            "24R"
+        ],
+        "fixList": [
+            "AKLOG",
+            "PS243",
+            "PS151",
+            "PS152",
+            "GOSBO"
+         ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPS",
+        "name": "AKLOG1.POVOR",
+        "runway": [
+            "24L",
+            "24R"
+        ],
+        "fixList": [
+            "AKLOG",
+            "PS243",
+            "PS151",
+            "PS152",
+            "POVOR"
+         ]
+    },
+    {
         "procedureType": "APPROACH",
         "airport": "RKPS",
         "name": "VOR06L",
