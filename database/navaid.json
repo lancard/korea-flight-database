@@ -4484,6 +4484,15 @@
 		"airport": "RKJY"
 	},
 	{
+		"name": "JY402",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N035.00.43.700",
+		"longitude": "E127.26.50.000",
+		"airport": "RKJY"
+	},
+	{
 		"name": "JY752",
 		"navaidType": "FIX",
 		"extraType": "FIX",

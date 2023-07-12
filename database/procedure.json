@@ -2309,6 +2309,15 @@
     {
         "procedureType": "STAR",
         "airport": "RKJY",
+        "name": "TEDAN1E",
+        "fixList": [
+            "TEDAN",
+            "SKOTA"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKJY",
         "name": "NISAV1D",
         "fixList": [
             "NISAV",
@@ -2365,9 +2374,24 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKJY",
-        "name": "RNP17",
+        "name": "RNP17.SKOTA",
         "runway": "17",
         "fixList": [
+            "SKOTA",
+            "AGUTI",
+            "JY401",
+            "KAKRU",
+            "IDROL"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJY",
+        "name": "RNP17.YEONA",
+        "runway": "17",
+        "fixList": [
+            "YEONA",
+            "JY402",
             "SKOTA",
             "AGUTI",
             "JY401",
