@@ -4711,7 +4711,7 @@
         "procedureType": "APPROACH",
         "airport": "RKSI",
         "name": "ILS16R.MUNAN",
-        "runway": "16L",
+        "runway": "16R",
         "fixList": [
             "MUNAN",
             "OLKIK",
