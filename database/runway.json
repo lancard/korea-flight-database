@@ -110,19 +110,19 @@
     {
         "runway": "07",
         "oppositeRunway": "25",
-        "startLatitude": "N033.29.59.572",
-        "startLongitude": "E126.28.06.499",
-        "endLatitude": "N033.30.53.561",
-        "endLongitude": "E126.29.51.511",
+        "startLatitude": "N033.29.59.189",
+        "startLongitude": "E126.28.06.294",
+        "endLatitude": "N033.30.53.172",
+        "endLongitude": "E126.29.51.326",
         "airport": "RKPC"
     },
     {
         "runway": "13",
         "oppositeRunway": "31",
-        "startLatitude": "N033.30.55.660",
-        "startLongitude": "E126.29.14.618",
-        "endLatitude": "N033.30.27.511",
-        "endLongitude": "E126.30.01.508",
+        "startLatitude": "N033.30.55.288",
+        "startLongitude": "E126.29.14.415",
+        "endLatitude": "N033.30.27.118",
+        "endLongitude": "E126.30.01.323",
         "airport": "RKPC"
     },
     {
