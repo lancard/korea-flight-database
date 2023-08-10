@@ -7404,7 +7404,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "B4",
+        "name": "E",
         "latitude": "N037.28.02.918",
         "longitude": "E126.26.51.387",
         "colorProfile": "Airport-Taxiway-Label"
@@ -7452,7 +7452,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "B5",
+        "name": "B4",
         "latitude": "N037.28.20.928",
         "longitude": "E126.26.35.457",
         "colorProfile": "Airport-Taxiway-Label"
@@ -7460,7 +7460,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "B6",
+        "name": "B5",
         "latitude": "N037.28.29.033",
         "longitude": "E126.26.28.595",
         "colorProfile": "Airport-Taxiway-Label"
@@ -7468,9 +7468,41 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "B7",
+        "name": "B6",
         "latitude": "N037.28.49.039",
         "longitude": "E126.26.10.461",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
+        "name": "C8",
+        "latitude": "N037.28.19.584",
+        "longitude": "E126.26.35.104",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
+        "name": "C8",
+        "latitude": "N037.28.24.228",
+        "longitude": "E126.26.43.196",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
+        "name": "C3",
+        "latitude": "N037.27.44.379",
+        "longitude": "E126.27.09.003",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Taxiway",
+        "name": "C3",
+        "latitude": "N037.27.47.983",
+        "longitude": "E126.27.15.320",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -7692,7 +7724,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "C3",
+        "name": "E",
         "latitude": "N037.28.06.923",
         "longitude": "E126.26.58.902",
         "colorProfile": "Airport-Taxiway-Label"
