@@ -6246,6 +6246,22 @@
 		"longitude": "E124.25.05.000"
 	},
 	{
+		"name": "NOGUB",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.20.51.600",
+		"longitude": "E127.03.25.800"
+	},
+	{
+		"name": "GT020",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.18.25.800",
+		"longitude": "E127.06.27.100"
+	},
+	{
 		"name": "NOMED",
 		"navaidType": "FIX",
 		"extraType": "FIX",

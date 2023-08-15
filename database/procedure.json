@@ -5619,7 +5619,8 @@
         "runway": "32R",
         "fixList": [
             "BUMSI",
-            "PUDUB",
+            "GT020",
+            "NOGUB",
             "MOBAK",
             "GT009",
             "GT007",
@@ -5661,7 +5662,8 @@
         "runway": "32R",
         "fixList": [
             "BUMSI",
-            "PUDUB",
+            "GT020",
+            "NOGUB",
             "MOBAK",
             "GT009",
             "GT007",
