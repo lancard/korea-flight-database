@@ -9362,21 +9362,21 @@
 		"airport": "RKTL"
 	},
 	{
-		"name": "TL122",
+		"name": "TL222",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
-		"latitude": "N036.42.18.872",
-		"longitude": "E129.37.28.071",
+		"latitude": "N036.41.08.800",
+		"longitude": "E129.35.01.800",
 		"airport": "RKTL"
 	},
 	{
-		"name": "TL123",
+		"name": "TL223",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
-		"latitude": "N036.48.06.888",
-		"longitude": "E129.35.36.809",
+		"latitude": "N036.47.01.300",
+		"longitude": "E129.32.46.000",
 		"airport": "RKTL"
 	},
 	{
@@ -9389,21 +9389,21 @@
 		"airport": "RKTL"
 	},
 	{
-		"name": "TL132",
+		"name": "TL232",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
-		"latitude": "N036.54.41.356",
-		"longitude": "E129.33.30.814",
+		"latitude": "N036.54.31.700",
+		"longitude": "E129.29.51.900",
 		"airport": "RKTL"
 	},
 	{
-		"name": "TL133",
+		"name": "TL233",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
-		"latitude": "N036.49.57.811",
-		"longitude": "E129.35.28.665",
+		"latitude": "N036.49.42.800",
+		"longitude": "E129.31.43.600",
 		"airport": "RKTL"
 	},
 	{

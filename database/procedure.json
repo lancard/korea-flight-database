@@ -3342,14 +3342,14 @@
     {
         "procedureType": "SID",
         "airport": "RKTL",
-        "name": "NOBUT1M",
+        "name": "NOBUT2M",
         "runway": [
             "17"
         ],
         "fixList": [
             "TL121",
-            "TL122",
-            "TL123",
+            "TL222",
+            "TL223",
             "TL024",
             "TL025",
             "NOBUT"
@@ -3384,14 +3384,14 @@
     {
         "procedureType": "SID",
         "airport": "RKTL",
-        "name": "LOSTO1R",
+        "name": "LOSTO2R",
         "runway": [
             "35"
         ],
         "fixList": [
             "TL131",
-            "TL132",
-            "TL133",
+            "TL232",
+            "TL233",
             "TL034",
             "TL035",
             "LOSTO"
@@ -3422,7 +3422,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTL",
-        "name": "NOBUT1H",
+        "name": "NOBUT2H",
         "fixList": [
             "NOBUT",
             "TL001",
