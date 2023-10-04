@@ -6254,6 +6254,14 @@
 		"longitude": "E127.03.25.800"
 	},
 	{
+		"name": "NULDI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N034.25.14.000",
+		"longitude": "E126.37.39.000"
+	},
+	{
 		"name": "GT020",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -10306,21 +10314,12 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "VFR-SS-Point(N)",
+		"name": "VFR-SS-Point(L)",
 		"navaidType": "VFR_REPORTING_POINT",
 		"extraType": "VFR-Reporting-Point",
 		"description": "VFR Reporting point",
-		"latitude": "N037.34.58.965",
-		"longitude": "E126.48.16.302",
-		"airport": "RKSS"
-	},
-	{
-		"name": "VFR-SS-Point(R)",
-		"navaidType": "VFR_REPORTING_POINT",
-		"extraType": "VFR-Reporting-Point",
-		"description": "VFR Reporting point",
-		"latitude": "N037.36.05.501",
-		"longitude": "E126.48.46.676",
+		"latitude": "N037.35.33.000",
+		"longitude": "E126.47.00.000",
 		"airport": "RKSS"
 	},
 	{

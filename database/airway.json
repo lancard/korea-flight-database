@@ -1413,11 +1413,19 @@
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "DALSU",
-        "fixEnd": "DOTOL"
+        "fixEnd": "NULDI"
     },
     {
         "name": "Y711",
         "seq": 9,
+        "description": "주요항로",
+        "airwayType": "RNAV",
+        "fixStart": "NULDI",
+        "fixEnd": "DOTOL"
+    },
+    {
+        "name": "Y711",
+        "seq": 10,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "DOTOL",
@@ -1425,7 +1433,7 @@
     },
     {
         "name": "Y711",
-        "seq": 10,
+        "seq": 11,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "KIDOS",
@@ -1433,7 +1441,7 @@
     },
     {
         "name": "Y711",
-        "seq": 11,
+        "seq": 12,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "REMOS",
@@ -1441,7 +1449,7 @@
     },
     {
         "name": "Y711",
-        "seq": 12,
+        "seq": 13,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "PANSI",
@@ -1449,7 +1457,7 @@
     },
     {
         "name": "Y711",
-        "seq": 13,
+        "seq": 14,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "DOMKO",
@@ -1457,7 +1465,7 @@
     },
     {
         "name": "Y711",
-        "seq": 14,
+        "seq": 15,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "PONIK",
@@ -1465,7 +1473,7 @@
     },
     {
         "name": "Y711",
-        "seq": 15,
+        "seq": 16,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "IKEDO",
@@ -1473,7 +1481,7 @@
     },
     {
         "name": "Y711",
-        "seq": 16,
+        "seq": 17,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "KANKA",
@@ -1481,7 +1489,7 @@
     },
     {
         "name": "Y711",
-        "seq": 17,
+        "seq": 18,
         "description": "주요항로",
         "airwayType": "RNAV",
         "fixStart": "BONSO",
@@ -3334,22 +3342,6 @@
         "airwayType": "VFR",
         "fixStart": "CP-23",
         "fixEnd": "CP-1"
-    },
-    {
-        "name": "VFRroute",
-        "seq": 101,
-        "description": "VFR Route",
-        "airwayType": "VFR",
-        "fixStart": "VFR-SS-Point(R)",
-        "fixEnd": "VFR-SS-Point(N)"
-    },
-    {
-        "name": "VFRroute",
-        "seq": 102,
-        "description": "VFR Route",
-        "airwayType": "VFR",
-        "fixStart": "VFR-SS-Point(N)",
-        "fixEnd": "VFR-SS-Point(M)"
     },
     {
         "name": "VFRroute",
