@@ -7072,6 +7072,15 @@
 		"airport": "RKPC"
 	},
 	{
+		"name": "PC834",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.55.46.200",
+		"longitude": "E126.40.55.700",
+		"airport": "RKPC"
+	},
+	{
 		"name": "PC841",
 		"navaidType": "FIX",
 		"extraType": "FIX",

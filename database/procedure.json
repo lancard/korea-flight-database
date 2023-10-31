@@ -5869,6 +5869,20 @@
     {
         "procedureType": "SID",
         "airport": "RKPC",
+        "name": "IPDAS1W",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "MEXER",
+            "PC832",
+            "PC834",
+            "IPDAS"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
         "name": "LIMDI1W",
         "runway": [
             "25"
