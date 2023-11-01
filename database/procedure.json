@@ -5870,6 +5870,35 @@
     {
         "procedureType": "SID",
         "airport": "RKPC",
+        "name": "CJU3L",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "N033.25.54.648 E126.20.06.821",
+            "N033.37.28.013 E126.22.10.020",
+            "CJU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
+        "name": "IPDAS1L",
+        "runway": [
+            "25"
+        ],
+        "fixList": [
+            "N033.25.54.648 E126.20.06.821",
+            "N033.37.28.013 E126.22.10.020",
+            "N033.39.40.582 E126.29.15.190",
+            "N033.49.16.193 E126.29.15.190",
+            "N033.49.57.407 E126.40.16.681",
+            "IPDAS"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPC",
         "name": "AKPON1W",
         "runway": [
             "25"
