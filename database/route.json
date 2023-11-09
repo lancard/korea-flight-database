@@ -1,0 +1,56 @@
+{
+    "RKSS": [
+        {
+            "arr": "RKPC",
+            "route": "BULTI Y711 DOTOL"
+        },
+        {
+            "arr": "RKPK",
+            "route": "OSPOT Y782 TGU Z83 MASTA"
+        },
+        {
+            "arr": "RKNY",
+            "route": "EGOBA Y697 BIKSI"
+        },
+        {
+            "arr": "RKTN",
+            "route": "OSPOT Y782 BITUX"
+        },
+        {
+            "arr": "RKJB",
+            "route": "BULTI Y711 MANGI"
+        },
+        {
+            "arr": "RKJJ",
+            "route": "BULTI Y711 MANGI"
+        },
+        {
+            "arr": "RKJY",
+            "route": "BULTI Y711 DALSU Y253 TEDAN"
+        },
+        {
+            "arr": "RKTH",
+            "route": "OSPOT Y782 TGU Y659 LAPAL"
+        },
+        {
+            "arr": "RKPU",
+            "route": "OSPOT Y782 TGU Y659 LAPAL"
+        },
+        {
+            "arr": "RJBB",
+            "route": "EGOBA Y697 LANAT Y597 MIHOU Y361 SAEKI Y36 ALISA"
+        },
+        {
+            "arr": "RJGG",
+            "route": "EGOBA Y697 LANAT Y51 SAMON Y511 CHESS"
+        },
+        {
+            "arr": "RJTT",
+            "route": "EGOBA Y697 LANAT Y71 XAC"
+        },
+        {
+            "arr": "ZBAA",
+            "route": "NOPIK Y697 AGAVO A591 IKEKA W4 HCH W200 DOVIV W55 DUMAP"
+        }
+    ]
+}
