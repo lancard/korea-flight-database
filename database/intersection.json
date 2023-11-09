@@ -1248,9 +1248,14 @@
             "longitude": "E126.27.15.233"
         },
         {
-            "name": "TAXIWAY_B2,RUNWAY_33L/15R",
-            "latitude": "N037.27.45.295",
-            "longitude": "E126.27.12.323"
+            "name": "TAXIWAY_B2,RUNWAY_33L/15R,TAXIWAY_E",
+            "latitude": "N037.27.45.917",
+            "longitude": "E126.27.11.697"
+        },
+        {
+            "name": "TAXIWAY_C,TAXIWAY_E",
+            "latitude": "N037.27.50.069",
+            "longitude": "E126.27.19.048"
         },
         {
             "name": "TAXIWAY_B3",
