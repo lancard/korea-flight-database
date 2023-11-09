@@ -958,6 +958,11 @@
     ],
     "RKSI": [
         {
+            "name": "TAXIWAY_A,TAXIWAY_RG",
+            "latitude": "N037.27.50.378",
+            "longitude": "E126.26.52.663"
+        },
+        {
             "name": "RUNWAY_34L/16R,TAXIWAY_P1",
             "latitude": "N037.26.31.773",
             "longitude": "E126.26.13.480"
