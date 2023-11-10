@@ -1473,12 +1473,17 @@
             "longitude": "E126.27.51.640"
         },
         {
+            "name": "TAXIWAY_D2,TAXIWAY_DA",
+            "latitude": "N037.27.55.337",
+            "longitude": "E126.27.54.639"
+        },
+        {
             "name": "TAXIWAY_D2",
             "latitude": "N037.27.57.236",
             "longitude": "E126.27.58.259"
         },
         {
-            "name": "TAXIWAY_D2",
+            "name": "TAXIWAY_D2,TAXIWAY_DB",
             "latitude": "N037.28.01.063",
             "longitude": "E126.28.05.005"
         },
@@ -1488,7 +1493,7 @@
             "longitude": "E126.28.08.933"
         },
         {
-            "name": "TAXIWAY_D2",
+            "name": "TAXIWAY_D2,TAXIWAY_DC",
             "latitude": "N037.28.06.888",
             "longitude": "E126.28.15.297"
         },
@@ -1498,7 +1503,7 @@
             "longitude": "E126.28.21.230"
         },
         {
-            "name": "TAXIWAY_D2",
+            "name": "TAXIWAY_D2,TAXIWAY_DD",
             "latitude": "N037.28.12.236",
             "longitude": "E126.28.24.995"
         },
@@ -1518,12 +1523,17 @@
             "longitude": "E126.27.49.729"
         },
         {
+            "name": "TAXIWAY_D3,TAXIWAY_DA",
+            "latitude": "N037.27.57.445",
+            "longitude": "E126.27.52.753"
+        },
+        {
             "name": "TAXIWAY_D3",
             "latitude": "N037.27.59.382",
             "longitude": "E126.27.56.517"
         },
         {
-            "name": "TAXIWAY_D3",
+            "name": "TAXIWAY_D3,TAXIWAY_DB",
             "latitude": "N037.28.03.212",
             "longitude": "E126.28.03.153"
         },
@@ -1533,7 +1543,7 @@
             "longitude": "E126.28.07.166"
         },
         {
-            "name": "TAXIWAY_D3",
+            "name": "TAXIWAY_D3,TAXIWAY_DC",
             "latitude": "N037.28.09.013",
             "longitude": "E126.28.13.417"
         },
@@ -1553,7 +1563,7 @@
             "longitude": "E126.28.20.647"
         },
         {
-            "name": "TAXIWAY_D3",
+            "name": "TAXIWAY_D3,TAXIWAY_DD",
             "latitude": "N037.28.14.441",
             "longitude": "E126.28.23.027"
         },
