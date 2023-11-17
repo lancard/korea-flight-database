@@ -1733,9 +1733,9 @@
     {
         "airport": "RKPC",
         "labelType": "Gate-Number",
-        "name": "1E",
-        "latitude": "N033.30.28.036",
-        "longitude": "E126.29.43.083",
+        "name": "1",
+        "latitude": "N033.30.27.951",
+        "longitude": "E126.29.43.154",
         "colorProfile": "Airport-GateNumber"
     },
     {
