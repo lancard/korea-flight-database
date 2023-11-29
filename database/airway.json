@@ -1333,23 +1333,23 @@
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "TOLIS",
-        "fixEnd": "LIMDI"
+        "fixEnd": "ENSUM"
     },
     {
         "name": "Y655",
         "seq": 7,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "LIMDI",
-        "fixEnd": "REMOS"
+        "fixStart": "ENSUM",
+        "fixEnd": "BONSO"
     },
     {
         "name": "Y655",
         "seq": 8,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "REMOS",
-        "fixEnd": "CJU"
+        "fixStart": "BONSO",
+        "fixEnd": "ATOTI"
     },
     {
         "name": "Y711",
@@ -3704,28 +3704,44 @@
         "fixEnd": "ISAKY"
     },
     {
-        "name": "Y65",
-        "seq": 160,
+        "name": "Y677",
+        "seq": 10,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "TOLIS",
-        "fixEnd": "SADLI"
+        "fixEnd": "LIMDI"
     },
     {
-        "name": "Y65",
-        "seq": 170,
+        "name": "Y677",
+        "seq": 20,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "SADLI",
-        "fixEnd": "BONSO"
+        "fixStart": "LIMDI",
+        "fixEnd": "REMOS"
     },
     {
-        "name": "Y65",
-        "seq": 180,
+        "name": "Y677",
+        "seq": 30,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "BONSO",
-        "fixEnd": "ATOTI"
+        "fixStart": "REMOS",
+        "fixEnd": "CJU"
+    },
+    {
+        "name": "Y677",
+        "seq": 40,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "CJU",
+        "fixEnd": "TAMNA"
+    },
+    {
+        "name": "Y677",
+        "seq": 50,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "TAMNA",
+        "fixEnd": "SAMDO"
     },
     {
         "name": "Y742",

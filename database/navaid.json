@@ -2866,6 +2866,14 @@
 		"longitude": "E127.47.47.000"
 	},
 	{
+		"name": "ENSUM",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N032.13.02.000",
+		"longitude": "E124.46.35.000"
+	},
+	{
 		"name": "ENTEL",
 		"navaidType": "FIX",
 		"extraType": "FIX",
