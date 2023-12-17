@@ -7026,6 +7026,54 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
+        "airport": "ZKWS",
+        "labelType": "Taxiway",
+        "name": "N",
+        "latitude": "N039.09.32.846,",
+        "longitude": "E127.29.22.354",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "ZKWS",
+        "labelType": "Taxiway",
+        "name": "G",
+        "latitude": "N039.09.25.464",
+        "longitude": "E127.29.29.094",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "ZKWS",
+        "labelType": "Taxiway",
+        "name": "G",
+        "latitude": "N039.09.21.286",
+        "longitude": "E127.29.39.523",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "ZKWS",
+        "labelType": "Taxiway",
+        "name": "E",
+        "latitude": "N039.09.24.281",
+        "longitude": "E127.29.29.249",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "ZKWS",
+        "labelType": "Taxiway",
+        "name": "E",
+        "latitude": "N039.09.32.787",
+        "longitude": "E127.29.30.253",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "ZKWS",
+        "labelType": "Taxiway",
+        "name": "F",
+        "latitude": "N039.09.26.347",
+        "longitude": "E127.29.36.124",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKTN",
         "labelType": "Taxiway",
         "name": "A1",
@@ -9140,7 +9188,7 @@
     {
         "airport": "ZKWS",
         "labelType": "Taxiway",
-        "name": "J",
+        "name": "H1",
         "latitude": "N039.09.07.672",
         "longitude": "E127.29.50.527",
         "colorProfile": "Airport-GateNumber"
@@ -9148,7 +9196,7 @@
     {
         "airport": "ZKWS",
         "labelType": "Taxiway",
-        "name": "J",
+        "name": "H2",
         "latitude": "N039.09.13.272",
         "longitude": "E127.29.36.718",
         "colorProfile": "Airport-GateNumber"
@@ -9215,6 +9263,22 @@
         "name": "J",
         "latitude": "N039.09.19.174",
         "longitude": "E127.29.31.062",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "ZKWS",
+        "labelType": "Taxiway",
+        "name": "M",
+        "latitude": "N039.09.30.550",
+        "longitude": "E127.29.44.357",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "ZKWS",
+        "labelType": "Taxiway",
+        "name": "L",
+        "latitude": "N039.09.23.601",
+        "longitude": "E127.29.50.344",
         "colorProfile": "Airport-GateNumber"
     },
     {
