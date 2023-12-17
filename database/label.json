@@ -632,7 +632,7 @@
     {
         "airport": "ZKWS",
         "labelType": "Gate-Number",
-        "name": "1",
+        "name": "6",
         "latitude": "N039.10.00.077",
         "longitude": "E127.28.51.744",
         "colorProfile": "Airport-GateNumber"
@@ -1861,7 +1861,7 @@
     {
         "airport": "ZKWS",
         "labelType": "Gate-Number",
-        "name": "2",
+        "name": "5",
         "latitude": "N039.09.58.632",
         "longitude": "E127.28.52.941",
         "colorProfile": "Airport-GateNumber"
@@ -3149,7 +3149,7 @@
     {
         "airport": "ZKWS",
         "labelType": "Gate-Number",
-        "name": "3",
+        "name": "4",
         "latitude": "N039.09.56.498",
         "longitude": "E127.28.54.843",
         "colorProfile": "Airport-GateNumber"
@@ -4252,7 +4252,7 @@
     {
         "airport": "ZKWS",
         "labelType": "Gate-Number",
-        "name": "4",
+        "name": "3",
         "latitude": "N039.09.54.656",
         "longitude": "E127.28.56.335",
         "colorProfile": "Airport-GateNumber"
@@ -4612,7 +4612,7 @@
     {
         "airport": "ZKWS",
         "labelType": "Gate-Number",
-        "name": "5",
+        "name": "2",
         "latitude": "N039.09.52.388",
         "longitude": "E127.28.58.068",
         "colorProfile": "Airport-GateNumber"
@@ -5524,7 +5524,7 @@
     {
         "airport": "ZKWS",
         "labelType": "Gate-Number",
-        "name": "6",
+        "name": "1",
         "latitude": "N039.09.50.935",
         "longitude": "E127.28.59.256",
         "colorProfile": "Airport-GateNumber"
