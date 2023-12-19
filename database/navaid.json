@@ -18,6 +18,15 @@
 		"airport": "RKNW"
 	},
 	{
+		"name": "VEMPU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.41.52.000",
+		"longitude": "E127.52.60.000",
+		"airport": "RKNW"
+	},
+	{
 		"name": "CASTO",
 		"navaidType": "FIX",
 		"extraType": "FIX",

@@ -2,6 +2,34 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKNW",
+        "name": "ILS21",
+        "runway": "21",
+        "fixList": [
+            "VEMPU",
+            "N037.42.32.229 E127.58.30.186",
+            "N037.42.19.444 E128.01.34.418",
+            "N037.41.41.451 E128.04.33.019",
+            "N037.41.13.353 E128.05.58.466",
+            "N037.40.56.400 E128.06.45.100"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
+        "name": "LOC21",
+        "runway": "21",
+        "fixList": [
+            "VEMPU",
+            "N037.42.32.229 E127.58.30.186",
+            "N037.42.19.444 E128.01.34.418",
+            "N037.41.41.451 E128.04.33.019",
+            "N037.41.13.353 E128.05.58.466",
+            "N037.40.56.400 E128.06.45.100"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
         "name": "RNP21.JOOKA",
         "runway": "21",
         "fixList": [
@@ -25,6 +53,28 @@
             "OLTOV",
             "POLLU",
             "ANKEG"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
+        "name": "ILSY03",
+        "runway": "03",
+        "fixList": [
+            "ORINU",
+            "N037.14.57.340 E127.43.40.669",
+            "N037.12.14.000 E127.48.55.900"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKNW",
+        "name": "LOCY03",
+        "runway": "03",
+        "fixList": [
+            "ORINU",
+            "N037.14.57.340 E127.43.40.669",
+            "N037.12.14.000 E127.48.55.900"
         ]
     },
     {
