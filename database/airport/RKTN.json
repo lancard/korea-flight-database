@@ -6,28 +6,28 @@
 		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
-				"latitude1": "N035.53.14.430",
-				"longitude1": "E128.40.18.794",
-				"latitude2": "N035.53.09.157",
-				"longitude2": "E128.40.28.315"
+				"latitude1": "N035.53.14.758",
+				"longitude1": "E128.40.18.325",
+				"latitude2": "N035.53.09.180",
+				"longitude2": "E128.40.28.339"
 			},
 			{
-				"latitude1": "N035.53.09.157",
-				"longitude1": "E128.40.28.315",
-				"latitude2": "N035.53.10.501",
-				"longitude2": "E128.40.29.235"
+				"latitude1": "N035.53.09.180",
+				"longitude1": "E128.40.28.339",
+				"latitude2": "N035.53.10.411",
+				"longitude2": "E128.40.29.346"
 			},
 			{
-				"latitude1": "N035.53.10.501",
-				"longitude1": "E128.40.29.235",
-				"latitude2": "N035.53.15.585",
-				"longitude2": "E128.40.19.890"
+				"latitude1": "N035.53.10.411",
+				"longitude1": "E128.40.29.346",
+				"latitude2": "N035.53.15.937",
+				"longitude2": "E128.40.19.310"
 			},
 			{
-				"latitude1": "N035.53.15.585",
-				"longitude1": "E128.40.19.890",
-				"latitude2": "N035.53.14.447",
-				"longitude2": "E128.40.18.798"
+				"latitude1": "N035.53.15.937",
+				"longitude1": "E128.40.19.310",
+				"latitude2": "N035.53.14.756",
+				"longitude2": "E128.40.18.324"
 			}
 		]
 	},
@@ -38,28 +38,28 @@
 		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
-				"latitude1": "N035.53.07.078",
-				"longitude1": "E128.40.26.290",
-				"latitude2": "N035.53.05.789",
-				"longitude2": "E128.40.25.274"
+				"latitude1": "N035.53.07.077",
+				"longitude1": "E128.40.26.289",
+				"latitude2": "N035.53.05.843",
+				"longitude2": "E128.40.25.264"
 			},
 			{
-				"latitude1": "N035.53.05.789",
-				"longitude1": "E128.40.25.274",
-				"latitude2": "N035.53.11.268",
-				"longitude2": "E128.40.15.345"
+				"latitude1": "N035.53.05.843",
+				"longitude1": "E128.40.25.264",
+				"latitude2": "N035.53.11.330",
+				"longitude2": "E128.40.15.373"
 			},
 			{
-				"latitude1": "N035.53.11.268",
-				"longitude1": "E128.40.15.345",
-				"latitude2": "N035.53.12.525",
-				"longitude2": "E128.40.16.460"
+				"latitude1": "N035.53.11.330",
+				"longitude1": "E128.40.15.373",
+				"latitude2": "N035.53.12.560",
+				"longitude2": "E128.40.16.392"
 			},
 			{
-				"latitude1": "N035.53.12.525",
-				"longitude1": "E128.40.16.460",
-				"latitude2": "N035.53.07.061",
-				"longitude2": "E128.40.26.280"
+				"latitude1": "N035.53.12.560",
+				"longitude1": "E128.40.16.392",
+				"latitude2": "N035.53.07.076",
+				"longitude2": "E128.40.26.289"
 			}
 		]
 	},
@@ -70,34 +70,28 @@
 		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
-				"latitude1": "N035.54.03.113",
-				"longitude1": "E128.38.44.972",
-				"latitude2": "N035.54.03.113",
-				"longitude2": "E128.38.44.972"
+				"latitude1": "N035.54.02.843",
+				"longitude1": "E128.38.45.551",
+				"latitude2": "N035.54.01.618",
+				"longitude2": "E128.38.44.522"
 			},
 			{
-				"latitude1": "N035.54.03.113",
-				"longitude1": "E128.38.44.972",
-				"latitude2": "N035.54.01.951",
-				"longitude2": "E128.38.44.006"
+				"latitude1": "N035.54.01.618",
+				"longitude1": "E128.38.44.522",
+				"latitude2": "N035.54.07.450",
+				"longitude2": "E128.38.33.970"
 			},
 			{
-				"latitude1": "N035.54.01.951",
-				"longitude1": "E128.38.44.006",
-				"latitude2": "N035.54.07.482",
-				"longitude2": "E128.38.33.898"
+				"latitude1": "N035.54.07.450",
+				"longitude1": "E128.38.33.970",
+				"latitude2": "N035.54.08.686",
+				"longitude2": "E128.38.35.016"
 			},
 			{
-				"latitude1": "N035.54.07.482",
-				"longitude1": "E128.38.33.898",
-				"latitude2": "N035.54.08.675",
-				"longitude2": "E128.38.34.968"
-			},
-			{
-				"latitude1": "N035.54.08.675",
-				"longitude1": "E128.38.34.968",
-				"latitude2": "N035.54.03.153",
-				"longitude2": "E128.38.44.982"
+				"latitude1": "N035.54.08.686",
+				"longitude1": "E128.38.35.016",
+				"latitude2": "N035.54.02.844",
+				"longitude2": "E128.38.45.551"
 			}
 		]
 	},
@@ -108,28 +102,28 @@
 		"colorProfile": "Airport-BlastPad",
 		"lineList": [
 			{
-				"latitude1": "N035.54.05.096",
-				"longitude1": "E128.38.47.165",
-				"latitude2": "N035.54.06.299",
-				"longitude2": "E128.38.48.386"
+				"latitude1": "N035.54.04.758",
+				"longitude1": "E128.38.47.976",
+				"latitude2": "N035.54.05.938",
+				"longitude2": "E128.38.48.950"
 			},
 			{
-				"latitude1": "N035.54.06.299",
-				"longitude1": "E128.38.48.386",
-				"latitude2": "N035.54.12.272",
-				"longitude2": "E128.38.37.721"
+				"latitude1": "N035.54.05.938",
+				"longitude1": "E128.38.48.950",
+				"latitude2": "N035.54.12.235",
+				"longitude2": "E128.38.37.629"
 			},
 			{
-				"latitude1": "N035.54.12.272",
-				"longitude1": "E128.38.37.721",
-				"latitude2": "N035.54.10.954",
-				"longitude2": "E128.38.36.681"
+				"latitude1": "N035.54.12.235",
+				"longitude1": "E128.38.37.629",
+				"latitude2": "N035.54.11.019",
+				"longitude2": "E128.38.36.598"
 			},
 			{
-				"latitude1": "N035.54.10.954",
-				"longitude1": "E128.38.36.681",
-				"latitude2": "N035.54.05.114",
-				"longitude2": "E128.38.47.161"
+				"latitude1": "N035.54.11.019",
+				"longitude1": "E128.38.36.598",
+				"latitude2": "N035.54.04.761",
+				"longitude2": "E128.38.47.972"
 			}
 		]
 	},
@@ -140,28 +134,82 @@
 		"colorProfile": "Airport-Building",
 		"lineList": [
 			{
-				"latitude1": "N035.54.01.502",
-				"longitude1": "E128.38.13.202",
-				"latitude2": "N035.54.02.753",
-				"longitude2": "E128.38.14.195"
+				"latitude1": "N035.54.01.662",
+				"longitude1": "E128.38.13.921",
+				"latitude2": "N035.54.01.797",
+				"longitude2": "E128.38.13.641"
 			},
 			{
-				"latitude1": "N035.54.02.753",
-				"longitude1": "E128.38.14.195",
-				"latitude2": "N035.54.00.255",
-				"longitude2": "E128.38.18.739"
+				"latitude1": "N035.54.01.797",
+				"longitude1": "E128.38.13.641",
+				"latitude2": "N035.54.01.933",
+				"longitude2": "E128.38.13.748"
 			},
 			{
-				"latitude1": "N035.54.00.255",
-				"longitude1": "E128.38.18.739",
-				"latitude2": "N035.53.59.005",
-				"longitude2": "E128.38.17.711"
+				"latitude1": "N035.54.01.933",
+				"longitude1": "E128.38.13.748",
+				"latitude2": "N035.54.02.017",
+				"longitude2": "E128.38.13.585"
 			},
 			{
-				"latitude1": "N035.53.59.005",
-				"longitude1": "E128.38.17.711",
-				"latitude2": "N035.54.01.503",
-				"longitude2": "E128.38.13.189"
+				"latitude1": "N035.54.02.017",
+				"longitude1": "E128.38.13.585",
+				"latitude2": "N035.54.02.595",
+				"longitude2": "E128.38.14.052"
+			},
+			{
+				"latitude1": "N035.54.02.595",
+				"longitude1": "E128.38.14.052",
+				"latitude2": "N035.54.02.516",
+				"longitude2": "E128.38.14.181"
+			},
+			{
+				"latitude1": "N035.54.02.516",
+				"longitude1": "E128.38.14.181",
+				"latitude2": "N035.54.02.686",
+				"longitude2": "E128.38.14.359"
+			},
+			{
+				"latitude1": "N035.54.02.686",
+				"longitude1": "E128.38.14.359",
+				"latitude2": "N035.54.00.165",
+				"longitude2": "E128.38.18.912"
+			},
+			{
+				"latitude1": "N035.54.00.165",
+				"longitude1": "E128.38.18.912",
+				"latitude2": "N035.53.59.316",
+				"longitude2": "E128.38.18.159"
+			},
+			{
+				"latitude1": "N035.53.59.316",
+				"longitude1": "E128.38.18.159",
+				"latitude2": "N035.53.59.464",
+				"longitude2": "E128.38.17.907"
+			},
+			{
+				"latitude1": "N035.53.59.464",
+				"longitude1": "E128.38.17.907",
+				"latitude2": "N035.53.59.010",
+				"longitude2": "E128.38.17.529"
+			},
+			{
+				"latitude1": "N035.53.59.010",
+				"longitude1": "E128.38.17.529",
+				"latitude2": "N035.53.59.141",
+				"longitude2": "E128.38.17.295"
+			},
+			{
+				"latitude1": "N035.53.59.141",
+				"longitude1": "E128.38.17.295",
+				"latitude2": "N035.54.01.173",
+				"longitude2": "E128.38.13.509"
+			},
+			{
+				"latitude1": "N035.54.01.173",
+				"longitude1": "E128.38.13.509",
+				"latitude2": "N035.54.01.663",
+				"longitude2": "E128.38.13.922"
 			}
 		]
 	},
@@ -172,28 +220,22 @@
 		"colorProfile": "Airport-Building",
 		"lineList": [
 			{
-				"latitude1": "N035.53.58.565",
-				"longitude1": "E128.38.16.714",
-				"latitude2": "N035.53.59.138",
-				"longitude2": "E128.38.17.229"
+				"latitude1": "N035.53.57.301",
+				"longitude1": "E128.38.18.959",
+				"latitude2": "N035.53.58.513",
+				"longitude2": "E128.38.16.775"
 			},
 			{
-				"latitude1": "N035.53.59.138",
-				"longitude1": "E128.38.17.229",
-				"latitude2": "N035.53.57.973",
-				"longitude2": "E128.38.19.373"
+				"latitude1": "N035.53.58.513",
+				"longitude1": "E128.38.16.775",
+				"latitude2": "N035.53.59.141",
+				"longitude2": "E128.38.17.291"
 			},
 			{
-				"latitude1": "N035.53.57.973",
-				"longitude1": "E128.38.19.373",
-				"latitude2": "N035.53.57.324",
-				"longitude2": "E128.38.18.823"
-			},
-			{
-				"latitude1": "N035.53.57.324",
-				"longitude1": "E128.38.18.823",
-				"latitude2": "N035.53.58.564",
-				"longitude2": "E128.38.16.693"
+				"latitude1": "N035.53.59.141",
+				"longitude1": "E128.38.17.291",
+				"latitude2": "N035.53.57.914",
+				"longitude2": "E128.38.19.498"
 			}
 		]
 	},
@@ -204,52 +246,34 @@
 		"colorProfile": "Airport-Building",
 		"lineList": [
 			{
-				"latitude1": "N035.53.57.265",
-				"longitude1": "E128.38.18.819",
-				"latitude2": "N035.53.56.651",
-				"longitude2": "E128.38.19.858"
+				"latitude1": "N035.53.57.014",
+				"longitude1": "E128.38.18.717",
+				"latitude2": "N035.53.56.390",
+				"longitude2": "E128.38.19.911"
 			},
 			{
-				"latitude1": "N035.53.56.651",
-				"longitude1": "E128.38.19.858",
-				"latitude2": "N035.53.56.457",
-				"longitude2": "E128.38.19.714"
+				"latitude1": "N035.53.56.390",
+				"longitude1": "E128.38.19.911",
+				"latitude2": "N035.53.55.018",
+				"longitude2": "E128.38.22.318"
 			},
 			{
-				"latitude1": "N035.53.56.457",
-				"longitude1": "E128.38.19.714",
-				"latitude2": "N035.53.55.488",
-				"longitude2": "E128.38.21.406"
+				"latitude1": "N035.53.55.018",
+				"longitude1": "E128.38.22.318",
+				"latitude2": "N035.53.56.409",
+				"longitude2": "E128.38.23.505"
 			},
 			{
-				"latitude1": "N035.53.55.488",
-				"longitude1": "E128.38.21.406",
-				"latitude2": "N035.53.55.663",
-				"longitude2": "E128.38.21.563"
+				"latitude1": "N035.53.56.409",
+				"longitude1": "E128.38.23.505",
+				"latitude2": "N035.53.58.394",
+				"longitude2": "E128.38.19.908"
 			},
 			{
-				"latitude1": "N035.53.55.663",
-				"longitude1": "E128.38.21.563",
-				"latitude2": "N035.53.55.289",
-				"longitude2": "E128.38.22.270"
-			},
-			{
-				"latitude1": "N035.53.55.289",
-				"longitude1": "E128.38.22.270",
-				"latitude2": "N035.53.56.476",
-				"longitude2": "E128.38.23.308"
-			},
-			{
-				"latitude1": "N035.53.56.476",
-				"longitude1": "E128.38.23.308",
-				"latitude2": "N035.53.58.434",
-				"longitude2": "E128.38.19.817"
-			},
-			{
-				"latitude1": "N035.53.58.434",
-				"longitude1": "E128.38.19.817",
-				"latitude2": "N035.53.57.240",
-				"longitude2": "E128.38.18.780"
+				"latitude1": "N035.53.58.394",
+				"longitude1": "E128.38.19.908",
+				"latitude2": "N035.53.57.017",
+				"longitude2": "E128.38.18.717"
 			}
 		]
 	},
@@ -260,10 +284,28 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.54.03.161",
-				"longitude1": "E128.38.44.981",
-				"latitude2": "N035.54.05.098",
-				"longitude2": "E128.38.47.163"
+				"latitude1": "N035.54.02.844",
+				"longitude1": "E128.38.45.550",
+				"latitude2": "N035.54.02.539",
+				"longitude2": "E128.38.46.071"
+			},
+			{
+				"latitude1": "N035.54.02.539",
+				"longitude1": "E128.38.46.071",
+				"latitude2": "N035.54.03.509",
+				"longitude2": "E128.38.46.883"
+			},
+			{
+				"latitude1": "N035.54.03.509",
+				"longitude1": "E128.38.46.883",
+				"latitude2": "N035.54.04.374",
+				"longitude2": "E128.38.46.656"
+			},
+			{
+				"latitude1": "N035.54.04.374",
+				"longitude1": "E128.38.46.656",
+				"latitude2": "N035.54.05.133",
+				"longitude2": "E128.38.47.303"
 			}
 		]
 	},
@@ -274,10 +316,22 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.12.523",
-				"longitude1": "E128.40.16.458",
-				"latitude2": "N035.53.14.441",
-				"longitude2": "E128.40.18.800"
+				"latitude1": "N035.53.12.562",
+				"longitude1": "E128.40.16.395",
+				"latitude2": "N035.53.13.392",
+				"longitude2": "E128.40.17.081"
+			},
+			{
+				"latitude1": "N035.53.13.392",
+				"longitude1": "E128.40.17.081",
+				"latitude2": "N035.53.13.828",
+				"longitude2": "E128.40.19.789"
+			},
+			{
+				"latitude1": "N035.53.13.828",
+				"longitude1": "E128.40.19.789",
+				"latitude2": "N035.53.13.897",
+				"longitude2": "E128.40.19.842"
 			}
 		]
 	},
@@ -288,10 +342,10 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.54.03.081",
+				"latitude1": "N035.54.03.080",
 				"longitude1": "E128.38.14.111",
-				"latitude2": "N035.54.02.755",
-				"longitude2": "E128.38.14.188"
+				"latitude2": "N035.54.02.692",
+				"longitude2": "E128.38.14.352"
 			}
 		]
 	},
@@ -302,100 +356,232 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.28.778",
-				"longitude1": "E128.39.43.459",
-				"latitude2": "N035.53.43.856",
-				"longitude2": "E128.39.16.161"
+				"latitude1": "N035.53.25.890",
+				"longitude1": "E128.39.40.588",
+				"latitude2": "N035.53.25.831",
+				"longitude2": "E128.39.41.025"
 			},
 			{
-				"latitude1": "N035.53.35.095",
-				"longitude1": "E128.39.24.752",
-				"latitude2": "N035.53.34.703",
-				"longitude2": "E128.39.25.919"
+				"latitude1": "N035.53.25.831",
+				"longitude1": "E128.39.41.025",
+				"latitude2": "N035.53.25.850",
+				"longitude2": "E128.39.41.461"
 			},
 			{
-				"latitude1": "N035.53.34.703",
-				"longitude1": "E128.39.25.919",
-				"latitude2": "N035.53.26.090",
-				"longitude2": "E128.39.41.202"
+				"latitude1": "N035.53.25.850",
+				"longitude1": "E128.39.41.461",
+				"latitude2": "N035.53.25.956",
+				"longitude2": "E128.39.41.893"
 			},
 			{
-				"latitude1": "N035.53.26.090",
-				"longitude1": "E128.39.41.202",
-				"latitude2": "N035.53.26.175",
-				"longitude2": "E128.39.42.199"
+				"latitude1": "N035.53.25.956",
+				"longitude1": "E128.39.41.893",
+				"latitude2": "N035.53.26.186",
+				"longitude2": "E128.39.42.276"
 			},
 			{
-				"latitude1": "N035.53.26.175",
-				"longitude1": "E128.39.42.199",
-				"latitude2": "N035.53.26.722",
-				"longitude2": "E128.39.42.908"
+				"latitude1": "N035.53.26.186",
+				"longitude1": "E128.39.42.276",
+				"latitude2": "N035.53.27.681",
+				"longitude2": "E128.39.43.535"
 			},
 			{
-				"latitude1": "N035.53.26.722",
-				"longitude1": "E128.39.42.908",
-				"latitude2": "N035.53.27.552",
-				"longitude2": "E128.39.43.651"
+				"latitude1": "N035.53.27.681",
+				"longitude1": "E128.39.43.535",
+				"latitude2": "N035.53.28.019",
+				"longitude2": "E128.39.43.737"
 			},
 			{
-				"latitude1": "N035.53.27.552",
-				"longitude1": "E128.39.43.651",
-				"latitude2": "N035.53.28.233",
-				"longitude2": "E128.39.43.814"
+				"latitude1": "N035.53.28.019",
+				"longitude1": "E128.39.43.737",
+				"latitude2": "N035.53.28.381",
+				"longitude2": "E128.39.43.785"
 			},
 			{
-				"latitude1": "N035.53.28.233",
-				"longitude1": "E128.39.43.814",
-				"latitude2": "N035.53.28.773",
-				"longitude2": "E128.39.43.456"
+				"latitude1": "N035.53.28.381",
+				"longitude1": "E128.39.43.785",
+				"latitude2": "N035.53.28.718",
+				"longitude2": "E128.39.43.663"
 			},
 			{
-				"latitude1": "N035.53.43.856",
-				"longitude1": "E128.39.16.161",
-				"latitude2": "N035.53.43.889",
-				"longitude2": "E128.39.15.620"
+				"latitude1": "N035.53.28.718",
+				"longitude1": "E128.39.43.663",
+				"latitude2": "N035.53.29.054",
+				"longitude2": "E128.39.43.407"
 			},
 			{
-				"latitude1": "N035.53.43.889",
-				"longitude1": "E128.39.15.620",
-				"latitude2": "N035.53.43.703",
-				"longitude2": "E128.39.15.195"
+				"latitude1": "N035.53.29.054",
+				"longitude1": "E128.39.43.407",
+				"latitude2": "N035.53.44.104",
+				"longitude2": "E128.39.16.204"
 			},
 			{
-				"latitude1": "N035.53.43.703",
-				"longitude1": "E128.39.15.195",
-				"latitude2": "N035.53.42.867",
-				"longitude2": "E128.39.14.481"
+				"latitude1": "N035.53.44.104",
+				"longitude1": "E128.39.16.204",
+				"latitude2": "N035.53.44.165",
+				"longitude2": "E128.39.15.773"
 			},
 			{
-				"latitude1": "N035.53.42.867",
-				"longitude1": "E128.39.14.481",
-				"latitude2": "N035.53.41.827",
-				"longitude2": "E128.39.13.699"
+				"latitude1": "N035.53.44.165",
+				"longitude1": "E128.39.15.773",
+				"latitude2": "N035.53.44.132",
+				"longitude2": "E128.39.15.351"
 			},
 			{
-				"latitude1": "N035.53.41.827",
-				"longitude1": "E128.39.13.699",
-				"latitude2": "N035.53.41.257",
-				"longitude2": "E128.39.13.728"
+				"latitude1": "N035.53.44.132",
+				"longitude1": "E128.39.15.351",
+				"latitude2": "N035.53.44.005",
+				"longitude2": "E128.39.15.007"
 			},
 			{
-				"latitude1": "N035.53.41.257",
-				"longitude1": "E128.39.13.728",
-				"latitude2": "N035.53.36.899",
-				"longitude2": "E128.39.21.678"
+				"latitude1": "N035.53.44.005",
+				"longitude1": "E128.39.15.007",
+				"latitude2": "N035.53.43.785",
+				"longitude2": "E128.39.14.712"
 			},
 			{
-				"latitude1": "N035.53.36.899",
-				"longitude1": "E128.39.21.678",
-				"latitude2": "N035.53.36.114",
-				"longitude2": "E128.39.22.581"
+				"latitude1": "N035.53.43.785",
+				"longitude1": "E128.39.14.712",
+				"latitude2": "N035.53.42.210",
+				"longitude2": "E128.39.13.390"
 			},
 			{
-				"latitude1": "N035.53.36.114",
-				"longitude1": "E128.39.22.581",
-				"latitude2": "N035.53.35.095",
-				"longitude2": "E128.39.24.752"
+				"latitude1": "N035.53.42.210",
+				"longitude1": "E128.39.13.390",
+				"latitude2": "N035.53.41.801",
+				"longitude2": "E128.39.13.248"
+			},
+			{
+				"latitude1": "N035.53.41.801",
+				"longitude1": "E128.39.13.248",
+				"latitude2": "N035.53.41.369",
+				"longitude2": "E128.39.13.291"
+			},
+			{
+				"latitude1": "N035.53.41.369",
+				"longitude1": "E128.39.13.291",
+				"latitude2": "N035.53.41.047",
+				"longitude2": "E128.39.13.439"
+			},
+			{
+				"latitude1": "N035.53.41.047",
+				"longitude1": "E128.39.13.439",
+				"latitude2": "N035.53.40.764",
+				"longitude2": "E128.39.13.713"
+			},
+			{
+				"latitude1": "N035.53.40.764",
+				"longitude1": "E128.39.13.713",
+				"latitude2": "N035.53.37.102",
+				"longitude2": "E128.39.20.326"
+			},
+			{
+				"latitude1": "N035.53.37.102",
+				"longitude1": "E128.39.20.326",
+				"latitude2": "N035.53.36.879",
+				"longitude2": "E128.39.20.654"
+			},
+			{
+				"latitude1": "N035.53.36.879",
+				"longitude1": "E128.39.20.654",
+				"latitude2": "N035.53.36.640",
+				"longitude2": "E128.39.20.924"
+			},
+			{
+				"latitude1": "N035.53.36.640",
+				"longitude1": "E128.39.20.924",
+				"latitude2": "N035.53.36.420",
+				"longitude2": "E128.39.21.122"
+			},
+			{
+				"latitude1": "N035.53.36.420",
+				"longitude1": "E128.39.21.122",
+				"latitude2": "N035.53.36.146",
+				"longitude2": "E128.39.21.311"
+			},
+			{
+				"latitude1": "N035.53.36.146",
+				"longitude1": "E128.39.21.311",
+				"latitude2": "N035.53.35.921",
+				"longitude2": "E128.39.21.463"
+			},
+			{
+				"latitude1": "N035.53.35.921",
+				"longitude1": "E128.39.21.463",
+				"latitude2": "N035.53.35.696",
+				"longitude2": "E128.39.21.653"
+			},
+			{
+				"latitude1": "N035.53.35.696",
+				"longitude1": "E128.39.21.653",
+				"latitude2": "N035.53.35.467",
+				"longitude2": "E128.39.21.897"
+			},
+			{
+				"latitude1": "N035.53.35.467",
+				"longitude1": "E128.39.21.897",
+				"latitude2": "N035.53.35.253",
+				"longitude2": "E128.39.22.189"
+			},
+			{
+				"latitude1": "N035.53.35.253",
+				"longitude1": "E128.39.22.189",
+				"latitude2": "N035.53.34.237",
+				"longitude2": "E128.39.24.062"
+			},
+			{
+				"latitude1": "N035.53.34.237",
+				"longitude1": "E128.39.24.062",
+				"latitude2": "N035.53.34.135",
+				"longitude2": "E128.39.24.355"
+			},
+			{
+				"latitude1": "N035.53.34.135",
+				"longitude1": "E128.39.24.355",
+				"latitude2": "N035.53.34.049",
+				"longitude2": "E128.39.24.677"
+			},
+			{
+				"latitude1": "N035.53.34.049",
+				"longitude1": "E128.39.24.677",
+				"latitude2": "N035.53.34.014",
+				"longitude2": "E128.39.25.071"
+			},
+			{
+				"latitude1": "N035.53.34.014",
+				"longitude1": "E128.39.25.071",
+				"latitude2": "N035.53.33.956",
+				"longitude2": "E128.39.25.466"
+			},
+			{
+				"latitude1": "N035.53.33.956",
+				"longitude1": "E128.39.25.466",
+				"latitude2": "N035.53.33.889",
+				"longitude2": "E128.39.25.821"
+			},
+			{
+				"latitude1": "N035.53.33.889",
+				"longitude1": "E128.39.25.821",
+				"latitude2": "N035.53.33.792",
+				"longitude2": "E128.39.26.158"
+			},
+			{
+				"latitude1": "N035.53.33.792",
+				"longitude1": "E128.39.26.158",
+				"latitude2": "N035.53.33.666",
+				"longitude2": "E128.39.26.489"
+			},
+			{
+				"latitude1": "N035.53.33.666",
+				"longitude1": "E128.39.26.489",
+				"latitude2": "N035.53.33.502",
+				"longitude2": "E128.39.26.811"
+			},
+			{
+				"latitude1": "N035.53.33.502",
+				"longitude1": "E128.39.26.811",
+				"latitude2": "N035.53.25.891",
+				"longitude2": "E128.39.40.587"
 			}
 		]
 	},
@@ -406,106 +592,196 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.54.01.882",
-				"longitude1": "E128.38.43.977",
-				"latitude2": "N035.54.00.509",
-				"longitude2": "E128.38.42.679"
+				"latitude1": "N035.54.01.685",
+				"longitude1": "E128.38.44.392",
+				"latitude2": "N035.53.59.436",
+				"longitude2": "E128.38.42.504"
 			},
 			{
-				"latitude1": "N035.54.04.127",
-				"longitude1": "E128.38.22.318",
-				"latitude2": "N035.54.04.318",
-				"longitude2": "E128.38.21.896"
+				"latitude1": "N035.53.59.436",
+				"longitude1": "E128.38.42.504",
+				"latitude2": "N035.53.59.305",
+				"longitude2": "E128.38.42.328"
 			},
 			{
-				"latitude1": "N035.54.04.318",
-				"longitude1": "E128.38.21.896",
-				"latitude2": "N035.54.07.159",
-				"longitude2": "E128.38.16.792"
+				"latitude1": "N035.53.59.305",
+				"longitude1": "E128.38.42.328",
+				"latitude2": "N035.53.59.181",
+				"longitude2": "E128.38.42.133"
 			},
 			{
-				"latitude1": "N035.54.07.159",
-				"longitude1": "E128.38.16.792",
-				"latitude2": "N035.54.07.003",
-				"longitude2": "E128.38.16.676"
+				"latitude1": "N035.53.59.181",
+				"longitude1": "E128.38.42.133",
+				"latitude2": "N035.53.59.067",
+				"longitude2": "E128.38.41.734"
 			},
 			{
-				"latitude1": "N035.54.07.003",
-				"longitude1": "E128.38.16.676",
-				"latitude2": "N035.54.07.973",
-				"longitude2": "E128.38.14.928"
+				"latitude1": "N035.53.59.067",
+				"longitude1": "E128.38.41.734",
+				"latitude2": "N035.53.59.027",
+				"longitude2": "E128.38.41.515"
 			},
 			{
-				"latitude1": "N035.54.07.973",
-				"longitude1": "E128.38.14.928",
-				"latitude2": "N035.54.06.302",
-				"longitude2": "E128.38.13.512"
+				"latitude1": "N035.53.59.027",
+				"longitude1": "E128.38.41.515",
+				"latitude2": "N035.53.59.035",
+				"longitude2": "E128.38.41.267"
 			},
 			{
-				"latitude1": "N035.54.06.302",
-				"longitude1": "E128.38.13.512",
-				"latitude2": "N035.54.05.569",
-				"longitude2": "E128.38.14.800"
+				"latitude1": "N035.53.59.035",
+				"longitude1": "E128.38.41.267",
+				"latitude2": "N035.53.59.081",
+				"longitude2": "E128.38.41.028"
 			},
 			{
-				"latitude1": "N035.54.05.569",
-				"longitude1": "E128.38.14.800",
-				"latitude2": "N035.54.03.573",
-				"longitude2": "E128.38.13.165"
+				"latitude1": "N035.53.59.081",
+				"longitude1": "E128.38.41.028",
+				"latitude2": "N035.53.59.167",
+				"longitude2": "E128.38.40.838"
 			},
 			{
-				"latitude1": "N035.54.03.573",
-				"longitude1": "E128.38.13.165",
-				"latitude2": "N035.54.03.079",
-				"longitude2": "E128.38.14.118"
+				"latitude1": "N035.53.59.167",
+				"longitude1": "E128.38.40.838",
+				"latitude2": "N035.54.00.690",
+				"longitude2": "E128.38.37.698"
 			},
 			{
-				"latitude1": "N035.54.00.509",
-				"longitude1": "E128.38.42.679",
-				"latitude2": "N035.54.00.090",
-				"longitude2": "E128.38.41.274"
+				"latitude1": "N035.54.00.690",
+				"longitude1": "E128.38.37.698",
+				"latitude2": "N035.54.05.905",
+				"longitude2": "E128.38.28.300"
 			},
 			{
-				"latitude1": "N035.54.00.090",
-				"longitude1": "E128.38.41.274",
-				"latitude2": "N035.53.59.953",
-				"longitude2": "E128.38.39.965"
+				"latitude1": "N035.54.05.905",
+				"longitude1": "E128.38.28.300",
+				"latitude2": "N035.54.06.161",
+				"longitude2": "E128.38.27.754"
 			},
 			{
-				"latitude1": "N035.53.59.953",
-				"longitude1": "E128.38.39.965",
-				"latitude2": "N035.54.06.625",
-				"longitude2": "E128.38.27.412"
+				"latitude1": "N035.54.06.161",
+				"longitude1": "E128.38.27.754",
+				"latitude2": "N035.54.06.322",
+				"longitude2": "E128.38.27.150"
 			},
 			{
-				"latitude1": "N035.54.06.625",
-				"longitude1": "E128.38.27.412",
-				"latitude2": "N035.54.06.501",
-				"longitude2": "E128.38.26.095"
+				"latitude1": "N035.54.06.322",
+				"longitude1": "E128.38.27.150",
+				"latitude2": "N035.54.06.351",
+				"longitude2": "E128.38.26.547"
 			},
 			{
-				"latitude1": "N035.54.06.501",
-				"longitude1": "E128.38.26.095",
-				"latitude2": "N035.54.06.080",
-				"longitude2": "E128.38.24.971"
+				"latitude1": "N035.54.06.351",
+				"longitude1": "E128.38.26.547",
+				"latitude2": "N035.54.06.255",
+				"longitude2": "E128.38.25.943"
 			},
 			{
-				"latitude1": "N035.54.06.080",
-				"longitude1": "E128.38.24.971",
-				"latitude2": "N035.54.04.822",
-				"longitude2": "E128.38.23.809"
+				"latitude1": "N035.54.06.255",
+				"longitude1": "E128.38.25.943",
+				"latitude2": "N035.54.06.102",
+				"longitude2": "E128.38.25.556"
 			},
 			{
-				"latitude1": "N035.54.04.822",
-				"longitude1": "E128.38.23.809",
-				"latitude2": "N035.54.04.357",
-				"longitude2": "E128.38.23.112"
+				"latitude1": "N035.54.06.102",
+				"longitude1": "E128.38.25.556",
+				"latitude2": "N035.54.05.918",
+				"longitude2": "E128.38.25.216"
 			},
 			{
-				"latitude1": "N035.54.04.357",
-				"longitude1": "E128.38.23.112",
-				"latitude2": "N035.54.04.127",
-				"longitude2": "E128.38.22.318"
+				"latitude1": "N035.54.05.918",
+				"longitude1": "E128.38.25.216",
+				"latitude2": "N035.54.05.679",
+				"longitude2": "E128.38.24.916"
+			},
+			{
+				"latitude1": "N035.54.05.679",
+				"longitude1": "E128.38.24.916",
+				"latitude2": "N035.54.05.409",
+				"longitude2": "E128.38.24.663"
+			},
+			{
+				"latitude1": "N035.54.05.409",
+				"longitude1": "E128.38.24.663",
+				"latitude2": "N035.54.04.446",
+				"longitude2": "E128.38.23.857"
+			},
+			{
+				"latitude1": "N035.54.04.446",
+				"longitude1": "E128.38.23.857",
+				"latitude2": "N035.54.04.484",
+				"longitude2": "E128.38.23.767"
+			},
+			{
+				"latitude1": "N035.54.04.484",
+				"longitude1": "E128.38.23.767",
+				"latitude2": "N035.54.04.188",
+				"longitude2": "E128.38.23.356"
+			},
+			{
+				"latitude1": "N035.54.04.188",
+				"longitude1": "E128.38.23.356",
+				"latitude2": "N035.54.03.970",
+				"longitude2": "E128.38.22.877"
+			},
+			{
+				"latitude1": "N035.54.03.970",
+				"longitude1": "E128.38.22.877",
+				"latitude2": "N035.54.03.900",
+				"longitude2": "E128.38.22.355"
+			},
+			{
+				"latitude1": "N035.54.03.900",
+				"longitude1": "E128.38.22.355",
+				"latitude2": "N035.54.03.893",
+				"longitude2": "E128.38.21.843"
+			},
+			{
+				"latitude1": "N035.54.03.893",
+				"longitude1": "E128.38.21.843",
+				"latitude2": "N035.54.03.495",
+				"longitude2": "E128.38.21.511"
+			},
+			{
+				"latitude1": "N035.54.03.495",
+				"longitude1": "E128.38.21.511",
+				"latitude2": "N035.54.06.362",
+				"longitude2": "E128.38.16.296"
+			},
+			{
+				"latitude1": "N035.54.06.362",
+				"longitude1": "E128.38.16.296",
+				"latitude2": "N035.54.06.588",
+				"longitude2": "E128.38.16.482"
+			},
+			{
+				"latitude1": "N035.54.06.588",
+				"longitude1": "E128.38.16.482",
+				"latitude2": "N035.54.07.627",
+				"longitude2": "E128.38.14.543"
+			},
+			{
+				"latitude1": "N035.54.07.627",
+				"longitude1": "E128.38.14.543",
+				"latitude2": "N035.54.06.325",
+				"longitude2": "E128.38.13.456"
+			},
+			{
+				"latitude1": "N035.54.06.325",
+				"longitude1": "E128.38.13.456",
+				"latitude2": "N035.54.05.607",
+				"longitude2": "E128.38.14.774"
+			},
+			{
+				"latitude1": "N035.54.05.607",
+				"longitude1": "E128.38.14.774",
+				"latitude2": "N035.54.03.769",
+				"longitude2": "E128.38.13.275"
+			},
+			{
+				"latitude1": "N035.54.03.769",
+				"longitude1": "E128.38.13.275",
+				"latitude2": "N035.54.03.082",
+				"longitude2": "E128.38.14.112"
 			}
 		]
 	},
@@ -516,256 +792,322 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.56.402",
-				"longitude1": "E128.38.23.235",
-				"latitude2": "N035.53.54.924",
-				"longitude2": "E128.38.25.920"
+				"latitude1": "N035.53.56.409",
+				"longitude1": "E128.38.23.505",
+				"latitude2": "N035.53.54.302",
+				"longitude2": "E128.38.27.408"
 			},
 			{
-				"latitude1": "N035.54.02.452",
-				"longitude1": "E128.38.23.693",
-				"latitude2": "N035.54.03.092",
-				"longitude2": "E128.38.24.362"
+				"latitude1": "N035.53.54.302",
+				"longitude1": "E128.38.27.408",
+				"latitude2": "N035.53.57.130",
+				"longitude2": "E128.38.29.783"
 			},
 			{
-				"latitude1": "N035.54.03.092",
-				"longitude1": "E128.38.24.362",
-				"latitude2": "N035.54.04.276",
-				"longitude2": "E128.38.25.520"
+				"latitude1": "N035.53.57.130",
+				"longitude1": "E128.38.29.783",
+				"latitude2": "N035.54.00.704",
+				"longitude2": "E128.38.23.297"
 			},
 			{
-				"latitude1": "N035.54.04.276",
-				"longitude1": "E128.38.25.520",
-				"latitude2": "N035.54.04.839",
-				"longitude2": "E128.38.26.018"
+				"latitude1": "N035.54.00.704",
+				"longitude1": "E128.38.23.297",
+				"latitude2": "N035.54.01.223",
+				"longitude2": "E128.38.22.979"
 			},
 			{
-				"latitude1": "N035.54.04.839",
-				"longitude1": "E128.38.26.018",
-				"latitude2": "N035.54.05.043",
-				"longitude2": "E128.38.26.290"
+				"latitude1": "N035.54.01.223",
+				"longitude1": "E128.38.22.979",
+				"latitude2": "N035.54.01.490",
+				"longitude2": "E128.38.22.902"
 			},
 			{
-				"latitude1": "N035.54.05.043",
-				"longitude1": "E128.38.26.290",
-				"latitude2": "N035.54.05.120",
-				"longitude2": "E128.38.26.637"
+				"latitude1": "N035.54.01.490",
+				"longitude1": "E128.38.22.902",
+				"latitude2": "N035.54.01.757",
+				"longitude2": "E128.38.22.883"
 			},
 			{
-				"latitude1": "N035.54.05.120",
-				"longitude1": "E128.38.26.637",
-				"latitude2": "N035.54.05.112",
-				"longitude2": "E128.38.27.124"
+				"latitude1": "N035.54.01.757",
+				"longitude1": "E128.38.22.883",
+				"latitude2": "N035.54.02.139",
+				"longitude2": "E128.38.23.038"
 			},
 			{
-				"latitude1": "N035.54.05.112",
-				"longitude1": "E128.38.27.124",
-				"latitude2": "N035.53.57.585",
-				"longitude2": "E128.38.41.073"
+				"latitude1": "N035.54.02.139",
+				"longitude1": "E128.38.23.038",
+				"latitude2": "N035.54.02.419",
+				"longitude2": "E128.38.23.232"
 			},
 			{
-				"latitude1": "N035.53.57.585",
-				"longitude1": "E128.38.41.073",
-				"latitude2": "N035.53.56.660",
-				"longitude2": "E128.38.40.332"
+				"latitude1": "N035.54.02.419",
+				"longitude1": "E128.38.23.232",
+				"latitude2": "N035.54.04.448",
+				"longitude2": "E128.38.25.119"
 			},
 			{
-				"latitude1": "N035.53.56.660",
-				"longitude1": "E128.38.40.332",
-				"latitude2": "N035.53.57.705",
-				"longitude2": "E128.38.38.249"
+				"latitude1": "N035.54.04.448",
+				"longitude1": "E128.38.25.119",
+				"latitude2": "N035.54.05.046",
+				"longitude2": "E128.38.25.680"
 			},
 			{
-				"latitude1": "N035.53.57.705",
-				"longitude1": "E128.38.38.249",
-				"latitude2": "N035.53.56.571",
-				"longitude2": "E128.38.37.358"
+				"latitude1": "N035.54.05.046",
+				"longitude1": "E128.38.25.680",
+				"latitude2": "N035.54.05.348",
+				"longitude2": "E128.38.26.125"
 			},
 			{
-				"latitude1": "N035.53.54.924",
-				"longitude1": "E128.38.25.920",
-				"latitude2": "N035.53.54.682",
-				"longitude2": "E128.38.25.901"
+				"latitude1": "N035.54.05.348",
+				"longitude1": "E128.38.26.125",
+				"latitude2": "N035.54.05.444",
+				"longitude2": "E128.38.26.583"
 			},
 			{
-				"latitude1": "N035.53.56.571",
-				"longitude1": "E128.38.37.358",
-				"latitude2": "N035.53.55.501",
-				"longitude2": "E128.38.39.424"
+				"latitude1": "N035.54.05.444",
+				"longitude1": "E128.38.26.583",
+				"latitude2": "N035.54.05.428",
+				"longitude2": "E128.38.27.037"
 			},
 			{
-				"latitude1": "N035.53.55.501",
-				"longitude1": "E128.38.39.424",
-				"latitude2": "N035.53.55.096",
-				"longitude2": "E128.38.39.030"
+				"latitude1": "N035.54.05.428",
+				"longitude1": "E128.38.27.037",
+				"latitude2": "N035.54.05.280",
+				"longitude2": "E128.38.27.461"
 			},
 			{
-				"latitude1": "N035.53.55.096",
-				"longitude1": "E128.38.39.030",
-				"latitude2": "N035.53.50.736",
-				"longitude2": "E128.38.46.344"
+				"latitude1": "N035.54.05.280",
+				"longitude1": "E128.38.27.461",
+				"latitude2": "N035.54.03.955",
+				"longitude2": "E128.38.30.212"
 			},
 			{
-				"latitude1": "N035.53.50.736",
-				"longitude1": "E128.38.46.344",
-				"latitude2": "N035.53.48.478",
-				"longitude2": "E128.38.50.093"
+				"latitude1": "N035.54.03.955",
+				"longitude1": "E128.38.30.212",
+				"latitude2": "N035.53.57.827",
+				"longitude2": "E128.38.41.285"
 			},
 			{
-				"latitude1": "N035.53.48.478",
-				"longitude1": "E128.38.50.093",
-				"latitude2": "N035.53.48.852",
-				"longitude2": "E128.38.50.394"
+				"latitude1": "N035.53.57.827",
+				"longitude1": "E128.38.41.285",
+				"latitude2": "N035.53.56.616",
+				"longitude2": "E128.38.40.303"
 			},
 			{
-				"latitude1": "N035.53.48.852",
-				"longitude1": "E128.38.50.394",
-				"latitude2": "N035.53.47.630",
-				"longitude2": "E128.38.52.725"
+				"latitude1": "N035.53.56.616",
+				"longitude1": "E128.38.40.303",
+				"latitude2": "N035.53.57.732",
+				"longitude2": "E128.38.38.186"
 			},
 			{
-				"latitude1": "N035.53.47.630",
-				"longitude1": "E128.38.52.725",
-				"latitude2": "N035.53.47.826",
-				"longitude2": "E128.38.53.067"
+				"latitude1": "N035.53.57.732",
+				"longitude1": "E128.38.38.186",
+				"latitude2": "N035.53.56.625",
+				"longitude2": "E128.38.37.295"
 			},
 			{
-				"latitude1": "N035.53.47.826",
-				"longitude1": "E128.38.53.067",
-				"latitude2": "N035.53.47.595",
-				"longitude2": "E128.38.53.472"
+				"latitude1": "N035.53.56.625",
+				"longitude1": "E128.38.37.295",
+				"latitude2": "N035.53.55.645",
+				"longitude2": "E128.38.39.143"
 			},
 			{
-				"latitude1": "N035.53.47.595",
-				"longitude1": "E128.38.53.472",
-				"latitude2": "N035.53.47.779",
-				"longitude2": "E128.38.53.685"
+				"latitude1": "N035.53.55.645",
+				"longitude1": "E128.38.39.143",
+				"latitude2": "N035.53.54.916",
+				"longitude2": "E128.38.38.580"
 			},
 			{
-				"latitude1": "N035.53.47.779",
-				"longitude1": "E128.38.53.685",
+				"latitude1": "N035.53.54.916",
+				"longitude1": "E128.38.38.580",
+				"latitude2": "N035.53.48.673",
+				"longitude2": "E128.38.50.228"
+			},
+			{
+				"latitude1": "N035.53.48.673",
+				"longitude1": "E128.38.50.228",
+				"latitude2": "N035.53.49.313",
+				"longitude2": "E128.38.50.751"
+			},
+			{
+				"latitude1": "N035.53.49.313",
+				"longitude1": "E128.38.50.751",
 				"latitude2": "N035.53.47.502",
-				"longitude2": "E128.38.54.177"
-			},
-			{
-				"latitude1": "N035.53.54.682",
-				"longitude1": "E128.38.25.901",
-				"latitude2": "N035.53.53.682",
-				"longitude2": "E128.38.27.581"
+				"longitude2": "E128.38.54.176"
 			},
 			{
 				"latitude1": "N035.53.47.502",
-				"longitude1": "E128.38.54.177",
-				"latitude2": "N035.53.48.772",
-				"longitude2": "E128.38.55.416"
+				"longitude1": "E128.38.54.176",
+				"latitude2": "N035.53.48.830",
+				"longitude2": "E128.38.55.382"
 			},
 			{
-				"latitude1": "N035.53.48.772",
-				"longitude1": "E128.38.55.416",
-				"latitude2": "N035.53.48.366",
-				"longitude2": "E128.38.56.202"
+				"latitude1": "N035.53.48.830",
+				"longitude1": "E128.38.55.382",
+				"latitude2": "N035.53.48.506",
+				"longitude2": "E128.38.56.033"
 			},
 			{
-				"latitude1": "N035.53.48.366",
-				"longitude1": "E128.38.56.202",
-				"latitude2": "N035.53.48.907",
-				"longitude2": "E128.38.56.695"
+				"latitude1": "N035.53.48.506",
+				"longitude1": "E128.38.56.033",
+				"latitude2": "N035.53.49.302",
+				"longitude2": "E128.38.56.690"
 			},
 			{
-				"latitude1": "N035.53.48.907",
-				"longitude1": "E128.38.56.695",
-				"latitude2": "N035.53.36.489",
-				"longitude2": "E128.39.19.405"
+				"latitude1": "N035.53.49.302",
+				"longitude1": "E128.38.56.690",
+				"latitude2": "N035.53.36.528",
+				"longitude2": "E128.39.19.718"
 			},
 			{
-				"latitude1": "N035.53.36.489",
-				"longitude1": "E128.39.19.405",
-				"latitude2": "N035.53.35.095",
-				"longitude2": "E128.39.20.544"
+				"latitude1": "N035.53.36.528",
+				"longitude1": "E128.39.19.718",
+				"latitude2": "N035.53.36.333",
+				"longitude2": "E128.39.19.996"
 			},
 			{
-				"latitude1": "N035.53.35.095",
-				"longitude1": "E128.39.20.544",
-				"latitude2": "N035.53.33.386",
-				"longitude2": "E128.39.23.963"
+				"latitude1": "N035.53.36.333",
+				"longitude1": "E128.39.19.996",
+				"latitude2": "N035.53.36.122",
+				"longitude2": "E128.39.20.236"
 			},
 			{
-				"latitude1": "N035.53.33.386",
-				"longitude1": "E128.39.23.963",
-				"latitude2": "N035.53.33.160",
-				"longitude2": "E128.39.25.428"
+				"latitude1": "N035.53.36.122",
+				"longitude1": "E128.39.20.236",
+				"latitude2": "N035.53.35.924",
+				"longitude2": "E128.39.20.427"
 			},
 			{
-				"latitude1": "N035.53.33.160",
-				"longitude1": "E128.39.25.428",
-				"latitude2": "N035.53.23.515",
-				"longitude2": "E128.39.42.828"
+				"latitude1": "N035.53.35.924",
+				"longitude1": "E128.39.20.427",
+				"latitude2": "N035.53.35.686",
+				"longitude2": "E128.39.20.570"
 			},
 			{
-				"latitude1": "N035.53.23.515",
-				"longitude1": "E128.39.42.828",
-				"latitude2": "N035.53.22.479",
-				"longitude2": "E128.39.42.006"
+				"latitude1": "N035.53.35.686",
+				"longitude1": "E128.39.20.570",
+				"latitude2": "N035.53.35.466",
+				"longitude2": "E128.39.20.740"
 			},
 			{
-				"latitude1": "N035.53.22.479",
-				"longitude1": "E128.39.42.006",
-				"latitude2": "N035.53.21.056",
-				"longitude2": "E128.39.43.410"
+				"latitude1": "N035.53.35.466",
+				"longitude1": "E128.39.20.740",
+				"latitude2": "N035.53.35.245",
+				"longitude2": "E128.39.20.919"
 			},
 			{
-				"latitude1": "N035.53.53.682",
-				"longitude1": "E128.38.27.581",
-				"latitude2": "N035.53.57.215",
-				"longitude2": "E128.38.30.327"
+				"latitude1": "N035.53.35.245",
+				"longitude1": "E128.39.20.919",
+				"latitude2": "N035.53.35.033",
+				"longitude2": "E128.39.21.137"
 			},
 			{
-				"latitude1": "N035.53.21.056",
-				"longitude1": "E128.39.43.410",
-				"latitude2": "N035.53.04.383",
-				"longitude2": "E128.40.13.079"
+				"latitude1": "N035.53.35.033",
+				"longitude1": "E128.39.21.137",
+				"latitude2": "N035.53.34.829",
+				"longitude2": "E128.39.21.364"
 			},
 			{
-				"latitude1": "N035.53.04.383",
-				"longitude1": "E128.40.13.079",
-				"latitude2": "N035.53.08.649",
-				"longitude2": "E128.40.16.974"
+				"latitude1": "N035.53.34.829",
+				"longitude1": "E128.39.21.364",
+				"latitude2": "N035.53.33.526",
+				"longitude2": "E128.39.23.726"
 			},
 			{
-				"latitude1": "N035.53.08.649",
-				"longitude1": "E128.40.16.974",
-				"latitude2": "N035.53.10.883",
-				"longitude2": "E128.40.15.965"
+				"latitude1": "N035.53.33.526",
+				"longitude1": "E128.39.23.726",
+				"latitude2": "N035.53.33.415",
+				"longitude2": "E128.39.24.053"
 			},
 			{
-				"latitude1": "N035.53.57.215",
-				"longitude1": "E128.38.30.327",
-				"latitude2": "N035.53.58.647",
-				"longitude2": "E128.38.27.919"
+				"latitude1": "N035.53.33.415",
+				"longitude1": "E128.39.24.053",
+				"latitude2": "N035.53.33.336",
+				"longitude2": "E128.39.24.400"
 			},
 			{
-				"latitude1": "N035.53.58.647",
-				"longitude1": "E128.38.27.919",
-				"latitude2": "N035.53.59.325",
-				"longitude2": "E128.38.27.412"
+				"latitude1": "N035.53.33.336",
+				"longitude1": "E128.39.24.400",
+				"latitude2": "N035.53.33.284",
+				"longitude2": "E128.39.24.727"
 			},
 			{
-				"latitude1": "N035.53.59.325",
-				"longitude1": "E128.38.27.412",
-				"latitude2": "N035.54.00.837",
-				"longitude2": "E128.38.24.807"
+				"latitude1": "N035.53.33.284",
+				"longitude1": "E128.39.24.727",
+				"latitude2": "N035.53.33.255",
+				"longitude2": "E128.39.25.055"
 			},
 			{
-				"latitude1": "N035.54.00.837",
-				"longitude1": "E128.38.24.807",
-				"latitude2": "N035.54.01.566",
-				"longitude2": "E128.38.24.283"
+				"latitude1": "N035.53.33.255",
+				"longitude1": "E128.39.25.055",
+				"latitude2": "N035.53.33.224",
+				"longitude2": "E128.39.25.384"
 			},
 			{
-				"latitude1": "N035.54.01.566",
-				"longitude1": "E128.38.24.283",
-				"latitude2": "N035.54.02.452",
-				"longitude2": "E128.38.23.693"
+				"latitude1": "N035.53.33.224",
+				"longitude1": "E128.39.25.384",
+				"latitude2": "N035.53.33.147",
+				"longitude2": "E128.39.25.695"
+			},
+			{
+				"latitude1": "N035.53.33.147",
+				"longitude1": "E128.39.25.695",
+				"latitude2": "N035.53.33.049",
+				"longitude2": "E128.39.25.976"
+			},
+			{
+				"latitude1": "N035.53.33.049",
+				"longitude1": "E128.39.25.976",
+				"latitude2": "N035.53.32.937",
+				"longitude2": "E128.39.26.258"
+			},
+			{
+				"latitude1": "N035.53.32.937",
+				"longitude1": "E128.39.26.258",
+				"latitude2": "N035.53.23.730",
+				"longitude2": "E128.39.42.910"
+			},
+			{
+				"latitude1": "N035.53.23.730",
+				"longitude1": "E128.39.42.910",
+				"latitude2": "N035.53.23.460",
+				"longitude2": "E128.39.42.892"
+			},
+			{
+				"latitude1": "N035.53.23.460",
+				"longitude1": "E128.39.42.892",
+				"latitude2": "N035.53.22.635",
+				"longitude2": "E128.39.41.764"
+			},
+			{
+				"latitude1": "N035.53.22.635",
+				"longitude1": "E128.39.41.764",
+				"latitude2": "N035.53.21.787",
+				"longitude2": "E128.39.42.642"
+			},
+			{
+				"latitude1": "N035.53.21.787",
+				"longitude1": "E128.39.42.642",
+				"latitude2": "N035.53.05.040",
+				"longitude2": "E128.40.13.648"
+			},
+			{
+				"latitude1": "N035.53.05.040",
+				"longitude1": "E128.40.13.648",
+				"latitude2": "N035.53.08.688",
+				"longitude2": "E128.40.16.674"
+			},
+			{
+				"latitude1": "N035.53.08.688",
+				"longitude1": "E128.40.16.674",
+				"latitude2": "N035.53.10.288",
+				"longitude2": "E128.40.15.733"
+			},
+			{
+				"latitude1": "N035.53.10.288",
+				"longitude1": "E128.40.15.733",
+				"latitude2": "N035.53.10.863",
+				"longitude2": "E128.40.16.211"
 			}
 		]
 	},
@@ -776,88 +1118,154 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.45.180",
-				"longitude1": "E128.39.13.715",
-				"latitude2": "N035.53.44.841",
-				"longitude2": "E128.39.13.978"
+				"latitude1": "N035.53.59.559",
+				"longitude1": "E128.38.46.132",
+				"latitude2": "N035.53.59.822",
+				"longitude2": "E128.38.46.473"
 			},
 			{
-				"latitude1": "N035.53.57.665",
-				"longitude1": "E128.38.45.351",
-				"latitude2": "N035.53.59.403",
-				"longitude2": "E128.38.46.504"
+				"latitude1": "N035.53.59.822",
+				"longitude1": "E128.38.46.473",
+				"latitude2": "N035.53.59.952",
+				"longitude2": "E128.38.46.872"
 			},
 			{
-				"latitude1": "N035.53.59.403",
-				"longitude1": "E128.38.46.504",
-				"latitude2": "N035.53.59.568",
-				"longitude2": "E128.38.46.753"
+				"latitude1": "N035.53.59.952",
+				"longitude1": "E128.38.46.872",
+				"latitude2": "N035.53.59.954",
+				"longitude2": "E128.38.47.327"
 			},
 			{
-				"latitude1": "N035.53.59.568",
-				"longitude1": "E128.38.46.753",
-				"latitude2": "N035.53.59.655",
-				"longitude2": "E128.38.47.138"
+				"latitude1": "N035.53.59.954",
+				"longitude1": "E128.38.47.327",
+				"latitude2": "N035.53.59.854",
+				"longitude2": "E128.38.47.744"
 			},
 			{
-				"latitude1": "N035.53.59.655",
-				"longitude1": "E128.38.47.138",
-				"latitude2": "N035.53.59.585",
-				"longitude2": "E128.38.47.609"
+				"latitude1": "N035.53.59.854",
+				"longitude1": "E128.38.47.744",
+				"latitude2": "N035.53.45.497",
+				"longitude2": "E128.39.13.678"
 			},
 			{
-				"latitude1": "N035.53.59.585",
-				"longitude1": "E128.38.47.609",
-				"latitude2": "N035.53.45.216",
-				"longitude2": "E128.39.13.640"
+				"latitude1": "N035.53.45.497",
+				"longitude1": "E128.39.13.678",
+				"latitude2": "N035.53.45.365",
+				"longitude2": "E128.39.13.829"
 			},
 			{
-				"latitude1": "N035.53.44.841",
-				"longitude1": "E128.39.13.978",
-				"latitude2": "N035.53.44.502",
-				"longitude2": "E128.39.13.932"
+				"latitude1": "N035.53.45.365",
+				"longitude1": "E128.39.13.829",
+				"latitude2": "N035.53.45.218",
+				"longitude2": "E128.39.13.960"
 			},
 			{
-				"latitude1": "N035.53.44.502",
-				"longitude1": "E128.39.13.932",
-				"latitude2": "N035.53.43.446",
-				"longitude2": "E128.39.13.024"
+				"latitude1": "N035.53.45.218",
+				"longitude1": "E128.39.13.960",
+				"latitude2": "N035.53.45.063",
+				"longitude2": "E128.39.14.048"
 			},
 			{
-				"latitude1": "N035.53.43.446",
-				"longitude1": "E128.39.13.024",
-				"latitude2": "N035.53.42.668",
-				"longitude2": "E128.39.12.347"
+				"latitude1": "N035.53.45.063",
+				"longitude1": "E128.39.14.048",
+				"latitude2": "N035.53.44.892",
+				"longitude2": "E128.39.14.107"
 			},
 			{
-				"latitude1": "N035.53.42.668",
-				"longitude1": "E128.39.12.347",
-				"latitude2": "N035.53.42.475",
-				"longitude2": "E128.39.11.806"
+				"latitude1": "N035.53.44.892",
+				"longitude1": "E128.39.14.107",
+				"latitude2": "N035.53.44.699",
+				"longitude2": "E128.39.14.129"
 			},
 			{
-				"latitude1": "N035.53.42.475",
-				"longitude1": "E128.39.11.806",
-				"latitude2": "N035.53.42.509",
-				"longitude2": "E128.39.11.497"
+				"latitude1": "N035.53.44.699",
+				"longitude1": "E128.39.14.129",
+				"latitude2": "N035.53.44.507",
+				"longitude2": "E128.39.14.123"
 			},
 			{
-				"latitude1": "N035.53.42.509",
-				"longitude1": "E128.39.11.497",
-				"latitude2": "N035.53.43.341",
-				"longitude2": "E128.39.09.782"
+				"latitude1": "N035.53.44.507",
+				"longitude1": "E128.39.14.123",
+				"latitude2": "N035.53.44.311",
+				"longitude2": "E128.39.14.030"
 			},
 			{
-				"latitude1": "N035.53.43.341",
-				"longitude1": "E128.39.09.782",
-				"latitude2": "N035.53.55.791",
-				"longitude2": "E128.38.47.428"
+				"latitude1": "N035.53.44.311",
+				"longitude1": "E128.39.14.030",
+				"latitude2": "N035.53.44.122",
+				"longitude2": "E128.39.13.907"
 			},
 			{
-				"latitude1": "N035.53.55.791",
-				"longitude1": "E128.38.47.428",
-				"latitude2": "N035.53.57.665",
-				"longitude2": "E128.38.45.351"
+				"latitude1": "N035.53.44.122",
+				"longitude1": "E128.39.13.907",
+				"latitude2": "N035.53.42.566",
+				"longitude2": "E128.39.12.602"
+			},
+			{
+				"latitude1": "N035.53.42.566",
+				"longitude1": "E128.39.12.602",
+				"latitude2": "N035.53.42.342",
+				"longitude2": "E128.39.12.243"
+			},
+			{
+				"latitude1": "N035.53.42.342",
+				"longitude1": "E128.39.12.243",
+				"latitude2": "N035.53.42.236",
+				"longitude2": "E128.39.11.815"
+			},
+			{
+				"latitude1": "N035.53.42.236",
+				"longitude1": "E128.39.11.815",
+				"latitude2": "N035.53.42.225",
+				"longitude2": "E128.39.11.373"
+			},
+			{
+				"latitude1": "N035.53.42.225",
+				"longitude1": "E128.39.11.373",
+				"latitude2": "N035.53.42.300",
+				"longitude2": "E128.39.10.979"
+			},
+			{
+				"latitude1": "N035.53.42.300",
+				"longitude1": "E128.39.10.979",
+				"latitude2": "N035.53.56.850",
+				"longitude2": "E128.38.44.642"
+			},
+			{
+				"latitude1": "N035.53.56.850",
+				"longitude1": "E128.38.44.642",
+				"latitude2": "N035.53.56.951",
+				"longitude2": "E128.38.44.523"
+			},
+			{
+				"latitude1": "N035.53.56.951",
+				"longitude1": "E128.38.44.523",
+				"latitude2": "N035.53.57.059",
+				"longitude2": "E128.38.44.442"
+			},
+			{
+				"latitude1": "N035.53.57.059",
+				"longitude1": "E128.38.44.442",
+				"latitude2": "N035.53.57.291",
+				"longitude2": "E128.38.44.377"
+			},
+			{
+				"latitude1": "N035.53.57.291",
+				"longitude1": "E128.38.44.377",
+				"latitude2": "N035.53.57.524",
+				"longitude2": "E128.38.44.448"
+			},
+			{
+				"latitude1": "N035.53.57.524",
+				"longitude1": "E128.38.44.448",
+				"latitude2": "N035.53.57.725",
+				"longitude2": "E128.38.44.605"
+			},
+			{
+				"latitude1": "N035.53.57.725",
+				"longitude1": "E128.38.44.605",
+				"latitude2": "N035.53.59.557",
+				"longitude2": "E128.38.46.128"
 			}
 		]
 	},
@@ -868,82 +1276,160 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.17.197",
-				"longitude1": "E128.40.13.856",
-				"latitude2": "N035.53.16.498",
-				"longitude2": "E128.40.14.217"
+				"latitude1": "N035.53.28.845",
+				"longitude1": "E128.39.46.964",
+				"latitude2": "N035.53.29.177",
+				"longitude2": "E128.39.46.660"
 			},
 			{
-				"latitude1": "N035.53.29.608",
-				"longitude1": "E128.39.46.717",
-				"latitude2": "N035.53.30.445",
-				"longitude2": "E128.39.47.094"
+				"latitude1": "N035.53.29.177",
+				"longitude1": "E128.39.46.660",
+				"latitude2": "N035.53.29.532",
+				"longitude2": "E128.39.46.530"
 			},
 			{
-				"latitude1": "N035.53.30.445",
-				"longitude1": "E128.39.47.094",
-				"latitude2": "N035.53.31.016",
-				"longitude2": "E128.39.47.806"
+				"latitude1": "N035.53.29.532",
+				"longitude1": "E128.39.46.530",
+				"latitude2": "N035.53.29.879",
+				"longitude2": "E128.39.46.564"
 			},
 			{
-				"latitude1": "N035.53.31.016",
-				"longitude1": "E128.39.47.806",
-				"latitude2": "N035.53.31.059",
-				"longitude2": "E128.39.48.748"
+				"latitude1": "N035.53.29.879",
+				"longitude1": "E128.39.46.564",
+				"latitude2": "N035.53.30.179",
+				"longitude2": "E128.39.46.724"
 			},
 			{
-				"latitude1": "N035.53.31.059",
-				"longitude1": "E128.39.48.748",
-				"latitude2": "N035.53.17.207",
-				"longitude2": "E128.40.13.882"
+				"latitude1": "N035.53.30.179",
+				"longitude1": "E128.39.46.724",
+				"latitude2": "N035.53.30.685",
+				"longitude2": "E128.39.47.159"
 			},
 			{
-				"latitude1": "N035.53.16.498",
-				"longitude1": "E128.40.14.217",
-				"latitude2": "N035.53.16.019",
-				"longitude2": "E128.40.14.111"
+				"latitude1": "N035.53.30.685",
+				"longitude1": "E128.39.47.159",
+				"latitude2": "N035.53.30.824",
+				"longitude2": "E128.39.47.314"
 			},
 			{
-				"latitude1": "N035.53.16.019",
-				"longitude1": "E128.40.14.111",
-				"latitude2": "N035.53.15.228",
-				"longitude2": "E128.40.13.523"
+				"latitude1": "N035.53.30.824",
+				"longitude1": "E128.39.47.314",
+				"latitude2": "N035.53.30.946",
+				"longitude2": "E128.39.47.547"
 			},
 			{
-				"latitude1": "N035.53.15.228",
-				"longitude1": "E128.40.13.523",
-				"latitude2": "N035.53.15.032",
-				"longitude2": "E128.40.12.911"
+				"latitude1": "N035.53.30.946",
+				"longitude1": "E128.39.47.547",
+				"latitude2": "N035.53.31.081",
+				"longitude2": "E128.39.48.011"
 			},
 			{
-				"latitude1": "N035.53.15.032",
-				"longitude1": "E128.40.12.911",
-				"latitude2": "N035.53.15.150",
-				"longitude2": "E128.40.12.416"
+				"latitude1": "N035.53.31.081",
+				"longitude1": "E128.39.48.011",
+				"latitude2": "N035.53.31.080",
+				"longitude2": "E128.39.48.510"
 			},
 			{
-				"latitude1": "N035.53.15.150",
-				"longitude1": "E128.40.12.416",
-				"latitude2": "N035.53.23.040",
-				"longitude2": "E128.39.57.892"
+				"latitude1": "N035.53.31.080",
+				"longitude1": "E128.39.48.510",
+				"latitude2": "N035.53.30.992",
+				"longitude2": "E128.39.49.019"
 			},
 			{
-				"latitude1": "N035.53.23.040",
-				"longitude1": "E128.39.57.892",
-				"latitude2": "N035.53.27.642",
-				"longitude2": "E128.39.49.683"
+				"latitude1": "N035.53.30.992",
+				"longitude1": "E128.39.49.019",
+				"latitude2": "N035.53.17.258",
+				"longitude2": "E128.40.13.829"
 			},
 			{
-				"latitude1": "N035.53.27.642",
-				"longitude1": "E128.39.49.683",
-				"latitude2": "N035.53.28.959",
-				"longitude2": "E128.39.46.881"
+				"latitude1": "N035.53.17.258",
+				"longitude1": "E128.40.13.829",
+				"latitude2": "N035.53.17.063",
+				"longitude2": "E128.40.13.999"
 			},
 			{
-				"latitude1": "N035.53.28.959",
-				"longitude1": "E128.39.46.881",
-				"latitude2": "N035.53.29.608",
-				"longitude2": "E128.39.46.717"
+				"latitude1": "N035.53.17.063",
+				"longitude1": "E128.40.13.999",
+				"latitude2": "N035.53.16.856",
+				"longitude2": "E128.40.14.123"
+			},
+			{
+				"latitude1": "N035.53.16.856",
+				"longitude1": "E128.40.14.123",
+				"latitude2": "N035.53.16.670",
+				"longitude2": "E128.40.14.204"
+			},
+			{
+				"latitude1": "N035.53.16.670",
+				"longitude1": "E128.40.14.204",
+				"latitude2": "N035.53.16.413",
+				"longitude2": "E128.40.14.264"
+			},
+			{
+				"latitude1": "N035.53.16.413",
+				"longitude1": "E128.40.14.264",
+				"latitude2": "N035.53.16.204",
+				"longitude2": "E128.40.14.260"
+			},
+			{
+				"latitude1": "N035.53.16.204",
+				"longitude1": "E128.40.14.260",
+				"latitude2": "N035.53.15.988",
+				"longitude2": "E128.40.14.218"
+			},
+			{
+				"latitude1": "N035.53.15.988",
+				"longitude1": "E128.40.14.218",
+				"latitude2": "N035.53.15.828",
+				"longitude2": "E128.40.14.133"
+			},
+			{
+				"latitude1": "N035.53.15.828",
+				"longitude1": "E128.40.14.133",
+				"latitude2": "N035.53.15.169",
+				"longitude2": "E128.40.13.581"
+			},
+			{
+				"latitude1": "N035.53.15.169",
+				"longitude1": "E128.40.13.581",
+				"latitude2": "N035.53.15.068",
+				"longitude2": "E128.40.13.442"
+			},
+			{
+				"latitude1": "N035.53.15.068",
+				"longitude1": "E128.40.13.442",
+				"latitude2": "N035.53.14.983",
+				"longitude2": "E128.40.13.292"
+			},
+			{
+				"latitude1": "N035.53.14.983",
+				"longitude1": "E128.40.13.292",
+				"latitude2": "N035.53.14.918",
+				"longitude2": "E128.40.13.119"
+			},
+			{
+				"latitude1": "N035.53.14.918",
+				"longitude1": "E128.40.13.119",
+				"latitude2": "N035.53.14.856",
+				"longitude2": "E128.40.12.897"
+			},
+			{
+				"latitude1": "N035.53.14.856",
+				"longitude1": "E128.40.12.897",
+				"latitude2": "N035.53.14.846",
+				"longitude2": "E128.40.12.504"
+			},
+			{
+				"latitude1": "N035.53.14.846",
+				"longitude1": "E128.40.12.504",
+				"latitude2": "N035.53.14.916",
+				"longitude2": "E128.40.12.115"
+			},
+			{
+				"latitude1": "N035.53.14.916",
+				"longitude1": "E128.40.12.115",
+				"latitude2": "N035.53.28.844",
+				"longitude2": "E128.39.46.968"
 			}
 		]
 	},
@@ -954,82 +1440,142 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.09.452",
-				"longitude1": "E128.40.11.031",
-				"latitude2": "N035.53.09.395",
-				"longitude2": "E128.40.11.668"
+				"latitude1": "N035.53.24.361",
+				"longitude1": "E128.39.43.357",
+				"latitude2": "N035.53.09.251",
+				"longitude2": "E128.40.10.632"
 			},
 			{
-				"latitude1": "N035.53.25.284",
-				"longitude1": "E128.39.43.461",
-				"latitude2": "N035.53.24.983",
-				"longitude2": "E128.39.43.440"
+				"latitude1": "N035.53.09.251",
+				"longitude1": "E128.40.10.632",
+				"latitude2": "N035.53.09.092",
+				"longitude2": "E128.40.11.059"
 			},
 			{
-				"latitude1": "N035.53.24.983",
-				"longitude1": "E128.39.43.440",
-				"latitude2": "N035.53.24.682",
-				"longitude2": "E128.39.43.613"
+				"latitude1": "N035.53.09.092",
+				"longitude1": "E128.40.11.059",
+				"latitude2": "N035.53.09.081",
+				"longitude2": "E128.40.11.545"
 			},
 			{
-				"latitude1": "N035.53.24.682",
-				"longitude1": "E128.39.43.613",
-				"latitude2": "N035.53.17.366",
-				"longitude2": "E128.39.56.937"
+				"latitude1": "N035.53.09.081",
+				"longitude1": "E128.40.11.545",
+				"latitude2": "N035.53.09.136",
+				"longitude2": "E128.40.11.802"
 			},
 			{
-				"latitude1": "N035.53.17.366",
-				"longitude1": "E128.39.56.937",
-				"latitude2": "N035.53.09.447",
-				"longitude2": "E128.40.11.028"
+				"latitude1": "N035.53.09.136",
+				"longitude1": "E128.40.11.802",
+				"latitude2": "N035.53.09.223",
+				"longitude2": "E128.40.12.021"
 			},
 			{
-				"latitude1": "N035.53.09.395",
-				"longitude1": "E128.40.11.668",
-				"latitude2": "N035.53.09.651",
-				"longitude2": "E128.40.12.304"
+				"latitude1": "N035.53.09.223",
+				"longitude1": "E128.40.12.021",
+				"latitude2": "N035.53.09.376",
+				"longitude2": "E128.40.12.244"
 			},
 			{
-				"latitude1": "N035.53.09.651",
-				"longitude1": "E128.40.12.304",
-				"latitude2": "N035.53.11.334",
-				"longitude2": "E128.40.13.658"
+				"latitude1": "N035.53.09.376",
+				"longitude1": "E128.40.12.244",
+				"latitude2": "N035.53.09.537",
+				"longitude2": "E128.40.12.400"
 			},
 			{
-				"latitude1": "N035.53.11.334",
-				"longitude1": "E128.40.13.658",
-				"latitude2": "N035.53.11.752",
-				"longitude2": "E128.40.13.641"
+				"latitude1": "N035.53.09.537",
+				"longitude1": "E128.40.12.400",
+				"latitude2": "N035.53.11.114",
+				"longitude2": "E128.40.13.711"
 			},
 			{
-				"latitude1": "N035.53.11.752",
-				"longitude1": "E128.40.13.641",
-				"latitude2": "N035.53.12.154",
-				"longitude2": "E128.40.13.298"
+				"latitude1": "N035.53.11.114",
+				"longitude1": "E128.40.13.711",
+				"latitude2": "N035.53.11.270",
+				"longitude2": "E128.40.13.810"
 			},
 			{
-				"latitude1": "N035.53.12.154",
-				"longitude1": "E128.40.13.298",
-				"latitude2": "N035.53.27.321",
-				"longitude2": "E128.39.45.768"
+				"latitude1": "N035.53.11.270",
+				"longitude1": "E128.40.13.810",
+				"latitude2": "N035.53.11.425",
+				"longitude2": "E128.40.13.871"
 			},
 			{
-				"latitude1": "N035.53.27.321",
-				"longitude1": "E128.39.45.768",
-				"latitude2": "N035.53.27.342",
-				"longitude2": "E128.39.45.357"
+				"latitude1": "N035.53.11.425",
+				"longitude1": "E128.40.13.871",
+				"latitude2": "N035.53.11.775",
+				"longitude2": "E128.40.13.877"
 			},
 			{
-				"latitude1": "N035.53.27.342",
-				"longitude1": "E128.39.45.357",
-				"latitude2": "N035.53.27.107",
-				"longitude2": "E128.39.45.041"
+				"latitude1": "N035.53.11.775",
+				"longitude1": "E128.40.13.877",
+				"latitude2": "N035.53.12.109",
+				"longitude2": "E128.40.13.737"
 			},
 			{
-				"latitude1": "N035.53.27.107",
-				"longitude1": "E128.39.45.041",
-				"latitude2": "N035.53.25.284",
-				"longitude2": "E128.39.43.461"
+				"latitude1": "N035.53.12.109",
+				"longitude1": "E128.40.13.737",
+				"latitude2": "N035.53.12.380",
+				"longitude2": "E128.40.13.500"
+			},
+			{
+				"latitude1": "N035.53.12.380",
+				"longitude1": "E128.40.13.500",
+				"latitude2": "N035.53.27.645",
+				"longitude2": "E128.39.45.951"
+			},
+			{
+				"latitude1": "N035.53.27.645",
+				"longitude1": "E128.39.45.951",
+				"latitude2": "N035.53.27.753",
+				"longitude2": "E128.39.45.523"
+			},
+			{
+				"latitude1": "N035.53.27.753",
+				"longitude1": "E128.39.45.523",
+				"latitude2": "N035.53.27.744",
+				"longitude2": "E128.39.45.096"
+			},
+			{
+				"latitude1": "N035.53.27.744",
+				"longitude1": "E128.39.45.096",
+				"latitude2": "N035.53.27.631",
+				"longitude2": "E128.39.44.716"
+			},
+			{
+				"latitude1": "N035.53.27.631",
+				"longitude1": "E128.39.44.716",
+				"latitude2": "N035.53.27.353",
+				"longitude2": "E128.39.44.326"
+			},
+			{
+				"latitude1": "N035.53.27.353",
+				"longitude1": "E128.39.44.326",
+				"latitude2": "N035.53.25.765",
+				"longitude2": "E128.39.43.010"
+			},
+			{
+				"latitude1": "N035.53.25.765",
+				"longitude1": "E128.39.43.010",
+				"latitude2": "N035.53.25.415",
+				"longitude2": "E128.39.42.893"
+			},
+			{
+				"latitude1": "N035.53.25.415",
+				"longitude1": "E128.39.42.893",
+				"latitude2": "N035.53.25.033",
+				"longitude2": "E128.39.42.912"
+			},
+			{
+				"latitude1": "N035.53.25.033",
+				"longitude1": "E128.39.42.912",
+				"latitude2": "N035.53.24.671",
+				"longitude2": "E128.39.43.085"
+			},
+			{
+				"latitude1": "N035.53.24.671",
+				"longitude1": "E128.39.43.085",
+				"latitude2": "N035.53.24.357",
+				"longitude2": "E128.39.43.354"
 			}
 		]
 	},
@@ -1040,94 +1586,130 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.54.00.823",
-				"longitude1": "E128.38.49.693",
-				"latitude2": "N035.53.46.808",
-				"longitude2": "E128.39.15.230"
+				"latitude1": "N035.54.02.688",
+				"longitude1": "E128.38.51.754",
+				"latitude2": "N035.54.02.779",
+				"longitude2": "E128.38.51.203"
 			},
 			{
-				"latitude1": "N035.53.48.830",
-				"longitude1": "E128.39.16.600",
-				"latitude2": "N035.54.02.556",
-				"longitude2": "E128.38.51.513"
+				"latitude1": "N035.54.02.779",
+				"longitude1": "E128.38.51.203",
+				"latitude2": "N035.54.02.751",
+				"longitude2": "E128.38.50.719"
 			},
 			{
-				"latitude1": "N035.54.02.556",
-				"longitude1": "E128.38.51.513",
-				"latitude2": "N035.54.02.590",
-				"longitude2": "E128.38.50.937"
+				"latitude1": "N035.54.02.751",
+				"longitude1": "E128.38.50.719",
+				"latitude2": "N035.54.02.634",
+				"longitude2": "E128.38.50.337"
 			},
 			{
-				"latitude1": "N035.54.02.590",
-				"longitude1": "E128.38.50.937",
-				"latitude2": "N035.54.02.326",
-				"longitude2": "E128.38.50.283"
+				"latitude1": "N035.54.02.634",
+				"longitude1": "E128.38.50.337",
+				"latitude2": "N035.54.02.415",
+				"longitude2": "E128.38.49.993"
 			},
 			{
-				"latitude1": "N035.54.02.326",
-				"longitude1": "E128.38.50.283",
-				"latitude2": "N035.54.01.838",
-				"longitude2": "E128.38.49.825"
+				"latitude1": "N035.54.02.415",
+				"longitude1": "E128.38.49.993",
+				"latitude2": "N035.54.01.888",
+				"longitude2": "E128.38.49.554"
 			},
 			{
-				"latitude1": "N035.54.01.838",
-				"longitude1": "E128.38.49.825",
-				"latitude2": "N035.54.01.303",
-				"longitude2": "E128.38.49.559"
+				"latitude1": "N035.54.01.888",
+				"longitude1": "E128.38.49.554",
+				"latitude2": "N035.54.01.619",
+				"longitude2": "E128.38.49.373"
 			},
 			{
-				"latitude1": "N035.54.01.303",
-				"longitude1": "E128.38.49.559",
-				"latitude2": "N035.54.00.890",
-				"longitude2": "E128.38.49.723"
+				"latitude1": "N035.54.01.619",
+				"longitude1": "E128.38.49.373",
+				"latitude2": "N035.54.01.263",
+				"longitude2": "E128.38.49.298"
 			},
 			{
-				"latitude1": "N035.53.46.808",
-				"longitude1": "E128.39.15.230",
-				"latitude2": "N035.53.46.777",
-				"longitude2": "E128.39.15.832"
+				"latitude1": "N035.54.01.263",
+				"longitude1": "E128.38.49.298",
+				"latitude2": "N035.54.00.885",
+				"longitude2": "E128.38.49.428"
 			},
 			{
-				"latitude1": "N035.53.46.777",
-				"longitude1": "E128.39.15.832",
-				"latitude2": "N035.53.46.919",
-				"longitude2": "E128.39.16.270"
+				"latitude1": "N035.54.00.885",
+				"longitude1": "E128.38.49.428",
+				"latitude2": "N035.54.00.530",
+				"longitude2": "E128.38.49.703"
 			},
 			{
-				"latitude1": "N035.53.46.919",
-				"longitude1": "E128.39.16.270",
-				"latitude2": "N035.53.47.356",
-				"longitude2": "E128.39.16.640"
+				"latitude1": "N035.54.00.530",
+				"longitude1": "E128.38.49.703",
+				"latitude2": "N035.53.46.636",
+				"longitude2": "E128.39.14.808"
 			},
 			{
-				"latitude1": "N035.53.47.356",
-				"longitude1": "E128.39.16.640",
-				"latitude2": "N035.53.47.655",
-				"longitude2": "E128.39.16.847"
+				"latitude1": "N035.53.46.636",
+				"longitude1": "E128.39.14.808",
+				"latitude2": "N035.53.46.589",
+				"longitude2": "E128.39.15.213"
 			},
 			{
-				"latitude1": "N035.53.47.655",
-				"longitude1": "E128.39.16.847",
-				"latitude2": "N035.53.47.982",
-				"longitude2": "E128.39.16.968"
+				"latitude1": "N035.53.46.589",
+				"longitude1": "E128.39.15.213",
+				"latitude2": "N035.53.46.605",
+				"longitude2": "E128.39.15.618"
 			},
 			{
-				"latitude1": "N035.53.47.982",
-				"longitude1": "E128.39.16.968",
-				"latitude2": "N035.53.48.332",
-				"longitude2": "E128.39.16.964"
+				"latitude1": "N035.53.46.605",
+				"longitude1": "E128.39.15.618",
+				"latitude2": "N035.53.46.734",
+				"longitude2": "E128.39.15.971"
 			},
 			{
-				"latitude1": "N035.53.48.332",
-				"longitude1": "E128.39.16.964",
-				"latitude2": "N035.53.48.589",
-				"longitude2": "E128.39.16.888"
+				"latitude1": "N035.53.46.734",
+				"longitude1": "E128.39.15.971",
+				"latitude2": "N035.53.46.958",
+				"longitude2": "E128.39.16.284"
 			},
 			{
-				"latitude1": "N035.53.48.589",
-				"longitude1": "E128.39.16.888",
-				"latitude2": "N035.53.48.830",
-				"longitude2": "E128.39.16.600"
+				"latitude1": "N035.53.46.958",
+				"longitude1": "E128.39.16.284",
+				"latitude2": "N035.53.47.490",
+				"longitude2": "E128.39.16.731"
+			},
+			{
+				"latitude1": "N035.53.47.490",
+				"longitude1": "E128.39.16.731",
+				"latitude2": "N035.53.47.663",
+				"longitude2": "E128.39.16.822"
+			},
+			{
+				"latitude1": "N035.53.47.663",
+				"longitude1": "E128.39.16.822",
+				"latitude2": "N035.53.47.929",
+				"longitude2": "E128.39.16.875"
+			},
+			{
+				"latitude1": "N035.53.47.929",
+				"longitude1": "E128.39.16.875",
+				"latitude2": "N035.53.48.361",
+				"longitude2": "E128.39.16.855"
+			},
+			{
+				"latitude1": "N035.53.48.361",
+				"longitude1": "E128.39.16.855",
+				"latitude2": "N035.53.48.734",
+				"longitude2": "E128.39.16.685"
+			},
+			{
+				"latitude1": "N035.53.48.734",
+				"longitude1": "E128.39.16.685",
+				"latitude2": "N035.53.49.044",
+				"longitude2": "E128.39.16.400"
+			},
+			{
+				"latitude1": "N035.53.49.044",
+				"longitude1": "E128.39.16.400",
+				"latitude2": "N035.54.02.686",
+				"longitude2": "E128.38.51.755"
 			}
 		]
 	},
@@ -1138,106 +1720,358 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.54.06.345",
-				"longitude1": "E128.38.48.409",
-				"latitude2": "N035.54.08.173",
-				"longitude2": "E128.38.50.011"
+				"latitude1": "N035.53.15.770",
+				"longitude1": "E128.40.19.601",
+				"latitude2": "N035.53.16.393",
+				"longitude2": "E128.40.20.131"
 			},
 			{
-				"latitude1": "N035.54.02.294",
-				"longitude1": "E128.39.03.450",
-				"latitude2": "N035.53.56.760",
-				"longitude2": "E128.39.13.498"
+				"latitude1": "N035.53.16.393",
+				"longitude1": "E128.40.20.131",
+				"latitude2": "N035.53.13.755",
+				"longitude2": "E128.40.24.949"
 			},
 			{
-				"latitude1": "N035.53.56.760",
-				"longitude1": "E128.39.13.498",
-				"latitude2": "N035.54.01.609",
-				"longitude2": "E128.39.17.443"
+				"latitude1": "N035.53.13.755",
+				"longitude1": "E128.40.24.949",
+				"latitude2": "N035.53.14.228",
+				"longitude2": "E128.40.28.067"
 			},
 			{
-				"latitude1": "N035.54.01.609",
-				"longitude1": "E128.39.17.443",
-				"latitude2": "N035.53.54.287",
-				"longitude2": "E128.39.30.399"
+				"latitude1": "N035.53.14.228",
+				"longitude1": "E128.40.28.067",
+				"latitude2": "N035.53.11.265",
+				"longitude2": "E128.40.31.041"
 			},
 			{
-				"latitude1": "N035.53.54.287",
-				"longitude1": "E128.39.30.399",
-				"latitude2": "N035.53.53.974",
-				"longitude2": "E128.39.30.119"
+				"latitude1": "N035.53.11.265",
+				"longitude1": "E128.40.31.041",
+				"latitude2": "N035.53.10.769",
+				"longitude2": "E128.40.30.785"
 			},
 			{
-				"latitude1": "N035.53.53.974",
-				"longitude1": "E128.39.30.119",
-				"latitude2": "N035.53.49.296",
-				"longitude2": "E128.39.38.354"
+				"latitude1": "N035.53.10.769",
+				"longitude1": "E128.40.30.785",
+				"latitude2": "N035.53.10.059",
+				"longitude2": "E128.40.32.627"
 			},
 			{
-				"latitude1": "N035.53.49.296",
-				"longitude1": "E128.39.38.354",
-				"latitude2": "N035.53.44.917",
-				"longitude2": "E128.39.34.769"
+				"latitude1": "N035.53.10.059",
+				"longitude1": "E128.40.32.627",
+				"latitude2": "N035.53.13.960",
+				"longitude2": "E128.40.34.900"
 			},
 			{
-				"latitude1": "N035.53.44.917",
-				"longitude1": "E128.39.34.769",
-				"latitude2": "N035.53.18.652",
-				"longitude2": "E128.40.22.435"
+				"latitude1": "N035.53.13.960",
+				"longitude1": "E128.40.34.900",
+				"latitude2": "N035.53.18.570",
+				"longitude2": "E128.40.33.845"
 			},
 			{
-				"latitude1": "N035.53.18.652",
-				"longitude1": "E128.40.22.435",
-				"latitude2": "N035.53.15.800",
-				"longitude2": "E128.40.19.899"
+				"latitude1": "N035.53.18.570",
+				"longitude1": "E128.40.33.845",
+				"latitude2": "N035.53.18.325",
+				"longitude2": "E128.40.31.762"
 			},
 			{
-				"latitude1": "N035.54.08.173",
-				"longitude1": "E128.38.50.011",
-				"latitude2": "N035.54.08.315",
-				"longitude2": "E128.38.52.448"
+				"latitude1": "N035.53.18.325",
+				"longitude1": "E128.40.31.762",
+				"latitude2": "N035.53.19.955",
+				"longitude2": "E128.40.28.384"
 			},
 			{
-				"latitude1": "N035.54.08.315",
-				"longitude1": "E128.38.52.448",
-				"latitude2": "N035.54.05.449",
-				"longitude2": "E128.38.57.780"
+				"latitude1": "N035.53.19.955",
+				"longitude1": "E128.40.28.384",
+				"latitude2": "N035.53.21.693",
+				"longitude2": "E128.40.30.113"
 			},
 			{
-				"latitude1": "N035.54.05.449",
-				"longitude1": "E128.38.57.780",
-				"latitude2": "N035.54.05.449",
-				"longitude2": "E128.38.57.780"
+				"latitude1": "N035.53.21.693",
+				"longitude1": "E128.40.30.113",
+				"latitude2": "N035.53.22.593",
+				"longitude2": "E128.40.29.240"
 			},
 			{
-				"latitude1": "N035.54.05.449",
-				"longitude1": "E128.38.57.780",
-				"latitude2": "N035.54.07.234",
-				"longitude2": "E128.38.59.269"
+				"latitude1": "N035.53.22.593",
+				"longitude1": "E128.40.29.240",
+				"latitude2": "N035.53.22.355",
+				"longitude2": "E128.40.28.745"
 			},
 			{
-				"latitude1": "N035.54.07.234",
-				"longitude1": "E128.38.59.269",
-				"latitude2": "N035.54.04.981",
-				"longitude2": "E128.39.03.798"
+				"latitude1": "N035.53.22.355",
+				"longitude1": "E128.40.28.745",
+				"latitude2": "N035.53.22.100",
+				"longitude2": "E128.40.28.370"
 			},
 			{
-				"latitude1": "N035.54.04.981",
-				"longitude1": "E128.39.03.798",
-				"latitude2": "N035.54.04.178",
-				"longitude2": "E128.39.03.102"
+				"latitude1": "N035.53.22.100",
+				"longitude1": "E128.40.28.370",
+				"latitude2": "N035.53.21.790",
+				"longitude2": "E128.40.26.422"
 			},
 			{
-				"latitude1": "N035.54.04.178",
-				"longitude1": "E128.39.03.102",
-				"latitude2": "N035.54.03.480",
-				"longitude2": "E128.39.04.287"
+				"latitude1": "N035.53.21.790",
+				"longitude1": "E128.40.26.422",
+				"latitude2": "N035.53.20.776",
+				"longitude2": "E128.40.26.665"
 			},
 			{
-				"latitude1": "N035.54.03.480",
-				"longitude1": "E128.39.04.287",
-				"latitude2": "N035.54.02.294",
-				"longitude2": "E128.39.03.450"
+				"latitude1": "N035.53.20.776",
+				"longitude1": "E128.40.26.665",
+				"latitude2": "N035.53.20.633",
+				"longitude2": "E128.40.26.623"
+			},
+			{
+				"latitude1": "N035.53.20.633",
+				"longitude1": "E128.40.26.623",
+				"latitude2": "N035.53.21.547",
+				"longitude2": "E128.40.24.916"
+			},
+			{
+				"latitude1": "N035.53.21.547",
+				"longitude1": "E128.40.24.916",
+				"latitude2": "N035.53.18.671",
+				"longitude2": "E128.40.22.547"
+			},
+			{
+				"latitude1": "N035.53.18.671",
+				"longitude1": "E128.40.22.547",
+				"latitude2": "N035.53.20.239",
+				"longitude2": "E128.40.19.676"
+			},
+			{
+				"latitude1": "N035.53.20.239",
+				"longitude1": "E128.40.19.676",
+				"latitude2": "N035.53.20.118",
+				"longitude2": "E128.40.19.556"
+			},
+			{
+				"latitude1": "N035.53.20.118",
+				"longitude1": "E128.40.19.556",
+				"latitude2": "N035.53.20.036",
+				"longitude2": "E128.40.19.398"
+			},
+			{
+				"latitude1": "N035.53.20.036",
+				"longitude1": "E128.40.19.398",
+				"latitude2": "N035.53.19.941",
+				"longitude2": "E128.40.19.081"
+			},
+			{
+				"latitude1": "N035.53.19.941",
+				"longitude1": "E128.40.19.081",
+				"latitude2": "N035.53.19.937",
+				"longitude2": "E128.40.18.813"
+			},
+			{
+				"latitude1": "N035.53.19.937",
+				"longitude1": "E128.40.18.813",
+				"latitude2": "N035.53.19.980",
+				"longitude2": "E128.40.18.554"
+			},
+			{
+				"latitude1": "N035.53.19.980",
+				"longitude1": "E128.40.18.554",
+				"latitude2": "N035.53.21.098",
+				"longitude2": "E128.40.16.436"
+			},
+			{
+				"latitude1": "N035.53.21.098",
+				"longitude1": "E128.40.16.436",
+				"latitude2": "N035.53.44.392",
+				"longitude2": "E128.39.34.992"
+			},
+			{
+				"latitude1": "N035.53.44.392",
+				"longitude1": "E128.39.34.992",
+				"latitude2": "N035.53.44.527",
+				"longitude2": "E128.39.34.816"
+			},
+			{
+				"latitude1": "N035.53.44.527",
+				"longitude1": "E128.39.34.816",
+				"latitude2": "N035.53.44.685",
+				"longitude2": "E128.39.34.670"
+			},
+			{
+				"latitude1": "N035.53.44.685",
+				"longitude1": "E128.39.34.670",
+				"latitude2": "N035.53.44.847",
+				"longitude2": "E128.39.34.572"
+			},
+			{
+				"latitude1": "N035.53.44.847",
+				"longitude1": "E128.39.34.572",
+				"latitude2": "N035.53.45.016",
+				"longitude2": "E128.39.34.493"
+			},
+			{
+				"latitude1": "N035.53.45.016",
+				"longitude1": "E128.39.34.493",
+				"latitude2": "N035.53.45.235",
+				"longitude2": "E128.39.34.448"
+			},
+			{
+				"latitude1": "N035.53.45.235",
+				"longitude1": "E128.39.34.448",
+				"latitude2": "N035.53.45.461",
+				"longitude2": "E128.39.34.451"
+			},
+			{
+				"latitude1": "N035.53.45.461",
+				"longitude1": "E128.39.34.451",
+				"latitude2": "N035.53.45.664",
+				"longitude2": "E128.39.34.536"
+			},
+			{
+				"latitude1": "N035.53.45.664",
+				"longitude1": "E128.39.34.536",
+				"latitude2": "N035.53.45.820",
+				"longitude2": "E128.39.34.669"
+			},
+			{
+				"latitude1": "N035.53.45.820",
+				"longitude1": "E128.39.34.669",
+				"latitude2": "N035.53.45.414",
+				"longitude2": "E128.39.35.457"
+			},
+			{
+				"latitude1": "N035.53.45.414",
+				"longitude1": "E128.39.35.457",
+				"latitude2": "N035.53.49.510",
+				"longitude2": "E128.39.38.847"
+			},
+			{
+				"latitude1": "N035.53.49.510",
+				"longitude1": "E128.39.38.847",
+				"latitude2": "N035.54.01.314",
+				"longitude2": "E128.39.17.520"
+			},
+			{
+				"latitude1": "N035.54.01.314",
+				"longitude1": "E128.39.17.520",
+				"latitude2": "N035.53.57.212",
+				"longitude2": "E128.39.14.133"
+			},
+			{
+				"latitude1": "N035.53.57.212",
+				"longitude1": "E128.39.14.133",
+				"latitude2": "N035.53.56.748",
+				"longitude2": "E128.39.14.946"
+			},
+			{
+				"latitude1": "N035.53.56.748",
+				"longitude1": "E128.39.14.946",
+				"latitude2": "N035.53.56.347",
+				"longitude2": "E128.39.14.618"
+			},
+			{
+				"latitude1": "N035.53.56.347",
+				"longitude1": "E128.39.14.618",
+				"latitude2": "N035.53.56.271",
+				"longitude2": "E128.39.14.407"
+			},
+			{
+				"latitude1": "N035.53.56.271",
+				"longitude1": "E128.39.14.407",
+				"latitude2": "N035.53.56.226",
+				"longitude2": "E128.39.14.197"
+			},
+			{
+				"latitude1": "N035.53.56.226",
+				"longitude1": "E128.39.14.197",
+				"latitude2": "N035.53.56.215",
+				"longitude2": "E128.39.13.997"
+			},
+			{
+				"latitude1": "N035.53.56.215",
+				"longitude1": "E128.39.13.997",
+				"latitude2": "N035.53.56.272",
+				"longitude2": "E128.39.13.616"
+			},
+			{
+				"latitude1": "N035.53.56.272",
+				"longitude1": "E128.39.13.616",
+				"latitude2": "N035.54.02.120",
+				"longitude2": "E128.39.03.085"
+			},
+			{
+				"latitude1": "N035.54.02.120",
+				"longitude1": "E128.39.03.085",
+				"latitude2": "N035.54.04.294",
+				"longitude2": "E128.39.04.940"
+			},
+			{
+				"latitude1": "N035.54.04.294",
+				"longitude1": "E128.39.04.940",
+				"latitude2": "N035.54.07.550",
+				"longitude2": "E128.38.58.990"
+			},
+			{
+				"latitude1": "N035.54.07.550",
+				"longitude1": "E128.38.58.990",
+				"latitude2": "N035.54.05.392",
+				"longitude2": "E128.38.57.133"
+			},
+			{
+				"latitude1": "N035.54.05.392",
+				"longitude1": "E128.38.57.133",
+				"latitude2": "N035.54.07.757",
+				"longitude2": "E128.38.52.840"
+			},
+			{
+				"latitude1": "N035.54.07.757",
+				"longitude1": "E128.38.52.840",
+				"latitude2": "N035.54.07.857",
+				"longitude2": "E128.38.52.676"
+			},
+			{
+				"latitude1": "N035.54.07.857",
+				"longitude1": "E128.38.52.676",
+				"latitude2": "N035.54.07.919",
+				"longitude2": "E128.38.52.474"
+			},
+			{
+				"latitude1": "N035.54.07.919",
+				"longitude1": "E128.38.52.474",
+				"latitude2": "N035.54.07.926",
+				"longitude2": "E128.38.52.248"
+			},
+			{
+				"latitude1": "N035.54.07.926",
+				"longitude1": "E128.38.52.248",
+				"latitude2": "N035.54.07.901",
+				"longitude2": "E128.38.52.022"
+			},
+			{
+				"latitude1": "N035.54.07.901",
+				"longitude1": "E128.38.52.022",
+				"latitude2": "N035.54.08.163",
+				"longitude2": "E128.38.51.543"
+			},
+			{
+				"latitude1": "N035.54.08.163",
+				"longitude1": "E128.38.51.543",
+				"latitude2": "N035.54.08.068",
+				"longitude2": "E128.38.50.130"
+			},
+			{
+				"latitude1": "N035.54.08.068",
+				"longitude1": "E128.38.50.130",
+				"latitude2": "N035.54.08.158",
+				"longitude2": "E128.38.49.948"
+			},
+			{
+				"latitude1": "N035.54.08.158",
+				"longitude1": "E128.38.49.948",
+				"latitude2": "N035.54.08.090",
+				"longitude2": "E128.38.49.834"
+			},
+			{
+				"latitude1": "N035.54.08.090",
+				"longitude1": "E128.38.49.834",
+				"latitude2": "N035.54.06.312",
+				"longitude2": "E128.38.48.271"
 			}
 		]
 	},
@@ -1248,76 +2082,172 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.33.668",
-				"longitude1": "E128.39.47.162",
+				"latitude1": "N035.53.35.834",
+				"longitude1": "E128.39.48.588",
+				"latitude2": "N035.53.35.646",
+				"longitude2": "E128.39.48.884"
+			},
+			{
+				"latitude1": "N035.53.35.646",
+				"longitude1": "E128.39.48.884",
+				"latitude2": "N035.53.35.381",
+				"longitude2": "E128.39.49.129"
+			},
+			{
+				"latitude1": "N035.53.35.381",
+				"longitude1": "E128.39.49.129",
+				"latitude2": "N035.53.35.045",
+				"longitude2": "E128.39.49.258"
+			},
+			{
+				"latitude1": "N035.53.35.045",
+				"longitude1": "E128.39.49.258",
+				"latitude2": "N035.53.34.777",
+				"longitude2": "E128.39.49.282"
+			},
+			{
+				"latitude1": "N035.53.34.777",
+				"longitude1": "E128.39.49.282",
+				"latitude2": "N035.53.34.501",
+				"longitude2": "E128.39.49.230"
+			},
+			{
+				"latitude1": "N035.53.34.501",
+				"longitude1": "E128.39.49.230",
+				"latitude2": "N035.53.34.249",
+				"longitude2": "E128.39.49.110"
+			},
+			{
+				"latitude1": "N035.53.34.249",
+				"longitude1": "E128.39.49.110",
+				"latitude2": "N035.53.33.997",
+				"longitude2": "E128.39.48.913"
+			},
+			{
+				"latitude1": "N035.53.33.997",
+				"longitude1": "E128.39.48.913",
+				"latitude2": "N035.53.33.876",
+				"longitude2": "E128.39.48.736"
+			},
+			{
+				"latitude1": "N035.53.33.876",
+				"longitude1": "E128.39.48.736",
+				"latitude2": "N035.53.33.777",
+				"longitude2": "E128.39.48.530"
+			},
+			{
+				"latitude1": "N035.53.33.777",
+				"longitude1": "E128.39.48.530",
+				"latitude2": "N035.53.33.710",
+				"longitude2": "E128.39.48.280"
+			},
+			{
+				"latitude1": "N035.53.33.710",
+				"longitude1": "E128.39.48.280",
+				"latitude2": "N035.53.33.659",
+				"longitude2": "E128.39.48.030"
+			},
+			{
+				"latitude1": "N035.53.33.659",
+				"longitude1": "E128.39.48.030",
+				"latitude2": "N035.53.33.641",
+				"longitude2": "E128.39.47.809"
+			},
+			{
+				"latitude1": "N035.53.33.641",
+				"longitude1": "E128.39.47.809",
+				"latitude2": "N035.53.33.645",
+				"longitude2": "E128.39.47.578"
+			},
+			{
+				"latitude1": "N035.53.33.645",
+				"longitude1": "E128.39.47.578",
+				"latitude2": "N035.53.33.734",
+				"longitude2": "E128.39.47.125"
+			},
+			{
+				"latitude1": "N035.53.33.734",
+				"longitude1": "E128.39.47.125",
 				"latitude2": "N035.53.48.516",
-				"longitude2": "E128.39.20.406"
-			},
-			{
-				"latitude1": "N035.53.34.340",
-				"longitude1": "E128.39.49.006",
-				"latitude2": "N035.53.33.859",
-				"longitude2": "E128.39.48.637"
-			},
-			{
-				"latitude1": "N035.53.33.859",
-				"longitude1": "E128.39.48.637",
-				"latitude2": "N035.53.33.648",
-				"longitude2": "E128.39.47.917"
-			},
-			{
-				"latitude1": "N035.53.33.648",
-				"longitude1": "E128.39.47.917",
-				"latitude2": "N035.53.33.663",
-				"longitude2": "E128.39.47.154"
+				"longitude2": "E128.39.20.403"
 			},
 			{
 				"latitude1": "N035.53.48.516",
-				"longitude1": "E128.39.20.406",
-				"latitude2": "N035.53.49.221",
-				"longitude2": "E128.39.20.109"
+				"longitude1": "E128.39.20.403",
+				"latitude2": "N035.53.48.886",
+				"longitude2": "E128.39.20.049"
 			},
 			{
-				"latitude1": "N035.53.49.221",
-				"longitude1": "E128.39.20.109",
-				"latitude2": "N035.53.49.912",
-				"longitude2": "E128.39.20.131"
+				"latitude1": "N035.53.48.886",
+				"longitude1": "E128.39.20.049",
+				"latitude2": "N035.53.49.294",
+				"longitude2": "E128.39.19.859"
 			},
 			{
-				"latitude1": "N035.53.49.912",
-				"longitude1": "E128.39.20.131",
-				"latitude2": "N035.53.50.462",
-				"longitude2": "E128.39.20.558"
+				"latitude1": "N035.53.49.294",
+				"longitude1": "E128.39.19.859",
+				"latitude2": "N035.53.49.703",
+				"longitude2": "E128.39.19.833"
 			},
 			{
-				"latitude1": "N035.53.50.462",
-				"longitude1": "E128.39.20.558",
-				"latitude2": "N035.53.50.777",
-				"longitude2": "E128.39.21.314"
+				"latitude1": "N035.53.49.703",
+				"longitude1": "E128.39.19.833",
+				"latitude2": "N035.53.50.072",
+				"longitude2": "E128.39.19.962"
 			},
 			{
-				"latitude1": "N035.53.50.777",
-				"longitude1": "E128.39.21.314",
-				"latitude2": "N035.53.35.408",
-				"longitude2": "E128.39.48.439"
+				"latitude1": "N035.53.50.072",
+				"longitude1": "E128.39.19.962",
+				"latitude2": "N035.53.50.501",
+				"longitude2": "E128.39.20.316"
 			},
 			{
-				"latitude1": "N035.53.35.408",
-				"longitude1": "E128.39.48.439",
-				"latitude2": "N035.53.34.964",
-				"longitude2": "E128.39.49.210"
+				"latitude1": "N035.53.50.501",
+				"longitude1": "E128.39.20.316",
+				"latitude2": "N035.53.50.729",
+				"longitude2": "E128.39.20.722"
 			},
 			{
-				"latitude1": "N035.53.34.964",
-				"longitude1": "E128.39.49.210",
-				"latitude2": "N035.53.34.605",
-				"longitude2": "E128.39.49.224"
+				"latitude1": "N035.53.50.729",
+				"longitude1": "E128.39.20.722",
+				"latitude2": "N035.53.50.840",
+				"longitude2": "E128.39.21.204"
 			},
 			{
-				"latitude1": "N035.53.34.605",
-				"longitude1": "E128.39.49.224",
-				"latitude2": "N035.53.34.340",
-				"longitude2": "E128.39.49.006"
+				"latitude1": "N035.53.50.840",
+				"longitude1": "E128.39.21.204",
+				"latitude2": "N035.53.50.843",
+				"longitude2": "E128.39.21.472"
+			},
+			{
+				"latitude1": "N035.53.50.843",
+				"longitude1": "E128.39.21.472",
+				"latitude2": "N035.53.50.815",
+				"longitude2": "E128.39.21.749"
+			},
+			{
+				"latitude1": "N035.53.50.815",
+				"longitude1": "E128.39.21.749",
+				"latitude2": "N035.53.50.728",
+				"longitude2": "E128.39.22.051"
+			},
+			{
+				"latitude1": "N035.53.50.728",
+				"longitude1": "E128.39.22.051",
+				"latitude2": "N035.53.50.570",
+				"longitude2": "E128.39.22.353"
+			},
+			{
+				"latitude1": "N035.53.50.570",
+				"longitude1": "E128.39.22.353",
+				"latitude2": "N035.53.43.234",
+				"longitude2": "E128.39.35.480"
+			},
+			{
+				"latitude1": "N035.53.43.234",
+				"longitude1": "E128.39.35.480",
+				"latitude2": "N035.53.35.836",
+				"longitude2": "E128.39.48.587"
 			}
 		]
 	},
@@ -1328,76 +2258,148 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.18.366",
-				"longitude1": "E128.40.14.807",
-				"latitude2": "N035.53.32.213",
-				"longitude2": "E128.39.49.916"
+				"latitude1": "N035.53.19.249",
+				"longitude1": "E128.40.17.006",
+				"latitude2": "N035.53.18.656",
+				"longitude2": "E128.40.16.491"
 			},
 			{
-				"latitude1": "N035.53.19.015",
-				"longitude1": "E128.40.16.747",
-				"latitude2": "N035.53.18.682",
-				"longitude2": "E128.40.16.456"
+				"latitude1": "N035.53.18.656",
+				"longitude1": "E128.40.16.491",
+				"latitude2": "N035.53.18.509",
+				"longitude2": "E128.40.16.251"
 			},
 			{
-				"latitude1": "N035.53.18.682",
-				"longitude1": "E128.40.16.456",
-				"latitude2": "N035.53.18.409",
-				"longitude2": "E128.40.15.755"
+				"latitude1": "N035.53.18.509",
+				"longitude1": "E128.40.16.251",
+				"latitude2": "N035.53.18.377",
+				"longitude2": "E128.40.15.866"
 			},
 			{
-				"latitude1": "N035.53.18.409",
-				"longitude1": "E128.40.15.755",
-				"latitude2": "N035.53.18.361",
-				"longitude2": "E128.40.14.818"
+				"latitude1": "N035.53.18.377",
+				"longitude1": "E128.40.15.866",
+				"latitude2": "N035.53.18.347",
+				"longitude2": "E128.40.15.599"
 			},
 			{
-				"latitude1": "N035.53.32.213",
-				"longitude1": "E128.39.49.916",
-				"latitude2": "N035.53.32.895",
-				"longitude2": "E128.39.49.484"
+				"latitude1": "N035.53.18.347",
+				"longitude1": "E128.40.15.599",
+				"latitude2": "N035.53.18.347",
+				"longitude2": "E128.40.15.332"
 			},
 			{
-				"latitude1": "N035.53.32.895",
-				"longitude1": "E128.39.49.484",
-				"latitude2": "N035.53.33.609",
-				"longitude2": "E128.39.49.641"
+				"latitude1": "N035.53.18.347",
+				"longitude1": "E128.40.15.332",
+				"latitude2": "N035.53.18.419",
+				"longitude2": "E128.40.14.779"
 			},
 			{
-				"latitude1": "N035.53.33.609",
-				"longitude1": "E128.39.49.641",
-				"latitude2": "N035.53.34.089",
-				"longitude2": "E128.39.50.184"
+				"latitude1": "N035.53.18.419",
+				"longitude1": "E128.40.14.779",
+				"latitude2": "N035.53.32.144",
+				"longitude2": "E128.39.49.995"
 			},
 			{
-				"latitude1": "N035.53.34.089",
-				"longitude1": "E128.39.50.184",
-				"latitude2": "N035.53.34.180",
-				"longitude2": "E128.39.50.827"
+				"latitude1": "N035.53.32.144",
+				"longitude1": "E128.39.49.995",
+				"latitude2": "N035.53.32.500",
+				"longitude2": "E128.39.49.710"
 			},
 			{
-				"latitude1": "N035.53.34.180",
-				"longitude1": "E128.39.50.827",
-				"latitude2": "N035.53.34.091",
-				"longitude2": "E128.39.51.510"
+				"latitude1": "N035.53.32.500",
+				"longitude1": "E128.39.49.710",
+				"latitude2": "N035.53.32.880",
+				"longitude2": "E128.39.49.550"
 			},
 			{
-				"latitude1": "N035.53.34.091",
-				"longitude1": "E128.39.51.510",
-				"latitude2": "N035.53.20.286",
-				"longitude2": "E128.40.15.968"
+				"latitude1": "N035.53.32.880",
+				"longitude1": "E128.39.49.550",
+				"latitude2": "N035.53.33.107",
+				"longitude2": "E128.39.49.533"
 			},
 			{
-				"latitude1": "N035.53.20.286",
-				"longitude1": "E128.40.15.968",
-				"latitude2": "N035.53.19.217",
-				"longitude2": "E128.40.16.927"
+				"latitude1": "N035.53.33.107",
+				"longitude1": "E128.39.49.533",
+				"latitude2": "N035.53.33.311",
+				"longitude2": "E128.39.49.554"
 			},
 			{
-				"latitude1": "N035.53.19.217",
-				"longitude1": "E128.40.16.927",
-				"latitude2": "N035.53.19.015",
-				"longitude2": "E128.40.16.747"
+				"latitude1": "N035.53.33.311",
+				"longitude1": "E128.39.49.554",
+				"latitude2": "N035.53.33.514",
+				"longitude2": "E128.39.49.600"
+			},
+			{
+				"latitude1": "N035.53.33.514",
+				"longitude1": "E128.39.49.600",
+				"latitude2": "N035.53.33.687",
+				"longitude2": "E128.39.49.713"
+			},
+			{
+				"latitude1": "N035.53.33.687",
+				"longitude1": "E128.39.49.713",
+				"latitude2": "N035.53.33.913",
+				"longitude2": "E128.39.49.963"
+			},
+			{
+				"latitude1": "N035.53.33.913",
+				"longitude1": "E128.39.49.963",
+				"latitude2": "N035.53.34.085",
+				"longitude2": "E128.39.50.251"
+			},
+			{
+				"latitude1": "N035.53.34.085",
+				"longitude1": "E128.39.50.251",
+				"latitude2": "N035.53.34.189",
+				"longitude2": "E128.39.50.536"
+			},
+			{
+				"latitude1": "N035.53.34.189",
+				"longitude1": "E128.39.50.536",
+				"latitude2": "N035.53.34.230",
+				"longitude2": "E128.39.50.841"
+			},
+			{
+				"latitude1": "N035.53.34.230",
+				"longitude1": "E128.39.50.841",
+				"latitude2": "N035.53.34.231",
+				"longitude2": "E128.39.51.102"
+			},
+			{
+				"latitude1": "N035.53.34.231",
+				"longitude1": "E128.39.51.102",
+				"latitude2": "N035.53.34.192",
+				"longitude2": "E128.39.51.373"
+			},
+			{
+				"latitude1": "N035.53.34.192",
+				"longitude1": "E128.39.51.373",
+				"latitude2": "N035.53.34.098",
+				"longitude2": "E128.39.51.634"
+			},
+			{
+				"latitude1": "N035.53.34.098",
+				"longitude1": "E128.39.51.634",
+				"latitude2": "N035.53.33.965",
+				"longitude2": "E128.39.51.896"
+			},
+			{
+				"latitude1": "N035.53.33.965",
+				"longitude1": "E128.39.51.896",
+				"latitude2": "N035.53.24.818",
+				"longitude2": "E128.40.08.417"
+			},
+			{
+				"latitude1": "N035.53.24.818",
+				"longitude1": "E128.40.08.417",
+				"latitude2": "N035.53.20.489",
+				"longitude2": "E128.40.15.900"
+			},
+			{
+				"latitude1": "N035.53.20.489",
+				"longitude1": "E128.40.15.900",
+				"latitude2": "N035.53.19.252",
+				"longitude2": "E128.40.17.009"
 			}
 		]
 	},
@@ -1408,70 +2410,160 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.50.125",
-				"longitude1": "E128.39.17.828",
-				"latitude2": "N035.54.00.029",
-				"longitude2": "E128.38.59.761"
+				"latitude1": "N035.53.50.445",
+				"longitude1": "E128.39.19.205",
+				"latitude2": "N035.53.50.323",
+				"longitude2": "E128.39.19.013"
 			},
 			{
-				"latitude1": "N035.53.50.316",
-				"longitude1": "E128.39.19.303",
+				"latitude1": "N035.53.50.323",
+				"longitude1": "E128.39.19.013",
+				"latitude2": "N035.53.50.225",
+				"longitude2": "E128.39.18.802"
+			},
+			{
+				"latitude1": "N035.53.50.225",
+				"longitude1": "E128.39.18.802",
+				"latitude2": "N035.53.50.146",
+				"longitude2": "E128.39.18.584"
+			},
+			{
+				"latitude1": "N035.53.50.146",
+				"longitude1": "E128.39.18.584",
+				"latitude2": "N035.53.50.106",
+				"longitude2": "E128.39.18.336"
+			},
+			{
+				"latitude1": "N035.53.50.106",
+				"longitude1": "E128.39.18.336",
+				"latitude2": "N035.53.50.082",
+				"longitude2": "E128.39.18.090"
+			},
+			{
+				"latitude1": "N035.53.50.082",
+				"longitude1": "E128.39.18.090",
 				"latitude2": "N035.53.50.105",
-				"longitude2": "E128.39.18.583"
+				"longitude2": "E128.39.17.844"
 			},
 			{
 				"latitude1": "N035.53.50.105",
-				"longitude1": "E128.39.18.583",
-				"latitude2": "N035.53.50.120",
-				"longitude2": "E128.39.17.820"
+				"longitude1": "E128.39.17.844",
+				"latitude2": "N035.53.50.206",
+				"longitude2": "E128.39.17.351"
 			},
 			{
-				"latitude1": "N035.54.00.029",
-				"longitude1": "E128.38.59.761",
-				"latitude2": "N035.54.00.314",
-				"longitude2": "E128.38.59.576"
+				"latitude1": "N035.53.50.206",
+				"longitude1": "E128.39.17.351",
+				"latitude2": "N035.53.59.981",
+				"longitude2": "E128.38.59.682"
 			},
 			{
-				"latitude1": "N035.54.00.314",
-				"longitude1": "E128.38.59.576",
-				"latitude2": "N035.54.00.583",
-				"longitude2": "E128.39.00.183"
+				"latitude1": "N035.53.59.981",
+				"longitude1": "E128.38.59.682",
+				"latitude2": "N035.54.00.160",
+				"longitude2": "E128.38.59.570"
 			},
 			{
-				"latitude1": "N035.54.00.583",
-				"longitude1": "E128.39.00.183",
+				"latitude1": "N035.54.00.160",
+				"longitude1": "E128.38.59.570",
+				"latitude2": "N035.54.00.307",
+				"longitude2": "E128.38.59.556"
+			},
+			{
+				"latitude1": "N035.54.00.307",
+				"longitude1": "E128.38.59.556",
+				"latitude2": "N035.54.00.443",
+				"longitude2": "E128.38.59.642"
+			},
+			{
+				"latitude1": "N035.54.00.443",
+				"longitude1": "E128.38.59.642",
+				"latitude2": "N035.54.00.516",
+				"longitude2": "E128.38.59.816"
+			},
+			{
+				"latitude1": "N035.54.00.516",
+				"longitude1": "E128.38.59.816",
 				"latitude2": "N035.54.00.969",
 				"longitude2": "E128.39.02.696"
 			},
 			{
 				"latitude1": "N035.54.00.969",
 				"longitude1": "E128.39.02.696",
-				"latitude2": "N035.53.51.560",
-				"longitude2": "E128.39.19.829"
+				"latitude2": "N035.54.00.993",
+				"longitude2": "E128.39.03.011"
 			},
 			{
-				"latitude1": "N035.53.51.560",
-				"longitude1": "E128.39.19.829",
-				"latitude2": "N035.53.51.421",
-				"longitude2": "E128.39.19.876"
+				"latitude1": "N035.54.00.993",
+				"longitude1": "E128.39.03.011",
+				"latitude2": "N035.54.00.971",
+				"longitude2": "E128.39.03.326"
 			},
 			{
-				"latitude1": "N035.53.51.421",
-				"longitude1": "E128.39.19.876",
-				"latitude2": "N035.53.51.062",
-				"longitude2": "E128.39.19.890"
+				"latitude1": "N035.54.00.971",
+				"longitude1": "E128.39.03.326",
+				"latitude2": "N035.54.00.897",
+				"longitude2": "E128.39.03.642"
 			},
 			{
-				"latitude1": "N035.53.51.062",
-				"longitude1": "E128.39.19.890",
-				"latitude2": "N035.53.50.797",
-				"longitude2": "E128.39.19.672"
+				"latitude1": "N035.54.00.897",
+				"longitude1": "E128.39.03.642",
+				"latitude2": "N035.54.00.785",
+				"longitude2": "E128.39.03.880"
 			},
 			{
-				"latitude1": "N035.53.50.797",
-				"longitude1": "E128.39.19.672",
-				"latitude2": "N035.53.50.316",
-				"longitude2": "E128.39.19.303"
+				"latitude1": "N035.54.00.785",
+				"longitude1": "E128.39.03.880",
+				"latitude2": "N035.53.52.318",
+				"longitude2": "E128.39.19.182"
+			},
+			{
+				"latitude1": "N035.53.52.318",
+				"longitude1": "E128.39.19.182",
+				"latitude2": "N035.53.52.165",
+				"longitude2": "E128.39.19.374"
+			},
+			{
+				"latitude1": "N035.53.52.165",
+				"longitude1": "E128.39.19.374",
+				"latitude2": "N035.53.51.973",
+				"longitude2": "E128.39.19.519"
+			},
+			{
+				"latitude1": "N035.53.51.973",
+				"longitude1": "E128.39.19.519",
+				"latitude2": "N035.53.51.817",
+				"longitude2": "E128.39.19.600"
+			},
+			{
+				"latitude1": "N035.53.51.817",
+				"longitude1": "E128.39.19.600",
+				"latitude2": "N035.53.51.589",
+				"longitude2": "E128.39.19.682"
+			},
+			{
+				"latitude1": "N035.53.51.589",
+				"longitude1": "E128.39.19.682",
+				"latitude2": "N035.53.51.230",
+				"longitude2": "E128.39.19.694"
+			},
+			{
+				"latitude1": "N035.53.51.230",
+				"longitude1": "E128.39.19.694",
+				"latitude2": "N035.53.51.031",
+				"longitude2": "E128.39.19.651"
+			},
+			{
+				"latitude1": "N035.53.51.031",
+				"longitude1": "E128.39.19.651",
+				"latitude2": "N035.53.50.855",
+				"longitude2": "E128.39.19.551"
+			},
+			{
+				"latitude1": "N035.53.50.855",
+				"longitude1": "E128.39.19.551",
+				"latitude2": "N035.53.50.448",
+				"longitude2": "E128.39.19.206"
 			}
 		]
 	},
@@ -1482,70 +2574,130 @@
 		"colorProfile": "Airport-Border",
 		"lineList": [
 			{
-				"latitude1": "N035.53.30.143",
-				"longitude1": "E128.39.45.115",
-				"latitude2": "N035.53.45.561",
-				"longitude2": "E128.39.17.468"
+				"latitude1": "N035.53.31.136",
+				"longitude1": "E128.39.46.478",
+				"latitude2": "N035.53.30.510",
+				"longitude2": "E128.39.45.911"
 			},
 			{
-				"latitude1": "N035.53.30.802",
-				"longitude1": "E128.39.46.311",
-				"latitude2": "N035.53.30.339",
-				"longitude2": "E128.39.45.658"
+				"latitude1": "N035.53.30.510",
+				"longitude1": "E128.39.45.911",
+				"latitude2": "N035.53.30.389",
+				"longitude2": "E128.39.45.766"
 			},
 			{
-				"latitude1": "N035.53.30.339",
-				"longitude1": "E128.39.45.658",
-				"latitude2": "N035.53.30.143",
-				"longitude2": "E128.39.45.122"
+				"latitude1": "N035.53.30.389",
+				"longitude1": "E128.39.45.766",
+				"latitude2": "N035.53.30.291",
+				"longitude2": "E128.39.45.583"
 			},
 			{
-				"latitude1": "N035.53.45.561",
-				"longitude1": "E128.39.17.468",
-				"latitude2": "N035.53.46.123",
-				"longitude2": "E128.39.17.369"
+				"latitude1": "N035.53.30.291",
+				"longitude1": "E128.39.45.583",
+				"latitude2": "N035.53.30.174",
+				"longitude2": "E128.39.45.188"
 			},
 			{
-				"latitude1": "N035.53.46.123",
-				"longitude1": "E128.39.17.369",
-				"latitude2": "N035.53.46.911",
-				"longitude2": "E128.39.17.750"
+				"latitude1": "N035.53.30.174",
+				"longitude1": "E128.39.45.188",
+				"latitude2": "N035.53.30.166",
+				"longitude2": "E128.39.44.759"
 			},
 			{
-				"latitude1": "N035.53.46.911",
-				"longitude1": "E128.39.17.750",
-				"latitude2": "N035.53.47.246",
-				"longitude2": "E128.39.18.411"
+				"latitude1": "N035.53.30.166",
+				"longitude1": "E128.39.44.759",
+				"latitude2": "N035.53.30.291",
+				"longitude2": "E128.39.44.330"
 			},
 			{
-				"latitude1": "N035.53.47.246",
-				"longitude1": "E128.39.18.411",
-				"latitude2": "N035.53.47.331",
-				"longitude2": "E128.39.19.188"
+				"latitude1": "N035.53.30.291",
+				"longitude1": "E128.39.44.330",
+				"latitude2": "N035.53.45.246",
+				"longitude2": "E128.39.17.311"
 			},
 			{
-				"latitude1": "N035.53.47.331",
-				"longitude1": "E128.39.19.188",
-				"latitude2": "N035.53.32.322",
-				"longitude2": "E128.39.46.109"
+				"latitude1": "N035.53.45.246",
+				"longitude1": "E128.39.17.311",
+				"latitude2": "N035.53.45.527",
+				"longitude2": "E128.39.17.030"
 			},
 			{
-				"latitude1": "N035.53.32.322",
-				"longitude1": "E128.39.46.109",
-				"latitude2": "N035.53.31.687",
-				"longitude2": "E128.39.46.470"
+				"latitude1": "N035.53.45.527",
+				"longitude1": "E128.39.17.030",
+				"latitude2": "N035.53.45.854",
+				"longitude2": "E128.39.16.884"
 			},
 			{
-				"latitude1": "N035.53.31.687",
-				"longitude1": "E128.39.46.470",
-				"latitude2": "N035.53.31.268",
-				"longitude2": "E128.39.46.535"
+				"latitude1": "N035.53.45.854",
+				"longitude1": "E128.39.16.884",
+				"latitude2": "N035.53.46.224",
+				"longitude2": "E128.39.16.879"
 			},
 			{
-				"latitude1": "N035.53.31.268",
-				"longitude1": "E128.39.46.535",
-				"latitude2": "N035.53.30.802",
-				"longitude2": "E128.39.46.311"
+				"latitude1": "N035.53.46.224",
+				"longitude1": "E128.39.16.879",
+				"latitude2": "N035.53.46.563",
+				"longitude2": "E128.39.17.028"
+			},
+			{
+				"latitude1": "N035.53.46.563",
+				"longitude1": "E128.39.17.028",
+				"latitude2": "N035.53.47.106",
+				"longitude2": "E128.39.17.498"
+			},
+			{
+				"latitude1": "N035.53.47.106",
+				"longitude1": "E128.39.17.498",
+				"latitude2": "N035.53.47.343",
+				"longitude2": "E128.39.17.864"
+			},
+			{
+				"latitude1": "N035.53.47.343",
+				"longitude1": "E128.39.17.864",
+				"latitude2": "N035.53.47.478",
+				"longitude2": "E128.39.18.268"
+			},
+			{
+				"latitude1": "N035.53.47.478",
+				"longitude1": "E128.39.18.268",
+				"latitude2": "N035.53.47.504",
+				"longitude2": "E128.39.18.750"
+			},
+			{
+				"latitude1": "N035.53.47.504",
+				"longitude1": "E128.39.18.750",
+				"latitude2": "N035.53.47.452",
+				"longitude2": "E128.39.19.299"
+			},
+			{
+				"latitude1": "N035.53.47.452",
+				"longitude1": "E128.39.19.299",
+				"latitude2": "N035.53.32.619",
+				"longitude2": "E128.39.46.089"
+			},
+			{
+				"latitude1": "N035.53.32.619",
+				"longitude1": "E128.39.46.089",
+				"latitude2": "N035.53.32.282",
+				"longitude2": "E128.39.46.366"
+			},
+			{
+				"latitude1": "N035.53.32.282",
+				"longitude1": "E128.39.46.366",
+				"latitude2": "N035.53.31.914",
+				"longitude2": "E128.39.46.536"
+			},
+			{
+				"latitude1": "N035.53.31.914",
+				"longitude1": "E128.39.46.536",
+				"latitude2": "N035.53.31.538",
+				"longitude2": "E128.39.46.586"
+			},
+			{
+				"latitude1": "N035.53.31.538",
+				"longitude1": "E128.39.46.586",
+				"latitude2": "N035.53.31.138",
+				"longitude2": "E128.39.46.481"
 			}
 		]
 	}
