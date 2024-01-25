@@ -2973,12 +2973,21 @@
 		"longitude": "E131.30.00.000"
 	},
 	{
-		"name": "GC002",
+		"name": "GC003",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
-		"latitude": "N037.30.40.200",
-		"longitude": "E126.24.57.300",
+		"latitude": "N037.31.29.200",
+		"longitude": "E126.24.13.700",
+		"airport": "RKSI"
+	},
+	{
+		"name": "GC001",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.30.15.700",
+		"longitude": "E126.25.19.140",
 		"airport": "RKSI"
 	},
 	{
@@ -5226,12 +5235,21 @@
 		"airport": "RKJB"
 	},
 	{
-		"name": "KC002",
+		"name": "KC001",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
-		"latitude": "N037.30.32.400",
-		"longitude": "E126.24.43.600",
+		"latitude": "N037.30.07.930",
+		"longitude": "E126.25.05.400",
+		"airport": "RKSI"
+	},
+	{
+		"name": "KC003",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.31.21.400",
+		"longitude": "E126.23.59.900",
 		"airport": "RKSI"
 	},
 	{
