@@ -123,6 +123,99 @@
     {
         "procedureType": "SID",
         "airport": "RKPK",
+        "name": "SOORO2",
+        "runway": [
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "SOORO"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "SOORO2.KALOD",
+        "runway": [
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "SOORO",
+            "KALOD"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "SOORO2.MASTA",
+        "runway": [
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "SOORO",
+            "MASTA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "SOORO2.ENGOT",
+        "runway": [
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "SOORO",
+            "SARAM",
+            "ENGOT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "SOORO2.TOPAX",
+        "runway": [
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "SOORO",
+            "SARAM",
+            "TOPAX"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "SOORO2.PSN",
+        "runway": [
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "SOORO",
+            "PSN"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "SOORO2.BESNA",
+        "runway": [
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "SOORO",
+            "PSN",
+            "BESNA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
         "name": "OPONO3",
         "runway": [
             "36L",
@@ -203,68 +296,68 @@
             "PSN"
         ]
     },
+
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "SOORO2",
+        "name": "BEVSI3",
         "runway": [
             "36L",
             "36R"
         ],
         "fixList": [
-            "SOORO"
+            "BEVSI"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "SOORO2.KALOD",
+        "name": "BEVSI3.MASTA",
         "runway": [
             "36L",
             "36R"
         ],
         "fixList": [
-            "SOORO",
-            "KALOD"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPK",
-        "name": "SOORO2.MASTA",
-        "runway": [
-            "36L",
-            "36R"
-        ],
-        "fixList": [
-            "SOORO",
+            "BEVSI",
             "MASTA"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "SOORO2.ENGOT",
+        "name": "BEVSI3.KALOD",
         "runway": [
             "36L",
             "36R"
         ],
         "fixList": [
-            "SOORO",
-            "SARAM",
-            "ENGOT"
+            "BEVSI",
+            "KALOD"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "SOORO2.TOPAX",
+        "name": "BEVSI3.PSN",
         "runway": [
             "36L",
             "36R"
         ],
         "fixList": [
-            "SOORO",
+            "BEVSI",
+            "PSN"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "BEVSI3.TOPAX",
+        "runway": [
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "BEVSI",
             "SARAM",
             "TOPAX"
         ]

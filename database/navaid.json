@@ -8972,6 +8972,15 @@
 		"airport": "RKPK"
 	},
 	{
+		"name": "BEVSI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N035.18.24.000",
+		"longitude": "E128.43.46.000",
+		"airport": "RKPK"
+	},
+	{
 		"name": "SOSDO",
 		"navaidType": "FIX",
 		"extraType": "FIX",
