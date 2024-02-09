@@ -34,6 +34,19 @@ module.exports = {
                 GlideslopeAngle: 3.0,
                 MagneticVariation: 7
             };
+            ret.RunwayList[`${obj.airport}_${obj.oppositeRunway}`] = {
+                ThresholdSideCoordinate: {
+                    latitude: obj.endLatitudeDecimal,
+                    longitude: obj.endLongitudeDecimal
+                },
+                LocalizerSideCoordinate: {
+                    latitude: obj.startLatitudeDecimal,
+                    longitude: obj.startLongitudeDecimal
+                },
+                Elevation: airportList[obj.airport].elevationInFeet,
+                GlideslopeAngle: 3.0,
+                MagneticVariation: 7
+            };
         });
 
         return ret;
