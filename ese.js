@@ -362,7 +362,7 @@ module.exports = {
         contents += "BORDER:RKPS_TMA_T30_BORDER\n";
 
         contents += "SECTOR:RKPS_TMA:0:19500\n";
-        contents += "OWNER:JYR\n";
+        contents += "OWNER:JYR:PSA\n";
         contents += "BORDER:RKPS_TMA_T31_BORDER\n";
 
         contents += "SECTOR:RKTY_TMA:0:18500\n";
