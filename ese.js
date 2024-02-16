@@ -238,6 +238,26 @@ module.exports = {
         contents += "COORD:N34.15.11.000:E126.59.53.000\n";
         contents += "COORD:N35.30.11.000:E127.49.52.000\n";
 
+        contents += "SECTORLINE:RKTN_TMA_T35_BORDER\n"
+        contents += "COORD:N36.29.11.000:E128.09.52.000\n"
+        contents += "COORD:N36.29.11.000:E128.23.52.000\n"
+        contents += "COORD:N36.20.11.000:E128.39.52.000\n"
+        contents += "COORD:N36.06.00.000:E129.05.00.000\n"
+        contents += "COORD:N35.54.13.000:E129.04.52.000\n"
+        contents += "COORD:N35.49.00.000:E129.10.00.000\n"
+        contents += "COORD:N35.39.00.000:E129.13.30.000\n"
+        contents += "COORD:N35.25.11.000:E129.09.52.000\n"
+        contents += "COORD:N35.25.11.000:E129.05.22.000\n"
+        contents += "COORD:N35.30.11.000:E129.01.52.000\n"
+        contents += "COORD:N35.30.12.000:E128.46.26.000\n"
+        contents += "COORD:N35.28.47.000:E128.33.40.000\n"
+        contents += "COORD:N35.30.11.000:E128.29.52.000\n"
+        contents += "COORD:N35.30.11.000:E127.49.52.000\n"
+        contents += "COORD:N35.45.11.000:E127.36.52.000\n"
+        contents += "COORD:N36.12.11.000:E127.36.52.000\n"
+        contents += "COORD:N36.07.11.000:E127.49.52.000\n"
+        contents += "COORD:N36.23.11.000:E128.09.52.000\n"
+        contents += "COORD:N36.29.11.000:E128.09.52.000\n"
 
 
 
@@ -368,6 +388,10 @@ module.exports = {
         contents += "SECTOR:RKTY_TMA:0:18500\n";
         contents += "OWNER:TYA\n";
         contents += "BORDER:RKTY_TMA_T36_BORDER\n";
+
+        contents += "SECTOR:RKTN_TMA:0:18500\n";
+        contents += "OWNER:TNA\n";
+        contents += "BORDER:RKTN_TMA_T35_BORDER\n";
 
         ////Sector manual input END
 
