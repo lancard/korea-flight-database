@@ -920,7 +920,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKPK",
-        "name": "VORDMEA18L",
+        "name": "VORA18L",
         "runway": "18L",
         "fixList": [
             "GAYHA",
@@ -930,7 +930,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKPK",
-        "name": "VORDMEA18R",
+        "name": "VORA18R",
         "runway": "18R",
         "fixList": [
             "GAYHA",
