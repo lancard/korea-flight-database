@@ -1311,10 +1311,30 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTU",
-        "name": "VORDME24R",
+        "name": "VOR24R",
         "runway": "24R",
         "fixList": [
             "IKAPO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "LOCY24R",
+        "runway": "24R",
+        "fixList": [
+            "IKAPO",
+            "CHO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "LOCZ24R",
+        "runway": "24R",
+        "fixList": [
+            "IKAPO",
+            "CHO"
         ]
     },
     {
@@ -1324,6 +1344,26 @@
         "runway": "24R",
         "fixList": [
             "IKAPO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "ILS24L",
+        "runway": "24L",
+        "fixList": [
+            "IKAPO",
+            "CHO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "LOC24L",
+        "runway": "24L",
+        "fixList": [
+            "IKAPO",
+            "CHO"
         ]
     },
     {
@@ -1428,9 +1468,49 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTU",
-        "name": "VORDME06L",
+        "name": "VOR06L",
         "runway": "06L",
         "fixList": [
+            "CHO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "LOC06R",
+        "runway": "06L",
+        "fixList": [
+            "IKAPO",
+            "CHO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "LOCY06L",
+        "runway": "06L",
+        "fixList": [
+            "IKAPO",
+            "CHO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "LOCZ06L",
+        "runway": "06L",
+        "fixList": [
+            "IKAPO",
+            "CHO"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTU",
+        "name": "ILSY06R",
+        "runway": "06R",
+        "fixList": [
+            "IKAPO",
             "CHO"
         ]
     },
@@ -1809,10 +1889,37 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTN",
+        "name": "RNP13L",
+        "runway": "13L",
+        "fixList": [
+            "YAWAN"
+            "TN401",
+	    "KUMHO",
+	    "TN503",
+	    "ALTON",
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
         "name": "ILS13R",
         "runway": "13R",
         "fixList": [
             "YAWAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
+        "name": "RNP31L",
+        "runway": "31L",
+        "fixList": [
+            "UKABT",
+            "TN601",
+	    "INTER",
+	    "TN602",
+	    "SINAM",
+	    "TN603"
         ]
     },
     {
@@ -1831,6 +1938,20 @@
         "runway": "31L",
         "fixList": [
             "UKBAT"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
+        "name": "RNP31R",
+        "runway": "31R",
+        "fixList": [
+            "UKABT",
+            "TN601",
+	    "BULGO",
+	    "TN701",
+	    "SADAN",
+	    "TN702"
         ]
     },
     {
