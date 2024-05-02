@@ -1435,6 +1435,378 @@
         ]
     },
     {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "MAVIC1",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "MAVIC"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "MAVIC1.BITUX",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "MAVIC",
+	        "TN131",
+	        "TN132",
+        	"DALGU",
+	        "BITUX"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "MAVIC1.OPEDA",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "MAVIC",
+	        "TN131",
+	        "TN132",
+	        "OPEDA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "MAVIC1.IGDOK",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "MAVIC",
+	        "TN131",
+	        "DURYU",
+	        "IGDOK"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "MAVIC1.MASTA",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "MAVIC",
+	        "TN131",
+	        "MASTA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "MAVIC1.KALOD",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "MAVIC",
+	        "KALOD"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "MAVIC1.LAPAL",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "MAVIC",
+	        "LAPAL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "CABON1",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "CABON"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "CABON1.BITUX",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "CABON",
+	        "DALGU",
+	        "BITUX"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "CABON1.OPEDA",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "CABON",
+	        "OPEDA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "CABON1.IGDOK",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "CABON",
+	        "TN311",
+	        "DURYU",
+	        "IGDOK"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "CABON1.MASTA",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "CABON",
+	        "TN311",
+	        "MASTA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "CABON1.KALOD",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "CABON",
+	        "TN311",
+	        "TN312",
+	        "KALOD"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "CABON1.LAPAL",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "CABON",
+	        "TN311",
+	        "TN312",
+	        "LAPAL"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "YAWAN1.BITUX",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "BITUX",
+	        "HOSAN",
+	        "TN451",
+	        "YAWAN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "YAWAN1.OPEDA",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "OPEDA",
+	        "TN451",
+	        "YAWAN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "YAWAN1.IGDOK",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "IGDOK",
+	        "DURYU",
+	        "YAWAN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "YAWAN1.MASTA",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "MASTA",
+	        "YAWAN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "YAWAN1.KALOD",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "KALOD",
+	        "TGU",
+	        "YAWAN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "YAWAN1.LAPAL",
+        "runway": [
+            "13L",
+            "13R"
+        ],
+        "fixList": [
+            "LAPAL",
+	        "TGU",
+	        "YAWAN"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "UKBAT1.BITUX",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "BITUX",
+	"HOSAN",
+	"TGU",
+	"TN652",
+	"UKBAT"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "UKBAT1.OPEDA",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "OPEDA",
+	"TGU",
+	"TN652",
+	"UKBAT"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "UKBAT1.IGDOK",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "IGDOK",
+	"DURYU",
+	"TGU",
+	"TN652",
+	"UKBAT"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "UKBAT1.MASTA",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "MASTA",
+	"TN653",
+	"TGU",
+	"TN652",
+	"UKBAT"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "UKBAT1.KALOD",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "KALOD",
+	"TN633",
+	"TGU",
+	"TN652",
+	"UKBAT"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTN",
+        "name": "UKBAT1.LAPAL",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "LAPAL",
+	"UKBAT"
+        ]
+    },
+    {
         "procedureType": "APPROACH",
         "airport": "RKTN",
         "name": "ILS13R",
