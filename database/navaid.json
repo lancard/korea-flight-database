@@ -10096,7 +10096,7 @@
 		"longitude": "E126.55.04.600",
 		"airport": "RKSS"
 	},
-		{
+	{
 		"name": "TN601",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -10132,7 +10132,7 @@
 		"longitude": "E128.29.21.300",
 		"airport": "RKTN"
 	},
-		{
+	{
 		"name": "TN701",
 		"navaidType": "FIX",
 		"extraType": "FIX",
