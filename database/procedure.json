@@ -1478,7 +1478,7 @@
         "procedureType": "APPROACH",
         "airport": "RKTU",
         "name": "LOC06R",
-        "runway": "06L",
+        "runway": "06R",
         "fixList": [
             "IKAPO",
             "CHO"
@@ -1892,7 +1892,7 @@
         "name": "RNP13L",
         "runway": "13L",
         "fixList": [
-            "YAWAN"
+            "YAWAN",
             "TN401",
 	    "KUMHO",
 	    "TN503",
