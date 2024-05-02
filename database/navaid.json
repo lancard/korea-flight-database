@@ -3209,7 +3209,7 @@
 		"extraType": "FIX",
 		"description": "경로 픽스",
 		"latitude": "N036.01.47.400",
-		"longitude": "E128.24.41.400",
+		"longitude": "E128.24.41.400"
 	},
 	{
 		"name": "GOGET",
