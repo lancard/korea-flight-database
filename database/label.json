@@ -8469,8 +8469,8 @@
         "airport": "RKPK",
         "labelType": "Taxiway",
         "name": "E3",
-        "latitude": "N035.11.09.452",
-        "longitude": "E128.56.23.143",
+        "latitude": "N035.11.09.804",
+        "longitude": "E128.56.23.354",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -8493,8 +8493,8 @@
         "airport": "RKPK",
         "labelType": "Taxiway",
         "name": "E4",
-        "latitude": "N035.10.39.348",
-        "longitude": "E128.56.26.799",
+        "latitude": "N035.10.39.819",
+        "longitude": "E128.56.26.911",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {

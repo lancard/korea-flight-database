@@ -1804,10 +1804,10 @@
         ],
         "fixList": [
             "BITUX",
-	"HOSAN",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "HOSAN",
+	        "TGU",
+            "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1820,9 +1820,9 @@
         ],
         "fixList": [
             "OPEDA",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "TGU",
+	        "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1835,10 +1835,10 @@
         ],
         "fixList": [
             "IGDOK",
-	"DURYU",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "DURYU",
+	        "TGU",
+	        "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1851,10 +1851,10 @@
         ],
         "fixList": [
             "MASTA",
-	"TN653",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "TN653",
+	        "TGU",
+	        "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1867,10 +1867,10 @@
         ],
         "fixList": [
             "KALOD",
-	"TN633",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "TN633",
+	        "TGU",
+	        "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1883,7 +1883,7 @@
         ],
         "fixList": [
             "LAPAL",
-	"UKBAT"
+	        "UKBAT"
         ]
     },
     {
@@ -1894,9 +1894,9 @@
         "fixList": [
             "YAWAN",
             "TN401",
-	    "KUMHO",
-	    "TN503",
-	    "ALTON"
+	        "KUMHO",
+	        "TN503",
+	        "ALTON"
         ]
     },
     {
@@ -1911,15 +1911,28 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTN",
+        "name": "RNP13R",
+        "runway": "13L",
+        "fixList": [
+            "YAWAN",
+            "TN401",
+	        "GOOMI",
+	        "TN403",
+	        "GASAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
         "name": "RNP31L",
         "runway": "31L",
         "fixList": [
-            "UKABT",
+            "UKBAT",
             "TN601",
-	    "INTER",
-	    "TN602",
-	    "SINAM",
-	    "TN603"
+	        "INTER",
+	        "TN602",
+	        "SINAM",
+	        "TN603"
         ]
     },
     {
@@ -1946,12 +1959,12 @@
         "name": "RNP31R",
         "runway": "31R",
         "fixList": [
-            "UKABT",
+            "UKBAT",
             "TN601",
-	    "BULGO",
-	    "TN701",
-	    "SADAN",
-	    "TN702"
+	        "BULGO",
+	        "TN701",
+	        "SADAN",
+	        "TN702"
         ]
     },
     {
