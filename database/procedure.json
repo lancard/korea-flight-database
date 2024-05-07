@@ -1314,7 +1314,8 @@
         "name": "VOR24R",
         "runway": "24R",
         "fixList": [
-            "IKAPO"
+            "IKAPO",
+            "CHO"
         ]
     },
     {
@@ -7666,7 +7667,7 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "ENTEL2",
+        "name": "ENTEL1",
         "runway": [
             "18"
         ],
@@ -7680,7 +7681,7 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "ENTEL2",
+        "name": "ENTEL1",
         "runway": [
             "36"
         ],
@@ -7693,7 +7694,7 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "LINTA2",
+        "name": "LINTA1",
         "runway": [
             "36"
         ],
@@ -7707,7 +7708,7 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "LINTA2",
+        "name": "LINTA1",
         "runway": [
             "18"
         ],
@@ -7719,26 +7720,28 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "PORIX1",
+        "name": "PORIX2",
         "runway": [
             "36"
         ],
         "fixList": [
             "N035.55.27.215 E126.36.40.377",
             "N035.55.22.855 E126.40.00.166",
-            "PORIX"
+            "PORIX",
+            "MANGI"
          ]
     },
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "PORIX1",
+        "name": "PORIX2",
         "runway": [
             "18"
         ],
         "fixList": [
             "N035.52.33.839 E126.37.22.931",
-            "PORIX"
+            "PORIX",
+            "MANGI"
          ]
     },
      {
