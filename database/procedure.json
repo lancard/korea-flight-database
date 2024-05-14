@@ -123,6 +123,19 @@
     {
         "procedureType": "SID",
         "airport": "RKPK",
+        "name": "GIMHAE2",
+        "runway": [
+            "18L",
+            "18R",
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
         "name": "SOORO2",
         "runway": [
             "36L",
