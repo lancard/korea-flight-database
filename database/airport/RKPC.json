@@ -5288,5 +5288,91 @@
 				"longitude2": "E126.30.00.802"
 			}
 		]
+	},
+	"RKPC-Taxiway_W": {
+		"airport": "RKPC",
+		"name": "RKPC-Taxiway_W",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-ApronCenterLine",
+		"lineList": [
+			{
+				"latitude1": "N033.30.41.211",
+				"longitude1": "E126.29.47.325",
+				"latitude2": "N033.30.40.982",
+				"longitude2": "E126.29.47.316"
+			},
+			{
+				"latitude1": "N033.30.40.982",
+				"longitude1": "E126.29.47.316",
+				"latitude2": "N033.30.40.797",
+				"longitude2": "E126.29.47.320"
+			},
+			{
+				"latitude1": "N033.30.40.797",
+				"longitude1": "E126.29.47.320",
+				"latitude2": "N033.30.40.616",
+				"longitude2": "E126.29.47.349"
+			},
+			{
+				"latitude1": "N033.30.40.616",
+				"longitude1": "E126.29.47.349",
+				"latitude2": "N033.30.40.471",
+				"longitude2": "E126.29.47.388"
+			},
+			{
+				"latitude1": "N033.30.40.471",
+				"longitude1": "E126.29.47.388",
+				"latitude2": "N033.30.40.366",
+				"longitude2": "E126.29.47.451"
+			},
+			{
+				"latitude1": "N033.30.40.366",
+				"longitude1": "E126.29.47.451",
+				"latitude2": "N033.30.40.257",
+				"longitude2": "E126.29.47.523"
+			},
+			{
+				"latitude1": "N033.30.40.257",
+				"longitude1": "E126.29.47.523",
+				"latitude2": "N033.30.40.157",
+				"longitude2": "E126.29.47.649"
+			},
+			{
+				"latitude1": "N033.30.40.157",
+				"longitude1": "E126.29.47.649",
+				"latitude2": "N033.30.40.080",
+				"longitude2": "E126.29.47.789"
+			},
+			{
+				"latitude1": "N033.30.40.080",
+				"longitude1": "E126.29.47.789",
+				"latitude2": "N033.30.40.008",
+				"longitude2": "E126.29.47.953"
+			},
+			{
+				"latitude1": "N033.30.40.008",
+				"longitude1": "E126.29.47.953",
+				"latitude2": "N033.30.39.963",
+				"longitude2": "E126.29.48.131"
+			},
+			{
+				"latitude1": "N033.30.39.963",
+				"longitude1": "E126.29.48.131",
+				"latitude2": "N033.30.39.907",
+				"longitude2": "E126.29.48.411"
+			},
+			{
+				"latitude1": "N033.30.39.907",
+				"longitude1": "E126.29.48.411",
+				"latitude2": "N033.30.39.891",
+				"longitude2": "E126.29.48.720"
+			},
+			{
+				"latitude1": "N033.30.39.891",
+				"longitude1": "E126.29.48.720",
+				"latitude2": "N033.30.41.316",
+				"longitude2": "E126.29.55.403"
+			}
+		]
 	}
 }
