@@ -869,14 +869,14 @@
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "PILIT",
-        "fixEnd": "NIMUS"
+        "fixEnd": "ESNEG"
     },
     {
         "name": "G597",
         "seq": 16,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
-        "fixStart": "NIMUS",
+        "fixStart": "ESNEG",
         "fixEnd": "AGSUS"
     },
     {
@@ -2333,14 +2333,14 @@
         "description": "저고도항로",
         "airwayType": "RNAV",
         "fixStart": "PILIT",
-        "fixEnd": "NIMUS"
+        "fixEnd": "ESNEG"
     },
     {
         "name": "Y697",
         "seq": 16,
         "description": "저고도항로",
         "airwayType": "RNAV",
-        "fixStart": "NIMUS",
+        "fixStart": "ESNEG",
         "fixEnd": "AGSUS"
     },
     {
