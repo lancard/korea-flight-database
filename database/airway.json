@@ -429,19 +429,27 @@
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "KAE",
-        "fixEnd": "NOMEX"
+        "fixEnd": "LESBU"
     },
     {
         "name": "B467",
         "seq": 2,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
-        "fixStart": "NOMEX",
-        "fixEnd": "BUSKO"
+        "fixStart": "LESBU",
+        "fixEnd": "UGOVI"
     },
     {
         "name": "B467",
         "seq": 3,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "UGOVI",
+        "fixEnd": "BUSKO"
+    },
+    {
+        "name": "B467",
+        "seq": 4,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "BUSKO",
@@ -449,7 +457,7 @@
     },
     {
         "name": "B467",
-        "seq": 4,
+        "seq": 5,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "TENAS",
@@ -457,7 +465,7 @@
     },
     {
         "name": "B467",
-        "seq": 5,
+        "seq": 6,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "MALSO",
@@ -465,7 +473,7 @@
     },
     {
         "name": "B467",
-        "seq": 6,
+        "seq": 7,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "KANSU",
@@ -473,7 +481,7 @@
     },
     {
         "name": "B467",
-        "seq": 7,
+        "seq": 8,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "TONIN",

@@ -5828,6 +5828,14 @@
 		"airport": "RKSI"
 	},
 	{
+		"name": "LESBU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.41.16.000",
+		"longitude": "E129.41.04.000"
+	},
+	{
 		"name": "LIMDI",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -10183,6 +10191,15 @@
 		"description": "경로 픽스",
 		"latitude": "N036.55.51.600",
 		"longitude": "E126.55.11.300",
+		"airport": "RKSS"
+	},
+	{
+		"name": "UGOVI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.41.05.000",
+		"longitude": "E129.50.51.000",
 		"airport": "RKSS"
 	},
 	{
