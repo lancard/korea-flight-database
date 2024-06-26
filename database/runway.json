@@ -423,6 +423,15 @@
         "airport": "RKTY"
     },
     {
+        "runway": "06",
+        "oppositeRunway": "24",
+        "startLatitude": "N037.27.22.225",
+        "startLongitude": "E130.52.34.319",
+        "endLatitude": "N037.27.49.757",
+        "endLongitude": "E130.53.17.501",
+        "airport": "RKDU"
+    },
+    {
         "runway": "16L",
         "oppositeRunway": "34R",
         "startLatitude": "N035.48.09.768",

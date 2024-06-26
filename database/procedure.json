@@ -123,6 +123,20 @@
     {
         "procedureType": "SID",
         "airport": "RKPK",
+        "name": "GIMHAE2",
+        "runway": [
+            "18L",
+            "18R",
+            "36L",
+            "36R"
+        ],
+        "fixList": [
+            "KMH"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
         "name": "SOORO2",
         "runway": [
             "36L",
@@ -1314,7 +1328,8 @@
         "name": "VOR24R",
         "runway": "24R",
         "fixList": [
-            "IKAPO"
+            "IKAPO",
+            "CHO"
         ]
     },
     {
@@ -1804,10 +1819,10 @@
         ],
         "fixList": [
             "BITUX",
-	"HOSAN",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "HOSAN",
+	        "TGU",
+            "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1820,9 +1835,9 @@
         ],
         "fixList": [
             "OPEDA",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "TGU",
+	        "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1835,10 +1850,10 @@
         ],
         "fixList": [
             "IGDOK",
-	"DURYU",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "DURYU",
+	        "TGU",
+	        "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1851,10 +1866,10 @@
         ],
         "fixList": [
             "MASTA",
-	"TN653",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "TN653",
+	        "TGU",
+	        "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1867,10 +1882,10 @@
         ],
         "fixList": [
             "KALOD",
-	"TN633",
-	"TGU",
-	"TN652",
-	"UKBAT"
+	        "TN633",
+	        "TGU",
+	        "TN652",
+	        "UKBAT"
         ]
     },
     {
@@ -1883,7 +1898,7 @@
         ],
         "fixList": [
             "LAPAL",
-	"UKBAT"
+	        "UKBAT"
         ]
     },
     {
@@ -1894,9 +1909,9 @@
         "fixList": [
             "YAWAN",
             "TN401",
-	    "KUMHO",
-	    "TN503",
-	    "ALTON"
+	        "KUMHO",
+	        "TN503",
+	        "ALTON"
         ]
     },
     {
@@ -1911,15 +1926,28 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTN",
+        "name": "RNP13R",
+        "runway": "13L",
+        "fixList": [
+            "YAWAN",
+            "TN401",
+	        "GOOMI",
+	        "TN403",
+	        "GASAN"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKTN",
         "name": "RNP31L",
         "runway": "31L",
         "fixList": [
-            "UKABT",
+            "UKBAT",
             "TN601",
-	    "INTER",
-	    "TN602",
-	    "SINAM",
-	    "TN603"
+	        "INTER",
+	        "TN602",
+	        "SINAM",
+	        "TN603"
         ]
     },
     {
@@ -1946,12 +1974,12 @@
         "name": "RNP31R",
         "runway": "31R",
         "fixList": [
-            "UKABT",
+            "UKBAT",
             "TN601",
-	    "BULGO",
-	    "TN701",
-	    "SADAN",
-	    "TN702"
+	        "BULGO",
+	        "TN701",
+	        "SADAN",
+	        "TN702"
         ]
     },
     {
@@ -4998,12 +5026,10 @@
         "airport": "RKSI",
         "name": "REBIT2H",
         "fixList": [
-            "OLMEN",
-            "BOPKI",
-            "DH050",
-            "DH047",
-            "SANLA",
-            "DH034",
+            "REBIT",
+            "ELGUK",
+            "PH036",
+            "PH037",
             "POMIM",
             "DH030",
             "DH029",
@@ -7655,7 +7681,7 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "ENTEL2",
+        "name": "ENTEL1",
         "runway": [
             "18"
         ],
@@ -7669,7 +7695,7 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "ENTEL2",
+        "name": "ENTEL1",
         "runway": [
             "36"
         ],
@@ -7682,7 +7708,7 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "LINTA2",
+        "name": "LINTA1",
         "runway": [
             "36"
         ],
@@ -7696,7 +7722,7 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "LINTA2",
+        "name": "LINTA1",
         "runway": [
             "18"
         ],
@@ -7708,26 +7734,28 @@
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "PORIX1",
+        "name": "PORIX2",
         "runway": [
             "36"
         ],
         "fixList": [
             "N035.55.27.215 E126.36.40.377",
             "N035.55.22.855 E126.40.00.166",
-            "PORIX"
+            "PORIX",
+            "MANGI"
          ]
     },
     {
         "procedureType": "SID",
         "airport": "RKJK",
-        "name": "PORIX1",
+        "name": "PORIX2",
         "runway": [
             "18"
         ],
         "fixList": [
             "N035.52.33.839 E126.37.22.931",
-            "PORIX"
+            "PORIX",
+            "MANGI"
          ]
     },
      {

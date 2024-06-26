@@ -354,6 +354,7 @@ module.exports = {
 
         regionList.forEach(r => {
             var color = r.colorProfile;
+            ret.push(`REGIONNAME ${r.name}`)
             r.fixList.forEach(e => {
                 ret.push(`${color} ${e.split(" ")[0]} ${e.split(" ")[1]}`);
                 color = '';
