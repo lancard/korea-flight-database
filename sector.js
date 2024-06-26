@@ -1,7 +1,6 @@
 const fs = require('fs');
 const path = require('path');
 const util = require('./util.js');
-const colorUtil = require('./sectorutils/colors.js')
 
 function getSidStarLatitudeLongitudeString(fixOrCoord) {
     if (fixOrCoord.length < 10) {
@@ -76,7 +75,7 @@ module.exports = {
             ["FIR-Label", 0x50,  0x50,  0x70],
             ["Test-White", 0xff,  0xff,  0xff],
             ["Test-Yellow", 0xff,  0xff,  0x00]
-        ].map((color) => colorUtil.makeColorDefine(color[0], colorUtil.rgb2BgrInt(color[1], color[2], color[3]))).join("\n");
+        ].map((color) => util.makeColorDefine(color[0], util.convertRgbtoSectorInteger(color[1], color[2], color[3]))).join("\n");
     },
     getInfo() {
         return `Incheon vACC (${gitHeadDateTime.format("YYYYMMDD_HHmmss")})\n` +
