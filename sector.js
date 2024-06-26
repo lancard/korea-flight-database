@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const util = require('./util.js');
+const colorUtil = require('./sectorutils/colors.js')
 
 function getSidStarLatitudeLongitudeString(fixOrCoord) {
     if (fixOrCoord.length < 10) {
@@ -49,32 +50,33 @@ module.exports = {
             "; magnetic variation ref: WMM-2015 (http://www.ngdc.noaa.gov/geomag-web/) - CSV download\n";
     },
     getColorDefinition() {
-        return "#define Airport-ApronCenterLine 8344832\n" +
-            "#define Airport-BlastPad 65535\n" +
-            "#define Airport-Border 16755370\n" +
-            "#define Airport-Building 6316128\n" +
-            "#define Airport-Building-Label 3486976\n" +
-            "#define Airport-GateNumber 128\n" +
-            "#define Airport-GroundMarkPaints 16777215\n" +
-            "#define Airport-Helipad 65535\n" +
-            "#define Airport-HoldPositionMark 255\n" +
-            "#define Airport-Jetway 255\n" +
-            "#define Airport-Pushback-Point 255\n" +
-            "#define Airport-LeadInLight 2302755\n" +
-            "#define Airport-Runway 5592405\n" +
-            "#define Airport-TaxiwayCenterLine 8344958\n" +
-            "#define Airport-Taxiway-Label 128\n" +
-            "#define Airway-DmeArc 2302755\n" +
-            "#define Airway-VfrReportingPoint 20560\n" +
-            "#define Area-DangerArea 5263472\n" +
-            "#define Area-DangerArea-Label 5263472\n" +
-            "#define Area-MOA 8192\n" +
-            "#define Area-ProhibitedArea 128\n" +
-            "#define Area-RestrictedArea 64\n" +
-            "#define CoastLine 2302755\n" +
-            "#define FIR-Label 7360592\n" +
-            "#define Test-White 16777215\n" +
-            "#define Test-Yellow 65535\n"
+        return [
+            ["Airport-ApronCenterLine", 0x00, 0x55, 0x7F],
+            ["Airport-BlastPad", 0xFF, 0xFF, 0x00],
+            ["Airport-Border", 0xAA, 0xAA, 0xFF],
+            ["Airport-Building", 0x60, 0x60, 0x60],
+            ["Airport-Building-Label", 0x00, 0x35, 0x35],
+            ["Airport-GateNumber", 0x80, 0x00, 0x00],
+            ["Airport-GroundMarksPaints", 0xFF, 0xFF, 0xFF],
+            ["Airport-Helipad", 0xFF, 0xFF, 0x00],
+            ["Airport-HoldPositionMark", 0xFF, 0x00, 0x00],
+            ["Airport-Pushback-Point", 0xff,  0x00,  0x00],
+            ["Airport-LeadInLight", 0x23,  0x23,  0x23],      
+            ["Airport-Runway", 0x55,  0x55,  0x55],
+            ["Airport-TaxiwayCenterLine", 0x7e,  0x55,  0x7f],
+            ["Airport-Taxiway-Label", 0x80,  0x00,  0x00],    
+            ["Airway-DmeArc", 0x23,  0x23,  0x23],
+            ["Airway-VfrReportingPoint", 0x50,  0x50,  0x00], 
+            ["Area-DangerArea", 0x70,  0x50,  0x50],
+            ["Area-DangerArea-Label", 0x70,  0x50,  0x50],    
+            ["Area-MOA", 0x00,  0x20,  0x00],
+            ["Area-ProhibitedArea", 0x80,  0x00,  0x00],      
+            ["Area-RestrictedArea", 0x40,  0x00,  0x00],      
+            ["CoastLine", 0x23,  0x23,  0x23],
+            ["FIR-Label", 0x50,  0x50,  0x70],
+            ["Test-White", 0xff,  0xff,  0xff],
+            ["Test-Yellow", 0xff,  0xff,  0x00]
+        ].map((color) => colorUtil.makeColorDefine(color[0], colorUtil.rgb2BgrInt(color[1], color[2], color[3]))).join("\n");
     },
     getInfo() {
         return `Incheon vACC (${gitHeadDateTime.format("YYYYMMDD_HHmmss")})\n` +
