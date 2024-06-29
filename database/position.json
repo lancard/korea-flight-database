@@ -380,7 +380,7 @@
     "RKDA_C_CTR": {
         "name": "DAEGU CONTROL",
         "frequency": "125.370",
-        "initialID": "DGE",
+        "initialID": "DGC",
         "middleFix": "C",
         "prefix": "RKDA",
         "position": "CTR"
