@@ -429,19 +429,27 @@
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "KAE",
-        "fixEnd": "NOMEX"
+        "fixEnd": "LESBU"
     },
     {
         "name": "B467",
         "seq": 2,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
-        "fixStart": "NOMEX",
-        "fixEnd": "BUSKO"
+        "fixStart": "LESBU",
+        "fixEnd": "UGOVI"
     },
     {
         "name": "B467",
         "seq": 3,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "UGOVI",
+        "fixEnd": "BUSKO"
+    },
+    {
+        "name": "B467",
+        "seq": 4,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "BUSKO",
@@ -449,7 +457,7 @@
     },
     {
         "name": "B467",
-        "seq": 4,
+        "seq": 5,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "TENAS",
@@ -457,7 +465,7 @@
     },
     {
         "name": "B467",
-        "seq": 5,
+        "seq": 6,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "MALSO",
@@ -465,7 +473,7 @@
     },
     {
         "name": "B467",
-        "seq": 6,
+        "seq": 7,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "KANSU",
@@ -473,7 +481,7 @@
     },
     {
         "name": "B467",
-        "seq": 7,
+        "seq": 8,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "TONIN",
@@ -861,14 +869,14 @@
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "PILIT",
-        "fixEnd": "NIMUS"
+        "fixEnd": "ESNEG"
     },
     {
         "name": "G597",
         "seq": 16,
         "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
-        "fixStart": "NIMUS",
+        "fixStart": "ESNEG",
         "fixEnd": "AGSUS"
     },
     {
@@ -901,11 +909,19 @@
         "description": "고고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "NOBUT",
-        "fixEnd": "LOSTO"
+        "fixEnd": "OSVOM"
     },
     {
         "name": "V11",
         "seq": 3,
+        "description": "고고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "OSVOM",
+        "fixEnd": "LOSTO"
+    },
+    {
+        "name": "V11",
+        "seq": 4,
         "description": "고고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "LOSTO",
@@ -913,7 +929,7 @@
     },
     {
         "name": "V11",
-        "seq": 4,
+        "seq": 5,
         "description": "고고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "KPO",
@@ -921,7 +937,7 @@
     },
     {
         "name": "V11",
-        "seq": 5,
+        "seq": 6,
         "description": "고고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "APARU",
@@ -1285,7 +1301,7 @@
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "PILIT",
-        "fixEnd": "NOMEX"
+        "fixEnd": "LESBU"
     },
     {
         "name": "Y655",
@@ -1309,11 +1325,19 @@
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "NONOS",
-        "fixEnd": "DANPA"
+        "fixEnd": "BIDRI"
     },
     {
         "name": "Y655",
         "seq": 4,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "BIDRI",
+        "fixEnd": "DANPA"
+    },
+    {
+        "name": "Y655",
+        "seq": 5,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "DANPA",
@@ -1321,7 +1345,7 @@
     },
     {
         "name": "Y655",
-        "seq": 5,
+        "seq": 6,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "PALSA",
@@ -1329,7 +1353,7 @@
     },
     {
         "name": "Y655",
-        "seq": 6,
+        "seq": 7,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "TOLIS",
@@ -1337,7 +1361,7 @@
     },
     {
         "name": "Y655",
-        "seq": 7,
+        "seq": 8,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "ENSUM",
@@ -1345,7 +1369,7 @@
     },
     {
         "name": "Y655",
-        "seq": 8,
+        "seq": 9,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "BONSO",
@@ -1781,11 +1805,19 @@
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "NOBUT",
-        "fixEnd": "LOSTO"
+        "fixEnd": "OSVOM"
     },
     {
         "name": "Y744",
         "seq": 3,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "OSVOM",
+        "fixEnd": "LOSTO"
+    },
+    {
+        "name": "Y744",
+        "seq": 4,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "LOSTO",
@@ -1793,7 +1825,7 @@
     },
     {
         "name": "Y744",
-        "seq": 4,
+        "seq": 5,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "KPO",
@@ -1801,7 +1833,7 @@
     },
     {
         "name": "Y744",
-        "seq": 5,
+        "seq": 6,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "APARU",
@@ -2173,19 +2205,27 @@
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "KAE",
-        "fixEnd": "NOMEX"
+        "fixEnd": "LESBU"
     },
     {
         "name": "Y437",
         "seq": 2,
         "description": "고고도항로",
         "airwayType": "RNAV",
-        "fixStart": "NOMEX",
-        "fixEnd": "BUSKO"
+        "fixStart": "LESBU",
+        "fixEnd": "UGOVI"
     },
     {
         "name": "Y437",
         "seq": 3,
+        "description": "고고도항로",
+        "airwayType": "RNAV",
+        "fixStart": "UGOVI",
+        "fixEnd": "BUSKO"
+    },
+    {
+        "name": "Y437",
+        "seq": 4,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "BUSKO",
@@ -2193,7 +2233,7 @@
     },
     {
         "name": "Y437",
-        "seq": 4,
+        "seq": 5,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "TENAS",
@@ -2201,7 +2241,7 @@
     },
     {
         "name": "Y437",
-        "seq": 5,
+        "seq": 6,
         "description": "고고도항로",
         "airwayType": "RNAV",
         "fixStart": "MALSO",
@@ -2325,14 +2365,14 @@
         "description": "저고도항로",
         "airwayType": "RNAV",
         "fixStart": "PILIT",
-        "fixEnd": "NIMUS"
+        "fixEnd": "ESNEG"
     },
     {
         "name": "Y697",
         "seq": 16,
         "description": "저고도항로",
         "airwayType": "RNAV",
-        "fixStart": "NIMUS",
+        "fixStart": "ESNEG",
         "fixEnd": "AGSUS"
     },
     {
