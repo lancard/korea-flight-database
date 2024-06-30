@@ -20,7 +20,7 @@ module.exports = {
             };
         });
 
-        runwayList.filter(e => e.airport == 'RKSI' || e.airport == 'RKSS' || e.airport == 'RKPK' || e.airport == 'RKPC' || e.airport == 'ZKPY').forEach(obj => {
+        runwayList.filter(e => (e.airport.indexOf("RK") == 0 || e.airport.indexOf("ZK") == 0)).forEach(obj => {
             ret.RunwayList[`${obj.airport}_${obj.runway}`] = {
                 ThresholdSideCoordinate: {
                     latitude: obj.startLatitudeDecimal,
