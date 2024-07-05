@@ -7106,15 +7106,6 @@
 		"airport": "RKPC"
 	},
 	{
-		"name": "NULSO",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N033.16.00.200",
-		"longitude": "E126.40.11.800",
-		"airport": "RKPC"
-	},
-	{
 		"name": "PC721",
 		"navaidType": "FIX",
 		"extraType": "FIX",
