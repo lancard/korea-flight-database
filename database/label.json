@@ -2123,6 +2123,14 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "222",
+        "latitude": "N037.28.01.200",
+        "longitude": "E126.25.46.870",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "223",
@@ -2139,11 +2147,27 @@
         "colorProfile": "Airport-GateNumber"
     },
     {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "224",
+        "latitude": "N037.27.59.008",
+        "longitude": "E126.25.48.782",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
         "airport": "RKSS",
         "labelType": "Gate-Number",
         "name": "225",
         "latitude": "N037.33.56.340",
         "longitude": "E126.47.35.260",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "225",
+        "latitude": "N037.27.56.356",
+        "longitude": "E126.25.51.447",
         "colorProfile": "Airport-GateNumber"
     },
     {
@@ -2376,6 +2400,30 @@
         "name": "239",
         "latitude": "N037.34.11.368",
         "longitude": "E126.47.54.235",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "275",
+        "latitude": "N037.28.13.542",
+        "longitude": "E126.26.15.567",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "276",
+        "latitude": "N037.28.15.820",
+        "longitude": "E126.26.13.426",
+        "colorProfile": "Airport-GateNumber"
+    },
+    {
+        "airport": "RKSI",
+        "labelType": "Gate-Number",
+        "name": "277",
+        "latitude": "N037.28.18.027",
+        "longitude": "E126.26.11.688",
         "colorProfile": "Airport-GateNumber"
     },
     {
