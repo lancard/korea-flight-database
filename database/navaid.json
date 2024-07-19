@@ -2297,6 +2297,30 @@
 		"longitude": "E126.59.00.400"
 	},
 	{
+		"name": "JULOP",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IAF",
+		"latitude": "N035.34.59.500",
+		"longitude": "E126.41.34.000"
+	},
+	{
+		"name": "TRASK",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IAF",
+		"latitude": "N035.35.21.900",
+		"longitude": "E126.43.26.500"
+	},
+	{
+		"name": "JEWEL",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IAF",
+		"latitude": "N036.14.19.100",
+		"longitude": "E126.32.12.600"
+	},
+	{
 		"name": "CROUN",
 		"navaidType": "FIX",
 		"extraType": "FIX",

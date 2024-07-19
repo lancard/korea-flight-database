@@ -7761,7 +7761,7 @@
      {
         "procedureType": "APPROACH",
         "airport": "RKJK",
-        "name": "ILSY18.WYZRD",
+        "name": "ILS18.WYZRD",
         "runway": "18",
         "fixList": [
             "WYZRD",
@@ -7774,7 +7774,19 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKJK",
-        "name": "ILSY18.WWOLF",
+        "name": "ILS18.JEWEL",
+        "runway": "18",
+        "fixList": [
+            "JEWEL",
+            "BLAZZ",
+            "LUKKI",
+            "APDOP"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "ILS18.WWOLF",
         "runway": "18",
         "fixList": [
             "WWOLF",
@@ -7819,6 +7831,19 @@
             "JINRO",
             "KIXIS",
             "RETAG"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKJK",
+        "name": "ILS36.JULOP",
+        "runway": "36",
+        "fixList": [
+            "JULOP",
+            "VIPIR",
+            "BOXOL",
+            "ROCEE",
+            "BEZEE"
         ]
     },
     {
@@ -7885,7 +7910,7 @@
         "fixList": [
             "WYZRD",
             "N035.42.20.688 E126.25.39.064",
-            "BOREV",
+            "VIPIR",
             "HALUN",
             "LEBUX",
             "WONAP"
