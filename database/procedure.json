@@ -2711,6 +2711,39 @@
     {
         "procedureType": "SID",
         "airport": "RKPU",
+        "name": "KPO1A",
+        "runway": [
+            "18"
+        ],
+        "fixList": [
+            "KPO"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPU",
+        "name": "KPO7S",
+        "runway": [
+            "18"
+        ],
+        "fixList": [
+            "KPO"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPU",
+        "name": "APARU7S",
+        "runway": [
+            "18"
+        ],
+        "fixList": [
+            "APARU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPU",
         "name": "APARU1R",
         "runway": [
             "36"
@@ -2733,6 +2766,39 @@
             "PU801",
             "PU802",
             "KPO"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPU",
+        "name": "APARU8N",
+        "runway": [
+            "36"
+        ],
+        "fixList": [
+            "APARU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPU",
+        "name": "KPO8N",
+        "runway": [
+            "36"
+        ],
+        "fixList": [
+            "KPO"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPU",
+        "name": "APARU1A",
+        "runway": [
+            "36"
+        ],
+        "fixList": [
+            "APARU"
         ]
     },
     {
