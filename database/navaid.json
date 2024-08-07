@@ -5713,7 +5713,7 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "KT023",
+		"name": "APOMO",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -8026,7 +8026,7 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "PT022",
+		"name": "SUNEM",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",

@@ -6202,7 +6202,7 @@
             "PT054",
             "PT042",
             "PT029",
-            "PT022"
+            "SUNEM"
         ]
     },
     {
@@ -6293,10 +6293,10 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSS",
-        "name": "ILS32L.PT022",
+        "name": "ILS32L.SUNEM",
         "runway": "32L",
         "fixList": [
-            "PT022",
+            "SUNEM",
             "PT017",
             "WONKO",
             "DT009",
@@ -6307,10 +6307,10 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSS",
-        "name": "ILS32L.KT023",
+        "name": "ILS32L.APOMO",
         "runway": "32L",
         "fixList": [
-            "KT023",
+            "APOMO",
             "KT018",
             "WONKO",
             "DT009",
@@ -6335,10 +6335,10 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSS",
-        "name": "RNP32L.PT022",
+        "name": "RNP32L.SUNEM",
         "runway": "32L",
         "fixList": [
-            "PT022",
+            "SUNEM",
             "PT017",
             "WONKO",
             "DT009",
@@ -6349,10 +6349,10 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSS",
-        "name": "RNP32L.KT023",
+        "name": "RNP32L.APOMO",
         "runway": "32L",
         "fixList": [
-            "KT023",
+            "APOMO",
             "KT018",
             "WONKO",
             "DT009",
@@ -6394,10 +6394,10 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSS",
-        "name": "ILS32R.PT022",
+        "name": "ILS32R.SUNEM",
         "runway": "32R",
         "fixList": [
-            "PT022",
+            "SUNEM",
             "PT017",
             "MOBAK",
             "GT009",
@@ -6408,10 +6408,10 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSS",
-        "name": "ILS32R.KT023",
+        "name": "ILS32R.APOMO",
         "runway": "32R",
         "fixList": [
-            "KT023",
+            "APOMO",
             "KT018",
             "MOBAK",
             "GT009",
@@ -6437,10 +6437,10 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSS",
-        "name": "RNP32R.PT022",
+        "name": "RNP32R.SUNEM",
         "runway": "32R",
         "fixList": [
-            "PT022",
+            "SUNEM",
             "PT017",
             "MOBAK",
             "GT009",
@@ -6451,10 +6451,10 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKSS",
-        "name": "RNP32R.KT023",
+        "name": "RNP32R.APOMO",
         "runway": "32R",
         "fixList": [
-            "KT023",
+            "APOMO",
             "KT018",
             "MOBAK",
             "GT009",
