@@ -2305,14 +2305,6 @@
 		"longitude": "E126.41.34.000"
 	},
 	{
-		"name": "TRASK",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "IAF",
-		"latitude": "N035.35.21.900",
-		"longitude": "E126.43.26.500"
-	},
-	{
 		"name": "JEWEL",
 		"navaidType": "FIX",
 		"extraType": "FIX",
