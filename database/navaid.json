@@ -8063,6 +8063,15 @@
 		"airport": "RKSS"
 	},
 	{
+		"name": "PT053",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.03.58.400",
+		"longitude": "E126.37.09.600",
+		"airport": "RKSS"
+	},
+	{
 		"name": "PT054",
 		"navaidType": "FIX",
 		"extraType": "FIX",
