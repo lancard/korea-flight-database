@@ -277,23 +277,23 @@
         },
         {
             "name": "TAXIWAY_N2,TAXIWAY_P5",
-            "latitude": "N037.34.04.620",
-            "longitude": "E126.47.51.900"
+            "latitude": "N037.34.05.210",
+            "longitude": "E126.47.51.295"
         },
         {
             "name": "TAXIWAY_N3",
-            "latitude": "N037.34.08.976",
-            "longitude": "E126.48.01.980"
+            "latitude": "N037.34.10.017",
+            "longitude": "E126.48.03.534"
         },
         {
             "name": "TAXIWAY_N3,TAXIWAY_P4",
-            "latitude": "N037.34.06.744",
-            "longitude": "E126.48.03.924"
+            "latitude": "N037.34.08.130",
+            "longitude": "E126.48.05.870"
         },
         {
             "name": "TAXIWAY_N3,TAXIWAY_P5",
-            "latitude": "N037.34.10.596",
-            "longitude": "E126.47.59.316"
+            "latitude": "N037.34.12.328",
+            "longitude": "E126.48.00.888"
         },
         {
             "name": "TAXIWAY_P",
