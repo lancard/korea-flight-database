@@ -4611,6 +4611,30 @@
     {
         "procedureType": "SID",
         "airport": "RKSI",
+        "name": "SEL1S",
+        "runway": [
+            "15L",
+            "15R"
+        ],
+        "fixList": [
+            "SEL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSI",
+        "name": "SOT1S",
+        "runway": [
+            "15L",
+            "15R"
+        ],
+        "fixList": [
+            "SOT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSI",
         "name": "BOPTA2C",
         "runway": [
             "15L",
@@ -4925,6 +4949,30 @@
             "YD130",
             "YG160",
             "OSPOT"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSI",
+        "name": "SEL2A",
+        "runway": [
+            "33L",
+            "33R"
+        ],
+        "fixList": [
+            "SEL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKSI",
+        "name": "SOT1A",
+        "runway": [
+            "33L",
+            "33R"
+        ],
+        "fixList": [
+            "SOT"
         ]
     },
     {
