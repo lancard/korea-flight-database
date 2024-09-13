@@ -331,7 +331,7 @@ module.exports = {
         contents += "CIRCLE_SECTORLINE:RKTH_TWR:RKTH:5\n";
         contents += "CIRCLE_SECTORLINE:RKTL_TWR:RKTL:5\n";
         contents += "CIRCLE_SECTORLINE:RKTN_TWR:RKTN:5\n";
-        contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:5\n";"
+        contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:5\n";
 
 
 
@@ -463,7 +463,7 @@ module.exports = {
         contents += "SECTOR:RKTI_TMA:0:3500\n";
         contents += "OWNER:TIA\n";
         contents += "BORDER:RKTI_TMA_T21_BORDER\n";
-        
+
         contents += "SECTOR:RKTI_TMA:0:17500\n";
         contents += "OWNER:TIA\n";
         contents += "BORDER:RKTI_TMA_T22_BORDER\n";
