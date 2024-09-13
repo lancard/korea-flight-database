@@ -259,7 +259,58 @@ module.exports = {
         contents += "COORD:N36.23.11.000:E128.09.52.000\n"
         contents += "COORD:N36.29.11.000:E128.09.52.000\n"
 
+        contents += "SECTORLINE:RKTI_TMA_T18_BORDER\n";
+        contents += "COORD:N37.06.40.000:E127.39.52.000\n"
+        contents += "COORD:N37.07.10.000:E127.50.52.000\n"
+        contents += "COORD:N37.10.10.000:E127.54.52.000\n"
+        contents += "COORD:N37.14.10.000:E128.03.52.000\n"
+        contents += "COORD:N37.31.10.000:E128.18.52.000\n"
+        contents += "COORD:N37.33.10.000:E128.36.22.000\n"
+        contents += "COORD:N37.07.10.000:E128.40.52.000\n"
+        contents += "COORD:N36.57.10.000:E128.40.52.000\n"
+        contents += "COORD:N36.50.10.000:E128.09.52.000\n"
+        contents += "COORD:N37.06.40.000:E127.39.52.000\n"
 
+        contents += "SECTORLINE:RKTI_TMA_T19_BORDER\n"
+        contents += "COORD:N37.06.40.000:E127.39.52.000\n"
+        contents += "COORD:N36.50.10.000:E128.09.52.000\n"
+        contents += "COORD:N36.44.58.000:E127.57.52.000\n"
+        contents += "COORD:N36.29.11.000:E127.50.52.000\n"
+        contents += "COORD:N36.29.11.000:E128.09.52.000\n"
+        contents += "COORD:N36.23.11.000:E128.09.52.000\n"
+        contents += "COORD:N36.07.11.000:E127.49.52.000\n"
+        contents += "COORD:N36.12.11.000:E127.36.52.000\n"
+        contents += "COORD:N36.23.11.000:E127.03.52.000\n"
+        contents += "COORD:N36.50.10.000:E127.39.52.000\n"
+        contents += "COORD:N37.06.40.000:E127.39.52.000\n"
+
+        contents += "SECTORLINE:RKTI_TMA_T20_BORDER\n"
+        contents += "COORD:N36.44.58.000:E127.57.52.000\n"
+        contents += "COORD:N36.50.10.000:E128.09.52.000\n"
+        contents += "COORD:N36.29.11.000:E128.09.52.000\n"
+        contents += "COORD:N36.29.11.000:E127.50.52.000\n"
+        contents += "COORD:N36.44.58.000:E127.57.52.000\n"
+
+        contents += "SECTORLINE:RKTI_TMA_T17_BORDER\n"
+        contents += "COORD:N37.02.10.000:E127.39.52.000\n"
+        contents += "COORD:N36.50.10.000:E127.39.52.000\n"
+        contents += "COORD:N36.23.11.000:E127.03.52.000\n"
+        contents += "COORD:N36.40.10.000:E127.04.52.000\n"
+        contents += "COORD:N37.02.10.000:E127.39.52.000\n"
+
+        contents += "SECTORLINE:RKTI_TMA_T21_BORDER\n"
+        contents += "COORD:N37.06.40.000:E127.39.52.000\n"
+        contents += "COORD:N37.10.10.000:E127.45.52.000\n"
+        contents += "COORD:N37.10.10.000:E127.54.52.000\n"
+        contents += "COORD:N37.07.10.000:E127.50.52.000\n"
+        contents += "COORD:N37.06.40.000:E127.39.52.000\n"
+
+        contents += "SECTORLINE:RKTI_TMA_T22_BORDER\n"
+        contents += "COORD:N36.50.10.000:E128.09.52.000\n"
+        contents += "COORD:N36.57.10.000:E128.40.52.000\n"
+        contents += "COORD:N36.48.10.000:E128.27.52.000\n"
+        contents += "COORD:N36.45.40.000:E128.17.52.000\n"
+        contents += "COORD:N36.50.10.000:E128.09.52.000\n"
 
         contents += "CIRCLE_SECTORLINE:RKSI_TWR:RKSI:5\n";
         contents += "CIRCLE_SECTORLINE:RKSS_TWR:RKSS:5\n";
@@ -280,7 +331,7 @@ module.exports = {
         contents += "CIRCLE_SECTORLINE:RKTH_TWR:RKTH:5\n";
         contents += "CIRCLE_SECTORLINE:RKTL_TWR:RKTL:5\n";
         contents += "CIRCLE_SECTORLINE:RKTN_TWR:RKTN:5\n";
-        contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:5\n";
+        contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:5\n";"
 
 
 
@@ -392,6 +443,30 @@ module.exports = {
         contents += "SECTOR:RKTN_TMA:0:18500\n";
         contents += "OWNER:TNA\n";
         contents += "BORDER:RKTN_TMA_T35_BORDER\n";
+
+        contents += "SECTOR:RKTI_TMA:0:17500\n";
+        contents += "OWNER:TIA\n";
+        contents += "BORDER:RKTI_TMA_T18_BORDER\n";
+
+        contents += "SECTOR:RKTI_TMA:0:14500\n";
+        contents += "OWNER:TIA\n";
+        contents += "BORDER:RKTI_TMA_T19_BORDER\n";
+
+        contents += "SECTOR:RKTI_TMA:0:14500\n";
+        contents += "OWNER:TIA\n";
+        contents += "BORDER:RKTI_TMA_T20_BORDER\n";
+
+        contents += "SECTOR:RKTI_TMA:0:6500\n";
+        contents += "OWNER:TIA\n";
+        contents += "BORDER:RKTI_TMA_T17_BORDER\n";
+
+        contents += "SECTOR:RKTI_TMA:0:3500\n";
+        contents += "OWNER:TIA\n";
+        contents += "BORDER:RKTI_TMA_T21_BORDER\n";
+        
+        contents += "SECTOR:RKTI_TMA:0:17500\n";
+        contents += "OWNER:TIA\n";
+        contents += "BORDER:RKTI_TMA_T22_BORDER\n";
 
         ////Sector manual input END
 
