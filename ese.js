@@ -113,15 +113,6 @@ module.exports = {
     getAirspace() {
         var tracon = {};
 
-        // get fir
-        var geojson = require('./temp/boundaries.json');
-
-        geojson.features.forEach(e => {
-            if (e.properties.id.startsWith("RK")) {
-                tracon[e.properties.id.split("-").join("_")] = e.geometry.coordinates[0][0];
-            }
-        });
-
         // get tracon
         fs.readdirSync('./database/airspace').forEach(e => {
             var fileInfo = path.parse(e);
@@ -137,6 +128,15 @@ module.exports = {
             tracon[airportName] = t;
         });
 
+        // get fir
+        var geojson = require('./temp/boundaries.json');
+
+        geojson.features.forEach(e => {
+            if (e.properties.id.startsWith("RK")) {
+                tracon[e.properties.id.split("-").join("_")] = e.geometry.coordinates[0][0];
+            }
+        });
+        
         // -------------------------------------
         var ret = [];
         var additionalRet = [];
