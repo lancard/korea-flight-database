@@ -10841,6 +10841,15 @@
 		"airport": "RKSS"
 	},
 	{
+		"name": "VFR-SS-Point(G)",
+		"navaidType": "VFR_REPORTING_POINT",
+		"extraType": "VFR-Reporting-Point",
+		"description": "VFR Reporting point",
+		"latitude": "N037.23.38.000",
+		"longitude": "E126.46.22.000",
+		"airport": "RKSS"
+	},
+	{
 		"name": "VFR-SS-Point(I)",
 		"navaidType": "VFR_REPORTING_POINT",
 		"extraType": "VFR-Reporting-Point",
@@ -10868,21 +10877,21 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "VFR-SS-Point(M)",
-		"navaidType": "VFR_REPORTING_POINT",
-		"extraType": "VFR-Reporting-Point",
-		"description": "VFR Reporting point",
-		"latitude": "N037.34.08.957",
-		"longitude": "E126.47.39.442",
-		"airport": "RKSS"
-	},
-	{
 		"name": "VFR-SS-Point(L)",
 		"navaidType": "VFR_REPORTING_POINT",
 		"extraType": "VFR-Reporting-Point",
 		"description": "VFR Reporting point",
 		"latitude": "N037.35.33.000",
 		"longitude": "E126.47.00.000",
+		"airport": "RKSS"
+	},
+	{
+		"name": "VFR-SS-Point(M)",
+		"navaidType": "VFR_REPORTING_POINT",
+		"extraType": "VFR-Reporting-Point",
+		"description": "VFR Reporting point",
+		"latitude": "N037.34.08.000",
+		"longitude": "E126.47.37.000",
 		"airport": "RKSS"
 	},
 	{
