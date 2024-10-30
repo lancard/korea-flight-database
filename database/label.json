@@ -10036,6 +10036,30 @@
     {
         "airport": "RKSS",
         "labelType": "Taxiway",
+        "name": "SAMKU",
+        "latitude": "N037.33.38.139",
+        "longitude": "E126.47.38.157",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSS",
+        "labelType": "Taxiway",
+        "name": "NUNPI",
+        "latitude": "N037.33.27.706",
+        "longitude": "E126.47.51.231",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSS",
+        "labelType": "Taxiway",
+        "name": "BOKUM",
+        "latitude": "N037.33.19.044",
+        "longitude": "E126.48.02.117",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "RKSS",
+        "labelType": "Taxiway",
         "name": "N1",
         "latitude": "N037.33.48.006",
         "longitude": "E126.47.31.805",
