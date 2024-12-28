@@ -3616,6 +3616,22 @@
         "fixEnd": "DUMAN"
     },
     {
+        "name": "W6",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "YOMJU",
+        "fixEnd": "GASAN"
+    },
+    {
+        "name": "W8",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "YOMJU",
+        "fixEnd": "PONIL"
+    },
+    {
         "name": "Y14",
         "seq": 100,
         "description": "고고도항로",
