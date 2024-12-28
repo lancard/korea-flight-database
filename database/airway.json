@@ -3984,9 +3984,9 @@
         "fixEnd": "POTET"
     },
     {
-        "name": "3AW1",
+        "name": "W7",
         "seq": 1,
-        "description": "저고도항로(평양특수항로)",
+        "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "GASAN",
         "fixEnd": "SOKGE"
