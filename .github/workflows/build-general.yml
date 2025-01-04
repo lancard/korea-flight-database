@@ -45,6 +45,9 @@ jobs:
         run: |
           cp vatsim/sector.ese ./sector_${{ env.VERSION_STRING }}.ese
           cp vatsim/sector.sct2 ./sector_${{ env.VERSION_STRING }}.sct2
+          cp euroscope/ICAO_aircraft.txt ./ICAO_aircraft_${{ env.VERSION_STRING }}.txt
+          cp euroscope/ICAO_airline.txt ./ICAO_airline_${{ env.VERSION_STRING }}.txt
+          cp euroscope/ICAO_airport.txt ./ICAO_airport_${{ env.VERSION_STRING }}.txt
 
       - uses: edgarrc/action-7z@v1
         with:
