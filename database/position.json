@@ -355,7 +355,7 @@
     },
     "RKRR_CTR": {
         "name": "INCHEON CONTROL",
-        "frequency": "128.700",
+        "frequency": "126.175",
         "initialID": "KR",
         "middleFix": "-",
         "prefix": "RKRR",
@@ -363,7 +363,7 @@
     },
     "RKRR_N_CTR": {
         "name": "INCHEON CONTROL",
-        "frequency": "132.150",
+        "frequency": "126.175",
         "initialID": "KRN",
         "middleFix": "N",
         "prefix": "RKRR",
@@ -371,7 +371,7 @@
     },
     "RKRR_S_CTR": {
         "name": "INCHEON CONTROL",
-        "frequency": "124.520",
+        "frequency": "124.525",
         "initialID": "KRS",
         "middleFix": "S",
         "prefix": "RKRR",
@@ -379,7 +379,7 @@
     },
     "RKDA_C_CTR": {
         "name": "DAEGU CONTROL",
-        "frequency": "125.370",
+        "frequency": "125.375",
         "initialID": "DGC",
         "middleFix": "C",
         "prefix": "RKDA",
@@ -395,7 +395,7 @@
     },
     "RKDA_E_CTR": {
         "name": "DAEGU CONTROL",
-        "frequency": "134.170",
+        "frequency": "122.250",
         "initialID": "DGE",
         "middleFix": "E",
         "prefix": "RKDA",
@@ -403,7 +403,7 @@
     },
     "RKDA_CTR": {
         "name": "DAEGU CONTROL",
-        "frequency": "120.570",
+        "frequency": "132.800",
         "initialID": "DG",
         "middleFix": "-",
         "prefix": "RKDA",
