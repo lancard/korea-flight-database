@@ -45,10 +45,13 @@ jobs:
         run: |
           cp vatsim/sector.ese ./sector_${{ env.VERSION_STRING }}.ese
           cp vatsim/sector.sct2 ./sector_${{ env.VERSION_STRING }}.sct2
+          cp euroscope/ICAO_aircraft.txt ./ICAO_aircraft.txt
+          cp euroscope/ICAO_airline.txt ./ICAO_airline.txt
+          cp euroscope/ICAO_airport.txt ./ICAO_airport.txt
 
       - uses: edgarrc/action-7z@v1
         with:
-          args: 7z a -t7z -m0=BCJ -m1=LZMA:d=21 sector.7z sector_${{ env.VERSION_STRING }}.ese sector_${{ env.VERSION_STRING }}.sct2
+          args: 7z a -t7z -m0=BCJ -m1=LZMA:d=21 sector.7z sector_${{ env.VERSION_STRING }}.ese sector_${{ env.VERSION_STRING }}.sct2 ICAO_aircraft.txt ICAO_airline.txt ICAO_airport.txt
       
       - name: Create Release
         id: create_release

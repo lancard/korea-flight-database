@@ -3996,6 +3996,58 @@
         ]
     },
     {
+        "procedureType": "SID",
+        "airport": "RKPD",
+        "name": "TENUL1N",
+        "runway": [
+            "01"
+        ],
+        "fixList": [
+            "N33.25.49.694 E126.42.26.702",
+	    "N33.20.04.295 E126.47.32.196",
+            "TENUL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPD",
+        "name": "TENUL1S",
+        "runway": [
+            "19"
+        ],
+        "fixList": [
+            "N033.17.20.630 E126.42.28.991",
+            "TENUL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPD",
+        "name": "CJU6A",
+        "runway": [
+            "01"
+        ],
+        "fixList": [
+            "N33.25.49.694 E126.42.26.702",
+	    "N33.20.04.295 E126.47.32.196",
+	    "N33.19.08.411 E126.39.13.343",
+            "CJU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPD",
+        "name": "CJU6B",
+        "runway": [
+            "19"
+        ],
+        "fixList": [
+            "N33.15.21.161 E126.42.30.615",
+	    "N33.14.38.864 E126.33.20.071",
+            "CJU"
+        ]
+    },
+    {
         "procedureType": "STAR",
         "airport": "RKPD",
         "name": "CJU1T",

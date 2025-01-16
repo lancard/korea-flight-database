@@ -3616,6 +3616,38 @@
         "fixEnd": "DUMAN"
     },
     {
+        "name": "W6",
+        "seq": 10,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "YOMJU",
+        "fixEnd": "GASAN"
+    },
+    {
+        "name": "W8",
+        "seq": 1,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "YOMJU",
+        "fixEnd": "PONIL"
+    },
+    {
+        "name": "W8",
+        "seq": 2,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "PONIL",
+        "fixEnd": "DUMAN"
+    },
+    {
+        "name": "W8",
+        "seq": 3,
+        "description": "저고도항로",
+        "airwayType": "CONVENTIONAL",
+        "fixStart": "DUMAN",
+        "fixEnd": "P2"
+    },
+    {
         "name": "Y14",
         "seq": 100,
         "description": "고고도항로",
@@ -3968,28 +4000,12 @@
         "fixEnd": "POTET"
     },
     {
-        "name": "3AW1",
+        "name": "W7",
         "seq": 1,
-        "description": "저고도항로(평양특수항로)",
+        "description": "저고도항로",
         "airwayType": "CONVENTIONAL",
         "fixStart": "GASAN",
         "fixEnd": "SOKGE"
-    },
-    {
-        "name": "3AW2",
-        "seq": 2,
-        "description": "저고도항로(평양특수항로)",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "YOMJU",
-        "fixEnd": "PONIL"
-    },
-    {
-        "name": "3AW2",
-        "seq": 3,
-        "description": "저고도항로(평양특수항로)",
-        "airwayType": "CONVENTIONAL",
-        "fixStart": "PONIL",
-        "fixEnd": "P2"
     },
     {
         "name": "DanyangRoute",
