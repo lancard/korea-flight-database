@@ -345,19 +345,19 @@
         "prefix": "RKJB",
         "position": "TWR"
     },
-    "RKRR_A_CTR": {
-        "name": "INCHEON CONTROL",
-        "frequency": "128.325",
-        "initialID": "KRA",
-        "middleFix": "A",
-        "prefix": "RKRR",
-        "position": "CTR"
-    },
     "RKRR_CTR": {
         "name": "INCHEON CONTROL",
         "frequency": "126.175",
         "initialID": "KR",
         "middleFix": "-",
+        "prefix": "RKRR",
+        "position": "CTR"
+    },
+    "RKRR_A_CTR": {
+        "name": "INCHEON CONTROL",
+        "frequency": "128.325",
+        "initialID": "KRA",
+        "middleFix": "A",
         "prefix": "RKRR",
         "position": "CTR"
     },
