@@ -377,6 +377,14 @@
         "prefix": "RKRR",
         "position": "CTR"
     },
+    "RKDA_CTR": {
+        "name": "DAEGU CONTROL",
+        "frequency": "132.800",
+        "initialID": "DG",
+        "middleFix": "-",
+        "prefix": "RKDA",
+        "position": "CTR"
+    },
     "RKDA_C_CTR": {
         "name": "DAEGU CONTROL",
         "frequency": "125.375",
@@ -398,14 +406,6 @@
         "frequency": "122.250",
         "initialID": "DGE",
         "middleFix": "E",
-        "prefix": "RKDA",
-        "position": "CTR"
-    },
-    "RKDA_CTR": {
-        "name": "DAEGU CONTROL",
-        "frequency": "132.800",
-        "initialID": "DG",
-        "middleFix": "-",
         "prefix": "RKDA",
         "position": "CTR"
     },
