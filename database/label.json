@@ -7237,8 +7237,8 @@
         "airport": "ZKPY",
         "labelType": "Taxiway",
         "name": "A",
-        "latitude": "N039.13.13.824",
-        "longitude": "E125.39.55.794",
+        "latitude": "N039.13.14.106",
+        "longitude": "E125.39.57.109",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -7677,8 +7677,8 @@
         "airport": "ZKPY",
         "labelType": "Taxiway",
         "name": "B",
-        "latitude": "N039.12.49.724",
-        "longitude": "E125.40.04.227",
+        "latitude": "N039.12.52.245",
+        "longitude": "E125.40.05.084",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -7973,8 +7973,8 @@
         "airport": "ZKPY",
         "labelType": "Taxiway",
         "name": "C",
-        "latitude": "N039.12.27.108",
-        "longitude": "E125.40.14.081",
+        "latitude": "N039.12.27.536",
+        "longitude": "E125.40.15.828",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -8277,8 +8277,8 @@
         "airport": "ZKPY",
         "labelType": "Taxiway",
         "name": "D",
-        "latitude": "N039.12.10.127",
-        "longitude": "E125.40.21.156",
+        "latitude": "N039.12.09.789",
+        "longitude": "E125.40.21.810",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -8821,8 +8821,8 @@
         "airport": "ZKPY",
         "labelType": "Taxiway",
         "name": "F",
-        "latitude": "N039.11.35.777",
-        "longitude": "E125.40.34.725",
+        "latitude": "N039.11.34.934",
+        "longitude": "E125.40.36.454",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -8981,8 +8981,24 @@
         "airport": "ZKPY",
         "labelType": "Taxiway",
         "name": "G",
-        "latitude": "N039.11.27.422",
-        "longitude": "E125.40.37.726",
+        "latitude": "N039.11.27.469",
+        "longitude": "E125.40.39.065",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "ZKPY",
+        "labelType": "Taxiway",
+        "name": "GP CRITICAL",
+        "latitude": "N039.11.39.934",
+        "longitude": "E125.40.38.037",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
+        "airport": "ZKPY",
+        "labelType": "Taxiway",
+        "name": "GP CRITICAL",
+        "latitude": "N039.13.04.960",
+        "longitude": "E125.40.04.602",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
@@ -9365,16 +9381,16 @@
         "airport": "ZKPY",
         "labelType": "Taxiway",
         "name": "H",
-        "latitude": "N039.13.04.478",
-        "longitude": "E125.40.04.832",
+        "latitude": "N039.13.01.681",
+        "longitude": "E125.40.05.896",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
         "airport": "ZKPY",
         "labelType": "Taxiway",
         "name": "H",
-        "latitude": "N039.11.40.725",
-        "longitude": "E125.40.37.719",
+        "latitude": "N039.11.45.876",
+        "longitude": "E125.40.35.654",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
