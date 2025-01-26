@@ -18,6 +18,8 @@ BAW	SpeedBird	SpeedBird
 CCA	Air China	Air China
 CDG	Shandong	Shandong
 CES	China Eastern	China Eastern
+CHH	Hainan	Hainan
+CJX	Air Crane	Air Crane
 CKK	Cargo King	Cargo King
 CKS	Connie	Connie
 CLX	Cargolux	Cargolux
