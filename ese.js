@@ -173,9 +173,115 @@ module.exports = {
 
 
         contents += "\n\n[AIRSPACE]\n";
+        // sector manual input start by HJ due to sequence issue
+        contents += "CIRCLE_SECTORLINE:RKSI_TWR:RKSI:5\n";
+        contents += "CIRCLE_SECTORLINE:RKSS_TWR:RKSS:5\n";
+        contents += "CIRCLE_SECTORLINE:RKPK_TWR:RKPK:5\n";
+        contents += "CIRCLE_SECTORLINE:RKPC_TWR:RKPC:5\n";
+
+        contents += ";-MINOR CIRCLE TOWER\n";
+        contents += "CIRCLE_SECTORLINE:ZKPY_TWR:ZKPY:5\n";
+        contents += "CIRCLE_SECTORLINE:RKJB_TWR:RKJB:5\n";
+        contents += "CIRCLE_SECTORLINE:RKJJ_TWR:RKJJ:5\n";
+        contents += "CIRCLE_SECTORLINE:RKJK_TWR:RKJK:5\n";
+        contents += "CIRCLE_SECTORLINE:RKJY_TWR:RKJY:5\n";
+        contents += "CIRCLE_SECTORLINE:RKNW_TWR:RKNW:5\n";
+        contents += "CIRCLE_SECTORLINE:RKNY_TWR:RKNY:5\n";
+        contents += "CIRCLE_SECTORLINE:RKPD_TWR:RKPD:5\n";
+        contents += "CIRCLE_SECTORLINE:RKPS_TWR:RKPS:5\n";
+        contents += "CIRCLE_SECTORLINE:RKPU_TWR:RKPU:5\n";
+        contents += "CIRCLE_SECTORLINE:RKSM_TWR:RKSM:5\n";
+        contents += "CIRCLE_SECTORLINE:RKTH_TWR:RKTH:5\n";
+        contents += "CIRCLE_SECTORLINE:RKTL_TWR:RKTL:5\n";
+        contents += "CIRCLE_SECTORLINE:RKTN_TWR:RKTN:5\n";
+        contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:5\n";
+
+
+
+
+        contents += ";-MINOR TOWER SECTOR\n";
+
+        contents += "SECTOR:ZKPY_TWR:0:3000\n";
+        contents += "OWNER:PYT\n";
+        contents += "BORDER:ZKPY_TWR\n";
+
+        contents += "SECTOR:RKJB_TWR:0:3000\n";
+        contents += "OWNER:JBT\n";
+        contents += "BORDER:RKJB_TWR\n";
+
+        contents += "SECTOR:RKJJ_TWR:0:4000\n";
+        contents += "OWNER:JJT\n";
+        contents += "BORDER:RKJJ_TWR\n";
+
+        contents += "SECTOR:RKJK_TWR:0:5000\n";
+        contents += "OWNER:JKT\n";
+        contents += "BORDER:RKJK_TWR\n";
+
+        contents += "SECTOR:RKJY_TWR:0:3000\n";
+        contents += "OWNER:JYT\n";
+        contents += "BORDER:RKJY_TWR\n";
+
+        contents += "SECTOR:RKNW_TWR:0:5000\n";
+        contents += "OWNER:NWT\n";
+        contents += "BORDER:RKNW_TWR\n";
+
+        contents += "SECTOR:RKNY_TWR:0:3000\n";
+        contents += "OWNER:NYT\n";
+        contents += "BORDER:RKNY_TWR\n";
+
+        contents += "SECTOR:RKPD_TWR:0:3000\n";
+        contents += "OWNER:PDT\n";
+        contents += "BORDER:RKPD_TWR\n";
+
+        contents += "SECTOR:RKPS_TWR:0:4000\n";
+        contents += "OWNER:PST\n";
+        contents += "BORDER:RKPS_TWR\n";
+
+        contents += "SECTOR:RKPU_TWR:0:3000\n";
+        contents += "OWNER:PUT\n";
+        contents += "BORDER:RKPU_TWR\n";
+
+        contents += "SECTOR:RKSM_TWR:0:4000\n";
+        contents += "OWNER:SMT\n";
+        contents += "BORDER:RKSM_TWR\n";
+
+        contents += "SECTOR:RKTH_TWR:0:3000\n";
+        contents += "OWNER:THT\n";
+        contents += "BORDER:RKTH_TWR\n";
+
+        contents += "SECTOR:RKTL_TWR:0:2500\n";
+        contents += "OWNER:TLT\n";
+        contents += "BORDER:RKTL_TWR\n";
+
+        contents += "SECTOR:RKTN_TWR:0:4000\n";
+        contents += "OWNER:TNT\n";
+        contents += "BORDER:RKTN_TWR\n";
+
+        contents += "SECTOR:RKTU_TWR:0:5000\n";
+        contents += "OWNER:TUT\n";
+        contents += "BORDER:RKTU_TWR\n";
+
+
+        contents += "SECTOR:RKSI_TWR:0:3000\n";
+        contents += "OWNER:SIT:SSD:SSA:KRA\n";
+        contents += "BORDER:RKSI_TWR\n";
+
+        contents += "SECTOR:RKSS_TWR:0:3000\n";
+        contents += "OWNER:SST:SSD:SSA:KRA\n";
+        contents += "BORDER:RKSS_TWR\n";
+
+        contents += "SECTOR:RKPC_TWR:0:3000\n";
+        contents += "OWNER:PCT:PCA:KRA\n";
+        contents += "BORDER:RKPC_TWR\n";
+
+        contents += "SECTOR:RKPK_TWR:0:3000\n";
+        contents += "OWNER:PKT:PKA:KRA\n";
+        contents += "BORDER:RKPK_TWR\n";
         contents += this.getAirspace();
 
         // sector manual input start
+
+
 
         contents += "\n\n";
         contents += "SECTORLINE:ZKKP_TMA_BORDER\n";
@@ -432,109 +538,7 @@ module.exports = {
         contents += "COORD:N36.45.40.000:E128.17.52.000\n";
         contents += "COORD:N36.50.10.000:E128.09.52.000\n";
 
-        contents += "CIRCLE_SECTORLINE:RKSI_TWR:RKSI:5\n";
-        contents += "CIRCLE_SECTORLINE:RKSS_TWR:RKSS:5\n";
-        contents += "CIRCLE_SECTORLINE:RKPK_TWR:RKPK:5\n";
-        contents += "CIRCLE_SECTORLINE:RKPC_TWR:RKPC:5\n";
 
-        contents += ";-MINOR CIRCLE TOWER\n";
-        contents += "CIRCLE_SECTORLINE:ZKPY_TWR:ZKPY:5\n";
-        contents += "CIRCLE_SECTORLINE:RKJB_TWR:RKJB:5\n";
-        contents += "CIRCLE_SECTORLINE:RKJJ_TWR:RKJJ:5\n";
-        contents += "CIRCLE_SECTORLINE:RKJK_TWR:RKJK:5\n";
-        contents += "CIRCLE_SECTORLINE:RKJY_TWR:RKJY:5\n";
-        contents += "CIRCLE_SECTORLINE:RKNW_TWR:RKNW:5\n";
-        contents += "CIRCLE_SECTORLINE:RKNY_TWR:RKNY:5\n";
-        contents += "CIRCLE_SECTORLINE:RKPD_TWR:RKPD:5\n";
-        contents += "CIRCLE_SECTORLINE:RKPS_TWR:RKPS:5\n";
-        contents += "CIRCLE_SECTORLINE:RKPU_TWR:RKPU:5\n";
-        contents += "CIRCLE_SECTORLINE:RKSM_TWR:RKSM:5\n";
-        contents += "CIRCLE_SECTORLINE:RKTH_TWR:RKTH:5\n";
-        contents += "CIRCLE_SECTORLINE:RKTL_TWR:RKTL:5\n";
-        contents += "CIRCLE_SECTORLINE:RKTN_TWR:RKTN:5\n";
-        contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:5\n";
-
-
-
-
-        contents += ";-MINOR TOWER SECTOR\n";
-
-        contents += "SECTOR:ZKPY_TWR:0:3000\n";
-        contents += "OWNER:PYT\n";
-        contents += "BORDER:ZKPY_TWR\n";
-
-        contents += "SECTOR:RKJB_TWR:0:3000\n";
-        contents += "OWNER:JBT\n";
-        contents += "BORDER:RKJB_TWR\n";
-
-        contents += "SECTOR:RKJJ_TWR:0:4000\n";
-        contents += "OWNER:JJT\n";
-        contents += "BORDER:RKJJ_TWR\n";
-
-        contents += "SECTOR:RKJK_TWR:0:5000\n";
-        contents += "OWNER:JKT\n";
-        contents += "BORDER:RKJK_TWR\n";
-
-        contents += "SECTOR:RKJY_TWR:0:3000\n";
-        contents += "OWNER:JYT\n";
-        contents += "BORDER:RKJY_TWR\n";
-
-        contents += "SECTOR:RKNW_TWR:0:5000\n";
-        contents += "OWNER:NWT\n";
-        contents += "BORDER:RKNW_TWR\n";
-
-        contents += "SECTOR:RKNY_TWR:0:3000\n";
-        contents += "OWNER:NYT\n";
-        contents += "BORDER:RKNY_TWR\n";
-
-        contents += "SECTOR:RKPD_TWR:0:3000\n";
-        contents += "OWNER:PDT\n";
-        contents += "BORDER:RKPD_TWR\n";
-
-        contents += "SECTOR:RKPS_TWR:0:4000\n";
-        contents += "OWNER:PST\n";
-        contents += "BORDER:RKPS_TWR\n";
-
-        contents += "SECTOR:RKPU_TWR:0:3000\n";
-        contents += "OWNER:PUT\n";
-        contents += "BORDER:RKPU_TWR\n";
-
-        contents += "SECTOR:RKSM_TWR:0:4000\n";
-        contents += "OWNER:SMT\n";
-        contents += "BORDER:RKSM_TWR\n";
-
-        contents += "SECTOR:RKTH_TWR:0:3000\n";
-        contents += "OWNER:THT\n";
-        contents += "BORDER:RKTH_TWR\n";
-
-        contents += "SECTOR:RKTL_TWR:0:2500\n";
-        contents += "OWNER:TLT\n";
-        contents += "BORDER:RKTL_TWR\n";
-
-        contents += "SECTOR:RKTN_TWR:0:4000\n";
-        contents += "OWNER:TNT\n";
-        contents += "BORDER:RKTN_TWR\n";
-
-        contents += "SECTOR:RKTU_TWR:0:5000\n";
-        contents += "OWNER:TUT\n";
-        contents += "BORDER:RKTU_TWR\n";
-
-
-        contents += "SECTOR:RKSI_TWR:0:3000\n";
-        contents += "OWNER:SIT:SSD:SSA:KRA\n";
-        contents += "BORDER:RKSI_TWR\n";
-
-        contents += "SECTOR:RKSS_TWR:0:3000\n";
-        contents += "OWNER:SST:SSD:SSA:KRA\n";
-        contents += "BORDER:RKSS_TWR\n";
-
-        contents += "SECTOR:RKPC_TWR:0:3000\n";
-        contents += "OWNER:PCT:PCA:KRA\n";
-        contents += "BORDER:RKPC_TWR\n";
-
-        contents += "SECTOR:RKPK_TWR:0:3000\n";
-        contents += "OWNER:PKT:PKA:KRA\n";
-        contents += "BORDER:RKPK_TWR\n";
 
 
         contents += ";-MINOR APPROACH SECTOR\n";
