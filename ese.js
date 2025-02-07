@@ -173,7 +173,7 @@ module.exports = {
 
 
         contents += "\n\n[AIRSPACE]\n";
-        // sector manual input start by HJ due to sequence issue.
+        // sector manual input start by HJ due to sequence issues.
         contents += "CIRCLE_SECTORLINE:RKSI_TWR:RKSI:5\n";
         contents += "CIRCLE_SECTORLINE:RKSS_TWR:RKSS:5\n";
         contents += "CIRCLE_SECTORLINE:RKPK_TWR:RKPK:5\n";
