@@ -277,7 +277,7 @@ module.exports = {
         contents += "SECTOR:RKPK_TWR:0:3000\n";
         contents += "OWNER:PKT:PKA:KRA\n";
         contents += "BORDER:RKPK_TWR\n";
-        contents += this.getAirspace();
+
 
         // sector manual input start
 
@@ -489,6 +489,8 @@ module.exports = {
         contents += "SECTOR:RKTI_TMA:0:17500\n";
         contents += "OWNER:TIA\n";
         contents += "BORDER:RKTI_TMA_T22_BORDER\n";
+
+        contents += this.getAirspace();
 
         contents += "\n\n";
         contents += "SECTORLINE:ZKKP_TMA_BORDER\n";
