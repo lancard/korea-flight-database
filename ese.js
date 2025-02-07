@@ -173,7 +173,7 @@ module.exports = {
 
 
         contents += "\n\n[AIRSPACE]\n";
-        // sector manual input start by HJ due to sequence issue.
+        // sector manual input start by HJ due to sequence issues.
         contents += "CIRCLE_SECTORLINE:RKSI_TWR:RKSI:5\n";
         contents += "CIRCLE_SECTORLINE:RKSS_TWR:RKSS:5\n";
         contents += "CIRCLE_SECTORLINE:RKPK_TWR:RKPK:5\n";
@@ -202,63 +202,63 @@ module.exports = {
         contents += ";-MINOR TOWER SECTOR\n";
 
         contents += "SECTOR:ZKPY_TWR:0:3000\n";
-        contents += "OWNER:PYT\n";
+        contents += "OWNER:PYT:PYA:PY\n";
         contents += "BORDER:ZKPY_TWR\n";
 
         contents += "SECTOR:RKJB_TWR:0:3000\n";
-        contents += "OWNER:JBT\n";
+        contents += "OWNER:JBT:JJA\n";
         contents += "BORDER:RKJB_TWR\n";
 
         contents += "SECTOR:RKJJ_TWR:0:4000\n";
-        contents += "OWNER:JJT\n";
+        contents += "OWNER:JJT:JJA\n";
         contents += "BORDER:RKJJ_TWR\n";
 
         contents += "SECTOR:RKJK_TWR:0:5000\n";
-        contents += "OWNER:JKT\n";
+        contents += "OWNER:JKT:JKA\n";
         contents += "BORDER:RKJK_TWR\n";
 
         contents += "SECTOR:RKJY_TWR:0:3000\n";
-        contents += "OWNER:JYT\n";
+        contents += "OWNER:JYT:JYR:PSA\n";
         contents += "BORDER:RKJY_TWR\n";
 
         contents += "SECTOR:RKNW_TWR:0:5000\n";
-        contents += "OWNER:NWT\n";
+        contents += "OWNER:NWT:NWA\n";
         contents += "BORDER:RKNW_TWR\n";
 
         contents += "SECTOR:RKNY_TWR:0:3000\n";
-        contents += "OWNER:NYT\n";
+        contents += "OWNER:NYT:NNA\n";
         contents += "BORDER:RKNY_TWR\n";
 
         contents += "SECTOR:RKPD_TWR:0:3000\n";
-        contents += "OWNER:PDT\n";
+        contents += "OWNER:PDT:PCA\n";
         contents += "BORDER:RKPD_TWR\n";
 
         contents += "SECTOR:RKPS_TWR:0:4000\n";
-        contents += "OWNER:PST\n";
+        contents += "OWNER:PST:PSA\n";
         contents += "BORDER:RKPS_TWR\n";
 
         contents += "SECTOR:RKPU_TWR:0:3000\n";
-        contents += "OWNER:PUT\n";
+        contents += "OWNER:PUT:PUR:THA\n";
         contents += "BORDER:RKPU_TWR\n";
 
         contents += "SECTOR:RKSM_TWR:0:4000\n";
-        contents += "OWNER:SMT\n";
+        contents += "OWNER:SMT:SSD:SSA\n";
         contents += "BORDER:RKSM_TWR\n";
 
         contents += "SECTOR:RKTH_TWR:0:3000\n";
-        contents += "OWNER:THT\n";
+        contents += "OWNER:THT:THA\n";
         contents += "BORDER:RKTH_TWR\n";
 
         contents += "SECTOR:RKTL_TWR:0:2500\n";
-        contents += "OWNER:TLT\n";
+        contents += "OWNER:TLT:TLR:THA\n";
         contents += "BORDER:RKTL_TWR\n";
 
         contents += "SECTOR:RKTN_TWR:0:4000\n";
-        contents += "OWNER:TNT\n";
+        contents += "OWNER:TNT:TNA\n";
         contents += "BORDER:RKTN_TWR\n";
 
         contents += "SECTOR:RKTU_TWR:0:5000\n";
-        contents += "OWNER:TUT\n";
+        contents += "OWNER:TUT:TIA\n";
         contents += "BORDER:RKTU_TWR\n";
 
 
@@ -283,117 +283,9 @@ module.exports = {
 
 
 
+
+
         contents += "\n\n";
-        contents += "SECTORLINE:ZKKP_TMA_BORDER\n";
-        contents += "DISPLAY:ZKKP_TMA:ZKKP_TMA:ZKKP_CTR\n"
-        contents += "COORD:N038.00.00.000:E124.00.00.000\n";
-        contents += "COORD:N039.49.41.002:E124.10.05.988\n";
-        contents += "COORD:N040.00.00.000:E124.20.60.000\n";
-        contents += "COORD:N040.04.00.001:E124.19.59.988\n";
-        contents += "COORD:N040.28.00.001:E124.54.00.000\n";
-        contents += "COORD:N040.52.59.999:E125.46.59.988\n";
-        contents += "COORD:N040.53.41.420:E125.59.24.371\n";
-        contents += "COORD:N041.04.59.999:E126.06.59.976\n";
-        contents += "COORD:N041.22.00.001:E126.30.59.976\n";
-        contents += "COORD:N041.37.00.001:E126.35.60.000\n";
-        contents += "COORD:N041.45.00.000:E126.42.00.000\n";
-        contents += "COORD:N041.40.59.999:E126.46.59.988\n";
-        contents += "COORD:N041.47.60.000:E126.55.59.988\n";
-        contents += "COORD:N041.42.08.071:E127.03.51.890\n";
-        contents += "COORD:N041.40.08.090:E127.02.51.900\n";
-        contents += "COORD:N041.36.08.129:E127.10.51.859\n";
-        contents += "COORD:N041.32.35.092:E127.05.58.819\n";
-        contents += "COORD:N041.28.00.001:E127.31.59.988\n";
-        contents += "COORD:N041.25.00.001:E127.39.00.000\n";
-        contents += "COORD:N041.26.05.161:E127.55.06.532\n";
-        contents += "COORD:N041.22.00.001:E128.06.59.976\n";
-        contents += "COORD:N041.23.60.000:E128.12.59.976\n";
-        contents += "COORD:N041.34.00.001:E128.18.59.976\n";
-        contents += "COORD:N041.37.00.001:E128.18.00.000\n";
-        contents += "COORD:N041.43.00.001:E128.10.59.988\n";
-        contents += "COORD:N041.47.60.000:E128.04.59.988\n";
-        contents += "COORD:N041.52.59.999:E128.04.59.988\n";
-        contents += "COORD:N042.00.00.000:E128.01.59.988\n";
-        contents += "COORD:N042.01.59.999:E128.18.00.000\n";
-        contents += "COORD:N042.01.30.000:E128.56.60.000\n";
-        contents += "COORD:N042.04.59.999:E128.57.59.976\n";
-        contents += "COORD:N042.08.60.000:E129.04.59.988\n";
-        contents += "COORD:N042.08.60.000:E129.09.00.000\n";
-        contents += "COORD:N042.13.00.001:E129.12.59.976\n";
-        contents += "COORD:N042.22.00.001:E129.13.59.988\n";
-        contents += "COORD:N042.27.00.000:E129.24.59.976\n";
-        contents += "COORD:N042.22.07.950:E129.33.50.872\n";
-        contents += "COORD:N042.28.07.910:E129.37.50.830\n";
-        contents += "COORD:N042.26.07.930:E129.39.50.821\n";
-        contents += "COORD:N042.27.07.931:E129.43.50.801\n";
-        contents += "COORD:N042.34.00.001:E129.45.00.000\n";
-        contents += "COORD:N043.00.07.690:E129.52.50.660\n";
-        contents += "COORD:N043.01.07.691:E129.57.50.630\n";
-        contents += "COORD:N042.59.07.699:E129.57.50.630\n";
-        contents += "COORD:N042.59.07.721:E130.07.50.570\n";
-        contents += "COORD:N042.54.07.751:E130.06.50.591\n";
-        contents += "COORD:N042.54.07.769:E130.16.20.528\n";
-        contents += "COORD:N042.43.54.772:E130.14.27.611\n";
-        contents += "COORD:N042.36.07.920:E130.25.50.520\n";
-        contents += "COORD:N042.33.03.899:E130.25.48.439\n";
-        contents += "COORD:N042.32.60.000:E130.28.30.000\n";
-        contents += "COORD:N042.37.00.001:E130.28.59.988\n";
-        contents += "COORD:N042.36.07.920:E130.30.50.490\n";
-        contents += "COORD:N042.26.08.009:E130.34.50.491\n";
-        contents += "COORD:N042.23.60.000:E130.39.00.000\n";
-        contents += "COORD:N042.22.00.001:E130.40.00.001\n";
-        contents += "COORD:N042.17.35.999:E130.41.48.001\n";
-        contents += "COORD:N042.09.08.161:E130.52.50.419\n";
-        contents += "COORD:N041.40.08.429:E131.30.50.260\n";
-        contents += "COORD:N040.30.09.000:E135.55.49.001\n";
-        contents += "COORD:N040.00.19.548:E135.19.19.056\n";
-        contents += "COORD:N039.49.49.001:E135.05.13.999\n";
-        contents += "COORD:N038.38.09.960:E133.38.49.960\n";
-        contents += "COORD:N038.37.60.000:E128.22.00.000\n";
-        contents += "COORD:N038.35.49.998:E128.18.50.000\n";
-        contents += "COORD:N038.28.19.998:E128.18.00.000\n";
-        contents += "COORD:N038.24.40.000:E128.15.20.000\n";
-        contents += "COORD:N038.20.19.998:E128.08.10.000\n";
-        contents += "COORD:N038.19.00.000:E128.02.49.998\n";
-        contents += "COORD:N038.19.60.000:E127.53.29.999\n";
-        contents += "COORD:N038.19.09.998:E127.49.20.000\n";
-        contents += "COORD:N038.20.49.998:E127.47.10.000\n";
-        contents += "COORD:N038.20.20.000:E127.39.52.000\n";
-        contents += "COORD:N038.19.60.000:E127.34.09.999\n";
-        contents += "COORD:N038.18.09.998:E127.30.30.000\n";
-        contents += "COORD:N038.19.60.000:E127.23.29.999\n";
-        contents += "COORD:N038.19.20.000:E127.17.59.999\n";
-        contents += "COORD:N038.20.30.000:E127.13.60.000\n";
-        contents += "COORD:N038.19.09.998:E127.08.29.999\n";
-        contents += "COORD:N038.13.00.000:E126.58.10.000\n";
-        contents += "COORD:N038.08.40.000:E126.57.39.999\n";
-        contents += "COORD:N038.06.00.000:E126.52.40.000\n";
-        contents += "COORD:N038.02.29.999:E126.52.09.999\n";
-        contents += "COORD:N037.58.00.000:E126.47.10.000\n";
-        contents += "COORD:N037.57.09.999:E126.40.60.000\n";
-        contents += "COORD:N037.48.29.999:E126.40.60.000\n";
-        contents += "COORD:N037.46.20.000:E126.35.30.000\n";
-        contents += "COORD:N037.50.49.998:E126.26.19.998\n";
-        contents += "COORD:N037.50.49.998:E126.21.19.999\n";
-        contents += "COORD:N037.48.54.423:E126.12.36.475\n";
-        contents += "COORD:N037.43.34.664:E126.10.47.040\n";
-        contents += "COORD:N037.39.50.769:E126.01.06.196\n";
-        contents += "COORD:N037.43.07.873:E125.45.15.943\n";
-        contents += "COORD:N037.41.11.142:E125.31.27.207\n";
-        contents += "COORD:N037.38.07.433:E125.22.56.841\n";
-        contents += "COORD:N037.36.59.982:E125.19.33.828\n";
-        contents += "COORD:N037.37.00.000:E125.09.09.998\n";
-        contents += "COORD:N037.45.29.998:E124.57.19.998\n";
-        contents += "COORD:N037.52.30.000:E124.53.29.999\n";
-        contents += "COORD:N037.57.09.999:E124.54.09.998\n";
-        contents += "COORD:N038.00.00.000:E124.50.60.000\n";
-        contents += "COORD:N038.00.00.000:E124.00.00.000\n";
-
-        contents += "\nSECTOR:ZKKP_TMA:0:60000\n";
-        contents += "OWNER:PY\n";
-        contents += "BORDER:ZKKP_TMA_BORDER\n";
-
-
 
         contents += "CIRCLE_SECTORLINE:ZKPY_TMA_BORDER:ZKPY:35\n";
 
@@ -597,6 +489,118 @@ module.exports = {
         contents += "SECTOR:RKTI_TMA:0:17500\n";
         contents += "OWNER:TIA\n";
         contents += "BORDER:RKTI_TMA_T22_BORDER\n";
+
+        contents += "\n\n";
+        contents += "SECTORLINE:ZKKP_TMA_BORDER\n";
+        contents += "DISPLAY:ZKKP_TMA:ZKKP_TMA:ZKKP_CTR\n"
+        contents += "COORD:N038.00.00.000:E124.00.00.000\n";
+        contents += "COORD:N039.49.41.002:E124.10.05.988\n";
+        contents += "COORD:N040.00.00.000:E124.20.60.000\n";
+        contents += "COORD:N040.04.00.001:E124.19.59.988\n";
+        contents += "COORD:N040.28.00.001:E124.54.00.000\n";
+        contents += "COORD:N040.52.59.999:E125.46.59.988\n";
+        contents += "COORD:N040.53.41.420:E125.59.24.371\n";
+        contents += "COORD:N041.04.59.999:E126.06.59.976\n";
+        contents += "COORD:N041.22.00.001:E126.30.59.976\n";
+        contents += "COORD:N041.37.00.001:E126.35.60.000\n";
+        contents += "COORD:N041.45.00.000:E126.42.00.000\n";
+        contents += "COORD:N041.40.59.999:E126.46.59.988\n";
+        contents += "COORD:N041.47.60.000:E126.55.59.988\n";
+        contents += "COORD:N041.42.08.071:E127.03.51.890\n";
+        contents += "COORD:N041.40.08.090:E127.02.51.900\n";
+        contents += "COORD:N041.36.08.129:E127.10.51.859\n";
+        contents += "COORD:N041.32.35.092:E127.05.58.819\n";
+        contents += "COORD:N041.28.00.001:E127.31.59.988\n";
+        contents += "COORD:N041.25.00.001:E127.39.00.000\n";
+        contents += "COORD:N041.26.05.161:E127.55.06.532\n";
+        contents += "COORD:N041.22.00.001:E128.06.59.976\n";
+        contents += "COORD:N041.23.60.000:E128.12.59.976\n";
+        contents += "COORD:N041.34.00.001:E128.18.59.976\n";
+        contents += "COORD:N041.37.00.001:E128.18.00.000\n";
+        contents += "COORD:N041.43.00.001:E128.10.59.988\n";
+        contents += "COORD:N041.47.60.000:E128.04.59.988\n";
+        contents += "COORD:N041.52.59.999:E128.04.59.988\n";
+        contents += "COORD:N042.00.00.000:E128.01.59.988\n";
+        contents += "COORD:N042.01.59.999:E128.18.00.000\n";
+        contents += "COORD:N042.01.30.000:E128.56.60.000\n";
+        contents += "COORD:N042.04.59.999:E128.57.59.976\n";
+        contents += "COORD:N042.08.60.000:E129.04.59.988\n";
+        contents += "COORD:N042.08.60.000:E129.09.00.000\n";
+        contents += "COORD:N042.13.00.001:E129.12.59.976\n";
+        contents += "COORD:N042.22.00.001:E129.13.59.988\n";
+        contents += "COORD:N042.27.00.000:E129.24.59.976\n";
+        contents += "COORD:N042.22.07.950:E129.33.50.872\n";
+        contents += "COORD:N042.28.07.910:E129.37.50.830\n";
+        contents += "COORD:N042.26.07.930:E129.39.50.821\n";
+        contents += "COORD:N042.27.07.931:E129.43.50.801\n";
+        contents += "COORD:N042.34.00.001:E129.45.00.000\n";
+        contents += "COORD:N043.00.07.690:E129.52.50.660\n";
+        contents += "COORD:N043.01.07.691:E129.57.50.630\n";
+        contents += "COORD:N042.59.07.699:E129.57.50.630\n";
+        contents += "COORD:N042.59.07.721:E130.07.50.570\n";
+        contents += "COORD:N042.54.07.751:E130.06.50.591\n";
+        contents += "COORD:N042.54.07.769:E130.16.20.528\n";
+        contents += "COORD:N042.43.54.772:E130.14.27.611\n";
+        contents += "COORD:N042.36.07.920:E130.25.50.520\n";
+        contents += "COORD:N042.33.03.899:E130.25.48.439\n";
+        contents += "COORD:N042.32.60.000:E130.28.30.000\n";
+        contents += "COORD:N042.37.00.001:E130.28.59.988\n";
+        contents += "COORD:N042.36.07.920:E130.30.50.490\n";
+        contents += "COORD:N042.26.08.009:E130.34.50.491\n";
+        contents += "COORD:N042.23.60.000:E130.39.00.000\n";
+        contents += "COORD:N042.22.00.001:E130.40.00.001\n";
+        contents += "COORD:N042.17.35.999:E130.41.48.001\n";
+        contents += "COORD:N042.09.08.161:E130.52.50.419\n";
+        contents += "COORD:N041.40.08.429:E131.30.50.260\n";
+        contents += "COORD:N040.30.09.000:E135.55.49.001\n";
+        contents += "COORD:N040.00.19.548:E135.19.19.056\n";
+        contents += "COORD:N039.49.49.001:E135.05.13.999\n";
+        contents += "COORD:N038.38.09.960:E133.38.49.960\n";
+        contents += "COORD:N038.37.60.000:E128.22.00.000\n";
+        contents += "COORD:N038.35.49.998:E128.18.50.000\n";
+        contents += "COORD:N038.28.19.998:E128.18.00.000\n";
+        contents += "COORD:N038.24.40.000:E128.15.20.000\n";
+        contents += "COORD:N038.20.19.998:E128.08.10.000\n";
+        contents += "COORD:N038.19.00.000:E128.02.49.998\n";
+        contents += "COORD:N038.19.60.000:E127.53.29.999\n";
+        contents += "COORD:N038.19.09.998:E127.49.20.000\n";
+        contents += "COORD:N038.20.49.998:E127.47.10.000\n";
+        contents += "COORD:N038.20.20.000:E127.39.52.000\n";
+        contents += "COORD:N038.19.60.000:E127.34.09.999\n";
+        contents += "COORD:N038.18.09.998:E127.30.30.000\n";
+        contents += "COORD:N038.19.60.000:E127.23.29.999\n";
+        contents += "COORD:N038.19.20.000:E127.17.59.999\n";
+        contents += "COORD:N038.20.30.000:E127.13.60.000\n";
+        contents += "COORD:N038.19.09.998:E127.08.29.999\n";
+        contents += "COORD:N038.13.00.000:E126.58.10.000\n";
+        contents += "COORD:N038.08.40.000:E126.57.39.999\n";
+        contents += "COORD:N038.06.00.000:E126.52.40.000\n";
+        contents += "COORD:N038.02.29.999:E126.52.09.999\n";
+        contents += "COORD:N037.58.00.000:E126.47.10.000\n";
+        contents += "COORD:N037.57.09.999:E126.40.60.000\n";
+        contents += "COORD:N037.48.29.999:E126.40.60.000\n";
+        contents += "COORD:N037.46.20.000:E126.35.30.000\n";
+        contents += "COORD:N037.50.49.998:E126.26.19.998\n";
+        contents += "COORD:N037.50.49.998:E126.21.19.999\n";
+        contents += "COORD:N037.48.54.423:E126.12.36.475\n";
+        contents += "COORD:N037.43.34.664:E126.10.47.040\n";
+        contents += "COORD:N037.39.50.769:E126.01.06.196\n";
+        contents += "COORD:N037.43.07.873:E125.45.15.943\n";
+        contents += "COORD:N037.41.11.142:E125.31.27.207\n";
+        contents += "COORD:N037.38.07.433:E125.22.56.841\n";
+        contents += "COORD:N037.36.59.982:E125.19.33.828\n";
+        contents += "COORD:N037.37.00.000:E125.09.09.998\n";
+        contents += "COORD:N037.45.29.998:E124.57.19.998\n";
+        contents += "COORD:N037.52.30.000:E124.53.29.999\n";
+        contents += "COORD:N037.57.09.999:E124.54.09.998\n";
+        contents += "COORD:N038.00.00.000:E124.50.60.000\n";
+        contents += "COORD:N038.00.00.000:E124.00.00.000\n";
+        contents += "\n\n";
+        contents += "\nSECTOR:ZKKP_TMA:0:60000\n";
+        contents += "OWNER:PY\n";
+        contents += "BORDER:ZKKP_TMA_BORDER\n";
+
+
 
         ////Sector manual input END
 
