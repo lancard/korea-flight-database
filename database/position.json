@@ -552,13 +552,5 @@
         "middleFix": "-",
         "prefix": "ZKPY",
         "position": "GND"
-    },
-    "ZKPY_DEL": {
-        "name": "PYONGYANG DELIVERY",
-        "frequency": "121.900",
-        "initialID": "PYD",
-        "middleFix": "-",
-        "prefix": "ZKPY",
-        "position": "DEL"
     }
 }
