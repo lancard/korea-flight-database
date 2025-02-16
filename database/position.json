@@ -441,6 +441,14 @@
         "prefix": "RKNW",
         "position": "APP"
     },
+    "RKPK_TWR": {
+        "name": "GIMHAE TOWER",
+        "frequency": "118.150",
+        "initialID": "PKT",
+        "middleFix": "-",
+        "prefix": "RKPK",
+        "position": "TWR"
+    },
     "RKPK_APP": {
         "name": "GIMHAE APPROACH",
         "frequency": "125.500",
