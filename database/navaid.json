@@ -3013,12 +3013,20 @@
 		"longitude": "E126.41.33.798"
 	},
 	{
-		"name": "DODBI",
+		"name": "GASAN",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
 		"latitude": "N039.43.55.000",
 		"longitude": "E125.26.41.000"
+	},
+	{
+		"name": "DODBI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N035.57.40.400",
+		"longitude": "E128.32.10.100"
 	},
 	{
 		"name": "GAYHA",
