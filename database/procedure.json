@@ -1532,41 +1532,41 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "MAVIC1",
+        "name": "DOVUR1",
         "runway": [
             "13L",
             "13R"
         ],
         "fixList": [
-            "MAVIC"
+            "DOVUR"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "MAVIC1.BITUX",
+        "name": "DOVUR1.BITUX",
         "runway": [
             "13L",
             "13R"
         ],
         "fixList": [
-            "MAVIC",
+            "DOVUR",
 	        "TN131",
 	        "TN132",
-        	"DALGU",
+        	"VETUP",
 	        "BITUX"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "MAVIC1.OPEDA",
+        "name": "DOVUR1.OPEDA",
         "runway": [
             "13L",
             "13R"
         ],
         "fixList": [
-            "MAVIC",
+            "DOVUR",
 	        "TN131",
 	        "TN132",
 	        "OPEDA"
@@ -1575,28 +1575,28 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "MAVIC1.IGDOK",
+        "name": "DOVUR1.IGDOK",
         "runway": [
             "13L",
             "13R"
         ],
         "fixList": [
-            "MAVIC",
+            "DOVUR",
 	        "TN131",
-	        "DURYU",
+	        "PEDVA",
 	        "IGDOK"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "MAVIC1.MASTA",
+        "name": "DOVUR1.MASTA",
         "runway": [
             "13L",
             "13R"
         ],
         "fixList": [
-            "MAVIC",
+            "DOVUR",
 	        "TN131",
 	        "MASTA"
         ]
@@ -1604,93 +1604,93 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "MAVIC1.KALOD",
+        "name": "DOVUR1.KALOD",
         "runway": [
             "13L",
             "13R"
         ],
         "fixList": [
-            "MAVIC",
+            "DOVUR",
 	        "KALOD"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "MAVIC1.LAPAL",
+        "name": "DOVUR1.LAPAL",
         "runway": [
             "13L",
             "13R"
         ],
         "fixList": [
-            "MAVIC",
+            "DOVUR",
 	        "LAPAL"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "CABON1",
+        "name": "KABAS1",
         "runway": [
             "31L",
             "31R"
         ],
         "fixList": [
-            "CABON"
+            "KABAS"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "CABON1.BITUX",
+        "name": "KABAS1.BITUX",
         "runway": [
             "31L",
             "31R"
         ],
         "fixList": [
-            "CABON",
-	        "DALGU",
+            "KABAS",
+	        "VETUP",
 	        "BITUX"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "CABON1.OPEDA",
+        "name": "KABAS1.OPEDA",
         "runway": [
             "31L",
             "31R"
         ],
         "fixList": [
-            "CABON",
+            "KABAS",
 	        "OPEDA"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "CABON1.IGDOK",
+        "name": "KABAS1.IGDOK",
         "runway": [
             "31L",
             "31R"
         ],
         "fixList": [
-            "CABON",
+            "KABAS",
 	        "TN311",
-	        "DURYU",
+	        "PEDVA",
 	        "IGDOK"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "CABON1.MASTA",
+        "name": "KABAS1.MASTA",
         "runway": [
             "31L",
             "31R"
         ],
         "fixList": [
-            "CABON",
+            "KABAS",
 	        "TN311",
 	        "MASTA"
         ]
@@ -1698,13 +1698,13 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "CABON1.KALOD",
+        "name": "KABAS1.KALOD",
         "runway": [
             "31L",
             "31R"
         ],
         "fixList": [
-            "CABON",
+            "KABAS",
 	        "TN311",
 	        "TN312",
 	        "KALOD"
@@ -1713,13 +1713,13 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "CABON1.LAPAL",
+        "name": "KABAS1.LAPAL",
         "runway": [
             "31L",
             "31R"
         ],
         "fixList": [
-            "CABON",
+            "KABAS",
 	        "TN311",
 	        "TN312",
 	        "LAPAL"
@@ -1735,7 +1735,7 @@
         ],
         "fixList": [
             "BITUX",
-	        "HOSAN",
+	        "OSNOP",
 	        "TN451",
 	        "YAWAN"
         ]
@@ -1764,7 +1764,7 @@
         ],
         "fixList": [
             "IGDOK",
-	        "DURYU",
+	        "PEDVA",
 	        "YAWAN"
         ]
     },
@@ -1819,7 +1819,7 @@
         ],
         "fixList": [
             "BITUX",
-	        "HOSAN",
+	        "OSNOP",
 	        "TGU",
             "TN652",
 	        "UKBAT"
@@ -1850,7 +1850,7 @@
         ],
         "fixList": [
             "IGDOK",
-	        "DURYU",
+	        "PEDVA",
 	        "TGU",
 	        "TN652",
 	        "UKBAT"
@@ -1909,9 +1909,9 @@
         "fixList": [
             "YAWAN",
             "TN401",
-	        "KUMHO",
+	        "ESDEM",
 	        "TN503",
-	        "ALTON"
+	        "OLVAR"
         ]
     },
     {
@@ -1927,13 +1927,13 @@
         "procedureType": "APPROACH",
         "airport": "RKTN",
         "name": "RNP13R",
-        "runway": "13L",
+        "runway": "13R",
         "fixList": [
             "YAWAN",
             "TN401",
-	        "GOOMI",
+	        "OLRIB",
 	        "TN403",
-	        "GASAN"
+	        "DODBI"
         ]
     },
     {
@@ -1944,9 +1944,9 @@
         "fixList": [
             "UKBAT",
             "TN601",
-	        "INTER",
+	        "INTUT",
 	        "TN602",
-	        "SINAM",
+	        "ONUGO",
 	        "TN603"
         ]
     },
@@ -1976,9 +1976,9 @@
         "fixList": [
             "UKBAT",
             "TN601",
-	        "BULGO",
+	        "IDEVA",
 	        "TN701",
-	        "SADAN",
+	        "MEVIM",
 	        "TN702"
         ]
     },
