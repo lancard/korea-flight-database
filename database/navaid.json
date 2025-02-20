@@ -825,7 +825,7 @@
 		"longitude": "E123.59.26.399"
 	},
 	{
-		"name": "ALTON",
+		"name": "OLVAR",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -1324,7 +1324,7 @@
 		"longitude": "E129.49.24.000"
 	},
 	{
-		"name": "BULGO",
+		"name": "IDEVA",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -1845,7 +1845,7 @@
 		"longitude": "E126.42.06.000"
 	},
 	{
-		"name": "DALGU",
+		"name": "VETUP",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -2729,7 +2729,7 @@
 		"longitude": "E124.16.49.177"
 	},
 	{
-		"name": "DURYU",
+		"name": "PEDVA",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -3013,7 +3013,7 @@
 		"longitude": "E126.41.33.798"
 	},
 	{
-		"name": "GASAN",
+		"name": "DODBI",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -3244,7 +3244,7 @@
 		"airport": "RKJJ"
 	},
 	{
-		"name": "GOOMI",
+		"name": "OLRIB",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -3745,7 +3745,7 @@
 		"longitude": "E127.37.29.700"
 	},
 	{
-		"name": "HOSAN",
+		"name": "OSNOP",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -4111,7 +4111,7 @@
 		"approachType": "ILS"
 	},
 	{
-		"name": "INTER",
+		"name": "INTUT",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -5387,7 +5387,7 @@
 		"airport": "RKSI"
 	},
 	{
-		"name": "KUMHO",
+		"name": "ESDEM",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -6050,7 +6050,7 @@
 		"longitude": "E127.25.46.100"
 	},
 	{
-		"name": "MAVIC",
+		"name": "DOVUR",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -6058,7 +6058,7 @@
 		"longitude": "E128.46.21.900"
 	},
 	{
-		"name": "CABON",
+		"name": "KABAS",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -8913,7 +8913,7 @@
 		"longitude": "E122.27.11.932"
 	},
 	{
-		"name": "SADAN",
+		"name": "MEVIM",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -9029,7 +9029,7 @@
 		"airport": "RKJJ"
 	},
 	{
-		"name": "SINAM",
+		"name": "ONUGO",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -10136,7 +10136,7 @@
 		"longitude": "E126.55.04.600",
 		"airport": "RKSS"
 	},
-		{
+	{
 		"name": "TN601",
 		"navaidType": "FIX",
 		"extraType": "FIX",
