@@ -3269,6 +3269,14 @@
 		"airport": "RKSI"
 	},
 	{
+		"name": "GASAN",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N039.43.55.000",
+		"longitude": "E125.26.41.000"
+	},
+	{
 		"name": "GOLOT",
 		"navaidType": "FIX",
 		"extraType": "FIX",
