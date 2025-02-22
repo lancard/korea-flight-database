@@ -91,7 +91,7 @@
     },
     "RKSS_DEL": {
         "name": "GIMPO DELIVERY",
-        "frequency": "121.970",
+        "frequency": "121.975",
         "initialID": "SSD",
         "middleFix": "-",
         "prefix": "RKSS",
@@ -161,7 +161,7 @@
     },
     "RKPC_DEL": {
         "name": "JEJU DELIVERY",
-        "frequency": "121.920",
+        "frequency": "121.925",
         "initialID": "PCD",
         "middleFix": "-",
         "prefix": "RKPC",
@@ -171,7 +171,7 @@
     },
     "RKPC_GND": {
         "name": "JEJU GROUND",
-        "frequency": "121.670",
+        "frequency": "121.675",
         "initialID": "PCG",
         "middleFix": "-",
         "prefix": "RKPC",
@@ -201,7 +201,7 @@
     },
     "RKPC_A_APP": {
         "name": "JEJU ARRIVAL",
-        "frequency": "120.420",
+        "frequency": "120.425",
         "initialID": "PAA",
         "middleFix": "A",
         "prefix": "RKPC",
@@ -331,7 +331,7 @@
     },
     "RKJJ_TWR": {
         "name": "GWANGJU TOWER",
-        "frequency": "118.250",
+        "frequency": "118.050",
         "initialID": "JJT",
         "middleFix": "-",
         "prefix": "RKJJ",
