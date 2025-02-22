@@ -182,10 +182,10 @@
     {
         "runway": "15",
         "oppositeRunway": "33",
-        "startLatitude": "N033.24.13.573",
-        "startLongitude": "E126.42.27.179",
-        "endLatitude": "N033.23.34.200",
-        "endLongitude": "E126.43.03.543",
+        "startLatitude": "N033.23.34.200",
+        "startLongitude": "E126.43.03.543",
+        "endLatitude": "N033.24.13.573",
+        "endLongitude": "E126.42.27.179",
         "airport": "RKPD"
     },
     {
