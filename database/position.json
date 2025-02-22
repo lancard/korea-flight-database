@@ -101,7 +101,7 @@
     },
     "RKSS_A_GND": {
         "name": "GIMPO APRON",
-        "frequency": "130.870",
+        "frequency": "130.875",
         "initialID": "SAG",
         "middleFix": "A",
         "prefix": "RKSS",
