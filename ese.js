@@ -34,6 +34,20 @@ function getInitialID(artccName) {
     return null;
 }
 
+function getOwnerID(artccName) {
+    if (artccName == "RKRR")
+        return ":KRA";
+
+    return ""
+}
+
+function getCtrALT(artccName) {
+    if (artccName == "RKRR" || artccName == "RKRR_N" || artccName == "RKRR_S" || artccName == "RKDA" || artccName == "RKDA_W" || artccName == "RKDA_E" || artccName == "RKDA_C")
+        return ":60000";
+
+    return ":18500"
+}
+
 module.exports = {
     initialize() {
         if (!fs.existsSync('vatsim')) {
@@ -153,8 +167,8 @@ module.exports = {
             ret.push("\n");
 
             additionalRet.push(
-                `SECTOR:${app}_TMA:0:18500\n` +
-                `OWNER:${getInitialID(app)}:KRA\n` +
+                `SECTOR:${app}_TMA:0${getCtrALT(app)}\n` +
+                `OWNER:${getInitialID(app)}${getOwnerID(app)}\n` +
                 `BORDER:${app}_TMA_BORDER\n`
             )
         }
@@ -435,19 +449,19 @@ module.exports = {
 
         contents += ";-MINOR APPROACH SECTOR\n";
         contents += "SECTOR:RKTH_TMA:0:10500\n";
-        contents += "OWNER:THR:THA:DGE:DG:KRA\n";
+        contents += "OWNER:THR:THA\n";
         contents += "BORDER:RKTH_TMA_T32_BORDER\n";
 
         contents += "SECTOR:RKTH_TMA:0:10500\n";
-        contents += "OWNER:PUR:THA:DGE:DG:KRA\n";
+        contents += "OWNER:PUR:THA\n";
         contents += "BORDER:RKTH_TMA_T33_BORDER\n";
 
         contents += "SECTOR:RKTH_TMA:0:7500\n";
-        contents += "OWNER:THA:DGE:DG:KRA\n";
+        contents += "OWNER:THA\n";
         contents += "BORDER:RKTH_TMA_T34_BORDER\n";
 
         contents += "SECTOR:RKTH_TMA:0:9500\n";
-        contents += "OWNER:TLR:THA:DGE:DG:KRA\n";
+        contents += "OWNER:TLR:THA\n";
         contents += "BORDER:RKTH_TMA_T42_BORDER\n";
 
         contents += "SECTOR:RKPS_TMA:0:13500\n";

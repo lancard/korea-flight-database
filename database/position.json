@@ -441,6 +441,38 @@
         "prefix": "RKNW",
         "position": "APP"
     },
+    "RKPK_DEL": {
+        "name": "GIMHAE DELIVERY",
+        "frequency": "121.800",
+        "initialID": "PKD",
+        "middleFix": "-",
+        "prefix": "RKPK",
+        "position": "DEL"
+    },
+    "RKPK_A_GND": {
+        "name": "GIMHAE APRON",
+        "frequency": "121.625",
+        "initialID": "PK1",
+        "middleFix": "A",
+        "prefix": "RKPK",
+        "position": "GND"
+    },
+    "RKPK_GND": {
+        "name": "GIMHAE GROUND",
+        "frequency": "121.950",
+        "initialID": "PKG",
+        "middleFix": "-",
+        "prefix": "RKPK",
+        "position": "TWR"
+    },
+    "RKPK_TWR": {
+        "name": "GIMHAE TOWER",
+        "frequency": "118.150",
+        "initialID": "PKT",
+        "middleFix": "-",
+        "prefix": "RKPK",
+        "position": "TWR"
+    },
     "RKPK_APP": {
         "name": "GIMHAE APPROACH",
         "frequency": "125.500",
