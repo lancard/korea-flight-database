@@ -339,6 +339,7 @@ K08U	Stevens-Crosby Airport	US
 09OK	Ragtime Aerodrome	US
 09PA	Eagle Field	US
 09S	Sullivan Lake State Airport	US
+K09T	Lazy G Bar Ranch Airport	US
 09TE	Running M Ranch Airport	US
 09TS	Pitcock Rosillos Mountain Ranch Airport	US
 09TX	Smokey Mountain Ranch Airport	US
@@ -413,6 +414,7 @@ K0G0	North Buffalo Suburban Airport	US
 0GE5	Mountain Airpark	US
 0GE7	Carpenter Airport	US
 0GE9	Pegasus Ranch Airport	US
+K0H7	Kahoka Municipal Airport	US
 0I2	Brazil Clay County Airport	US
 0IA4	Sharar Field	US
 0IA5	Moore Private Airport	US
@@ -442,7 +444,9 @@ K0G0	North Buffalo Suburban Airport	US
 0IN5	Byrne Field	US
 0IN9	Parrish Airport	US
 0IS3	Cady Aerial Restricted Landing Area	US
+K0J0	Abbeville Municipal Airport	US
 0J8	Flying Ten Airport	US
+K0K6	Dobie's Airport	US
 0KS0	J V Ranch Airport	US
 0KS4	Norris Airport	US
 0KS5	Oasis Aerodrome	US
@@ -476,6 +480,7 @@ K0G0	North Buffalo Suburban Airport	US
 0MD4	Pond View Private Airport	US
 0MD6	Walters Airport	US
 0ME4	Peasley Field	US
+K5M6	Sugar Springs Airpark	US
 0MI3	Kelleys Airport	US
 0MI4	Lesterson-Dempsey Airstrip	US
 0MI6	Young's Airport	US
@@ -502,6 +507,7 @@ K0G0	North Buffalo Suburban Airport	US
 0MU8	Prince STOLport	US
 0MU9	RPM Airport	US
 0N0	Roosterville Airport	US
+K0N4	Chandelle Airport	US
 0NA1	Goerger Airport	US
 0NA5	Sorlie Airport	US
 0NA9	Boyd's Turf Airport	US
@@ -571,6 +577,7 @@ K0P2	Shoestring Aviation Airfield	US
 0Q9	Sonoma Skypark Airport	US
 0R2	Lincoln Municipal Airport	US
 0R7	The Red River Airport	US
+K0S1	Meadow Creek USFS Airport	US
 0S5	Nezperce Municipal Airport	US
 0SD0	Lenling Airport	US
 0SD1	Lodi Airport	US
@@ -601,6 +608,7 @@ K0P2	Shoestring Aviation Airfield	US
 0U0	Landmark US Forest Service Airport	US
 0U1	Warm Springs Creek Airport	US
 0U2	Copper Basin Airport	US
+K0U3	Mahoney Creek USFS Airport	US
 0U7	Hollow Top Airport	US
 0U8	May Airport	US
 K0U9	Lee Williams Memorial Airport	US
@@ -873,7 +881,6 @@ K16W	Little Goose State Airport	US
 17TE	Comfort Airpark	US
 17TN	Murphy Field	US
 17TX	Kimzey Airport	US
-17U	Jake Garn Airport	US
 17WI	Ha-Rail Airport	US
 17XA	Jacksonville / Hunter Field	US
 17XS	Quahadi Ranch Airport	US
@@ -1004,7 +1011,7 @@ K1E8	Degrasse Moores Airport	US
 1GE6	Daystar Strip Airport	US
 1GE7	Hay Field	US
 1GE9	Waverly Landing Airport	US
-1H1	Airlane Enterprises Airport	US
+K1H1	Airlane Enterprises Airport	US
 1H6	Harvey Young Airport	US
 1H9	Nest of Eagles Airport	US
 1I1	Marcy Field	US
@@ -1027,8 +1034,7 @@ K1I8	Converse Airport	US
 1IL4	Flight Park Inc Airport	US
 1IL8	Loy Airport	US
 1IL9	Holland Field	US
-1IN0	Belknap-Icarus Acres Airport	US
-1IN1	Shearer STOLport	US
+1IN1	Shearer Airport	US
 1IN3	Confer's Place Airport	US
 1IN4	Robinson Airpark	US
 1IN5	Bottoms Brothers Airport	US
@@ -1059,7 +1065,6 @@ K1L4	Kidwell Airport	US
 1LA1	Triche Field	US
 1LA3	Goose Island Airport	US
 1LA5	Morrow Strip	US
-1LL0	Boondox Field	US
 1LL2	Spring Brook Airport	US
 1LL4	Sies Landing Area Airport	US
 1LL5	Justison Airport	US
@@ -1167,7 +1172,6 @@ K1O6	Dunsmuir Muni-Mott Airport	US
 1PA4	Wagner Airport	US
 1PA6	Auer Field	US
 1PA9	Schadels Airport	US
-1PN0	Bentley Airport	US
 1PN1	Napodano Airport	US
 1PS0	Ickes Airport	US
 1PS9	Wicker & Wings Aerodrome	US
@@ -1604,6 +1608,7 @@ K2E6	Groton Municipal Airport	US
 2GA5	Windrift Aerodrome	US
 2GA8	Shannon Flight Strip	US
 2GA9	Lenora Airport	US
+GE56	Smith Field	US
 2GE5	Chukkar Farm Ultralightport	US
 2GE7	Petty Farms Airport	US
 2GE8	Andy Fields Airport	US
@@ -2244,7 +2249,6 @@ K3D2	Ephraim-Gibraltar Airport	US
 3IL1	Silver Creek Gliderport	US
 3IL2	Sweedler Airport	US
 3IN0	Flying M Airport	US
-3IN4	Johnson Airport	US
 3IN5	Pippenger Airport	US
 3IN6	Holloway Field	US
 3IN7	Chain-O-Lakes Airport	US
@@ -2741,7 +2745,7 @@ K49G	Wend Valley Airport	US
 49MN	Willow Ridge Airport	US
 49MS	Gray Field	US
 49MT	Firebuster Airport	US
-49N	Lufker Airport	US
+K49N	Lufker Airport	US
 49NK	Trump MTN Airport	US
 49NR	Forty Niner at Middle Tract Airport	US
 49NY	Westmoreland Airport	US
@@ -2820,7 +2824,6 @@ K4G7	Fairmont Municipal Airport Frankman Field	US
 4IA7	Witcombe Field	US
 4IA9	Triple J Airport	US
 4II0	De Ford Airport	US
-4II2	Hangar Fly Ultralight Fly Club Ultralightport	US
 4II3	Oleo Airport	US
 4II6	Gettlefinger Field	US
 4II7	Sport Aircraft Flight Park Ultralightport	US
@@ -3738,7 +3741,7 @@ K66B	Gillespie Field	US
 67FL	Myakka Head Airport	US
 67GA	Apalachee Bluff Airpark	US
 67II	Schoettmer Farm Airport	US
-67IL	Mitchell RLA Restricted Landing Area	US
+67IL	Mitchell Restricted Landing Area Airport	US
 67KS	Montezuma Coöp Airport	US
 67MD	Willows Landing	US
 67MI	Pinelli Airport	US
@@ -4125,7 +4128,6 @@ K6U6	Hogeland Airport	US
 72MO	Sunnys Field Airport	US
 72ND	Berg Field	US
 72NM	Otero Mill Airport	US
-72OH	Zeigler Landing Strip	US
 72OR	Ochs Private Airport	US
 K72S	Rosalia Municipal Airport	US
 72TA	Pierce Field	US
@@ -4276,6 +4278,7 @@ K79C	Brennand Airport	US
 79KY	Lucas Field	US
 79MN	Paul Field	US
 79MO	Faries Field	US
+79MT	Johny Creek Airport	US
 79MU	Dunham Private Airport	US
 79N	Ridge Soaring Gliderport	US
 79NC	Ball Airport	US
@@ -4350,7 +4353,6 @@ K7I2	Reese Airport	US
 7IA1	White Pigeon Airport	US
 7IA3	Mc Bride Field	US
 7IA7	Mitchell Field	US
-7II0	Porter Field	US
 7II3	Schroeder Private Airport	US
 7IL0	Mussman Airport	US
 7IL7	Edward Getzelman Airport	US
@@ -4793,7 +4795,6 @@ K8G8	Koons Airport	US
 8II0	Allen and Gloss Airport	US
 8II1	Careferre Acres Airport	US
 8II2	Norris Field	US
-8II3	Thrust Industries Airport	US
 8II5	Holt Field	US
 8IL0	Adkins Restricted Landing Area	US
 8IL1	Twin Gardens Airport	US
@@ -4967,6 +4968,7 @@ K8W3	Mansfield Airport	US
 8WV3	Snowshoe Airport	US
 8WV8	Talbott Field	US
 8WY6	Lazy T Ranch Airport	US
+8XA6	Blackjack Field	US
 8XS6	Mc Manus Field	US
 8XS8	Reese Airpark	US
 8XS9	Rust Field	US
@@ -5005,6 +5007,7 @@ K91C	Sauk-Prairie Airport	US
 91OK	The Flying Cowboy Airport	US
 91TA	Rhines Roost Airport	US
 91TE	Britts Crosswind Airport	US
+91TN	Powder Mill Field	US
 91TS	Songbird Ranch Airport	US
 91TX	Paisano Ranch Airport	US
 91VA	Miller Airport	US
@@ -5088,6 +5091,7 @@ K91C	Sauk-Prairie Airport	US
 95OH	Tong Farm Airport	US
 95OK	Barcus Field	US
 95OR	Flournoy Valley Airport	US
+95SC	Buckeye Field	US
 95TA	Thunder Creek Airport	US
 95TN	Blue Ridge Field	US
 95TS	Rob Airport	US
@@ -5181,7 +5185,6 @@ K97G	Glowacki Airport	US
 99WI	Goins Airport	US
 99WY	Xingu Airstrip	US
 99XA	Skotz Airfield	US
-9A2	Powell STOLport	US
 PACH	Chuathbaluk Airport	US
 9A9	Shiflet Field	US
 9AA1	Elk Ranch Airport	US
@@ -5249,7 +5252,6 @@ K9I0	Havana Regional Airport	US
 9IL6	Weishaupt Airport	US
 9IL7	Black Airport	US
 9IN0	Smith Field	US
-9IN2	New Liberty Field	US
 9IN4	Bandmill Field	US
 9IN6	Garrard Airport	US
 9IN7	Zupancic Field	US
@@ -5295,7 +5297,7 @@ K9K0	Cottonwood Falls Airport	US
 9N3	Seamans Field	US
 9N7	Farmers Pride Airport	US
 9NA4	Bodmer Airport	US
-KW17	Raleigh East Airport	US
+W17	Raleigh East Airport	US
 9NC2	Flyers Airpark	US
 9NC3	Edwards Airport	US
 9NC7	Willow Creek Airport	US
@@ -5435,20 +5437,15 @@ AA33	Gus Landing	US
 AA50	Point Thomson Sea Ice Airstrip	US
 AA76	Timber Trails Airport	US
 AAXX	Aeródromo de Punto Rothera	AQ
-AYAN	Andakombe Airport	PG
 OEBT	Batha Airport	SA
 OMLW	Liwa Air Base	AE
 HJAR	Adareil Airport	SS
-AYAX	Aseki Airport	PG
-OAKS	"Ghost" International Airport	AF
-OARG	Orūzgān Airport	AF
-OASL	Salerno Airport	AF
-AYAF	Afore Airstrip	PG
 TAPB	New Barbuda Airport	AG
 AGAF	Afutara Aerodrome	SB
 AGAR	Ulawa Airport	SB
 AGAT	Uru Harbour Airport	SB
 AGBA	Barakoma Airport	SB
+AGBT	Batuna Aerodrome	SB
 AGEV	Geva Airport	SB
 AGGA	Gwaunaru'u Airport	SB
 AGGB	Bellona/Anua Airport	SB
@@ -5473,16 +5470,12 @@ AGGY	Yandina Airport	SB
 AGKG	Kaghau Airport	SB
 AGKU	Kukudu Airport	SB
 AGKW	Kwailabesi Airport	SB
-AYWG	Wanigela Airport	PG
 AGLM	Lomlom Airport	SB
 AGNA	Nana Airport	SB
 AGOB	Manaoba Airport	SB
 AGOK	Gatokae Aerodrome	SB
 AGRC	Ringi Cove Airport	SB
 AGRM	Ramata Airport	SB
-ZUHY	Hongyuan Airport	CN
-AYAO	Aiome Airport	PG
-AYAK	Aiambak Airport	PG
 AK0	Jakes Bar Airport	US
 AK00	Anchor River Airpark	US
 AK01	Alaska Airpark	US
@@ -5538,7 +5531,6 @@ AK66	Hunter Creek Airport	US
 AK67	Skid Marks Airport	US
 AK68	Minuteman Strip	US
 AK69	Long Lake Airport	US
-PALN	Point Lonely Short Range Radar Site Airfield	US
 AK72	Jewell Airport	US
 AK73	McGahan Industrial Airpark	US
 AK75	Candle 2 Airport	US
@@ -5594,9 +5586,6 @@ AL92	Hawk Field	US
 AL93	Big Sky Airport	US
 AL94	Evans Field	US
 AL97	Williamson Farm Airport	US
-MMPE	Mar de Cortés International Airport	MX
-AYAA	Ama Airport	PG
-AYAM	Amanab Airport	PG
 FMMB	Ambatomainty Airport	MG
 AN01	Av Ranch Airport	US
 AN03	Alaska View Airport	US
@@ -5605,8 +5594,6 @@ AN37	Frog Pond Airport	US
 ANYN	Nauru International Airport	NR
 YADN	Angus Downs Airport	AU
 FNCO	Catoca Airport	AO
-FNCP	Capanda Airport	AO
-AYPE	April River Airport	PG
 AT17	Novolazarevskaya Station	AQ
 ENOE	Troll Airfield	AQ
 AT04	Enigma Lake Skiway	AQ
@@ -5642,7 +5629,6 @@ SAB4	Pinamar Airport	AR
 SA75	Salto Airport	AR
 SAMI	Aeroclub San Martín	AR
 SACV	Villa de María de Río Seco Airport	AR
-SAFS	Sunchales Aeroclub Airport	AR
 TXO	Chevron Texaco Airport	AR
 SAHV	Victorica Airport	AR
 SA2L	Zarate Airport	AR
@@ -5650,7 +5636,6 @@ SA3R	Carmen de Patagones Airport	AR
 SA1A	Comandante Eduardo A. Olivero Airport	AR
 SA50	La Chacra Airport	AR
 SA51	Sigfrido Rohr Aviagro S.R.L. Airport	AR
-SARS	Termal Airport	AR
 SAMP	La Paz Airport	AR
 SAWO	Ushuaia Aeroclub Airport	AR
 AR03	Centerville Airstrip	US
@@ -5689,8 +5674,6 @@ AT03	Concordia Skyway	AQ
 AT13	Zucchelli Ice Runway	AQ
 AT25	Showa Station Skiway	AQ
 AT28	Vostok Skiway	AQ
-AYNX	Namatanai Airport	PG
-AYAI	Aitape Airport	PG
 ATUA	Utai Airstrip	PG
 YMYU	Myrup fly in estate Airport	AU
 YPFL	Preston Field - Blair Howe	AU
@@ -5714,53 +5697,82 @@ YMOD	lake Modewarre Private airstrip	AU
 YPSI	Passage Island Airport	AU
 YBDI	Badger Island Airport	AU
 YGRM	Gruyere Airport	AU
-YKAR	Karara Airport	AU
 YELZ	Elizabeth Downs Airport	AU
 YDKG	Duketon Gold Airport	AU
 YBUO	Bulloo Downs Airport	AU
 YKOA	Koarlo Airport	AU
-YAPH	Alpha Airport	AU
 PHI	Painted Hills Aerodrome	AU
 YDRS	Drysdale Airstrip	AU
 YDHD	Dirk Hartog Island Airstrip	AU
 YAGN	Agnew Airport	AU
 YALD	Alroy Downs Airport	AU
 YBNI	Baniyala Airport	AU
-YORC	Orchid Beach Airport	AU
-YTMP	Tom Price Airport	AU
-AYND	Aua Island Airport	PG
-AYAT	Ambunti Airport	PG
-AYAG	Agaun Airport	PG
-AYUM	Aumo Airport	PG
-FOGW	Alowe Airport	GA
 ZBAL	Alxa Left Banner Bayanhot Airport	CN
 WATP	Pantar Kabir Airport	ID
+AYAA	Ama Airport	PG
+AYAE	Mount Aue Airport	PG
+AYAF	Afore Airstrip	PG
+AYAG	Agaun Airport	PG
+AYAI	Aitape Airport	PG
+AYAK	Aiambak Airport	PG
+AYAM	Amanab Airport	PG
+AYAN	Andakombe Airport	PG
+AYAO	Aiome Airport	PG
 AYAQ	Kompiam Airport	PG
+AYAT	Ambunti Airport	PG
 AYAU	Arou Airstrip	PG
+AYAW	Awaba Airport	PG
+AYAX	Aseki Airport	PG
+AYAY	Aiyura Airport	PG
+AYBA	Baimuru Airport	PG
 AYBB	Bak Airstrip	PG
+AYBC	Bambu Airport	PG
+AYBD	Bodinumu Airport	PG
+AYBF	Bamu Airport	PG
+AYBG	Baindoung Airport	PG
+AYBH	Bensbach Airport	PG
+AYBI	Bewani Airport	PG
 AYBK	Buka Airport	PG
+AYBL	Bialla Airport	PG
+AYBM	Balimo Airport	PG
+AYBO	Bomai Airport	PG
+AYBP	Bapi Airstrip	PG
+AYBQ	Biangabip Airport	PG
 AYBR	Biaru Airport	PG
 AYBS	Begesin Airstrip	PG
 AYBT	Batri Airstrip	PG
+AYBU	Bulolo Airport	PG
 AYBW	Blackwara Airport	PG
 AYBX	Wowobo Airstrip	PG
 AYBY	Wuyabo Airstrip	PG
+AYBZ	Biniguni Airport	PG
+AYCB	Chungribu Airport	PG
+AYCG	Cape Gloucester Airport	PG
 AYCH	Chimbu Airport	PG
 AYCN	Changriwa Airstrip	PG
+AYCS	China Strait Airstrip	PG
+AYDB	Debepare Airport	PG
 AYDD	Dobu Airstrip	PG
+AYDE	Derim Airport	PG
+AYDI	Bundi Airport	PG
 AYDK	Munduku Airport	PG
 AYDL	Kondobol Airport	PG
 AYDN	Dinangat Airport	PG
 AYDO	Doini Airport	PG
 AYDP	Tsendiap Airstrip	PG
 AYDQ	Dimisisi Airstrip	PG
+AYDR	Dorobisoro Airport	PG
 AYDS	Dusin Airport	PG
 AYDU	Daru Airport	PG
 AYDW	Dewara Airstrip	PG
 AYDY	Sindeni Airstrip	PG
+AYEA	Kerau Airport	PG
 AYEB	Embessa Airport	PG
 AYED	Edwaki Airport	PG
+AYEE	Emirau Airport	PG
+AYEF	Efogi Airport	PG
 AYEG	Mengina Airstrip	PG
+AYEH	Morehead Airport	PG
 AYEI	Milei Airstrip	PG
 AYEK	Membok Airstrip	PG
 AYEL	Eliptamin Airport	PG
@@ -5769,11 +5781,16 @@ AYEN	Engati Airstrip	PG
 AYEO	Emo River Airstrip	PG
 AYER	Erume Airport	PG
 AYES	Meselia Airport	PG
+AYET	Bosset Airport	PG
 AYEU	Eloaua Airstrip	PG
+AYEV	Erave Airport	PG
+AYEW	Siwea Airport	PG
 AYEY	Mirsey Airstrip	PG
 AYEZ	Moropote Airstrip	PG
+AYFA	Fane Airport	PG
 AYFE	Feramin Airport	PG
 AYFF	Faia Airport	PG
+AYFI	Finschhafen Airport	PG
 AYFK	Foroko Airstrip	PG
 AYFO	Fogomaiu Airstrip	PG
 AYFR	Frieda River Airport	PG
@@ -5781,11 +5798,15 @@ AYFS	Fas Airstrip	PG
 AYFU	Fuma Airport	PG
 AYFW	Kwieftim Airstrip	PG
 AYGA	Goroka Airport	PG
+AYGC	Gewoia Airport	PG
 AYGD	Gimi Airstrip	PG
 AYGE	Geigorobi Airstrip	PG
 AYGF	Guari Airport	PG
 AYGG	Garasa Airport	PG
 AYGH	Guhu Airstrip	PG
+AYGI	Garaina Airport	PG
+AYGJ	Guasopa Airport	PG
+AYGL	Gonaili Airport	PG
 AYGM	Gema Airstrip	PG
 AYGN	Gurney Airport	PG
 AYGO	Gokto Airstrip	PG
@@ -5793,11 +5814,16 @@ AYGP	Gusap Airport	PG
 AYGQ	Gawa Airstrip	PG
 AYGR	Girua Airport	PG
 AYGS	Gasuke Airport	PG
+AYGT	Gasmata Island Airport	PG
+AYGU	Anguganak Airport	PG
+AYGV	Green River Airport	PG
 AYGW	Guwasa Airport	PG
+AYGX	Gora Airstrip	PG
 AYGY	Guavi Airstrip	PG
 AYHA	Haia Airport	PG
 AYHB	Habi Airport	PG
 AYHE	Heiweni Airport	PG
+AYHF	Hayfields Airport	PG
 AYHH	Honinabi Airport	PG
 AYHJ	Hewa Airstrip	PG
 AYHK	Hoskins Airport	PG
@@ -5806,10 +5832,13 @@ AYHN	Habina Airstrip	PG
 AYHO	Haivaro Airport	PG
 AYHQ	Hauna Airstrip	PG
 AYHT	Hotmin Airstrip	PG
+AYHU	Hawabango Airport	PG
 AYHW	Haewenai Airstrip	PG
 AYHX	Herowena Airstrip	PG
 AYHY	Huya Airstrip	PG
+AYIA	Nissan Island Airport	PG
 AYIB	Ibil Airstrip	PG
+AYID	Indagen Airport	PG
 AYII	Imane Airport	PG
 AYIM	Kungim Airport	PG
 AYIN	Busilmin Airstrip	PG
@@ -5820,116 +5849,176 @@ AYIR	Inaru Airstrip	PG
 AYIS	Isan Airstrip	PG
 AYIT	Iteri Airstrip	PG
 AYIU	Ialibu Airport	PG
+AYIW	Wasua Airport	PG
 AYIX	Witu Airport	PG
+AYIY	Miyanmin Airport	PG
 AYJE	Yomneri Airstrip	PG
 AYJO	Yongai Airport	PG
+AYJS	Josephstaal Airport	PG
 AYJW	Wauru Airstrip	PG
 AYKA	Losuia Airport	PG
+AYKB	Kabwum	PG
+AYKC	Kandrian Airport	PG
+AYKD	Kamina Airport	PG
 AYKG	Kopiago Airport	PG
+AYKH	Kamulai Airport	PG
 AYKI	Kiunga Airport	PG
 AYKJ	Kanainj Airport	PG
 AYKK	Kikori Airport	PG
 AYKL	Kafle Airstrip	PG
 AYKM	Kerema Airport	PG
 AYKN	Kubuna Airstrip	PG
+AYKO	Kokoda Airport	PG
+AYKQ	Kagi Airport	PG
 AYKR	Kar Kar Airport	PG
+AYKT	Kaintiba Airport	PG
 AYKU	Kuri Airport	PG
 AYKV	Kavieng Airport	PG
+AYKW	Kawito Airport	PG
 AYKY	Londolovit Airport	PG
 AYKZ	Kairiru Airstrip	PG
 AYLB	Lab Lab Airport	PG
 AYLC	Lake Campbell Airstrip	PG
 AYLE	Lele Airstrip	PG
+AYLG	Keglsugl Airport	PG
 AYLH	Klauhau Airstrip	PG
+AYLI	Kibuli Airstrip	PG
 AYLJ	Lamogai Airstrip	PG
+AYLL	Linga Linga Airport	PG
+AYLN	Langimar Airport	PG
 AYLO	Lowai Airport	PG
 AYLP	Leron Plains Airport	PG
 AYLQ	Lagoon Airstrip	PG
 AYLS	Lese Airport	PG
+AYLT	Lengbati Airport	PG
+AYLU	Lumi Airport	PG
 AYLX	Long Island Airport	PG
 AYLY	Myola Airstrip	PG
 AYLZ	Slai Airstrip	PG
 AYMA	Manari Airport	PG
 AYMB	Morobe Airport	PG
+AYMC	Menyamya Airport	PG
 AYMD	Madang Airport	PG
 AYMF	Maimafu Airstrip	PG
 AYMG	Magleri Airstrip	PG
 AYMH	Mount Hagen Kagamuga Airport	PG
+AYMI	Mindik Airport	PG
+AYMJ	Makini Airport	PG
 AYMK	Mok Airport	PG
 AYML	Mougulu Airport	PG
 AYMN	Mendi Airport	PG
 AYMO	Momote Airport	PG
+AYMP	Malalaua Airport	PG
+AYMQ	Malam Airport	PG
 AYMR	Moro Airport	PG
 AYMS	Misima Island Airport	PG
 AYMU	Muluma Airstrip	PG
+AYMV	Malekolon Airport	PG
 AYMW	Marawaka Airport	PG
 AYMX	Mamusi Airstrip	PG
 AYMY	Smok Airstrip	PG
+AYMZ	Mapua(Mabua) Airport	PG
 AYNA	Nankina Airport	PG
+AYNB	Kanabea Airport	PG
+AYNC	Nadunumu Airport	PG
+AYND	Aua Island Airport	PG
 AYNE	Negarbo(Negabo) Airport	PG
 AYNF	Nagri Airport	PG
 AYNG	Manguna Airport	PG
 AYNH	Nahu Airstrip	PG
+AYNI	Nuguria Airstrip	PG
+AYNJ	Namudi Airport	PG
 AYNM	Kasonombe Airport	PG
+AYNN	Kandep Airport	PG
 AYNO	Nomane Airport	PG
 AYNP	Momonup Airstrip	PG
+AYNS	Bunsil Airport	PG
 AYNT	Kantobo Airstrip	PG
+AYNU	Nuku Airport	PG
+AYNX	Namatanai Airport	PG
 AYNY	Nambaiyufa Airport	PG
 AYNZ	Nadzab Airport	PG
 AYOA	Kwomtari Airstrip	PG
+AYOB	Obo Airport	PG
 AYOD	Obura Airstrip	PG
 AYOE	Konge Airport	PG
+AYOF	Okao Airport	PG
+AYOG	Ogeranang Airport	PG
 AYOH	Okisai Airstrip	PG
 AYOJ	Oksapmin Airport	PG
 AYOK	Komako Airport	PG
+AYOL	Kol Airport	PG
+AYOM	Omora Airport	PG
+AYOO	Komo-Manda Airport	PG
+AYOP	Kosipe Airport	PG
 AYOQ	Komaio Airport	PG
 AYOS	Kosimbi Airstrip	PG
 AYOU	Kombaku Airstrip	PG
+AYOV	Olsobip Airport	PG
 AYOW	Koroba Airport	PG
 AYOX	Moi Airstrip	PG
 AYOY	Open Bay Airport	PG
 AYOZ	Kora Airstrip	PG
 AYPA	Somokopa Airstrip	PG
+AYPB	Paiela Airport	PG
 AYPC	Pangoa Airport	PG
+AYPD	Pindiu Airport	PG
+AYPE	April River Airport	PG
 AYPG	Pangia Airport	PG
 AYPI	Kapi Airstrip	PG
+AYPJ	Pimaga Airport	PG
 AYPO	Mapoda Airport	PG
 AYPQ	Pumani Airport	PG
 AYPS	Maposi Airstrip	PG
 AYWZ	Walluanda Airport	PG
 AYPW	Panakawa Airport	PG
 AYPY	Port Moresby Jacksons International Airport	PG
+AYQA	Karawari Airstrip	PG
 AYQB	Simbari Airstrip	PG
+AYQL	Tumolbil Airport	PG
 AYQM	Simogu Airstrip	PG
 AYQO	Sopu Airport	PG
+AYQQ	Ononge Airport	PG
 AYQR	Sorimi Airstrip	PG
 AYQS	Sialum Airport	PG
 AYQU	Tsumba Airstrip	PG
 AYQV	Sinow Airstrip	PG
 AYQW	Sumwari Airstrip	PG
+AYRA	Kira Airport	PG
 AYRD	Rano Airstrip	PG
+AYRE	Raba Raba Airport	PG
 AYRG	Rumginae Airport	PG
 AYRI	Karimui Airport	PG
 AYRJ	Mariama	PG
+AYRK	Kairuku Airport	PG
 AYRL	Maralina Airstrip	PG
 AYRM	Maramuni Airport	PG
 AYRN	Norambi Airstrip.	PG
+AYRO	Kakoro(Koroko) Airstrip	PG
 AYRR	Tiri Airstrip	PG
 AYRT	Kirinbit Airstrip	PG
 AYRV	May River Airstrip	PG
 AYSA	Suabi Airport	PG
 AYSB	Sirebi Airstrip	PG
+AYSD	Saidor Airport	PG
 AYSE	Simberi Airport	PG
+AYSF	Safia Airport	PG
 AYSG	Sila Airport	PG
 AYSH	Sabah Airport	PG
 AYSI	Seltamin Airstrip	PG
 AYSJ	Simbai Airport	PG
+AYSK	Sengapi Airstrip	PG
+AYSL	Sehulea Airport	PG
 AYSM	Samberigi Airstrip	PG
 AYSO	Selbang Airport	PG
+AYSP	Sapmanga Airport	PG
 AYSQ	Sepik Plains Airport	PG
 AYSR	Sangera Airstrip	PG
+AYSS	Sasereme Airport	PG
 AYST	Sturt Island Airport	PG
+AYSU	Suki Airport	PG
 AYSV	Sauren Airport	PG
+AYSW	Satwag Airport	PG
 AYSX	Masa Airport	PG
 AYSY	Serra Airstrip	PG
 AYSZ	Samanzing Airstrip	PG
@@ -5937,34 +6026,46 @@ AYTA	Tari Airport	PG
 AYTB	Tabubil Airport	PG
 AYTC	Tapila Airstrip	PG
 AYTD	Teredau Airport	PG
+AYTE	Telefomin Airport	PG
+AYTF	Tetebedi Airport	PG
+AYTG	Tagula Airport	PG
+AYTH	Tifalmin Airport	PG
 AYTI	Tapini Airport	PG
 AYTK	Tokua Airport	PG
 AYTL	Talbakul Airstrip	PG
 AYTM	Tamo Airstrip	PG
 AYTN	Tekin Airport	PG
+AYTO	Kamberatoro Airport	PG
 AYTP	Tep Tep Airport	PG
 AYTQ	Tapen Airstrip	PG
+AYTR	Tarabo Airport	PG
 AYTS	Tsewi Airport	PG
 AYTT	Tarakbits Airport	PG
+AYTU	Tufi Airport	PG
+AYTV	Timbunke Airport	PG
 AYTW	Tawa Airport	PG
 AYTX	Matak Airstrip	PG
+AYTY	Terapo Airport	PG
 AYTZ	Tekadu Airport	PG
-AYAY	Aiyura Airport	PG
 AYUA	Utai Airstrip	PG
 AYUC	Umba Airport	PG
 AYUE	Uroubi Airport	PG
 AYUG	Brugam Airstrip	PG
+AYUI	Buin Airport	PG
 AYUJ	Mukvi Airstrip	PG
 AYUK	Mukili Airstrip	PG
 AYUL	Musula Airstrip	PG
+AYUM	Aumo Airport	PG
 AYUN	Bunam Airstrip	PG
 AYUO	Omaura Airstrip	PG
+AYUP	Gulgubip Airport	PG
 AYUQ	Kumbwareta Airstrip	PG
 AYUR	Upiara Airport	PG
 AYUS	Suame Airstrip	PG
 AYUT	Bunguwat Airstrip	PG
 AYUV	Tuvau Airstrip	PG
 AYUX	Usarumpia Airstrip	PG
+AYUY	Kuyol Airport	PG
 AYUZ	Uvol Airport	PG
 AYVA	Vailala Airstrip	PG
 AYVB	Tobou Airstrip	PG
@@ -5974,11 +6075,16 @@ AYVM	Torembi Airport	PG
 AYVN	Vanimo Airport	PG
 AYVO	Tonu Airport	PG
 AYVP	Woposali Airstrip	PG
+AYVW	Wuvulu Island Airport	PG
 AYVY	Yembi Yembi Airstrip	PG
 AYWB	Wabo Airport	PG
+AYWC	Wantoat Airport	PG
 AYWD	Wapenamanda Airport	PG
 AYWE	Wangeto Airstrip	PG
 AYWF	Wawoi Falls Airport	PG
+AYWG	Wanigela Airport	PG
+AYWH	Wanuma Airport	PG
+AYWJ	Wapolu Airport	PG
 AYWK	Wewak International Airport	PG
 AYWL	Walagu Airstrip	PG
 AYWM	Wasengla Airstrip	PG
@@ -5996,6 +6102,8 @@ AYXB	Buluwo Airstrip	PG
 AYXE	Yeva Airport	PG
 AYXG	Sugu Airstrip	PG
 AYXI	Sim Airport	PG
+AYXO	Tol Airport	PG
+AYXP	Wipim Airport	PG
 AYXS	Sisamin Airstrip	PG
 AYXW	Weam Airport	PG
 AYXY	Yebil Airstrip	PG
@@ -6006,7 +6114,12 @@ AYYE	Yalumet Airport	PG
 AYYG	Yemin Airstrip	PG
 AYYI	Yili Airstrip	PG
 AYYJ	Yanungen Airstrip	PG
+AYYK	Yenkis(Yankisa) Airport	PG
+AYYL	Tinboli Airport	PG
+AYYM	Munbil Airport	PG
 AYYN	Yimnalem Airstrip	PG
+AYYO	Oram Airport	PG
+AYYP	Yapsiei Airport	PG
 AYYQ	Yagrombok Airstrip	PG
 AYYR	Yasuru Airport	PG
 AYYT	Mount Tauwa Airstrip	PG
@@ -6014,9 +6127,13 @@ AYYU	Mui Airstrip	PG
 AYYV	Yawa Airstrip	PG
 AYYW	Yawan Airstrip	PG
 AYYZ	Yambaitok	PG
+AYZA	Zenag Airport	PG
 AYZB	Sibilanga Airstrip	PG
+AYZI	Silur Airport	PG
 AYZM	Wasum Airport	PG
+AYZN	Sissano Airport	PG
 AYZQ	Sopise Airstrip	PG
+AYZS	Ossima Airport	PG
 AYZU	Oum Airstrip	PG
 AYZW	Siawi Airstrip	PG
 AYZY	Yilui Airstrip	PG
@@ -6026,7 +6143,6 @@ UBBH	Khachmaz Airport	AZ
 UBEI	Shaki Airport	AZ
 UBEN	Naftalan Airport	AZ
 UBEY	Agjabedi Airport	AZ
-UBBF	Fuzuli International Airport	AZ
 UBLL	Baku Lökbatan Airport	AZ
 UBBM	Hajigabul Kazı Magomed Airport	AZ
 AZ00	Morton Field Ultralight Flightpark	US
@@ -6069,13 +6185,9 @@ LQCG	Ciljuge Sport Airfield	BA
 LQBZ	Banja Luka Zalužani Airfield	BA
 LQKR	Kreševo Airstrip	BA
 LQGO	Gorice Airfield	BA
-AYBC	Bambu Airport	PG
-KBDH	Willmar Municipal Airport John L Rice Field (2006)	US
-AYBG	Baindoung Airport	PG
 DFEN	Peta Barabe Airfield	BF
 LBDM	Dve Mogili Airfield	BG
 LBBB	Belchinski Bani Airstrip	BG
-LBAM	Alfa-Metal Airfield	BG
 LBBL	Blagoevo Airfield	BG
 LBSE	Staro Selishte Airfield	BG
 LBDR	Draganovtsi Airfield	BG
@@ -6183,17 +6295,9 @@ BIVI	Vík Airport	IS
 BIVM	Vestmannaeyjar Airport	IS
 BIVO	Vopnafjörður Airport	IS
 BKPR	Priština Adem Jashari International Airport	XK
-AYBO	Bomai Airport	PG
 HKBM	Bamburi Airport	KE
-AYBF	Bamu Airport	PG
-AYBD	Bodinumu Airport	PG
-AYDI	Bundi Airport	PG
-SLRQ	Rurrenabaque Airport	BO
 SLCH	Carol Marghata Airport	BO
 SLBA	Baures Airport	BO
-KBOK	Brookings Airport	US
-AYET	Bosset Airport	PG
-AGBT	Batuna Aerodrome	SB
 SJAV	Aerocéu Aviação Agrícola Airport	BR
 SJ4Q	Fazenda Vale do Sol Airport	BR
 SDOX	Fazenda Água Fria Airfield	BR
@@ -7113,18 +7217,20 @@ SWLM	Fazenda Mustang II Airport	BR
 SIMP	Fazenda Triunfo Airport	BR
 SN92	Coopersantafé Airstrip	BR
 SWKH	Aldeia Rio Vermelho (Krénhêdjã) Airstrip	BR
-SWJA	Fazenda Aero – Amil Airport	BR
 SN63	Fazenda Campo Alegre Airstrip	BR
 SWYA	Fazenda Santa Helena Airport	BR
 SN37	Fazenda Conceição Airport	BR
+SJT4	Fazenda Branca - Xangrilá Airport	BR
+SNB3	Fazenda Maravilha Airport	BR
+SI8F	Fazenda Pau Brasil Airport	BR
+SWQQ	Fazenda Taquarussu Airstrip	BR
+SWNL	Fazenda São Sebastião Airport	BR
+SN99	Fazenda Nebraska Airstrip	BR
 SDWQ	Alenquer Municipal Airport	BR
 MYLM	Cape Santa Maria Airstrip	BS
 MYXX	Farmers Cay Airstrip	BS
-AYBH	Bensbach Airport	PG
 VTSY	Betong International Airport	TH
-AYBU	Bulolo Airport	PG
 64AR	Smith Field	US
-GVBR	Esperadinha Airport	CV
 FBMO	Motopi Airport	BW
 FBSG	Seronga Airport	BW
 FBLN	Linyanti Airport	BW
@@ -7135,8 +7241,6 @@ FBMB	Mombo Camp Airport	BW
 FBCT	Chitabe Airstrip	BW
 FBMA	Matsieng Airstrip	BW
 FBHK	Hukuntsi Airport	BW
-AYBI	Bewani Airport	PG
-AYNS	Bunsil Airport	PG
 UMIO	Orsha Airport - Balbasovo Air Base	BY
 UMWB	Borovtsy Air Base	BY
 UMMO	Osovtsy Air Base	BY
@@ -7159,7 +7263,6 @@ MZPB	Dangriga Airport	BZ
 MZSV	Independence Airport	BZ
 MZML	Melinda Airport	BZ
 MZAM	H.E Alfredo Martinez (Tower Hill) Airstrip	BZ
-MZPL	Placencia Airport	BZ
 MZPG	Punta Gorda Airport	BZ
 MZSJ	Sartaneja Airport	BZ
 MZSP	John Greif II Airport	BZ
@@ -7188,7 +7291,9 @@ C97	Lowell Airport	US
 KC98	Lake Village Airport	US
 CMX2	Maxville Airport	CA
 CYKS	Knutsford Airfield	CA
+CGB3	Greenbush Airport	CA
 CDT8	Delta Tango Field	CA
+CAS3	Kaskattama River Airstrip	CA
 CFN6	Primrose Airport	CA
 CHF4	Orono / Hawkefield Aerodrome	CA
 CYSV	Saglek Airport	CA
@@ -7224,6 +7329,7 @@ CBX3	Kleena Kleene (Chilanko Lodge) Airport	CA
 CST4	Stone Airport	CA
 CEU9	Sambaa K'e Airport	CA
 CDJ8	Django Field	CA
+CPE8	Paintearth (Fetaz) Airstrip	CA
 CA03	Flying M Airport	US
 CA04	Flying N Ranch Airport	US
 CA05	Machado Dusters Airport	US
@@ -7274,11 +7380,13 @@ CAD5	Merritt Airport	CA
 CAF2	Cayuga East Airport	CA
 CAF4	Tsuniah Lake Lodge Airport	CA
 CAG3	Chilko Lake (Tsylos Park Lodge) Airport	CA
+CAG4	Agro 1 Airstrip	CA
 CAH3	Courtenay Airpark	CA
 CAH4	Valemount Airport	CA
 CAJ2	Wiley Airport	CA
 CAJ3	Creston Valley Regional Airport - Art Sutcliffe Field	CA
 CAJ4	Anahim Lake Airport	CA
+CAJ5	PR Ajax Airfield	CA
 CAJ7	Cayley A J Flying Ranch Airport	CA
 CAJ9	Fort Ware Airport	CA
 CAK3	Delta Heritage Air Park	CA
@@ -7416,11 +7524,9 @@ CCZ3	Clarenville Airport	CA
 CCZ4	Margaree Airport	CA
 CCZ5	Thorburn Airport	CA
 FZNS	Wageni Airport	CD
-FZQC	Pweto Airport (New)	CD
 CD01	Lowe Airstrip	US
 CD02	Skyote Airport	US
 CD03	Tinnes Airport	US
-CD05	Jackson Airfield	US
 CD09	Yoder Airstrip	US
 CD10	Chapman Field	US
 CD13	Morris Airport	US
@@ -7453,7 +7559,6 @@ CDH3	Finlay Air Park	CA
 CDH6	Delhi Airport	CA
 CDJ4	Clearwater Airport	CA
 CDJ5	Strathmore (D.J. Murray) Airport	CA
-KCDK	George T Lewis Airport	US
 CDK2	Diavik Airport	CA
 CDL8	Centredale Airport	CA
 CDM3	Dimkovski Airpark	CA
@@ -7568,7 +7673,6 @@ CFG5	John D'Or Prairie Airport	CA
 CYFI	Fort Mackay / Firebag	CA
 CFH4	Fox Harbour Airport	CA
 CFH8	Warburg / Zajes Airport	CA
-CYWE	Wekweètì Airport	CA
 CFK2	Bashaw Airport	CA
 CFK4	Calling Lake Airport	CA
 CFK6	Olds (Netook) Airport	CA
@@ -7627,8 +7731,6 @@ CFY6	Turner Valley Bar N Ranch Airport	CA
 CFZ3	Schlenker Airport	CA
 CFZ5	Sundre / Goodwins Farm Airport	CA
 CGB2	Bishell's Airport	CA
-CGB3	Greenbush Airport	CA
-AYCG	Cape Gloucester Airport	PG
 CGF2	Edmonton / Lechelt Field	CA
 CGF6	Gilford	CA
 CGK2	Gahcho Kue	CA
@@ -7636,6 +7738,7 @@ CGL2	Harrow Airport	CA
 CGL4	Eaglesham (South) Airport	CA
 CGN3	Gunnlaugson Airport	CA
 CGR3	George Lake Aerodrome	CA
+CGR7	Graham Field	CA
 CGS2	Goose Lake Aerodrome	CA
 CGV2	Grand Valley / Luther Field	CA
 CGV5	Grand Valley (Black Field)	CA
@@ -7645,6 +7748,7 @@ CHC5	Hayes Camp Aerodrome	CA
 CHD4	Harydale Farms Airport	CA
 CHF2	Ottawa / Manotick (Hope Field)	CA
 CHF3	Hnatko Farms Airport	CA
+CHF5	Harkes Field	CA
 CHG2	Harbour Grace Airport	CA
 CHL2	Hillaton/Kings Aerodrome	CA
 CHM2	Spiritwood / H & M Fast Farms	CA
@@ -7907,31 +8011,14 @@ CMW3	Matawatchan Aerodrome	CA
 CMW4	Collins Field	CA
 CMZ2	Arthur (Metz Field)	CA
 ZBSN	Tangshan Sannühe Airport	CN
-ZPYM	Yuanmou Air Base	CN
 ZBLX	Liangxiangzhen Air Base	CN
-ZBZJ	Zhangjiakou Ningyuan Airport	CN
-ZPBS	Baoshan Yunrui Airport	CN
-ZUDZ	Dazu Air Base	CN
-ZPLC	Lincang Boshang Airport	CN
-ZURK	Xigaze Peace Airport / Shigatse Air Base	CN
-ZUZH	Panzhihua Bao'anying Airport	CN
 ZGCS	Changsha Datuopu Airport / Changsha Air Base	CN
-ZGFS	Foshan Shadi Airport	CN
 ZUBZ	Bazhong Enyang Airport	CN
-ZHXY	Xinyang Minggang Airport	CN
-ZGHZ	Huizhou Pingtan Airport	CN
 ZGSG	Shaoguan Danxia Airport	CN
 ZSGS	Jinggangshan Airport	CN
-ZGBS	Baise (Bose) Bama Airport	CN
 ZSLG	Lianyungang Huaguoshan International Airport	CN
-ZSDY	Dongying Shengli Airport	CN
-ZYXC	Xingcheng Air Base	CN
-ZWAT	Altay Xuedu Airport	CN
-ZLTS	Tianshui Maijishan Airport	CN
 ZWML	Uxxaktal Air Base	CN
-ZLZY	Zhangye Ganzhou Airport	CN
 ZBNY	Beijing Nanjiao Airport	CN
-ZYDD	Dandong Langtou Airport	CN
 ZYUH	Jinxi Air Base	CN
 ZYSY	Shenyang Yuhong Quansheng Airport	CN
 ZUDR	Rikaze Dingri Airport	CN
@@ -7946,7 +8033,6 @@ ZWHJ	Hejing Bayinbuluke Airport	CN
 ZWQT	Qitai Jiangbulake Airport	CN
 ZSLR	Lishui Airport (under construction)	CN
 ZSYH	Nanchang Yaohu Airport	CN
-ZSNT	Nantong Xingdong International Airport	CN
 CN12	Williams Gliderport	US
 CN13	Borges - Clarksburg Airport	US
 CN15	Vineyard Oaks Farm Airport	US
@@ -8001,9 +8087,7 @@ CNR4	Tobermory Airport	CA
 CNR6	Carleton Place Airport	CA
 CNR9	Arnstein Airport	CA
 CNS4	Alexandria Aerodrome	CA
-CYKP	Ogoki Post Airport	CA
 CNT6	Elmira Airport	CA
-CNT7	Picton Airport	CA
 CNU4	Belleville Aerodrome	CA
 CNU8	Toronto Markham Airport	CA
 CNV4	Hawkesbury Airport	CA
@@ -8018,8 +8102,6 @@ CNZ4	Madawaska Valley Airpark	CA
 CNZ8	Grimsby Regional Airport	CA
 SQFQ	Airport Hacienda Nápoles	CO
 SKHZ	Virgilio Barco Vargas (La Chorrera) Airport	CO
-SKRU	Las Cruces Airport	CO
-SKRA	Tarapacá Airport	CO
 CO00	Flagler Aerial Spraying Inc Airport	US
 CO02	Harrington Ranch Airport	US
 CO03	Aspen Gliderport	US
@@ -8063,6 +8145,7 @@ CO96	Reed Hollow Ranch Airport	US
 CO97	Comanche Springs Ranch Airport	US
 COB4	Orangeville / Brundle Field	CA
 COL2	Orangeville / Laurel Airstrip	CA
+COP5	Cooper Falls Airstrip	CA
 COR3	Orono Field	CA
 COR8	Orangeville/Rosehill Airfield	CA
 COS2	Iona Station (Bobier Strip)	CA
@@ -8118,7 +8201,6 @@ CPU3	Rodney (New Glasgow) Airport	CA
 CPU6	Tyendinaga Mohawk Airport	CA
 CPV2	Orangeville / Castlewood Field	CA
 CPV4	Mansfield Airport	CA
-CYHP	Poplar Hill Airport	CA
 CPV8	Keewaywin Airport	CA
 CPV9	Poverty Valley Airport	CA
 CPY9	Holyoake Airfield	CA
@@ -8154,6 +8236,7 @@ CRS3	Calgary / Christiansen Field	CA
 CRS4	Rosseau Airport	CA
 CRS7	Matoush Airport	CA
 CRT2	Rivière Témiscamie (Air Roberval) Airport	CA
+CRV3	Whistlewing Airstrip	CA
 CSA	Aerocampo CSA airport	AR
 CSA2	Lac Agile (Mascouche) Airport	CA
 CSB2	Sable Island Landing Strip	CA
@@ -8180,16 +8263,13 @@ CSH5	Saint-Ferdinand Airport	CA
 CSJ2	Kanawata Aeroparc Airport	CA
 CSJ4	Louiseville Airport	CA
 CSJ5	St-Louis-de-France Airport	CA
-CSK4	Mansonville Airport	CA
 CSK5	Paquet Airport	CA
-CSK6	Snap Lake Airport	CA
 CSL3	Lac-à-la-Tortue Airport	CA
 CSL5	Saint-Victor-de-Beauce Airport	CA
 CSL7	Odessa / Strawberry Lakes Airstrip	CA
 CSL9	Baie-Comeau (Manic 1) Airport	CA
 CSM3	Thetford Mines Airport	CA
 CSM5	Saint-Michel-des-Saints Aerodrome	CA
-CSN3	St-Jérôme Airport	CA
 CSN7	Farnham Airport	CA
 CSP3	Stony Plain (Stony Field) Airport	CA
 CSP5	St-Mathias Airport	CA
@@ -8266,13 +8346,13 @@ CTR6	St-Basile (Marcotte) Airport	CA
 CTT5	La Romaine Airport	CA
 CTU2	Fontanges Airport	CA
 CTU5	La Tabatière Airport	CA
+CTV4	Tavares Field	CA
 CTY4	Olds / North 40 Ranch Airstrip	CA
 CTY5	Rougemont Airport	CA
 MUGV	Guardalavaca Airport	CU
 CVB2	Voisey's Bay Airport	CA
 CVF2	Vodarek Field	CA
 CVF3	Bethany / Whitetail Valley Farm Airfield	CA
-KCVH	Hollister Municipal Airport	US
 CVL3	Camden East / Varty Lake Airport	CA
 CVM2	Victor Mine Airport	CA
 CVS2	Viking (South) Airport	CA
@@ -8283,9 +8363,9 @@ CWJC	Ennadai Lake Airport	CA
 CWL3	Calmar/Wizard Lake Airport	CA
 CWL4	Kendall Farm Airport	CA
 CWOB	Brevoort Island Airstrip	CA
+CWP5	Walkers Point Airstrip	CA
 CWR2	Wild Rose Airport	CA
 CXC	Chitina Airport	US
-LCGK	Lefkoniko Airport / Geçitkale Air Base	CY
 LCRE	Kingsfield Air Base	CY
 CYAB	Arctic Bay Airport	CA
 CYAC	Cat Lake Airport	CA
@@ -8400,10 +8480,11 @@ CYHK	Gjoa Haven Airport	CA
 CYHM	John C. Munro Hamilton International Airport	CA
 CYHN	Hornepayne Municipal Airport	CA
 CYHO	Hopedale Airport	CA
+CYHP	Poplar Hill Airport	CA
 CYHR	Chevery Airport	CA
 CYHS	Hanover / Saugeen Municipal Airport	CA
 CYHT	Haines Junction Airport	CA
-CYHU	Montréal / Saint-Hubert Airport	CA
+CYHU	Montréal / Saint-Hubert Metropolitan Airport	CA
 CYHY	Hay River / Merlyn Carter Airport	CA
 CYHZ	Halifax / Stanfield International Airport	CA
 CYIB	Atikokan Municipal Airport	CA
@@ -8428,6 +8509,7 @@ CYKJ	Key Lake Airport	CA
 CYKL	Schefferville Airport	CA
 CYKM	Kincardine Municipal Airport	CA
 CYKO	Akulivik Airport	CA
+CYKP	Ogoki Post Airport	CA
 CYKQ	Waskaganish Airport	CA
 CYKT	Tranquille Valley Airfield	CA
 CYKX	Kirkland Lake Airport	CA
@@ -8583,6 +8665,7 @@ CYVT	Buffalo Narrows Airport	CA
 CYVV	Wiarton Airport	CA
 CYVZ	Deer Lake Airport	CA
 CYWA	Petawawa Airport	CA
+CYWE	Wekweètì Airport	CA
 CYWG	Winnipeg / James Armstrong Richardson International Airport	CA
 CYWJ	Déline Airport	CA
 CYWK	Wabush Airport	CA
@@ -8663,7 +8746,6 @@ CZHP	High Prairie Airport	CA
 MPCJ	Corazón de Jesús Airport	PA
 CZJG	Jenpeg Airport	CA
 CZJN	Swan River Airport	CA
-KCZK	Cascade Locks State Airport	US
 CZKE	Kashechewan Airport	CA
 CZLQ	Thicket Portage Airport	CA
 CZMD	Muskrat Dam Airport	CA
@@ -8781,8 +8863,6 @@ DBBO	Porga Airport	BJ
 DBBP	Parakou Airport	BJ
 DBBR	Bembereke Airport	BJ
 DBBS	Savé Airport	BJ
-ZYBA	Baicheng Chang'an Airport	CN
-AYDB	Debepare Airport	PG
 PODC	Dahl Creek Airport	US
 PADT	Duffys Tavern Airport	US
 EDES	August Euler Airfield	DE
@@ -8817,7 +8897,6 @@ DE25	Eagle Crest-Hudson Airport	US
 DE29	Scotty's Place Airport	US
 DE32	Belfair Airport	US
 DE34	Townsend A Airport	US
-AYDE	Derim Airport	PG
 WAVD	Nop Goliat Dekai Airport	ID
 DFCA	Kaya Airport	BF
 DFCB	Barsalogho Airport	BF
@@ -8932,6 +9011,7 @@ DNDS	Dutse International Airport	NG
 DNEN	Akanu Ibiam International Airport	NG
 DNFB	Finima Bonny Airport	NG
 DNFD	Forçados Terminal Airport	NG
+DNGO	Gombe Lawanti International Airport	NG
 DNGU	Gusau Airport	NG
 DNIB	Ibadan Airport	NG
 DNIL	Ilorin International Airport	NG
@@ -8947,11 +9027,10 @@ DNMN	Minna Airport	NG
 DNOS	Oshogbo Airport	NG
 DNPO	Port Harcourt International Airport	NG
 DNSO	Sadiq Abubakar III International Airport	NG
+DNSU	Warri Airport	NG
 DNYO	Yola Airport	NG
 DNZA	Zaria Airport	NG
-AYDR	Dorobisoro Airport	PG
 UEBD	Deputatskiy Airport	RU
-ZYDQ	Daqing Sartu Airport	CN
 DRRA	Tessaoua Airport	NE
 DRRC	Dogondoutchi Airport	NE
 DRRD	Dosso Airport	NE
@@ -8989,7 +9068,6 @@ DTTJ	Djerba Zarzis International Airport	TN
 DTTR	El Borma Airport	TN
 DTTX	Sfax Thyna International Airport	TN
 DTTZ	Tozeur Nefta International Airport	TN
-OADY	Dwyer Airport	AF
 DXAK	Akpaka Airport	TG
 DXDP	Djangou Airport	TG
 DXKP	Kolokope Airport	TG
@@ -8997,7 +9075,6 @@ DXMG	Sansanné-Mango Airport	TG
 DXNG	Niamtougou International Airport	TG
 DXSK	Sokodé Airport	TG
 DXXX	Lomé–Tokoin International Airport	TG
-ZUDA	Dazhou Jinya Airport	CN
 18T	Tatum Airport	US
 E32	Lindrith Airpark	US
 E36	Georgetown Airport	US
@@ -9227,7 +9304,7 @@ EDGX	Walldorf Airfield	DE
 EDGZ	Weinheim/Bergstraße Airfield	DE
 EDHB	Grube Airfield	DE
 EDHC	Lüchow-Rehbeck Airfield	DE
-EDHD	Heilbad Heiligenstadt Airfield	DE
+EDHD	Eichsfeld Airfield	DE
 EDHE	Uetersen-Heist Airfield	DE
 EDHF	Itzehoe Hungriger Wolf Airfield	DE
 EDHG	Lüneburg Airfield	DE
@@ -9427,7 +9504,7 @@ EDSL	Blumberg Airfield	DE
 EDSN	Neuhausen ob Eck Airfield	DE
 EDSO	Gruibingen-Nortel Airfield	DE
 EDSP	Poltringen Airfield	DE
-EDSR	RADOLFZELL-STAHRINGEN Airfield	DE
+EDSR	Radolfzell-Stahlringen Airfield	DE
 EDST	Hahnweide Airfield	DE
 EDSW	Altdorf-Wallburg Airfield	DE
 EDSX	Völkleshofen-Lichtenberg Airfield	DE
@@ -9555,7 +9632,6 @@ EFAL	Alavus Airfield	FI
 EFET	Enontekio Airport	FI
 EFEU	Eura Airfield	FI
 EFFO	Forssa Airfield	FI
-AYEF	Efogi Airport	PG
 EFGE	Genböle Airfield UL	FI
 EFHA	Halli Airport	FI
 EFHK	Helsinki Vantaa Airport	FI
@@ -9684,6 +9760,7 @@ EGEC	Campbeltown Airport	GB
 EGED	Eday Airport	GB
 EGEF	Fair Isle Airport	GB
 EGEH	Whalsay Airstrip	GB
+EGEI	Broadford Airstrip	GB
 EGEL	Coll Airport	GB
 EGEN	North Ronaldsay Airport	GB
 EGEO	Oban Airport	GB
@@ -9694,6 +9771,7 @@ EGET	Lerwick / Tingwall Airport	GB
 EGEW	Westray Airport	GB
 EGEY	Colonsay Airstrip	GB
 EGFA	Aberporth Airport	GB
+EGFD	Llanbedr Airfield	GB
 EGFE	Haverfordwest Airport	GB
 EGFF	Cardiff International Airport	GB
 EGFH	Swansea Airport	GB
@@ -9763,7 +9841,6 @@ EGNV	Teesside International Airport	GB
 EGNW	Wickenby Aerodrome	GB
 EGNX	East Midlands Airport	GB
 EGNY	Beverley/Linley Hill Airfield	GB
-EGFD	Llanbedr Airfield	GB
 EGOE	Tern Hill Airfield	GB
 EGOM	RAF Spadeadam	GB
 EGOQ	RAF Mona	GB
@@ -9873,7 +9950,6 @@ EHTE	Teuge Airport	NL
 EHTL	Terlet Glidersite	NL
 EHTW	Twente Airport	NL
 EHTX	Texel International Airport	NL
-ZHEC	Ezhou Huahu Airport	CN
 EHVK	Volkel Air Base	NL
 EHWO	Woensdrecht Air Base	NL
 EIAB	Abbeyshrule Aerodrome	IE
@@ -9911,7 +9987,7 @@ EISP	Spanish Point Airfield	IE
 EISS	Ballyhavil Farm Airfield	IE
 EITM	Trim Aerodrome	IE
 EIWF	Waterford Airport	IE
-EIWT	Weston Airfield	IE
+EIWT	Weston Airport	IE
 ZBEN	Ejin Banner Taolai Airport	CN
 EKAE	Ærø Airfield	DK
 EKAH	Aarhus Airport	DK
@@ -10066,7 +10142,6 @@ EPBK	Białystok-Krywlany Airfield	PL
 EPBY	Bydgoszcz Ignacy Jan Paderewski Airport	PL
 EPCD	Depułtycze Królewskie Airfield	PL
 EPCE	Cewice Naval Air Base	PL
-EPRU	Częstochowa-Rudniki Airport	PL
 EPDA	Darłówo Naval Air Base	PL
 EPDE	Deblin Military Air Base	PL
 EPDK	Debowa Klada Airfield	PL
@@ -10138,12 +10213,13 @@ EPRG	Rybnik-Gotartowice Glider Field	PL
 EPRJ	Rzeszów Sports Airfield	PL
 EPRP	Radom-Piastrów Airfield	PL
 EPRS	Sochaczew-Rybno	PL
+EPRU	Częstochowa-Rudniki Airport	PL
 EPRZ	Rzeszów-Jasionka Airport	PL
 EPSC	Solidarity Szczecin–Goleniów Airport	PL
 EPSD	Szczecin-Dąbie Airfield	PL
 EPSJ	Sobienie Field	PL
-EPSN	Swidwin Military Air Base	PL
 EPSK	Słupsk-Krȩpa Airfield	PL
+EPSN	Swidwin Military Air Base	PL
 EPSS	Świdnica - Krzczonów Airstrip	PL
 EPST	Stalowa Wola-Turbia Airfield	PL
 EPSU	Suwałki Airfield	PL
@@ -10159,12 +10235,13 @@ EPWS	Wrocław-Szymanów Airfield	PL
 EPZA	Zamość-Mokre Airfield	PL
 EPZB	Zborowo Airfield	PL
 EPZG	Zielona Góra-Babimost Airport	PL
+EPZI	Zieleń Airfield	PL
 EPZK	Konopnica Airfield	PL
+EPZL	Zdziar-Lopatki Airfield	PL
 EPZP	Zielona Góra-Przylep Airfield	PL
 EPZR	Żar Airfield	PL
 LETJ	Trebujena Airfield	ES
 LESI	Rosinos de la Requejada Airfield	ES
-LERP	Aeródromo de Herrera de Pisuerga	ES
 LENF	Monforte Airfield	ES
 LETU	Campo de Aviación de Ablitas	ES
 LPFC	Aerodromo de Figueira dos Cavaleiros	PT
@@ -10345,7 +10422,6 @@ ESVK	Katrineholm Airfield	SE
 ESVM	Skinnlanda Airfield	SE
 ESVQ	Köping/Gålby flygfält	SE
 ESVS	Siljansnäs Air Park	SE
-HADC	Kombolcha Airport	ET
 HAGL	Geladi Airport	ET
 HASR	Shire Inda Selassie Airport	ET
 ETAD	Spangdahlem Air Base	DE
@@ -10383,7 +10459,6 @@ ETSN	Neuburg Air Base	DE
 ETWM	Meppen Air Base	DE
 EVAD	Ādaži Airfield	LV
 EVLI	Langaci-Limbaži Airfield	LV
-EVDA	Daugavpils International Airport	LV
 EVGA	Lielvarde Air Base	LV
 EVIA	Cīrava Airfield	LV
 EVKA	Jēkabpils Air Base	LV
@@ -10644,6 +10719,7 @@ FAMJ	Majuba Power Station Airport	ZA
 FAMK	Mafeking Airport	ZA
 FAML	Manyani Game Lodge Airport	ZA
 FAMM	Mmabatho International Airport	ZA
+FAMN	Malelane Airport	ZA
 FAMO	Mossel Bay Airport	ZA
 FAMP	Madimbo Airport	ZA
 FAMQ	Maclear Airport	ZA
@@ -10745,6 +10821,7 @@ FAUH	Uitenhage Airport	ZA
 FAUL	Prince Mangosuthu Buthelezi Airport	ZA
 FAUP	Pierre Van Ryneveld Airport	ZA
 FAUR	Utrecht Airport	ZA
+FAUS	Ulusaba Airport	ZA
 FAUT	K. D. Matanzima Airport	ZA
 FAVA	Vaalputs Airport	ZA
 FAVB	Vryburg Airport	ZA
@@ -11004,8 +11081,6 @@ FHAW	RAF Ascension Island	SH
 FHSH	Saint Helena Airport	SH
 FIMP	Sir Seewoosagur Ramgoolam International Airport	MU
 FIMR	Sir Charles Gaetan Duval Airport	MU
-AYFI	Finschhafen Airport	PG
-NFND	Nanuku Airport	FJ
 FJDG	Diego Garcia Naval Support Facility	IO
 FKAB	Banyo Airport	CM
 FKAF	Bafia Airport	CM
@@ -11061,7 +11136,6 @@ FL48	Sierra Airpark	US
 FL50	Rossi Field	US
 FL52	Angel's Field	US
 FL54	Flying Tiger Field	US
-FL57	Carter Airport	US
 FL58	Johary Airport	US
 FL59	Buckingham Field	US
 FL60	Reynolds Airpark	US
@@ -11174,6 +11248,7 @@ FMCV	Ouani Airport	KM
 FMCZ	Dzaoudzi Pamandzi International Airport	YT
 FMEE	Roland Garros Airport	RE
 FMEP	Pierrefonds Airport	RE
+FMFE	Ambohibary Airport	MG
 FMMA	Antananarivo Arivonimamo Airport	MG
 FMMC	Malaimbandy Airport	MG
 FMME	Antsirabe Airport	MG
@@ -11242,6 +11317,7 @@ FN19	Cabo Ledo Air Base	AO
 FNAM	Ambriz Airport	AO
 FNBC	Mbanza Congo Airport	AO
 FNBG	Benguela 17th of September Airport	AO
+FNBJ	Dr. Antonio Agostinho Neto International Airport	AO
 FNBL	Lumbala Airport	AO
 FNCA	Cabinda Airport	AO
 FNCB	Camembe Airport	AO
@@ -11249,13 +11325,13 @@ FNCC	Cacolo Airport	AO
 FNCF	Cafunfo Airport	AO
 FNCH	Chitato Airport	AO
 FNCM	Camabatela Airport	AO
+FNCP	Capanda Airport	AO
 FNCT	Catumbela Airport	AO
 FNCV	Cuito Cuanavale Airport	AO
 FNCX	Camaxilo Airport	AO
 FNCZ	Cazombo Airport	AO
 FNDB	Damba Airport	AO
 FNDU	Dundo Airport	AO
-AYFA	Fane Airport	PG
 FNGI	Ngjiva Pereira Airport	AO
 FNHU	Nova Lisboa Airport	AO
 FNKU	Kuito Airport	AO
@@ -11282,6 +11358,7 @@ FNWK	Waco Kungo Airport	AO
 FNXA	Xangongo Airport	AO
 FNZE	N'zeto Airport	AO
 FNZG	Nzagi Airport	AO
+FOGA	Akieni Airport	GA
 FOGB	Booue Airport	GA
 FOGE	Ndende Airport	GA
 FOGF	Fougamou Airport	GA
@@ -11294,6 +11371,7 @@ FOGO	Oyem Airport	GA
 FOGQ	Okondja Airport	GA
 FOGR	Lambarene Airport	GA
 FOGV	Minvoul Airport	GA
+FOGW	Alowe Airport	GA
 FOOB	Bitam Airport	GA
 FOOD	Moanda Airport	GA
 FOOE	Mekambo Airport	GA
@@ -11318,6 +11396,7 @@ FQCB	Cuamba Airport	MZ
 FQCH	Chimoio Airport	MZ
 FQFU	Furancungo Airport	MZ
 FQIA	Inhaca Airport	MZ
+FQIB	Ibo Airport	MZ
 FQIN	Inhambane Airport	MZ
 FQLC	Lichinga Airport	MZ
 FQLU	Lumbo Airport	MZ
@@ -11337,7 +11416,7 @@ FQVL	Vilankulo Airport	MZ
 FQXA	Xai-Xai Chongoene Airport	MZ
 LFNN	Narbonne Airfield	FR
 LFKR	Saint-Rémy-de-Maurienne Airfield	FR
-LFKK	Chateau de Montmeilleur	FR
+LFKK	Château de Montmeilleur Airfield	FR
 FSAL	Alphonse Airport	SC
 FSAS	Assumption Island Airport	SC
 FSDA	D'Arros Island Airport	SC
@@ -11571,6 +11650,7 @@ FYML	Mariental Airport	NA
 FYMO	Mokuti Lodge Airport	NA
 FYMW	Moewe Bay Airport	NA
 FYNA	Namutoni Airport	NA
+FYNG	Ongava Lodge Airstrip	NA
 FYOA	Ondangwa Airport	NA
 FYOE	Omega Airport	NA
 FYOG	Oranjemund Airport	NA
@@ -11771,6 +11851,7 @@ FZOT	Phibraki Airport	CD
 FZPB	Kamituga Airport	CD
 FZPC	Lugushwa Airport	CD
 FZQA	Lubumbashi International Airport	CD
+FZQC	Pweto Airport	CD
 FZQD	Mulungwishi Airport	CD
 FZQF	Fungurume Airport	CD
 FZQG	Kasenga Airport	CD
@@ -11843,7 +11924,6 @@ FZWL	Munkamba Airport	CD
 FZWS	Lubao Airport	CD
 FZWT	Tunta Airport	CD
 G05	Finleyville Airpark	US
-FOGA	Akieni Airport	GA
 FOGX	Gamba Airport	GA
 GA00	Kintail Farm Airport	US
 GA03	Wilson Airport	US
@@ -11896,7 +11976,6 @@ GA95	Coleman Field	US
 GA98	Grayhill Airport	US
 GA99	Miami Valley Farm Airport	US
 GAAO	Ansongo Airport	ML
-KGAB	Gabbs Airport	US
 GABD	Bandiagara Airport	ML
 GABF	Bafoulabé Airport	ML
 GABG	Bougouni Airport	ML
@@ -11923,7 +12002,6 @@ GASO	Dignangan Airport	ML
 GATB	Timbuktu Airport	ML
 GATS	Tessalit Airport	ML
 GAYE	Yélimané Airport	ML
-AYGJ	Guasopa Airport	PG
 EGTN	Enstone Aerodrome	GB
 EGCR	Ashcroft Airfield	GB
 EGEJ	Gigha Airfield	GB
@@ -11960,11 +12038,9 @@ GE61	Brownstone Airpark	US
 GE72	Hannah Creek Airport	US
 GE99	Heaven's Landing Airport	US
 GEML	Melilla Airport	ES
-AYGC	Gewoia Airport	PG
 SOOK	Kourou Airport	GF
 SOOC	Camopi Airport	GF
 GFBO	Bo Airport	SL
-KGFD	Pope Field	US
 GFGK	Gbangbatok Airport	SL
 GFHA	Hastings Airport	SL
 GFKB	Kabala Airport	SL
@@ -11985,7 +12061,6 @@ GLGE	Greenville/Sinoe Airport	LR
 GLLB	Lamco Airport	LR
 GLMR	Spriggs Payne Airport	LR
 GLNA	Nimba Airport	LR
-AYUP	Gulgubip Airport	PG
 GLRB	Roberts International Airport	LR
 GLST	Sasstown Airport	LR
 GLTN	Tchien Airport	LR
@@ -11993,6 +12068,7 @@ GLVA	Voinjama Airport	LR
 GMAA	Inezgane Airport	MA
 GMAD	Al Massira Airport	MA
 GMAT	Tan Tan Airport	MA
+GMAZ	Zagora Airport	MA
 GMFA	Ouezzane Airport	MA
 GMFB	Bouarfa Airport	MA
 GMFF	Fes Saïss International Airport	MA
@@ -12015,7 +12091,6 @@ GMMW	Nador Al Aaroui International Airport	MA
 GMMX	Menara Airport	MA
 GMMP	Kenitra Air Base	MA
 GMMZ	Ouarzazate Airport	MA
-ZLGL	Golog Maqên Airport	CN
 GMSL	Sidi Slimane Airport	MA
 GMTA	Cherif Al Idrissi Airport	MA
 GMTN	Sania Ramel Airport	MA
@@ -12023,7 +12098,6 @@ GMTT	Tangier Ibn Battuta Airport	MA
 GNU	Goodnews Airport	US
 GO66	Dodji Airport	SN
 GOBD	Blaise Diagne International Airport	SN
-AYGX	Gora Airstrip	PG
 GOGK	Kolda/Sare Bidji Airport	SN
 GOGG	Ziguinchor Airport	SN
 GOGS	Cap Skirring Airport	SN
@@ -12060,7 +12134,6 @@ GQPP	Nouadhibou International Airport	MR
 GQPT	Bir Moghrein Airport	MR
 GQPZ	Tazadit Airport	MR
 LGNA	Silata Airfield	GR
-PAGZ	Granite Mountain Air Station	US
 MGCQ	Chiquimula Airport	GT
 MGDL	Dos Lagunas Airport	GT
 MGPC	Paso Caballos Airport	GT
@@ -12068,8 +12141,6 @@ MGUX	Uaxactun Airport	GT
 MGCA	Canilla Airport	GT
 MGCS	Chisec Airport	GT
 MGCP	Champerico Airport	GT
-MGPG	Playa Grande Airport	GT
-HTGR	Kirawira B Aerodrome	TZ
 GUBE	Beyla Airport	GN
 GUCY	Conakry International Airport	GN
 GUFA	Fria Airport	GN
@@ -12088,7 +12159,7 @@ GUXD	Kankan Airport	GN
 GVAC	Amílcar Cabral International Airport	CV
 GVAN	Agostinho Neto Airport	CV
 GVBA	Rabil Airport	CV
-KGVE	Gordonsville Municipal Airport	US
+GVBR	Esperadinha Airport	CV
 GVMA	Maio Airport	CV
 GVMT	Mosteiros Airport	CV
 GVNP	Nelson Mandela International Airport	CV
@@ -12099,9 +12170,6 @@ SYHC	Krishna Sankar Airport	GY
 SYBE	Bemichi Airport	GY
 SMBO	Botopasi Airport	SR
 SMDJ	Djumu-Djomoe Airport	SR
-SMDO	Ladouanie Airport	SR
-SMWS	Washabo Airport	SR
-OAGN	Ghazni Airport	AF
 H07	Highland-Winet Airport	US
 H27	Gainesville Memorial Airport	US
 H47	Hyampom Airport	US
@@ -12120,6 +12188,7 @@ HABC	Baco Airport	ET
 HABD	Bahir Dar Airport	ET
 HABE	Beica Airport	ET
 KHAD	Harford Field	US
+HADC	Kombolcha Airport	ET
 HADD	Dembidollo Airport	ET
 HADM	Debre Markos Airport	ET
 HADO	Dodola Airport	ET
@@ -12155,6 +12224,7 @@ HAPW	Beles Airport	ET
 HASD	Soddu Airport	ET
 HASH	Sheikh Hussein Airport	ET
 HASK	Shakiso Airport	ET
+HASL	Shilavo Airport	ET
 HASM	Semera Airport	ET
 HASO	Asosa Airport	ET
 HATP	Tippi Airport	ET
@@ -12163,7 +12233,6 @@ HBBA	Bujumbura Melchior Ndadaye International Airport	BI
 HBBE	Gitega Airport	BI
 HBBK	Gihohi Airport	BI
 HBBO	Kirundo Airport	BI
-ZLHB	Haibei Qilian Airport	CN
 HCDM	Dusomareb Airport	SO
 HCMA	Caluula Airport	SO
 HCMB	Baidoa Airport	SO
@@ -12248,8 +12317,6 @@ HI32	Pepeekeo Airstrip	US
 HI33	Haiku Airstrip	US
 HI46	HI 23 (Puhi) Airstrip	US
 HI49	Panda Airport	US
-ZSSH	Huai'an Lianshui International Airport	CN
-HASL	Shilavo Airport	ET
 HJJJ	Juba International Airport	SS
 HJKJ	Kawjok Airport	SS
 HJKR	Kuron Airstrip	SS
@@ -12292,10 +12359,11 @@ HKMU	Makindu Airport	KE
 HKMY	Moyale Airport	KE
 HKNI	Nyeri Airport	KE
 HKNK	Nakuru Airport	KE
+HKNL	Nanyuki Airport	KE
 HKNO	Narok Airport	KE
 HKNV	Naivasha Airport	KE
 HKNW	Nairobi Wilson Airport	KE
-HKNL	Nanyuki Airport	KE
+HKNY	Laikipia Air Base	KE
 HKRE	Moi Air Base	KE
 HKSB	Samburu Airport	KE
 HKTW	Tawi airfield	KE
@@ -12338,6 +12406,7 @@ HLLM	Mitiga International Airport	LY
 HLLQ	Al Abraq International Airport	LY
 HLLS	Sabha Airport	LY
 HLMB	Marsa al Brega Airport	LY
+HLMS	Misrata International Airport	LY
 HLNF	Ras Lanuf Airport	LY
 HLNR	Nafurah 1 Airport	LY
 HLON	Hon Airport	LY
@@ -12349,6 +12418,7 @@ HLSB	Sabah Airport	LY
 HLSH	Sahil Airport	LY
 HLTD	Ghadames East Airport	LY
 HLTQ	Tobruk International Airport	LY
+HLUB	Ubari Airport	LY
 HLWA	Warehouse 59A Airport	LY
 HLWF	Wafa Airport	LY
 HLZA	Zella 74 Airport	LY
@@ -12428,6 +12498,7 @@ HTDA	Julius Nyerere International Airport	TZ
 HTDO	Dodoma Airport	TZ
 HTEN	Endulen Airport	TZ
 HTGE	Chato/Geita Airport	TZ
+HTGR	Kirawira B Aerodrome	TZ
 HTGW	Songwe Airport	TZ
 HTIR	Iringa Airport	TZ
 HTIY	Inyonga Airport	TZ
@@ -12444,7 +12515,6 @@ HTLD	Loliondo Airport	TZ
 HTLI	Lindi Airport	TZ
 HTLL	Liuli Airport	TZ
 HTLM	Lake Manyara Airport	TZ
-ZMHG	Khatgal Airport	MN
 HTMA	Mafia Airport	TZ
 HTMB	Mbeya Airport	TZ
 HTMD	Mwadui Airport	TZ
@@ -12502,7 +12572,7 @@ LHAK	Atkár Airfield	HU
 LHTP	Tapolca Airfield	HU
 LHHK	Hajmáskér Airfield	HU
 LHIN	Inárcs Airfield	HU
-LHKF	Kiskunhalas-Füzespuszta	HU
+LHKF	Kiskunhalas-Füzespuszta Airfield	HU
 LHPW	Pusztaszer West Airfield	HU
 LHJT	Földes Airfield	HU
 HUAJ	Adjumani Airport	UG
@@ -12510,11 +12580,11 @@ HUAR	Arua Airport	UG
 HUBU	Bundibugyo Airport	UG
 HUEN	Entebbe International Airport	UG
 HUFP	Fort Portal Airport	UG
+HUGG	Bugungu Airport	UG
 HUGU	Gulu Airport	UG
 HUJI	Jinja Airport	UG
 HUKB	Kabale Airport	UG
 HUKD	Kidepo Airport	UG
-HUPA	Kabalega Falls Airport	UG
 HUKJ	Kajjansi Airfield	UG
 HUKK	Kakira Airport	UG
 HUKO	Kotido Airport	UG
@@ -12525,10 +12595,9 @@ HUMA	Mbarara Airport	UG
 HUMI	Masindi Airport	UG
 HUMO	Moroto Airport	UG
 HUMW	Mweya Airport	UG
-HUGG	Bugungu Airport	UG
+HUPA	Kabalega Falls Airport	UG
 HUSO	Soroti Airport	UG
 HUTO	Tororo Airport	UG
-AYHU	Hawabango Airport	PG
 I08	Cabin Creek US Forest Service Airport	US
 KGDK	Greene County/Lewis A. Jackson Regional Airport	US
 I27	Elkader Airport	US
@@ -12573,10 +12642,8 @@ IA85	Tuinstra Airfield	US
 IA86	Hedgewood Landing Airport	US
 PABN	Devils Mountain Lodge Airport	US
 WIHG	Pulau Panjang Airport	ID
-WARE	Notohadinegoro Airport	ID
-WADY	Banyuwangi International Airport	ID
 WIMO	Lasondre Airport	ID
-WADE	Lt. Col. Wisnu Airfield	ID
+WADE	Lieutenant Colonel Wisnu Airfield	ID
 WAVO	Beoga Airport	ID
 WAJY	Borme Airstrip	ID
 WX53	Bugalaga Airstrip	ID
@@ -12586,7 +12653,6 @@ WAYN	Jita Airstrip	ID
 WAGA	Kuala Kurun Airport	ID
 WAFK	Onondowa/Rampi Airport	ID
 WAYS	Pogapa Airstrip	ID
-WARW	Bawean - Harun Thohir Airport	ID
 WIGE	Enggano Airport	ID
 WRMJ	Yaosakor Airstrip	ID
 WAEH	Weda Bay Airport	ID
@@ -12595,7 +12661,6 @@ WAKY	Korowai Batu Danowage Airport	ID
 WIMG	Blangkejeren Airport	ID
 WAJT	Manggelum Airport	ID
 WAEB	North Halmahera / Marimoi Airport	ID
-WAWP	Sangia Nibandera Airport	ID
 WARD	Dhoho International Airport	ID
 WAPN	Namniwel Airport	ID
 WIOS	Tebelian Airport	ID
@@ -12606,27 +12671,15 @@ WALK	Nusantara Airport (under construction)	ID
 WAVR	Apalapsili Airport	ID
 WAUA	Anggi Airport	ID
 WILM	Gunung Batin Airport	ID
-WASA	Ayawasi Airport	ID
-WAJG	Batom Airport	ID
-WAJC	Dabra Airport	ID
 WAVE	Elelim Airport	ID
 WAVC	Ilu Airport	ID
-WABK	Karubaga Airport	ID
-WASU	Kambuaya Airport	ID
-WAKM	Kamur Airport	ID
 WIJI	Departi Parbo Airport	ID
 WAJV	Kelila Airport	ID
-WATW	Lembata Wonopito Airport	ID
-WADU	Lunyuk Airport	ID
 WAYO	Obano Airport	ID
 WAWA	Pomala Airport	ID
-WAHP	Jenderal Besar Soedirman Airport	ID
-WAWR	Sugimanuru Airport	ID
 WIEB	Mentawai Airport	ID
-WAOW	Tumbang Samba Airport	ID
 WABH	Tiom Airport	ID
 WARP	Pagerungan Airport	ID
-WAKQ	Senggo Airport	ID
 WAYB	Bilogai-Sugapa Airport	ID
 ID00	Hubler Field	US
 ID01	CX Ranch Number 1 Airport	US
@@ -12680,8 +12733,8 @@ I92	Reed Ranch Airport	US
 ID94	White Pine Flats Ranch LLC Airport	US
 ID95	Summit Ridge Ranch Airstrip	US
 ID96	Bear Air Airport	US
-AYID	Indagen Airport	PG
 EIIF	ILAS Wexford Airfield	IE
+EIRE	Abbeyfeale Airfield	IE
 EITB	Tibohine Airfield	IE
 IG03	Bluebird Airport	US
 IG04	Litzinger Ultralightport	US
@@ -12716,9 +12769,7 @@ II38	Sherk Field	US
 II40	Hopkins Farms Airport	US
 II42	Creekside Farm Airport	US
 II43	C. V. Airport	US
-II45	Renshaw Airport	US
 II49	Foertsch Airport	US
-II50	Jack Oak Airport	US
 II51	Hull Airport	US
 II52	Haffner Airport	US
 II54	Giltner Airport	US
@@ -12744,7 +12795,6 @@ II85	Blomenberg Airport	US
 II86	Poole Airport	US
 II87	Twelve Oaks Airport	US
 II89	Lockyear Airport	US
-II90	Crawford Field	US
 II91	Dunbar Field	US
 II93	Bronson Airport	US
 II94	Irion Airport	US
@@ -12797,19 +12847,13 @@ VAAV	Aamby Valley Airport	IN
 VODX	INS Kohassa	IN
 VAKD	Khandwa Airport	IN
 VESL	Sultanpur Airport	IN
-VOJV	Jindal Vijaynagar Airport	IN
 VEBL	Barbil Tonto Airstrip	IN
 VAJO	Fury Airport	IN
-VEDO	Deoghar Airport	IN
-VOGA	Manohar International Airport	IN
 VOSH	Rashtrakavi Kuvempu Airport	IN
 VETU	Tuting Advanced Landing Ground	IN
 VEHO	Itanagar Donyi Polo Hollongi Airport	IN
 VEJR	Jagdalpur Airport	IN
-VONV	Neyveli Airport	IN
-VETJ	Tezu Airport	IN
 VA38	Sirohi Airport	IN
-VAJL	Jalgaon Airport	IN
 IN00	Sutton Airport	US
 IN01	Kephart Field Airport	US
 IN03	Alford Airpark	US
@@ -12868,7 +12912,6 @@ KQMG	Mudaysis Air Base	IQ
 ORQT	Qasr Tall Mihl Airport	IQ
 ORTK	Tikrit East Airport	IQ
 ORTS	Tikrit South Airport	IQ
-OITH	Khaneh Airport	IR
 OIMK	Birjand/Khor Airport	IR
 OIMQ	Kashmar Ultralight Airport	IR
 OIIF	Fath Airport	IR
@@ -12927,13 +12970,8 @@ LIVS	Skydive Venice Airfield	IT
 LIQQ	Serristori Airfield	IT
 AYIK	Itokama Airport	PG
 JB01	Clearwater Aero Estates Airport	US
-ZYJD	Daxing'anling Elunchun Airport	CN
-ZLJC	Jinchang Jinchuan Airport	CN
 WAPM	Jos Orno Imsula Airport	ID
-ZUQJ	Qianjiang Wulingshan Airport	CN
-SBJE	Comandante Ariston Pessoa Airport	BR
 ZYJZ	Jinzhou Bay Airport	CN
-AYJS	Josephstaal Airport	PG
 ROIT	Oita Prefectural (Oitakenou) Airport	JP
 RJA2	Otone Airfield	JP
 RJA3	Ryugasaki Airfield	JP
@@ -12977,7 +13015,7 @@ K0A4	Johnson City Airport	US
 K0A8	Bibb County Airport	US
 K0B4	Hartington Municipal Airport / Bud Becker Field	US
 0B5	Turners Falls Airport	US
-0B8	Elizabeth Field	US
+K0B8	Elizabeth Field	US
 K0C0	Dacy Airport	US
 0D8	Gettysburg Municipal Airport	US
 0I8	Cynthiana-Harrison County Airport	US
@@ -13167,6 +13205,7 @@ K2M2	Lawrenceburg Lawrence County Airport	US
 K2M4	G V Montgomery Airport	US
 K2M8	Charles W. Baker Airport	US
 K2MO	Mount Vernon Municipal Airport	US
+K2N4	Owasco Airport	US
 K2O6	Chowchilla Airport	US
 K2O7	Independence Airport	US
 K2O8	Hinton Municipal Airport	US
@@ -13208,7 +13247,6 @@ K35A	Union County, Troy Shelton Field	US
 K35D	Padgham Field	US
 K35S	Wasco State Airport	US
 K36S	Happy Camp Airport	US
-KHCR	Heber Valley Airport	US
 OK48	Higgs Airport	US
 K37T	Calico Rock Izard County Airport	US
 K38D	Salem Airpark Inc Airport	US
@@ -13323,7 +13361,7 @@ K4B6	Ticonderoga Municipal Airport	US
 K4B8	Robertson Field	US
 K4C8	Albia Municipal Airport	US
 K4D0	Abrams Municipal Airport	US
-K4E7	Ellendale Municipal Airport	US
+4E7	Ellendale Municipal Airport	US
 K4F7	Kizer Field	US
 K4F8	Stephens Ouachita County Airport	US
 K4F9	Lamoure Rott Municipal Airport	US
@@ -13521,7 +13559,7 @@ K7S7	Valier Airport	US
 K7S9	Lenhardt Airpark	US
 K7T7	Skywest Inc Airport	US
 K7V2	North Fork Valley Airport	US
-K7V3	Big Foot Airfield	US
+7V3	Big Foot Airfield	US
 K7V5	Brush Municipal Airport	US
 KGUR	Camp Guernsey Airport	US
 K7V7	Red Cloud Municipal Airport	US
@@ -13725,7 +13763,6 @@ KAPN	Alpena County Regional Airport	US
 KAPT	Marion County Airport - Brown Field	US
 KAPV	Apple Valley Airport	US
 KAPY	Zapata County Airport	US
-AYKH	Kamulai Airport	PG
 KAQO	Llano Municipal Airport	US
 KAQP	Appleton Municipal Airport	US
 KAQR	Atoka Municipal Airport	US
@@ -13804,6 +13841,7 @@ KBCK	Black River Falls Area Airport	US
 KBCT	Boca Raton Airport	US
 KBDE	Baudette International Airport	US
 KBDG	Blanding Municipal Airport	US
+KBDH	Willmar Municipal Airport John L Rice Field (2006)	US
 KBDJ	Boulder Junction Payzer Airport	US
 KBDL	Bradley International Airport	US
 KBDN	Bend Municipal Airport	US
@@ -13860,7 +13898,6 @@ KBLI	Bellingham International Airport	US
 KBLM	Monmouth Executive Airport	US
 KBLU	Blue Canyon Nyack Airport	US
 KBLV	Scott AFB/Midamerica Airport	US
-AYKB	Kabwum	PG
 KBMC	Brigham City Regional Airport	US
 KBMG	Monroe County Airport	US
 KBMI	Central Illinois Regional Airport at Bloomington-Normal	US
@@ -13873,6 +13910,7 @@ KBNL	Barnwell Regional Airport	US
 KBNO	Burns Municipal Airport	US
 KBNW	Boone Municipal Airport	US
 KBOI	Boise Air Terminal/Gowen Field	US
+KBOK	Brookings Airport	US
 KBOS	Logan International Airport	US
 KBOW	Bartow Executive Airport	US
 KBPG	Big Spring Mc Mahon-Wrinkle Airport	US
@@ -13917,6 +13955,7 @@ KBWW	Bowman Regional Airport	US
 KBXA	George R Carr Memorial Air Field	US
 KBXG	Burke County Airport	US
 KBXK	Buckeye Municipal Airport	US
+KBXM	Brunswick Executive Airport	US
 KBYG	Johnson County Airport	US
 KBYH	Arkansas International Airport	US
 KBYI	Burley Municipal Airport	US
@@ -13967,6 +14006,7 @@ KCDA	Caledonia County Airport	US
 KCDC	Cedar City Regional Airport	US
 KCDH	Harrell Field	US
 KCDI	Cambridge Municipal Airport	US
+KCDK	George T Lewis Airport	US
 KCDN	Woodward Field	US
 KCDR	Chadron Municipal Airport	US
 KCDS	Childress Municipal Airport	US
@@ -14093,6 +14133,7 @@ KCUL	Carmi Municipal Airport	US
 KCUT	Custer County Airport	US
 KCVB	Castroville Municipal Airport	US
 KCVG	Cincinnati Northern Kentucky International Airport	US
+KCVH	Hollister Municipal Airport	US
 KCVK	Sharp County Regional Airport	US
 KCVN	Clovis Municipal Airport	US
 KCVO	Corvallis Municipal Airport	US
@@ -14115,6 +14156,7 @@ KCYS	Cheyenne Regional Jerry Olson Field	US
 KCYW	Clay Center Municipal Airport	US
 KCZD	Cozad Municipal Airport	US
 KCZG	Tri Cities Airport	US
+KCZK	Cascade Locks State Airport	US
 KCZL	Tom B. David Field	US
 KCZT	Dimmit County Airport	US
 D02	Osage Municipal Airport	US
@@ -14124,7 +14166,7 @@ KD09	Bottineau Municipal Airport	US
 KD11	Ojibwa Airpark	US
 KD14	Fertile Municipal Airport	US
 KD17	Westwinds Airport	US
-D23	Arcade Tri County Airport	US
+KD23	Arcade Tri County Airport	US
 D25	Manitowish Waters Airport	US
 KD31	Leeds Municipal Airport	US
 D37	Warren Municipal Airport	US
@@ -14194,11 +14236,9 @@ KDNN	Dalton Municipal Airport	US
 KDNS	Denison Municipal Airport	US
 KDNV	Vermilion Regional Airport	US
 KDOV	Dover Air Force Base	US
-AYNN	Kandep Airport	PG
 KDPA	Dupage Airport	US
 KDPG	Michael AAF (Dugway Proving Ground) Airport	US
 KDPL	Duplin County Airport	US
-AYTO	Kamberatoro Airport	PG
 KDQH	Douglas Municipal Gene Chambers Airport	US
 KDRA	Desert Rock Airport	US
 KDRI	Beauregard Regional Airport	US
@@ -14243,7 +14283,6 @@ KDZJ	Blairsville Airport	US
 HKZF	Mfangano Airport	KE
 HKCG	Congrieve Airfield	KE
 HKIK	Orly (Olooitikosh) Airport	KE
-HKNY	Laikipia Air Base	KE
 HKCC	Cottars Mara Airport	KE
 HKDA	Dadaab Airstrip	KE
 HKTB	Kichwa Tembo Airport	KE
@@ -14320,7 +14359,6 @@ KEFD	Ellington Airport	US
 KEFK	Northeast Kingdom International Airport	US
 KEFT	Monroe Municipal Airport	US
 KEFW	Jefferson Municipal Airport	US
-AYLG	Keglsugl Airport	PG
 KEGE	Eagle County Regional Airport	US
 KEGI	Duke Field	US
 KEGQ	Emmetsburg Municipal Airport	US
@@ -14391,7 +14429,6 @@ KEWB	New Bedford Regional Airport	US
 KEWK	Newton City-County Airport	US
 KEWN	Coastal Carolina Regional Airport	US
 KEWR	Newark Liberty International Airport	US
-AYNB	Kanabea Airport	PG
 KEXX	Davidson County Executive Airport	US
 KEYE	Eagle Creek Airpark	US
 KEYF	Curtis L Brown Jr Field	US
@@ -14546,6 +14583,7 @@ UAFA	Tamga Airport	KG
 UAFF	Tokmok Airport	KG
 UAFE	Kerben Airport	KG
 UAFS	Kyzyl-Kiya Airport	KG
+KGAB	Gabbs Airport	US
 KGAD	Northeast Alabama Regional Airport	US
 KGAF	Hutson Field	US
 KGAG	Gage Heibeck Airport	US
@@ -14576,6 +14614,7 @@ KGEU	Glendale Municipal Airport	US
 KGEV	Ashe County Airport	US
 KGEY	South Big Horn County Airport	US
 KGEZ	Shelbyville Municipal Airport	US
+KGFD	Pope Field	US
 KGFK	Grand Forks International Airport	US
 KGFL	Floyd Bennett Memorial Airport	US
 KGFZ	Greenfield Municipal Airport	US
@@ -14588,6 +14627,7 @@ KGGW	Glasgow Valley County Airport Wokal Field	US
 KGHG	Marshfield Municipal George Harlow Field	US
 KGHM	Centerville Municipal Airport	US
 KGHW	Glenwood Municipal Airport	US
+KGIC	Idaho County Airport	US
 KGIF	Winter Haven Regional Airport - Gilbert Field	US
 KGJT	Grand Junction Regional Airport	US
 KGKJ	Port Meadville Airport	US
@@ -14641,10 +14681,10 @@ KGUC	Gunnison Crested Butte Regional Airport	US
 KGUP	Gallup Municipal Airport	US
 KGUS	Grissom Air Reserve Base	US
 KGUY	Guymon Municipal Airport	US
+KGVE	Gordonsville Municipal Airport	US
 KGVL	Lee Gilmer Memorial Airport	US
 KGVQ	Genesee County Airport	US
 KGVT	Majors Airport	US
-AYKQ	Kagi Airport	PG
 KGWB	De Kalb County Airport	US
 KGWO	Greenwood–Leflore Airport	US
 KGWR	Gwinner Roger Melroe Field	US
@@ -14691,6 +14731,7 @@ KHBV	Jim Hogg County Airport	US
 KHBZ	Heber Springs Municipal Airport	US
 KHCD	Hutchinson Municipal Butler Field	US
 KHCO	Hallock Municipal Airport	US
+KHCR	Heber Valley Airport	US
 KHDC	Hammond Northshore Regional Airport	US
 KHDE	Brewster Field	US
 KHDN	Yampa Valley Airport	US
@@ -14873,7 +14914,6 @@ KIOW	Iowa City Municipal Airport	US
 KIPJ	Lincolnton Lincoln County Regional Airport	US
 KIPL	Imperial County Airport	US
 KIPT	Williamsport Regional Airport	US
-AYRA	Kira Airport	PG
 KIRK	Kirksville Regional Airport	US
 KIRS	Kirsch Municipal Airport	US
 KISB	Sibley Municipal Airport	US
@@ -15219,7 +15259,6 @@ KMER	Castle Airport	US
 KMEV	Minden-Tahoe Airport	US
 KMEY	James G. Whiting Memorial Field	US
 KMEZ	Mena Intermountain Municipal Airport	US
-AYKD	Kamina Airport	PG
 KMFD	Mansfield Lahm Regional Airport	US
 KMFE	McAllen Miller International Airport	US
 KMFI	Marshfield Municipal Airport	US
@@ -15386,7 +15425,7 @@ JY73	Red Lion Airport	US
 KN79	Northumberland County Airport	US
 KN81	Hammonton Municipal Airport	US
 N87	Trenton Robbinsville Airport	US
-N89	Joseph Y Resnick Airport	US
+KN89	Joseph Y Resnick Airport	US
 KN94	Carlisle Airport	US
 KN96	Bellefonte Airport	US
 KN98	Boyne City Municipal Airport	US
@@ -15410,7 +15449,6 @@ KNGS	Santa Rosa Naval Outlying Field Airport	US
 KNGU	Norfolk Naval Station (Chambers Field)	US
 KNGW	Cabaniss Field Naval Outlying Landing Field	US
 KNHK	Patuxent River Naval Air Station (Trapnell Field)	US
-KBXM	Brunswick Executive Airport	US
 KNID	China Lake Naws (Armitage Field) Airport	US
 KNIP	Jacksonville Naval Air Station (Towers Field)	US
 KNJK	El Centro NAF Airport (Vraciu Field)	US
@@ -15521,7 +15559,6 @@ KOLU	Columbus Municipal Airport	US
 KOLV	Olive Branch Airport	US
 KOLY	Olney Noble Airport	US
 KOLZ	Oelwein Municipal Airport	US
-AYOO	Komo-Manda Airport	PG
 KOMA	Eppley Airfield	US
 KOMH	Orange County Airport	US
 KOMK	Omak Airport	US
@@ -15542,7 +15579,6 @@ KOPN	Thomaston Upson County Airport	US
 KOQN	Brandywine Regional Airport	US
 KOQU	Quonset State Airport	US
 KOQW	Maquoketa Municipal Airport	US
-AYRO	Kakoro(Koroko) Airstrip	PG
 KORB	Orr Regional Airport	US
 KORD	Chicago O'Hare International Airport	US
 KORE	Orange Municipal Airport	US
@@ -15582,11 +15618,8 @@ KOYM	St Marys Municipal Airport	US
 KOZA	Ozona Municipal Airport	US
 KOZR	Cairns AAF (Fort Rucker) Air Field	US
 KOZW	Livingston County Spencer J. Hardy Airport	US
-ZKUJ	Uiju Airport	KP
 ZKHW	Hwangju Airbase	KP
 ZKPN	Pukchang Air Base	KP
-ZKSE	Samjiyŏn Airport	KP
-ZKHM	Orang (Chongjin) Airport	KP
 KP01	Eric Marcus Municipal Airport	US
 KP03	Cochise College Airport	US
 P04	Bisbee Municipal Airport	US
@@ -15613,12 +15646,12 @@ KPDC	Prairie Du Chien Municipal Airport	US
 KPDK	DeKalb Peachtree Airport	US
 KPDT	Eastern Oregon Regional Airport at Pendleton	US
 KPDX	Portland International Airport	US
-AYYP	Yapsiei Airport	PG
 KPEA	Pella Municipal Airport	US
 KPEO	Penn Yan Airport	US
 KPEQ	Pecos Municipal Airport	US
 KPEX	Paynesville Municipal Airport	US
 KPEZ	Pleasanton Municipal Airport	US
+KPFC	Pacific City State Airport	US
 KPGA	Page Municipal Airport	US
 KPGD	Punta Gorda Airport	US
 KPGR	Kirk Field	US
@@ -15733,8 +15766,6 @@ KPYN	Piedmont Municipal Airport	US
 KPYP	Centre-Piedmont-Cherokee County Regional Airport	US
 KPYX	Perryton Ochiltree County Airport	US
 KPZQ	Presque Isle County Airport	US
-KQKA	Aban Uqua Airportse	US
-AYOL	Kol Airport	PG
 KR47	Ruhes Airport	US
 KR49	Ferry County Airport	US
 KRAC	John H Batten Airport	US
@@ -15781,7 +15812,6 @@ KRIR	Flabob Airport	US
 KRIU	Rancho Murieta Airport	US
 KRIV	March Air Reserve Base	US
 KRIW	Central Wyoming Regional Airport	US
-AYQA	Karawari Airstrip	PG
 KRJD	Ridgely Airpark	US
 KRKD	Knox County Regional Airport	US
 KRKP	Aransas County Airport	US
@@ -15824,7 +15854,6 @@ KRST	Rochester International Airport	US
 KRSV	Robinson Municipal Airport	US
 KRSW	Southwest Florida International Airport	US
 KRTN	Raton Municipal Airport / Crews Field	US
-AYEA	Kerau Airport	PG
 KRUE	Russellville Regional Airport	US
 KRUG	Rugby Municipal Airport	US
 KRUQ	Mid-Carolina Regional Airport	US
@@ -15878,7 +15907,6 @@ KS72	Jack A Buell Airport	US
 KS73	Kamiah Municipal Airport	US
 S75	Payette Municipal Airport	US
 KS78	Emmett Municipal Airport	US
-KGIC	Idaho County Airport	US
 KS83	Shoshone County Airport	US
 KS84	Cottonwood Municipal Airport	US
 KS85	Big Sky Field	US
@@ -15892,6 +15920,7 @@ KSAD	Safford Regional Airport	US
 KSAF	Santa Fe Municipal Airport	US
 KSAN	San Diego International Airport	US
 KSAR	Sparta Community Airport - Hunter Field	US
+KSAS	Salton Sea Airport	US
 KSAT	San Antonio International Airport	US
 KSAV	Savannah Hilton Head International Airport	US
 KSAW	Marquette/Sawyer International Airport	US
@@ -15986,13 +16015,13 @@ KSNY	Sidney Municipal Airport Lloyd W Carr Field	US
 KSOA	Sonora Municipal Airport	US
 KSOP	Moore County Airport	US
 KSOW	Show Low Regional Airport	US
-AYOP	Kosipe Airport	PG
 KSPA	Spartanburg Downtown Memorial Airport	US
 KSPB	Scappoose Industrial Airpark	US
 KSPF	Black Hills Airport-Clyde Ice Field	US
 KSPG	Albert Whitted Airport	US
 KSPH	Springhill Airport	US
 KSPI	Abraham Lincoln Capital Airport	US
+KSPK	Spanish Fork Municipal Airport/Woodhouse Field	US
 KSPS	Wichita Falls Municipal Airport / Sheppard Air Force Base	US
 KSPW	Spencer Municipal Airport	US
 KSPZ	Silver Springs Airport	US
@@ -16039,9 +16068,12 @@ KSXK	Sioux County Regional Airport	US
 KSXL	Summersville Airport	US
 KSYF	Cheyenne County Municipal Airport	US
 KSYI	Bomar Field Shelbyville Municipal Airport	US
+KSYN	Stanton Airfield	US
 KSYR	Syracuse Hancock International Airport	US
 KSYV	Sylvester Airport	US
 KSZL	Whiteman Air Force Base	US
+KSZN	Santa Cruz Island Airport	US
+KSZP	Santa Paula Airport	US
 KSZT	Sandpoint Airport	US
 KSZY	Robert Sibley Airport	US
 KT00	Chambers County Airport	US
@@ -16187,7 +16219,6 @@ KU63	Bruce Meadows Airport	US
 KU69	Duchesne Municipal Airport	US
 KU70	Cascade Airport	US
 KU76	Mountain Home Municipal Airport	US
-KSPK	Spanish Fork Municipal Airport/Woodhouse Field	US
 KU78	Allen H Tigert Airport	US
 KU79	Chamberlain USFS Airport	US
 KU81	Cold Meadows US Forest Service Airport	US
@@ -16224,7 +16255,6 @@ KUUU	Newport State Airport	US
 KUUV	Sullivan Regional Airport	US
 KUVA	Garner Field	US
 KUWL	New Castle-Henry County Municipal Airport	US
-AYUY	Kuyol Airport	PG
 KUXL	Southland Field	US
 KUYF	Madison County Airport	US
 KUZA	Rock Hill - York County Airport	US
@@ -16293,6 +16323,7 @@ KWAY	Greene County Airport	US
 KWBW	Wilkes Barre Wyoming Valley Airport	US
 KWDG	Enid Woodring Regional Airport	US
 KWDR	Barrow County Airport	US
+KWEA	Parker County Airport	US
 KWHP	Whiteman Airport	US
 KWJF	General William J Fox Airfield	US
 KWLD	Strother Field	US
@@ -16332,6 +16363,7 @@ KXNO	North Air Force Auxillary Airfield	US
 KXSA	Tappahannock-Essex County Airport	US
 KXTA	Homey (Area 51) Airport	US
 KXVG	Longville Municipal Airport	US
+KXWA	Williston Basin International Airport	US
 Y03	Springfield Municipal Airport	US
 KY19	Mandan Municipal Airport	US
 KY23	Chetek Municipal Southworth Airport	US
@@ -16363,7 +16395,6 @@ UAAC	Bayserke Airport	KZ
 UAAZ	Novotroitskoye Airport	KZ
 UAJT	Turkestan Airport	KZ
 ZDX5	Aktogay Air Base	KZ
-UAOL	Baikonur Krayniy Airport	KZ
 UAOD	Zhosaly Airport	KZ
 XATE	Karas Air Base	KZ
 UAAM	Chundzha Airfield	KZ
@@ -16373,19 +16404,17 @@ UASE	Tughyl Airport	KZ
 ZE36	Zaysan West Airport	KZ
 UASV	Akzhar Airport	KZ
 UASY	Zubovsk Airport	KZ
-UAAL	Usharal Airport	KZ
 XAAH	Balkhash East Airfield	KZ
 UASN	Barshatas Airfield	KZ
 XAAK	Kokpek Highway Strip	KZ
 ZE39	Kabanbay Airport	KZ
-ZDX3	Lepsy	KZ
+ZDX3	Lepsy Airfield	KZ
 UASF	Dolon Southwest Air Base	KZ
 UASD	Dolon Air Base	KZ
 KZ01	Eglin Auxiliary Field 6 Airport	US
 KZ98	Ottawa Executive Airport	US
 KZEF	Elkin Municipal Airport	US
 KZER	Schuylkill County Joe Zerbey Airport	US
-AYKT	Kaintiba Airport	PG
 KZPH	Zephyrhills Municipal Airport	US
 KZZV	Zanesville Municipal Airport	US
 L18	Fallbrook Community Airpark	US
@@ -16441,7 +16470,6 @@ LA83	McCutcheon Field	US
 LA87	Covington-Vincent Airport	US
 LA90	Walsh Airport	US
 LA91	Gary Landing Strip Ultralightport	US
-FNBJ	Dr. Antonio Agostinho Neto International Airport	AO
 LAKU	Kukës International Airport	AL
 LAKV	Kuçovë Air Base	AL
 LATI	Tirana International Airport Mother Teresa	AL
@@ -16480,6 +16508,7 @@ LBWB	Balchik Airfield	BG
 LBWC	Chayka Naval Air Base	BG
 LBWN	Varna Airport	BG
 LCEN	Nicosia (Lefkoşa) Ercan International Airport	CY
+LCGK	Lefkoniko Airport / Geçitkale Air Base	CY
 LCLK	Larnaca International Airport	CY
 LCPH	Paphos International Airport	CY
 LCRA	RAF Akrotiri	CY
@@ -16537,7 +16566,7 @@ LECO	A Coruña Airport	ES
 LECT	El Castaño Airfield	ES
 LECU	Madrid-Cuatro Vientos Airport	ES
 LEDA	Lleida-Alguaire Airport	ES
-LEDE	[Duplicate] Aerodel	ES
+LEDE	Córdoba-Villarrubia Airfield	ES
 LEEM	El Manantío Airfield	ES
 LEEV	E. Castellanos-Villacastín Airfield	ES
 LEFM	Fuentemilanos Airfield	ES
@@ -16591,6 +16620,7 @@ LERI	Alcantarilla Air Base	ES
 LERL	Ciudad Real International Airport	ES
 LERM	Robledillo De Mohernando Airfield	ES
 LERO	Rozas Airfield	ES
+LERP	Aeródromo de Herrera de Pisuerga	ES
 LERS	Reus Airport	ES
 LERT	Rota Naval Station Airport	ES
 LESA	Salamanca Airport	ES
@@ -16739,7 +16769,7 @@ LFEY	Île d'Yeu Airport	FR
 LFEZ	Nancy-Malzéville Airfield	FR
 LFFB	Buno-Bonnevaux Airfield	FR
 LFFC	Mantes-Chérence Airfield	FR
-LFFD	St André De L'eure Airfield	FR
+LFFD	Saint-André-de-l'Eure Airfield	FR
 LFFE	Enghien-Moisselles Airfield	FR
 LFFG	La Ferté-Gaucher Airfield	FR
 LFFH	Château-Thierry-Belleau Airfield	FR
@@ -17036,7 +17066,6 @@ LFTF	Cuers-Pierrefeu Airfield	FR
 LFTH	Toulon-Hyères Airport	FR
 LFTM	Serres - La Bâtie-Montsaléon Airfield	FR
 LFTN	La Grand'combe Airfield	FR
-LTFO	Rize–Artvin Airport	TR
 LFTP	Puimoisson Airfield	FR
 LFTQ	Châteaubriant Pouancé Airfield	FR
 LFTW	Nîmes-Arles-Camargue Airport	FR
@@ -17083,9 +17112,7 @@ LGMG	Megara Air Base	GR
 LGMK	Mykonos Island National Airport	GR
 LGML	Milos Airport	GR
 LGMT	Mytilene International Airport	GR
-AYLL	Linga Linga Airport	PG
 LGNX	Naxos Island National Airport	GR
-RPLK	Bicol International Airport	PH
 LGPA	Paros National Airport	GR
 LGPL	Astypalaia Airport	GR
 LGPZ	Aktion National Airport	GR
@@ -17333,7 +17360,7 @@ LKJC	Jičín Airfield	CZ
 LKJH	Jindřichův Hradec Airfield	CZ
 LKJI	Jihlava Airfield	CZ
 LKKA	Křižanov Airfield	CZ
-LKKB	Kbely Air Base	CZ
+LKKB	Prague–Kbely Airport	CZ
 LKKC	Kříženec Planá Airfield	CZ
 LKKL	Kladno Airfield	CZ
 LKKM	Kroměříž Airfield	CZ
@@ -17400,7 +17427,6 @@ LKZD	Žatec-Macerka Airfield	CZ
 LKZM	Žamberk Airfield	CZ
 LKZN	Znojmo Airfield	CZ
 LL07	Herb Tautz Airport	US
-LL09	Air Estates Inc Airport	US
 LL10	Naper Aero Club Airport	US
 LL13	Stoney Real Estate Airport	US
 LL1B	Arad Airport	IL
@@ -17425,7 +17451,6 @@ LLKZ	Kzeiot Airport	IL
 LL61	Doering's Port Airport	US
 LL64	Ralph E. Daniels Airport	US
 LL65	Edgar Read Airport	US
-LL66	Egland Field	US
 LL74	Maple Hurst Farms Airport	US
 LL75	Chester Wyss Airport	US
 LL77	Herrens Bess Hollow Airfield	US
@@ -17466,9 +17491,6 @@ LLTN	Tnuvot Ultralight Airfield	IL
 LLYT	Yotvata Airfield	IL
 LMML	Malta International Airport	MT
 VRGD	Madivaru Airport	MV
-AYLT	Lengbati Airport	PG
-AYYM	Munbil Airport	PG
-AYLN	Langimar Airport	PG
 LOAA	Ottenschlag Airfield	AT
 LOAB	Dobersberg Airfield	AT
 LOAD	Völtendorf Airfield	AT
@@ -17587,6 +17609,7 @@ LRBC	Bacău George Enescu International  Airport	RO
 LRBM	Maramureș International Airport	RO
 LRBN	Bistrița Airfield	RO
 LRBS	Bucharest Băneasa Aurel Vlaicu International Airport	RO
+LRBV	Brașov-Ghimbav International Airport	RO
 LRCD	Măgura Airfield	RO
 LRCK	Mihail Kogălniceanu International Airport	RO
 LRCL	Cluj Avram Iancu International Airport	RO
@@ -17598,7 +17621,6 @@ LRFL	Floreni Airfield	RO
 LRIA	Iaşi Airport	RO
 LROD	Oradea International Airport	RO
 LROP	Bucharest Henri Coandă International Airport	RO
-LRBV	Brașov-Ghimbav International Airport	RO
 LRPH	Şirna Tăriceni Airfield	RO
 LRPT	Geamăna Airfield	RO
 LRPW	Ploiești-Strejnicu Airfield	RO
@@ -17700,7 +17722,6 @@ LSZV	Sitterdorf Airfield	CH
 LSZW	Thun Airfield	CH
 LSZX	Schänis Airfield	CH
 EYTR	Tauragės Aerodromas	LT
-LTFK	Gökçeada Airport	TR
 LTAB	Güvercinlik Airport	TR
 LTAC	Esenboğa International Airport	TR
 LTAD	Etimesgut Air Base	TR
@@ -17764,6 +17785,7 @@ LTCP	Adıyaman Airport	TR
 LTCR	Mardin Airport	TR
 LTCS	Şanlıurfa GAP Airport	TR
 LTCT	Iğdır Airport	TR
+LTCU	Bingöl Airport	TR
 LTCV	Şırnak Şerafettin Elçi Airport	TR
 LTCW	Hakkari Yüksekova Airport	TR
 LTDA	Hatay Airport	TR
@@ -17775,8 +17797,10 @@ LTFE	Milas Bodrum International Airport	TR
 LTFG	Gazipaşa-Alanya Airport	TR
 LTFH	Samsun-Çarşamba Airport	TR
 LTFJ	Istanbul Sabiha Gökçen International Airport	TR
+LTFK	Gökçeada Airport	TR
 LTFM	İstanbul Airport	TR
 LTFN	Isparta/Kilic Airport	TR
+LTFO	Rize–Artvin Airport	TR
 LTXE	Karain Airport	TR
 LUBL	Bălți International Airport	MD
 LUBM	Mărculești Air Base	MD
@@ -17795,9 +17819,6 @@ HLZT	Zelten C6 Airstrip	LY
 HLBK	Kambut Airport	LY
 HLFD	Fidda Oilfield Airport	LY
 HLCH	El Sherara Field Airport	LY
-HLMS	Misrata International Airport	LY
-HLUB	Ubari Airport	LY
-LYUZ	Ponikve Airport	RS
 LYBO	Bor Airport	RS
 LYBE	Belgrade Nikola Tesla Airport	RS
 LYBJ	Lisičji Jarak Airfield	RS
@@ -17823,10 +17844,11 @@ LYSP	Smederevska Palanka / Rudine Airfield	RS
 LYSU	Subotica / Bikovo Sport Aerodrome	RS
 LYTR	Trstenik Airfield	RS
 LYTV	Tivat Airport	ME
+LYUZ	Ponikve Airport	RS
 LYVA	Valjevo Divci Airfield	RS
 LYVR	Vršac Airfield	RS
 LYZR	Ečka Airfield	RS
-LZBD	Bidovce Airstrip	SK
+LZBD	Bidovce Airfield	SK
 LZDB	Slávnica-Dubnica nad Váhom Airfield	SK
 LZDV	Dubová Airstrip	SK
 ZULA	Langzhong Gucheng Airport	CN
@@ -17863,7 +17885,7 @@ M61	Edward F Johnson Airport	US
 KM74	Bald Knob Municipal Airport	US
 M86	Walle Field	US
 KSYM	Morehead-Rowan County Clyde A. Thomas Regional Airport	US
-GMAR	Mahbes Airbase	MA
+GMAR	Mahbes Airbase	EH
 GMAG	Guelmim Airport	MA
 MA07	Friends Ultralightport	US
 MA16	Marshall's Airport	US
@@ -18020,7 +18042,6 @@ ME91	Webster Field	US
 ME92	Hilltop Airport	US
 ME96	Clark Field	US
 MRCT	Catsa Airport	CR
-FMFE	Ambohibary Airport	MG
 MGFB	Fray Bartolome Airport	GT
 MGBN	Bananera Airport	GT
 MGCB	Coban Airport	GT
@@ -18034,6 +18055,7 @@ MGJU	Jutiapa Airport	GT
 MGLL	La Libertad Airport	GT
 MGML	Malacatán Airport	GT
 MGPB	Puerto Barrios Airport	GT
+MGPG	Playa Grande Airport	GT
 MGPP	Poptún Airport	GT
 MGQC	Quiché Airport	GT
 MGQZ	Quezaltenango Airport	GT
@@ -18165,7 +18187,6 @@ MHWP	Waplaya Airport	HN
 MHWR	Warunta Airport	HN
 MHWS	Wasma Airport	HN
 MHWW	Wawina Airport	HN
-AYEH	Morehead Airport	PG
 MHYR	Yoro Airport	HN
 MHYX	Yaxu Airport	HN
 MHZA	Azacualpa Airport	HN
@@ -18213,14 +18234,11 @@ MKBS	Ian Fleming International Airport	JM
 MKJP	Norman Manley International Airport	JM
 MKJS	Sangster International Airport	JM
 MKKJ	Ken Jones Airport	JM
-AYMV	Malekolon Airport	PG
 MKNG	Negril Airport	JM
 MKTP	Tinson Pen Airport	JM
 1Q9	Mili Island Airport	MH
 MLLJ	La Javilla Airport	CR
-AYMP	Malalaua Airport	PG
 VYHT	Hinthada Airport	MM
-VYHH	Heho Airport	MM
 MMCD	Isla Cedros Airport	MX
 MM12	Bacubirito Airport	MX
 MM16	General Jesús Agustín Castro Airport	MX
@@ -18316,6 +18334,7 @@ MMOX	Xoxocotlán International Airport	MX
 MMPA	El Tajín National Airport	MX
 MMPB	Hermanos Serdán International Airport	MX
 MMPC	Engineer Juan Guillermo Villasana National Airport	MX
+MMPE	Mar de Cortés International Airport	MX
 MMPG	Piedras Negras International Airport	MX
 MMPL	Punta Colorada Airport	MX
 MMPN	Uruapan - Licenciado y General Ignacio Lopez Rayon International Airport	MX
@@ -18331,6 +18350,7 @@ MMSG	Air Base No. 11 Santa Gertrudis	MX
 MMSL	Cabo San Lucas International Airport	MX
 MMSM	General Felipe Ángeles International Airport	MX
 MMSP	Ponciano Arriaga International Airport	MX
+MMSZ	Estación Aeronaval de Salina Cruz	MX
 MMTA	Estación No. 9 de la Fuerza Aérea Mexicana	MX
 MMTB	Terán Air Base	MX
 MMTC	Francisco Sarabia Tinoco International Airport	MX
@@ -18341,6 +18361,7 @@ MMTM	General Francisco Javier Mina International Airport	MX
 MMTN	Tamuín National Airport	MX
 MMTO	Adolfo López Mateos International Airport	MX
 MMTP	Tapachula International Airport	MX
+MMTU	Base Aeronaval de Tulum	MX
 MMTX	Zapotiltic - Tuxpan Airport	MX
 MMUN	Cancún International Airport	MX
 AYMM	Mal Airport	PG
@@ -18351,7 +18372,6 @@ MMZH	Ixtapa-Zihuatanejo International Airport	MX
 MMZM	Zamora Airport	MX
 MMZO	Playa de Oro International Airport	MX
 MMZP	Zapopan Air Force Base	MX
-ZMMG	Mandalgobi Airport	MN
 MN00	Webb Lake Airport	US
 MN01	Hammars Farm Airport	US
 MN06	Pulkrabek Landing Field	US
@@ -18509,7 +18529,6 @@ MPDA	Enrique Malek International Airport	PA
 MPEJ	Enrique Adolfo Jimenez Airport	PA
 MPFE	Fernando Eleta Airport	PA
 MPFS	Fort Sherman Airport	PA
-AYMJ	Makini Airport	PG
 MPPA	Panamá Pacífico International Airport	PA
 MPJE	Jaqué Airport	PA
 MPMC	Chame Mayor Airport	PA
@@ -18518,15 +18537,12 @@ MPGU	Augusto Vergara Airport	PA
 MPOA	Puerto Obaldía Airport	PA
 MPPD	Capt. J. Montenegro Airport	PA
 MPPT	Punta Patiño Airstrip	PA
-MPSM	Scarlett Martinez International Airport	PA
 MPSA	Ruben Cantu Airport	PA
+MPSM	Scarlett Martinez International Airport	PA
 MPTO	Tocumen International Airport	PA
-AYMZ	Mapua(Mabua) Airport	PG
 MPVR	El Porvenir Airport	PA
-MPWN	San Blas Airport	PA
-AYIY	Miyanmin Airport	PG
+MPWN	Wannukandi Airport	PA
 MPZL	Finca 32 Airport	PA
-AYMQ	Malam Airport	PG
 GQNR	Rosso Airport	MR
 MRAD	Aerodamas Airport	CR
 MRAG	Altagracia Airport	CR
@@ -18885,11 +18901,8 @@ MMGA	Creel International Airport / Barrancas del Cobre Regional Airport	MX
 MXNT	Teacapán Naval Air Station / Escuinapa National Airport	MX
 MMAG	Apatzingán - Pablo L. Sidar Airport	MX
 MMNV	Navojoa Municipal Airport	MX
-MMSZ	Estación Aeronaval de Salina Cruz	MX
-MMTU	Base Aeronaval de Tulum	MX
 MM76	San Luis Río Colorado Airport	MX
 MM45	Álamos Airport	MX
-AYMI	Mindik Airport	PG
 MY00	Sieg's Farm Airport	US
 MY01	Roan Airport	US
 MY04	Koch's Personal Field	US
@@ -18922,7 +18935,6 @@ MY66	North Star Ranch Airport	US
 MY68	Johnsons Aero Repair Airport	US
 MY72	Isle Private Airport	US
 MY80	Rosenberg Airport	US
-MY88	Cary Airport	US
 MY89	Pavek Personal Airport	US
 MY90	Al's Due North Airport	US
 MY92	Grohnke Field	US
@@ -18975,7 +18987,6 @@ MYNN	Lynden Pindling International Airport	BS
 MYRD	Duncan Town Airport	BS
 MYRP	Rum Cay International Airport	BS
 MYSM	San Salvador Airport	BS
-AYMC	Menyamya Airport	PG
 MYBW	Big Whale Cay Airport	BS
 MYX7	Rudder Cut Cay Airport	BS
 MYX8	Darby Island Airport	BS
@@ -18984,10 +18995,10 @@ MYXD	Leaf Cay Airport	BS
 MYXF	Little Darby Island Airport	BS
 MYXH	Sampson Cay Airport	BS
 MYBX	Little Whale Cay Berry Islands Airport	BS
-FQIB	Ibo Airport	MZ
 MZBZ	Philip S. W. Goldson International Airport	BZ
 MZJC	Johnny Chan Chen Airstrip	BZ
 MZMF	San Ignacio Town (Maya Flats) Airstrip	BZ
+MZPL	Placencia Airport	BZ
 N05	Hackettstown Airport	US
 N07	Lincoln Park Airport	US
 N08	Flanagan Field	US
@@ -19016,7 +19027,6 @@ N92	Laneys Airport	US
 KN97	Hiatt Airport	US
 FYAN	Aranos Airport	NA
 FYBG	Bagani Airport	NA
-FYNG	Ongava Lodge Airstrip	NA
 NA01	Jenson Airport	US
 NA02	Saure Airport	US
 NA03	Boll Brothers Airstrip	US
@@ -19057,7 +19067,6 @@ NA90	Circle Z Landing Strip	US
 27ND	Overland-Lohse Field	US
 NA98	Dilse Private Airstrip	US
 NA99	Bakko Airstrip	US
-ZYBS	Changbaishan Airport	CN
 NC00	Moretz Riverside Landing Airport	US
 NC01	Harvey Point Defense Testing Activity Airport	US
 NC02	Boomerang Airport	US
@@ -19179,8 +19188,6 @@ ND90	Dahl Private Airport	US
 ND96	Sauter Airport	US
 ND98	Cloud Nine Airport	US
 ND99	Ellig Field	US
-AYNJ	Namudi Airport	PG
-AYNC	Nadunumu Airport	PG
 NE01	Schutte Airport	US
 NE04	Ely Airport	US
 NE06	Woolf Brothers Airport	US
@@ -19236,6 +19243,7 @@ NFMA	Mana Island Airport	FJ
 NFMO	Moala Airport	FJ
 NFNA	Nausori International Airport	FJ
 NFNB	Levuka Airfield	FJ
+NFND	Nanuku Airport	FJ
 NFNG	Ngau Airport	FJ
 NFNH	Laucala Island Airport	FJ
 NFNK	Lakeba Island Airport	FJ
@@ -19255,11 +19263,9 @@ NFTP	Kuini Lavenia Airport	TO
 NFTV	Vava'u International Airport	TO
 NFVB	Vanua Balavu Airport	FJ
 NFVL	Vatulele Airport	FJ
-DNGO	Gombe Lawanti International Airport	NG
 DNPM	Port Harcourt City Airport / Port Harcourt Air Force Base	NG
 DNBK	Srr Ahmadu Bello International Airport	NG
 DNBA	Bauchi Airport	NG
-DNSU	Warri Airport	NG
 NGAB	Abaiang Airport	KI
 NGBR	Beru Airport	KI
 NGFU	Funafuti International Airport	TV
@@ -19487,7 +19493,6 @@ NTTR	Raiatea Airport	PF
 NTTU	Tupai Airport	PF
 NTTX	Moruroa Airport	PF
 NTUV	Vahitahi Airport	PF
-AYNI	Nuguria Airstrip	PG
 NV00	Valley View Airport	US
 NV02	O'Toole Ranch Airport	US
 NV04	Marys River Ranch Airport	US
@@ -19623,7 +19628,6 @@ NY87	Amsterdam Airfield	US
 NY88	Hickory Acres Airport	US
 NY89	Goose Creek Airport	US
 NY91	Smithfield Airport	US
-K2N4	Owasco Airport	US
 NY94	Old Rhinebeck Aerodrome	US
 NY96	Mexico Airdrome Airport	US
 NY97	Northway Airport	US
@@ -19796,15 +19800,16 @@ OA23	Heins Field	US
 OA51	Fighter Field Airport	US
 OA85	Riverview Airport	US
 OA86	Silent P Airport	US
-OASH	Shank Air Base	AF
 OABN	Bamyan Airport	AF
 OABT	Bost Airport	AF
 OACC	Chaghcharan Airport	AF
 OADS	Sardeh Band Airport	AF
+OADY	Dwyer Airport	AF
 OADZ	Darwaz Airport	AF
 OAEM	Ishkashim Airport	AF
 OAFR	Farah Airport	AF
 OAFZ	Fayzabad Airport	AF
+OAGN	Ghazni Airport	AF
 OAGZ	Gardez Airport	AF
 OAHN	Khwahan Airport	AF
 OAHR	Herat - Khwaja Abdullah Ansari International Airport	AF
@@ -19814,6 +19819,7 @@ OAJL	Jalalabad Airport	AF
 OAKB	Kabul International Airport	AF
 OAKG	Khoja-i-Ghar Airport	AF
 OAKN	Ahmad Shah Baba International Airport / Kandahar Airfield	AF
+OAKS	Khost International Airport	AF
 OALP	Little Pamir Airport	AF
 OAMN	Maymana Zahiraddin Faryabi Airport	AF
 OAMS	Mazar-i-Sharif International Airport	AF
@@ -19823,11 +19829,14 @@ OAOG	Urgun Airport	AF
 OAQA	Qalat Airport	AF
 OAQM	Koran va Monjan  Airport	AF
 OAQN	Qala-i-Naw Airport	AF
+OARG	Orūzgān Airport	AF
 OART	Rostaq Airport	AF
 OARZ	Razer Airport	AF
 OASA	Sharana Airstrip	AF
 OASD	Shindand Air Base	AF
 OASG	Sheberghan Airport	AF
+OASH	Shank Air Base	AF
+OASL	Salerno Airport	AF
 OASN	Sheghnan Airport	AF
 OATN	Tarinkot Airport	AF
 OATQ	Taleqan Airport	AF
@@ -19856,6 +19865,7 @@ OEST	Shubaytah Airport	SA
 OEAA	Abu Ali Airport	SA
 OEAB	Abha International Airport	SA
 OEAH	Al-Ahsa International Airport	SA
+OEAO	Majeed Bin Abdulaziz Airport	SA
 OEBA	King Saud Bin Abdulaziz (Al Baha) Airport	SA
 OEBH	Bisha Airport	SA
 OEBN	Thablotin Airport	SA
@@ -19891,7 +19901,7 @@ OEPK	Ipsa 3 Airport	SA
 OEPS	Prince Sultan Air Base	SA
 OERB	Rabigh Airport	SA
 OERF	Rafha Domestic Airport	SA
-OERG	OERG	SA
+OERG	Al-Rass Airport	SA
 OERK	King Khaled International Airport	SA
 OERM	Ras Mishab Airport	SA
 OERR	Arar Domestic Airport	SA
@@ -19953,7 +19963,6 @@ OG52	Jpm Airport	US
 OG53	Wildhorse Valley Airport	US
 OG54	Shaniko Cattle Airport	US
 OG63	Gilbert Airport	US
-AYOG	Ogeranang Airport	PG
 OH03	Woodworth Airport	US
 OH07	Sunset Strip	US
 OH09	One Shot Airport	US
@@ -20009,7 +20018,6 @@ OI32	Stoney's Airport	US
 OI34	Fricke Airport	US
 OI36	Farpoint Airfield	US
 OI38	Hillview Airstrip	US
-OI39	Vensil Farms Airport	US
 OI40	Hallelujah Field	US
 OI41	Far View Airport	US
 OI42	D. A. Chandler Airport	US
@@ -20115,6 +20123,7 @@ OISO	Zarqan Airport	IR
 OISR	Lamerd Airport	IR
 OISS	Shiraz Shahid Dastghaib International Airport	IR
 OISY	Yasuj Airport	IR
+OITH	Khaneh Airport	IR
 OITK	Khoy Airport	IR
 OITL	Ardabil Airport	IR
 OITM	Sahand Airport	IR
@@ -20199,7 +20208,6 @@ OKAJ	Ahmed Al Jaber Air Base	KW
 OKAS	Ali Al Salem Air Base	KW
 OKKK	Kuwait International Airport	KW
 OKDI	Udairi Army Air Field	KW
-AYOF	Okao Airport	PG
 OL02	West Buttercreek Airport	US
 OL05	Skydive Oregon Airport	US
 OL09	Jennings Ranch Airport	US
@@ -20232,11 +20240,10 @@ OL99	Lookout Airport	US
 OLBA	Beirut Rafic Hariri International Airport	LB
 POLI	Oliktok Point Long Range Radar Station Airport	US
 OLKA	Rene Mouawad Air Base / Kleyate Airport	LB
-AYOV	Olsobip Airport	PG
 OLRA	Rayak Air Base	LB
 OODQ	Duqm International Airport	OM
 OOMN	Mussanah Airport	OM
-OORH	Ras Al Hadd Airport	OM
+OORH	Ras al Hadd Airport	OM
 OMAW	Abu Dhabi Northeast Airport - Suweihan Air Base	AE
 OMAA	Zayed International Airport	AE
 OMAB	Buhasa Airport	AE
@@ -20253,6 +20260,7 @@ OMAS	Das Island Airport	AE
 OMAZ	Zirku Airport	AE
 OMBY	Sir Bani Yas Airport	AE
 OMDB	Dubai International Airport	AE
+OMDL	Delma Airport	AE
 OMDM	Al Minhad Air Base	AE
 OMDW	Al Maktoum International Airport	AE
 OMEF	Emirates Falcons Aeroclub Airport	AE
@@ -20263,7 +20271,6 @@ OMRS	Al Saqr Field	AE
 OMSJ	Sharjah International Airport	AE
 OMSN	Sir Abu Nu'ayr Airport	AE
 OMU9	Kollmeyer Airport	US
-AYQQ	Ononge Airport	PG
 OOBB	Butabul Airport	OM
 OOBR	Buraimi Airport	OM
 OOFD	Fahud Airport	OM
@@ -20461,8 +20468,6 @@ OS68	Saiqal Air Base	SY
 OSAP	Aleppo International Airport	SY
 OSDI	Damascus International Airport	SY
 OSDZ	Deir ez-Zor Airport	SY
-AYOM	Omora Airport	PG
-AYZS	Ossima Airport	PG
 OSKL	Qamishli Airport	SY
 OSLK	Hmeimim Air Base	SY
 OSPR	Palmyra Airport	SY
@@ -20494,7 +20499,6 @@ OYSQ	Socotra International Airport	YE
 OYSY	Seiyun Hadhramaut International Airport	YE
 OYTZ	Ta'izz International Airport	YE
 OYZM	Al-Hazm Airport	YE
-GMAZ	Zagora Airport	MA
 OZKL	Koralta Station Airpirt	AU
 P09	Lakehill Airport	US
 KP15	Brokenstraw Airport	US
@@ -20505,6 +20509,7 @@ P96	Jersey Shore Airport	US
 MI09	Prairie Ronde Airport	US
 MPAC	Achutupu Airport	PA
 MPAI	Ailigandí Airport	PA
+MPMU	Mulatupo Airport	PA
 MPPH	Playón Chico Airport	PA
 MPMI	San Miguel Airport	PA
 MPAR	Arenas Airport	PA
@@ -20599,6 +20604,7 @@ PAEH	Cape Newenham LRRS Airport	US
 PAEI	Eielson Air Force Base	US
 PAEM	Emmonak Airport	US
 PAEN	Kenai Municipal Airport	US
+PAEW	Mertarvik Airport	US
 PAFA	Fairbanks International Airport	US
 PAFB	Ladd Army Airfield	US
 PAFE	Kake Airport	US
@@ -20617,6 +20623,7 @@ PAGQ	Big Lake Airport	US
 PAGS	Gustavus Airport	US
 PAGT	Nightmute Airport	US
 PAGY	Skagway Airport	US
+PAGZ	Granite Mountain Air Station	US
 PAHC	Holy Cross Airport	US
 PAHE	Healy Airport	US
 PAHL	Huslia Airport	US
@@ -20652,6 +20659,8 @@ PAKW	Klawock Airport	US
 PAKY	Karluk Airport	US
 PALB	Larsen Bay Airport	US
 PALG	Kalskag Airport	US
+PALJ	Port Alsworth Airport	US
+PALN	Point Lonely Short Range Radar Site Airfield	US
 PALP	Alpine Airstrip	US
 PALR	Chandalar Lake Airport	US
 PALU	Cape Lisburne LRRS Airport	US
@@ -20744,7 +20753,6 @@ PAXK	Paxson Airport	US
 PAYA	Yakutat Airport	US
 PCIS	Canton Island Airport	KI
 VLFL	Boun Neau Airport	LA
-AYPD	Pindiu Airport	PG
 SPID	Teniente Bergerie Airport	PE
 SPCV	Quempiri Airfield	PE
 SPQM	San Lorenzo Airport	PE
@@ -20753,7 +20761,6 @@ SPLH	Las Dunas Airport	PE
 SPBL	Bolognesi Airport	PE
 PFAK	Akiak Airport	US
 PFAL	Allakaket Airport	US
-KPFC	Pacific City State Airport	US
 PFCB	Chenega Bay Airport	US
 PFCL	Clarks Point Airport	US
 PFCR	Donlin Creek Airport	US
@@ -20773,11 +20780,7 @@ PFYU	Fort Yukon Airport	US
 AYAL	Agali Airstrip	PG
 AYAC	Akwom Airstrip	PG
 AYAH	Ali Airstrip	PG
-AYEE	Emirau Airport	PG
-AYEV	Erave Airport	PG
-AYGI	Garaina Airport	PG
 AYGB	Gobe Airport	PG
-AYGL	Gonaili Airport	PG
 AYAJ	Ambua Airstrip	PG
 AYAB	Ambaluwa Airstrip	PG
 AYAR	Anangalo Airstrip	PG
@@ -20786,8 +20789,6 @@ AYRF	Arufi Airstrip	PG
 AYAS	Asama Airstrip	PG
 AYAZ	Asimba Airstrip	PG
 AYSN	Assengseng Airstrip	PG
-AYBP	Bapi Airstrip	PG
-AYBQ	Biangabip Airport	PG
 AYIL	Bili Airstrip	PG
 AYYB	Wobagen Airstrip	PG
 AYOI	Boikoa Airstrip	PG
@@ -20798,7 +20799,6 @@ AYDA	Dahamo Airstrip	PG
 AYLF	Lumusa Airstrip	PG
 AYMT	Malamaunda Airstrip	PG
 AYPK	Pasinkap Airstrip	PG
-AYSK	Sengapi Airstrip	PG
 AYKF	Kafa Airstrip	PG
 AYUB	Gubil Airstrip	PG
 AYGZ	Gubam Airstrip	PG
@@ -20806,7 +20806,6 @@ AYDM	Duranmin Airstrip	PG
 AYBJ	Bank Airstrip	PG
 AYAP	Appa Airstrip	PG
 AYAV	Arkosame Airstrip	PG
-AYLI	Kibuli Airstrip	PG
 AYRW	Kiriwo Airstrip	PG
 AYWW	Owena Airstrip	PG
 AYNQ	Kibeni Airstrip	PG
@@ -20821,32 +20820,11 @@ AYXH	Yehebi Airstrip	PG
 AYQP	Sipump Airport	PG
 AYXM	Komo Airport	PG
 AYWP	Wanikipa Airstrip	PG
-AYGU	Anguganak Airport	PG
 AYTJ	Tadji Airport	PG
-AYAW	Awaba Airport	PG
-AYBL	Bialla Airport	PG
-AYCB	Chungribu Airport	PG
-AYGT	Gasmata Island Airport	PG
-AYGV	Green River Airport	PG
-AYHF	Hayfields Airport	PG
 AYIH	Ihu Airport	PG
-AYIA	Nissan Island Airport	PG
 AYJB	Jacquinot Bay Airport	PG
-AYKC	Kandrian Airport	PG
-AYKO	Kokoda Airport	PG
 AYKS	Kamusi Airport	PG
-AYKW	Kawito Airport	PG
-AYLU	Lumi Airport	PG
 AYLM	Lake Murray Airport	PG
-AYOB	Obo Airport	PG
-AYBM	Balimo Airport	PG
-AYSU	Suki Airport	PG
-AYTU	Tufi Airport	PG
-AYTE	Telefomin Airport	PG
-AYXO	Tol Airport	PG
-AYNU	Nuku Airport	PG
-AYBA	Baimuru Airport	PG
-AYXP	Wipim Airport	PG
 PGM	Port Graham Airport	US
 PGRO	Rota International Airport	MP
 PGSN	Saipan International Airport	MP
@@ -20855,10 +20833,8 @@ PGUM	Antonio B. Won Pat International Airport	GU
 PGWT	Tinian International Airport	MP
 RPMY	Laguindingan International Airport	PH
 RPPN	Rancudo Airfield	PH
-RPLH	Cagayan North International Airport	PH
 RPMT	Del Monte Plantation Airport	PH
 RPTP	Tarumpitao Point Airfield	PH
-RPEN	El Nido Airport	PH
 PHBK	Barking Sands Airport	US
 PHDH	Kawaihapai Airfield	US
 PHHF	French Frigate Shoals Airport	US
@@ -20885,7 +20861,6 @@ OPKW	Kadanwari Airport	PK
 PKMA	Eniwetok Airport	MH
 PKMJ	Marshall Islands International Airport	MH
 PKRO	Dyess Army Air Field	MH
-SYKA	Kaieteur International Airport	GY
 PKWA	Bucholz Army Air Field	MH
 EPPB	Poznań-Bednary Airfield	PL
 EPKG	Kołobrzeg-Bagicz Airfield	PL
@@ -20893,7 +20868,7 @@ EPBO	Borsk Airfield	PL
 EPNC	Nasielsk-Chrcynno Airfield	PL
 EPSI	Sieradz Airfield	PL
 EPPZ	Przasnysz-Sierakowo Airfield	PL
-EPWT	Lotnisko Watorowo	PL
+EPWT	Watorowo Airfield	PL
 EPWC	Świebodzice Airfield	PL
 EPPG	Kakolewo (former military)	PL
 EPZE	Żerniki Gądki Airfield	PL
@@ -20911,13 +20886,12 @@ EPZW	Zawiszyn Airfield	PL
 EPLD	Ldzań Airfield	PL
 EPBI	Brzeska Wola Airfield	PL
 EPLP	Lipowa Airfield	PL
+EPVK	Karlino Airfield	PL
 PLCH	Cassidy International Airport	KI
-AYPB	Paiela Airport	PG
 PLFA	Tabuaeran Island Airport	KI
 PLPA	Palmyra (Cooper) Airport	UM
 PLWN	Washington Island Airstrip	KI
 PMDY	Henderson Field	UM
-AYPJ	Pimaga Airport	PG
 PN00	Crosswinds Airfield	US
 PN01	Cedar Run Airport	US
 PN02	Offutt Acres Airport	US
@@ -20938,7 +20912,6 @@ PN37	Fino Airport	US
 PN38	Culmerville Airport	US
 PN40	Moorhead Airpark	US
 PN46	River Hill Aviation Airport	US
-PN47	Lohr's Landing Airport	US
 PN48	Bullfly Ultralightport	US
 PN49	Dunbar Airport	US
 PN50	Skyline Airstrip	US
@@ -20956,7 +20929,6 @@ PN71	Jansen Vineyards Airport	US
 PN72	Rocky Hollow Field	US
 PN73	Beers Farm Airport	US
 PN84	Lake Arthur Field	US
-PN85	Brandon Airport	US
 PN90	Ranch-Aero Airport	US
 PN91	Sharretts Airport	US
 PN95	Horne Airport	US
@@ -21013,16 +20985,13 @@ PWAK	Wake Island Airfield	UM
 SGOV	Coronel Oviedo National Airport	PY
 SGVO	Aeródromo de la Colonia Volendam	PY
 SGLP	Aeródromo de Loma Plata	PY
-SGBN	Aeródromo de Bahía Negra	PY
-SGOL	Fuerte Olimpo Airport	PY
 SGLV	Aeródromo de Puerto La Victoria	PY
 C51	Kili Airport	MH
 RKRO	Pocheon (G-217) Airport	KR
 R33	Wakonda Beach State Airport	US
-AYYO	Oram Airport	PG
-AYRE	Raba Raba Airport	PG
 RCAY	Gangshan Air Force Base	TW
 RCBS	Kinmen Airport	TW
+RCCM	Qimei Airport	TW
 RCDC	Pingtung South Airport	TW
 RCDI	Longtan Air Base	TW
 RCFG	Matsu Nangan Airport	TW
@@ -21031,6 +21000,7 @@ RCGI	Lyudao Airport	TW
 RCKH	Kaohsiung International Airport	TW
 RCKU	Chiayi Airport	TW
 RCKW	Hengchun Airport	TW
+RCLM	Dongsha Island (Pratas Island) Airport	TW
 RCLY	Lanyu Airport	TW
 RCMQ	Taichung International Airport / Ching Chuang Kang Air Base	TW
 RCMT	Matsu Beigan Airport	TW
@@ -21228,12 +21198,12 @@ RKTA	Taean Airport	KR
 RKTE	Seongmu Airport	KR
 RKTH	Pohang Airport (G-815/K-3)	KR
 RKTI	Jungwon Air Base/Chungju Airport	KR
+RKTL	Uljin Airport	KR
 RKTN	Daegu Airport	KR
 RKTP	Seosan Air Base	KR
 RKTS	Sangju Airfield	KR
 RKTU	Cheongju International Airport/Cheongju Air Base (K-59/G-513)	KR
 RKTY	Yecheon Airbase	KR
-AYRK	Kairuku Airport	PG
 RKUC	Jochiwon (G-505) Airfield	KR
 RKUL	G 536 Airport	KR
 PFMP	Rampart Airport	US
@@ -21264,12 +21234,15 @@ RP12	Pagbilao Grande Island Airport	PH
 RP15	Isabel PASAR Airport	PH
 RP16	Seahawk Lz Airstrip	PH
 RP17	Malita Airport	PH
-RPLE	Balesin Island Airport	PH
+RPEN	El Nido Airport	PH
 RPLA	Pinamalayan Airport	PH
 RPLB	Subic Bay International Airport / Naval Air Station Cubi Point	PH
 RPLC	Clark International Airport / Clark Air Base	PH
+RPLE	Balesin Island Airport	PH
+RPLH	Cagayan North International Airport	PH
 RPLI	Laoag International Airport	PH
 RPLJ	Jomalig Island Airport	PH
+RPLK	Bicol International Airport	PH
 RPLL	Ninoy Aquino International Airport	PH
 RPLN	Palanan Community Airport	PH
 RPLO	Cuyo Airport	PH
@@ -21370,7 +21343,6 @@ ZA2N	Arabatuk Air Base	RU
 XIAB	Bada Air Base	RU
 UWOI	Chebenki Air Base	RU
 UIAG	Chindant Air Base	RU
-UHSN	Nogliki Airport	RU
 URMG	Grozny Airport	RU
 UIIR	Irkutsk Northwest Airport	RU
 UWKP	Menzelinsk Airport	RU
@@ -21407,7 +21379,6 @@ URKT	Tikhoretsk Air Base	RU
 UHHM	Chegdomyn Airport	RU
 UEMJ	Tomtor Airport	RU
 UEML	Solnechniy Airport	RU
-UEMH	Typliy Klyuch Airport	RU
 UHWA	Arsenyev Sport Airfield	RU
 UUDG	Bolshoye Gryzlovo Airfield	RU
 UUMW	Vatulino Airfield	RU
@@ -21463,8 +21434,6 @@ XSSN	Salka Airfield	RU
 XSSJ	Yugorsk Sovetsky Air Base	RU
 USCU	Uprun Air Base	RU
 ULLK	Krechevitsy Air Base	RU
-UUBS	Smolensk South Airport	RU
-ULWU	Velikiy Ustyug Airport	RU
 S00	Opheim Airport	US
 KS09	Hot Springs Airport	US
 S28	International Peace Garden Airport	US
@@ -21559,6 +21528,7 @@ SAEL	Las Flores Airport	AR
 SAET	Ñanco Lauquen Airport	AR
 SAEZ	Minister Pistarini International Airport	AR
 SAFR	Rafaela Airport	AR
+SAFS	Sunchales Aeroclub Airport	AR
 SAHC	Chos Malal Airport	AR
 SAHE	Caviahue Airport	AR
 SAHR	Dr. Arturo H. Illia Airport	AR
@@ -21601,8 +21571,8 @@ SARI	Cataratas Del Iguazú International Airport	AR
 SARL	Paso De Los Libres Airport	AR
 SARM	Monte Caseros Airport	AR
 SARP	Libertador Gral D Jose De San Martin Airport	AR
+SARS	Termal Airport	AR
 SARV	Villa Angela Airport	AR
-KSAS	Salton Sea Airport	US
 SASA	Martin Miguel De Guemes International Airport	AR
 SASJ	Gobernador Horacio Guzman International Airport	AR
 SASL	Salar De Cauchari Airport	AR
@@ -21622,8 +21592,8 @@ SATU	Curuzu Cuatia Airport	AR
 SAVA	Piedra Del Aguila Airport	AR
 SAVB	El Bolson Airport	AR
 SAVC	General E. Mosconi Airport	AR
-SAVD	El Maiten Airport	AR
-SAVE	Brigadier Antonio Parodi Airport	AR
+SAVD	El Maitén Airport	AR
+SAVE	Esquel Brigadier Antonio Parodi International Airport	AR
 SAVH	Las Heras Airport	AR
 SAVJ	Ingeniero Jacobacci - Captain H R Bordón Airport	AR
 SAVM	Lago Musters Airport	AR
@@ -21683,6 +21653,7 @@ AGVH	Viru Harbour Airstrip	SB
 SNMH	Pirenopolis Centeral Airport	BR
 SBAA	Conceição do Araguaia Airport	BR
 SBAC	Aracati Dragão do Mar Regional Airport	BR
+SBAE	Bauru/Arealva–Moussa Nakhal Tobias State Airport	BR
 SBAF	Campo Délio Jardim de Mattos Airport	BR
 SBAM	Amapá Airport	BR
 SBAN	Base Aérea Airport	BR
@@ -21748,6 +21719,7 @@ SBIT	Francisco Vilela do Amaral Airport	BR
 SBIZ	Prefeito Renato Moreira Airport	BR
 SBJA	Humberto Ghizzo Bortoluzzi Regional Airport	BR
 SBJD	Comte. Rolim Adolfo Amaro–Jundiaí State Airport	BR
+SBJE	Comandante Ariston Pessoa Airport	BR
 SBJF	Francisco de Assis Airport	BR
 SBJH	São Paulo Catarina Executive Airport	BR
 SBJP	Presidente Castro Pinto International Airport	BR
@@ -21849,6 +21821,7 @@ SBTC	Una-Comandatuba Airport	BR
 SBTD	Toledo - Luiz Dalcanale Filho Municipal Airport	BR
 SBTE	Senador Petrônio Portela Airport	BR
 SBTF	Tefé Airport	BR
+SBTG	Plínio Alarcom Airport	BR
 SBTK	Tarauacá Airport	BR
 SSVL	Telêmaco Borba Airport	BR
 SSTE	Torres Airport	BR
@@ -22154,7 +22127,6 @@ SCOM	Olmué Airport	CL
 SCON	Quellón Airport	CL
 SCOO	Melimoyu Airport	CL
 SCOP	Pilauco Airport	CL
-SCOS	Osorno Pampa Ale Airport	CL
 SCOT	Santa Rosa de Tabalí Airport	CL
 SCOV	El Tuqui Airport	CL
 SCOY	Huayanay Airport	CL
@@ -22375,7 +22347,6 @@ SD4Z	Fazenda Santo Eugênio Airstrip	BR
 SD50	Harrold Municipal Airport	US
 SD53	Howard Field	US
 SD55	Winter Airfield	US
-SD57	W L Thompson Airport	US
 SD61	Plihal Farms Airport	US
 SD65	Whipple Ranch Airport	US
 SD68	Flying T Airport	US
@@ -22560,7 +22531,6 @@ SDHE	Fazenda Herdade Airport	BR
 SDHP	Modelo II Airport	BR
 SDHR	Fazenda União Airport	BR
 SDHX	D'Tapes Airport	BR
-AYSD	Saidor Airport	PG
 SDI2	Graciosa Airport	BR
 SDI4	Fazenda Amadeus Andrade Airport	BR
 SDI7	Fazenda Veneza Airport	BR
@@ -22959,6 +22929,7 @@ SEIX	Pimpintza Airstrip	EC
 SEIY	Iñaywa Sur Airstrip	EC
 SEIZ	Agroazucar Airport	EC
 SEJA	Jandiyacua Airstrip	EC
+SEJD	Jumandy Airport	EC
 SEJE	Jempentza Airstrip	EC
 SEJG	San Jacinto Airport	EC
 SEJI	Jipijapa Airport	EC
@@ -23117,11 +23088,11 @@ SEZM	Tamantza Airstrip	EC
 SEZN	Tzapino Airstrip	EC
 SEZR	Surik Nuevo Airstrip	EC
 SFAL	Port Stanley Airport	FK
-AYSF	Safia Airport	PG
 SG67	Aeródromo de la Estancia Pai Quara	PY
 SGAS	Silvio Pettirossi International Airport	PY
 SGAY	Juan de Ayolas National Airport	PY
 SGBA	Aeródromo de Bella Vista Sur	PY
+SGBN	Aeródromo de Bahía Negra	PY
 SGCB	Aeródromo Capitan Bado	PY
 SGCO	Lieutenant Colonel Carmelo Peralta National Airport	PY
 SGCU	Aeródromo de Curuguaty	PY
@@ -23134,7 +23105,7 @@ SGIB	Itaipú National Airport	PY
 SGLZ	Aeródromo La Paz	PY
 SGME	Doctor Luis Maria Argaña International Airport	PY
 SGMZ	Aeródromo José María Argaña	PY
-SGN	Spam spam spam	VN
+SGOL	Fuerte Olimpo Airport	PY
 SGPC	Aeropuerto de Pozo Colorado	PY
 SGPG	Base de la Fuerza Aérea Paraguaya "Teniente Pelayo Prats Gill"	PY
 SGPI	Aeródromo Don Carlos Miguel Gimenez	PY
@@ -23272,7 +23243,6 @@ SI89	Aldeia Kuxaré Airstrip	BR
 SI8A	Fazenda Paiaguás Airstrip	BR
 SI8C	Grupo Pivot Airport	BR
 SI8E	Fazenda Lapa do Lobo Airstrip	BR
-SI8F	Fazenda Pau Brasil Airport	BR
 SI8G	Fazenda Centro da Mata Airport	BR
 SI8H	Fazenda Modelo Airport	BR
 SI8I	Fazenda Estrelinha Airport	BR
@@ -23669,7 +23639,6 @@ SIYK	Fazenda Sorriso Metálico Airport	BR
 SIEL	Eletro Primavera LTDA Airport	BR
 SIYO	Fazenda Goiás Barreiro Airport	BR
 SDQE	Ilha do Caracará Airport	BR
-AYZN	Sissano Airport	PG
 SIZ4	São Matheus Airport	BR
 SIZ6	Fazenda Tarumã Airstrip	BR
 SIZ7	Usina Cedro Airstrip	BR
@@ -23883,7 +23852,6 @@ SJAU	Araguacema Airport	BR
 SJAW	Fazenda Citrícola Airport	BR
 SNEK	Fazenda Acalanto Airport	BR
 SJAZ	Fazenda Querubim Airport	BR
-SJB2	Fazenda Uirapuru Airstrip	BR
 SJB3	Fazenda Rebojo Airport	BR
 SJB6	Fazenda São Luís Airstrip	BR
 SJB8	Fazenda Vale do Sonho Airport	BR
@@ -24184,11 +24152,9 @@ SJSU	Fazenda São Marcus Airport	BR
 SJSV	Fazenda Guiné Airport	BR
 SJT2	Fazenda Santa Luzia Airport	BR
 SJT3	Colombo Airstrip	BR
-SJT4	Fazenda Branca - Xangrilá Airport	BR
 SJT7	São Silvestre Airstrip	BR
 SJT9	Fazenda Lince Airport	BR
 SJTB	Fazenda Buriti Airport	BR
-SBAE	Bauru/Arealva–Moussa Nakhal Tobias State Airport	BR
 SJTF	Fazenda Mequens Airport	BR
 SJTH	Fazenda Pôr do Sol	BR
 SJTL	Aero Agrícola Gaivota Airport	BR
@@ -24199,6 +24165,7 @@ SJTT	Fazenda Lagoa do Barro Airport	BR
 SJTU	Fazenda Tucano Airport	BR
 SJTZ	Dom Eliseu Airport	BR
 SJU2	Fazenda Alvorada Airport	BR
+SJU6	Fazenda Retiro Novo Airstrip	BR
 SJU7	Fazenda Lua Nova Airstrip	BR
 SJU8	Fazenda Guariba Airstrip	BR
 SJU9	Fazenda Alegre Airport	BR
@@ -24294,21 +24261,15 @@ SKFE	Guillermo Gaviria Correa Airport	CO
 SQPS	Los Planes Airport	CO
 SKAA	Caño Garza Airport	CO
 SQUJ	Tablón De Tamara Airport	CO
-SKTA	Tauramena Airport	CO
-SKMB	Timbiqui Airport	CO
 SKAL	Calenturitas Airport	CO
-SKJU	Juradó Airport	CO
 SQZJ	Pizarro Airport	CO
-SKBM	Barranco Minas Airport	CO
 SKIR	Mapiripan Airport	CO
 SKMO	Morelia Airport	CO
-SKEH	El Charco Airport	CO
 SKCE	Cruz Verde Airport	CO
 SQSW	Santa Lucía Airport	CO
 SKYG	Yapu Airport	CO
 SKUM	Cumaribo Airport	CO
 SKUV	Guerima Airport	CO
-SKIM	La Primavera Airport	CO
 SK53	Yaguarito Airport	CO
 SKAC	Araracuara Airport	CO
 SKAD	Alcides Fernández Airport	CO
@@ -24321,6 +24282,7 @@ SKAT	El Troncal Airport	CO
 SKBC	Las Flores Airport	CO
 SKBE	Becerril Airport	CO
 SKBG	Palonegro Airport	CO
+SKBM	Barranco Minas Airport	CO
 SKBN	Buenavista Airport	CO
 SKBO	El Dorado International Airport	CO
 SKBQ	Ernesto Cortissoz International Airport	CO
@@ -24344,6 +24306,7 @@ SKCU	Juan H White Airport	CO
 SKCV	Coveñas Airport	CO
 SKCZ	Las Brujas Airport	CO
 SKEB	El Bagre Airport	CO
+SKEH	El Charco Airport	CO
 SKEJ	Yariguíes Airport	CO
 SKFL	Gustavo Artunduaga Paredes Airport	CO
 SKFR	Furatena Airport	CO
@@ -24359,9 +24322,11 @@ SKHA	General Navas Pardo Airport	CO
 SKHC	Hato Corozal Airport	CO
 SKIB	Perales Airport	CO
 SKIG	Jaime Ortiz Betancourt Airport	CO
+SKIM	La Primavera Airport	CO
 SKIO	Cicuco Airport	CO
 SKIP	San Luis Airport	CO
 SKJC	Juanchaco Airport	CO
+SKJU	Juradó Airport	CO
 SKLA	Málaga Regional Airport	CO
 SKLC	Antonio Roldán Betancur Airport	CO
 SKLG	Caucaya Airport	CO
@@ -24369,6 +24334,7 @@ SKLM	Jorge Isaac Airport	CO
 SKLP	La Pedrera Airport	CO
 SKLT	Alfredo Vásquez Cobo International Airport	CO
 SKMA	Major Justino Mariño Cuesto Air Base	CO
+SKMB	Timbiqui Airport	CO
 SKMD	Enrique Olaya Herrera Airport	CO
 SKME	Lieutenant Colonel Luis F. Pinto Parra Air Base	CO
 SKMF	Miraflores Airport	CO
@@ -24405,8 +24371,10 @@ SKPS	Antonio Nariño Airport	CO
 SKPV	El Embrujo Airport	CO
 SKPZ	Paz De Ariporo Airport	CO
 SKQU	Mariquita Airport	CO
+SKRA	Tarapacá Airport	CO
 SKRG	Jose Maria Córdova International Airport	CO
 SKRH	Almirante Padilla Airport	CO
+SKRU	Las Cruces Airport	CO
 SKSA	Los Colonizadores Airport	CO
 SKSG	San Gil Airport	CO
 SKSI	Santiago I Airport	CO
@@ -24417,6 +24385,7 @@ SKSO	Alberto Lleras Camargo Airport	CO
 SKSP	Gustavo Rojas Pinilla International Airport	CO
 SKSR	San Marcos Airport	CO
 SKSV	Eduardo Falla Solano Airport	CO
+SKTA	Tauramena Airport	CO
 SKTB	Tibú Airport	CO
 SKTD	Trinidad Airport	CO
 SKTI	Tolemaida Air Base	CO
@@ -24459,7 +24428,6 @@ SLCC	Copacabana Airport	BO
 SLCD	Cañada Airport	BO
 SLCE	Cabezas Airport	BO
 SLCG	Charagua Airport	BO
-SLHI	Chimore Airport	BO
 SLCI	Caigua Airport	BO
 SLCL	Collpani Airport	BO
 SLCM	Camacho Airport	BO
@@ -24500,6 +24468,7 @@ SLGQ	Chiquitos Airport	BO
 SLGY	Capitán de Av. Emilio Beltrán Airport	BO
 SLHA	Cachascani Airport	BO
 SLHC	Huacareta Airport	BO
+SLHI	Chimore Airport	BO
 SLHJ	Huacaraje Airport	BO
 SLHS	Chacobos Airport	BO
 SLIG	Inglaterra Airport	BO
@@ -24510,7 +24479,6 @@ SLIT	Itaguazurenda Airport	BO
 SLIX	Ixiamas Airport	BO
 SLIY	Intiraymi Airport	BO
 SLIZ	Izozog Airport	BO
-YSOL	Solomon Airport	AU
 SLJA	Jatata Airport	BO
 SLJE	San José De Chiquitos Airport	BO
 SLJO	San Joaquín Airport	BO
@@ -24558,6 +24526,7 @@ SLRH	Rancho Alegre Airport	BO
 SLRI	Capitán Av. Selin Zeitun Lopez Airport	BO
 SLRL	Rosal Airport	BO
 SLRP	Rosapata Airport	BO
+SLRQ	Rurrenabaque Airport	BO
 SLRR	Retiro Airport	BO
 SLRS	Rio Seco Airport	BO
 SLRT	Santa Rita Airport	BO
@@ -24625,17 +24594,18 @@ SMAF	Afobakka Airstrip	SR
 SMAN	Lawa Antino Airstrip	SR
 SMBG	Bakhuys Airstrip	SR
 SMBN	Albina Airport	SR
+SMCA	Cayana Airstrip	SR
 SMCB	Cabana Airstrip	SR
 SMCI	Coeroeni Airport	SR
 SMCO	Totness Airport	SR
 SMCT	Cottica Airstrip	SR
 SMDA	Drietabbetje Airport	SR
 SMDK	Donderskamp Airstrip	SR
+SMDO	Ladouanie Airport	SR
 SMDU	Alalapadu Airstrip	SR
 SMGA	Gakaba Airstrip	SR
 SMGH	Godo Holo Airstrip	SR
 SMGR	Gross Rosebel Airstrip	SR
-AYSP	Sapmanga Airport	PG
 SMHA	Henri Alwies Airstrip	SR
 SMJA	Jarikaba Airstrip	SR
 SMJP	Johan Adolf Pengel International Airport	SR
@@ -24659,9 +24629,11 @@ SMSM	Kwamalasoemoetoe Airport	SR
 SMST	Stoelmanseiland Airport	SR
 SMTA	Tabiki Airstrip	SR
 SMTB	Rudi Kappel Airport	SR
+SMTP	Tepoe Airstrip	SR
 SMVG	Vier Gebroeders Airstrip	SR
 SMVO	Avanavero Airstrip	SR
 SMWA	Wageningen Airstrip	SR
+SMWS	Washabo Airport	SR
 SMZO	Zorg en Hoop Airport	SR
 SN00	J Roesner Airport	US
 SN02	Wright International Airport	US
@@ -24796,6 +24768,7 @@ SN8G	Carmo Airport	BR
 SN8H	Fazenda Maritaca Airstrip	BR
 SN8L	Fazenda Vale Formoso Airport	BR
 SN8O	Fazenda Alayde (Quinhão Ventania) Airstrip	BR
+SN8P	Fazenda Jacamim Airport	BR
 SN8S	Alta Vista Airport	BR
 SN8U	Fazenda Gabriela do Xingu Airport	BR
 SN8V	Fazenda Tamburi Airport	BR
@@ -24805,7 +24778,6 @@ SN8Z	Fazenda São Francisco Airport	BR
 SN90	Eibes Airfield	US
 SN97	G+ Ag Airport	US
 SN98	Anton Flying UV Airport	US
-SN99	Laflin Ranch Airport	US
 SN9A	Fazenda Brahman Airstrip	BR
 SN9B	Fazenda Esteio Airport	BR
 SN9E	Fazenda El Shadday Airport	BR
@@ -24829,7 +24801,6 @@ SNAS	Três Marias Airport	BR
 SISG	Aeroclube de Sergipe Airport	BR
 SNAV	Agrovale Airport	BR
 SNAX	Marcelo Pires Halzhausen Airport	BR
-SNB3	Fazenda Maravilha Airport	BR
 SNB4	Fazenda Cantanhede Airport	BR
 SNB7	Fazenda São Luiz Airport	BR
 SJVW	Fazenda Agronol Airport	BR
@@ -25015,6 +24986,9 @@ SNMU	Mucuri Airport	BR
 SNMV	Fazenda Flávia Airport	BR
 SNMX	São Mateus - Ernesto Bonomo Airport	BR
 SNMZ	Porto de Moz Airport	BR
+SNN3	Fazenda Milanin Airstrip	BR
+SNN6	Pousada Aguapé Airstrip	BR
+SNN7	Fazenda Faedo Airport	BR
 SNNB	Fazenda Cana Brava Airport	BR
 SNNC	Rio Capim Airport	BR
 SNNE	São João Nepomuceno Airport	BR
@@ -25118,7 +25092,6 @@ SNTP	Agropalma Airport	BR
 SNTQ	Buritirama Airport	BR
 SNTR	Piritiba Airport	BR
 SNTS	Aeroporto Brigadeiro Firmino Ayres	BR
-SNXV	Tranquilo Testolin Airport	BR
 SNTY	Correntina Airport	BR
 SNUA	Fazenda Paulista Airport	BR
 SNUB	Ubá Airport	BR
@@ -25172,6 +25145,7 @@ SDLN	Primavera Airport	BR
 SNXQ	Xique-Xique Airport	BR
 SNXR	Fazenda Conforto Airport	BR
 SNXT	Pousada Alvorada Airport	BR
+SNXV	Tranquilo Testolin Airport	BR
 SNXX	Maxaranguape Airport	BR
 SNXY	Cikel Brasil Verde Airport	BR
 SNYA	Almeirim Airport	BR
@@ -25361,16 +25335,11 @@ SPZA	Maria Reiche Neuman Airport	PE
 SPZH	Pachiza Airport	PE
 SPZO	Alejandro Velasco Astete International Airport	PE
 SPZT	Chazuta Airport	PE
-ZSSR	Shangrao Sanqingshan Airport	CN
 SQED	El Delirio Airport	CO
 SQIR	El Cairano Airport	CO
-ZSSM	Sanming Shaxian Airport	CN
 SQKS	Aerodromo Los Campanos	CO
-AYCS	China Strait Airstrip	PG
 SMAM	Amatopo Airstrip	SR
 SMJK	Nieuw Jacobkondre Airstrip	SR
-SMCA	Cayana Airstrip	SR
-SMTP	Tepoe Airstrip	SR
 SRV	Stony River 2 Airport	US
 HJAJ	Ajuini Airstrip	SS
 HJDP	Duk Payuel Airstrip	SS
@@ -25405,10 +25374,13 @@ SS2M	Fazenda 2M Airstrip	BR
 SS2N	Fazenda Maná Airport	BR
 SS2O	Fazenda Semear Airport	BR
 SS2P	Aeropark Serra Dourada Airstrip	BR
+SS2Q	Major Brigadeiro do Ar Rui Moreira Lima Airport	BR
 SS2R	Fazenda Terra Roxa Airport	BR
 SS2S	Fazenda CJB Agronegócio Airstrip	BR
 SS2T	Fazenda Estância Santa Maria Airstrip	BR
 SS2U	Fazenda Nova Fronteira Airport	BR
+SS2V	Fazenda Sabaúna Airstrip	BR
+SS2W	Fazenda Concórdia Airstrip	BR
 SS2X	Agropecuária Jacaraí Airport	BR
 SS2Y	Fazenda Alto Paraíso Airstrip	BR
 SS2Z	Fazenda São Luiz Airport	BR
@@ -25416,11 +25388,25 @@ SS32	PCH Telegráfica Airport	BR
 SS33	Andrade Porto Airstrip.	BR
 SS34	Fazenda Tanabi Airport	BR
 SS37	Fazenda Maria Nilze Airport	BR
+SS38	Agropecuária Santa Alice Airport	BR
+SS39	Fazenda Nova Califórnia	BR
+SS3A	Fazenda São Francisco Airstrip	BR
+SS3B	Fazenda LB Airstrip	BR
+SS3C	Fazenda Boca do Monte Airport	BR
+SS3D	Cafe Buriti Airport	BR
+SS3E	Brisanet Airport	BR
+SS3G	Fazenda Imaculada Airstrip	BR
+SS3H	Estância Santo Antônio	BR
+SS3I	Rio Bonito Airport	BR
+SS3K	Grupo B&A Airport	BR
+SS3L	Fazenda Flor da Mata Airport	BR
 SS3M	Três Marias Airport	BR
 SS3P	Continental Airport	BR
 SS3Q	Fazenda Corrente Airport	BR
 SS3R	Grupo Venetto Airstrip	BR
 SS3S	Fazenda Nossa Senhora Aparecida Airstrip	BR
+SS3T	Fazenda Paraná Airport	BR
+SS3U	Vô Aníbal Airport	BR
 SS42	Grupo Plenitude Airstrip	BR
 SS43	Fazenda Capim Airstrip	BR
 SS44	Fazenda Nova Aurora Airstrip	BR
@@ -25735,7 +25721,6 @@ SDUE	Fazenda Thália Airport	BR
 SSTI	Arraial d`Ajuda Airport	BR
 SSTJ	Walter Ewaldo Siegel Airport	BR
 SSTK	Fazenda União de Iguatemi Airport	BR
-SBTG	Plínio Alarcom Airport	BR
 SSTP	Fazenda Baessa Airport	BR
 SSTQ	Silvestre Airport	BR
 SSTR	Usina CEM Airport	BR
@@ -26019,6 +26004,7 @@ SVKB	La Calzada Airport	VE
 SVQR	El Carrao Airport	VE
 SVKI	Piscuri Airport	VE
 SVKL	Las Clavellinas Airport	VE
+SVKM	Kamarata Airport	VE
 SVKN	Caño Negro Airport	VE
 SVLA	Las Adjuntas Airport	VE
 SVIB	La Blanquilla Airport	VE
@@ -26238,7 +26224,12 @@ SVYP	Yopita Airport	VE
 SVYU	Yutaje Airport	VE
 SW26	Fazenda São Francisco do Perigara Airstrip	BR
 SW27	Fazenda Caiçara Airport	BR
+SW29	Fazenda Campo Bonito Airstrip	BR
+SW2A	Cesconetto Airport	BR
+SW2B	Fazenda Pedra da Letra Airport	BR
 SW2C	Fazenda Recreio Airport	BR
+SW2D	Fazenda Nápoles Airport	BR
+SW2E	Ponto Novo Fruticultura Airport	BR
 SW2F	Lucas do Rio Verde Airport	BR
 SW2G	Tailândia Airport	BR
 SW2H	KM 47 Airport	BR
@@ -26294,7 +26285,6 @@ SWDN	Dianópolis Airport	BR
 SNES	Fazenda Saltos do Poente Airport	BR
 SDE2	Descalvados Lenda Turismo Airport	BR
 SWDY	Fazenda Água Fria Airport	BR
-AYEW	Siwea Airport	PG
 SWEA	Fazenda Santiago de Compostela	BR
 SWEC	Estância das Cascatas Airport	BR
 SWED	Fazenda Eldorado Airport	BR
@@ -26321,7 +26311,6 @@ SWFU	Fortuna Airport	BR
 SWFV	Terramare Airport	BR
 SWFX	São Félix do Araguaia Airport	BR
 SDSH	Fazenda Shalon Airport	BR
-AYSW	Satwag Airport	PG
 SWGC	Agricenter Airport	BR
 SWFM	Fazenda Maiador Airport	BR
 SWUH	Fazenda Primavera Airport	BR
@@ -26364,6 +26353,7 @@ SWIV	Águia Branca do Paru Airport	BR
 SIM2	Fazenda SM-3B Airport	BR
 SWIY	Santa Izabel do Morro Airport	BR
 SWIZ	Fazenda 7 Reis Airport	BR
+SWJA	Fazenda Aero – Amil Airport	BR
 SWJB	Fazenda Juba Airport	BR
 SWJC	Jaciara Airport	BR
 SWJD	Fazenda Genipapo Airport	BR
@@ -26482,13 +26472,11 @@ SBQI	Caracaraí Airport	BR
 SWQL	Fazenda Três Companheiros Airport	BR
 SWQO	Fazenda Renascença Airstrip	BR
 SWQP	Rio Vermelho Açucar e Álcool Airport	BR
-SWQQ	Fazenda Fundão Alegre Airport	BR
 SWQS	Fazenda Santa Rosa	BR
 SWQT	Fazenda São Nicolau Airport	BR
 SWQU	Fazenda Guaporé Airport	BR
 SWQW	Fazenda Bacaeri Airport	BR
 SWQY	Fazenda Peturú Airport	BR
-AYZI	Silur Airport	PG
 SWRC	Fazenda Sevilha Airport	BR
 SBRD	Maestro Marinho Franco Airport	BR
 SWRE	Fazenda Renovo Airport	BR
@@ -26563,8 +26551,7 @@ SDF8	Hotel Baiazinha Airport	BR
 SJJW	Fazenda Canamari Airport	BR
 SWWH	Fazenda Marca Salto Airstrip	BR
 SWWI	Fazenda Fortaleza Airport	BR
-SWWL	Fazenda Agrocentro Airport	BR
-SWWM	Fazenda Pupila Airport	BR
+SWWM	Mantena Airport	BR
 SDVX	Fazenda Santa Amália Airport	BR
 SWWT	Sílvio Gonçalves de Mello Airport	BR
 SWWU	Uruaçu Airport	BR
@@ -26619,7 +26606,6 @@ SWZQ	Fazenda Jussara Airport	BR
 SWZS	Fazenda Nova Larga Airport	BR
 SWZT	Fazenda do Brejo Airport	BR
 SWZY	Fazenda Sete Estrelas Airport	BR
-AYSL	Sehulea Airport	PG
 SYAG	Anna Regina Airport	GY
 SYAH	Aishalton Airport	GY
 SYAL	Albion Airport	GY
@@ -26636,6 +26622,7 @@ SYEB	Ebini Airport	GY
 SYEK	Ekereku Bottom Airport	GY
 SYEC	Eugene F. Correira International Airport	GY
 SYIB	Imbaimadai Airport	GY
+SYKA	Kaieteur International Airport	GY
 SYKI	Kaow Island Airport	GY
 SYKK	Kurukabaru Airport	GY
 SYKM	Kamarang Airport	GY
@@ -26656,7 +26643,6 @@ SYMN	Manari Airport	GY
 SYMP	Mountain Point Airport	GY
 SYMR	Matthews Ridge Airport	GY
 SYMW	Marurawana Airport	GY
-KSYN	Stanton Airfield	US
 SYNA	New Amsterdam Airport	GY
 SYOR	Orinduik Airport	GY
 SYPK	Port Kaituma Airport	GY
@@ -26668,8 +26654,6 @@ SYSK	Skeldon Airport	GY
 SYVB	Von Better Airport	GY
 SYWI	Wichabai Airport	GY
 SYYS	Yakishuru Airport	GY
-KSZN	Santa Cruz Island Airport	US
-KSZP	Santa Paula Airport	US
 KT13	Dallas South Port Airport	US
 T14	Taylor Airport	US
 T26	Flying V Ranch Airport	US
@@ -26732,21 +26716,15 @@ TA87	Carter-Norman Airport	US
 TA89	Vaughan Ranch Airport	US
 TA93	Lm Ranch Airport	US
 TA97	White Wing Ranch Airport	US
-ZSQD	Qingdao Jiaodong International Airport	CN
 TAPA	V C Bird International Airport	AG
 TAPH	Codrington Airport	AG
 TAPT	Coco Point Lodge Airstrip	AG
-AYTV	Timbunke Airport	PG
 TBPB	Grantley Adams International Airport	BB
-AYTR	Tarabo Airport	PG
-AYYL	Tinboli Airport	PG
 PPCT	Takotna Airport	US
 TCYT	Crystal Brook Airport	AU
 FT14	Kélo Airport	TD
-AYTF	Tetebedi Airport	PG
 TDCF	Canefield Airport	DM
 TDPD	Douglas-Charles Airport	DM
-AYSS	Sasereme Airport	PG
 TE01	Dillard Ranch Airport	US
 TE04	Split B Ranch Airport	US
 TE06	Casey Field	US
@@ -26798,8 +26776,6 @@ TE90	Flying L Airport	US
 TE91	Harrison Farm Airport	US
 TE97	Cameron Ranch Airport	US
 TE99	Barnstormer Airport	US
-AYTY	Terapo Airport	PG
-AYTH	Tifalmin Airport	PG
 TFFA	La Désirade Airport	GP
 TFFB	Basse-Terre Baillif Airport	GP
 TFFC	St-François Airport	GP
@@ -26809,7 +26785,6 @@ TFFJ	Saint Barthélemy - Rémy de Haenen Airport	BL
 TFFM	Marie-Galante Airport	GP
 TFFR	Pointe-à-Pitre Le Raizet International  Airport	GP
 TFFS	Terre-de-Haut Airport	GP
-AYTG	Tagula Airport	PG
 TGPY	Maurice Bishop International Airport	GD
 TGPZ	Lauriston Airport	GD
 VTBC	Chanthaburi Airstrip	TH
@@ -26826,11 +26801,9 @@ TJSJ	Luis Munoz Marin International Airport	PR
 TJVQ	Antonio Rivera Rodriguez Airport	PR
 TKPK	Robert L. Bradshaw International Airport	KN
 TKPN	Vance W. Amory International Airport	KN
-AYQL	Tumolbil Airport	PG
 TLPC	George F. L. Charles Airport	LC
 TLPL	Hewanorra International Airport	LC
 PALT	Tuluksak Airport	US
-UTAE	Kerki Airport	TM
 TN01	Ray Airport	US
 TN07	Hawk Haven Airfield	US
 TN08	Oliver Springs Inc Airport	US
@@ -26882,11 +26855,8 @@ TNCC	Hato International Airport	CW
 TNCE	F. D. Roosevelt Airport	BQ
 TNCM	Princess Juliana International Airport	SX
 TNCS	Juancho E. Yrausquin Airport	BQ
-SEJD	Jumandy Airport	EC
-PALJ	Port Alsworth Airport	US
 TQPF	Clayton J Lloyd International Airport	AI
 LTBB	Bozcaada Airport	TR
-LTCU	Bingöl Airport	TR
 LTFL	Keşan Air Base	TR
 LTDB	Çukurova International Airport	TR
 LTFI	Samsun / Ondokuz Mayis Airport	TR
@@ -26967,8 +26937,6 @@ TVSB	J F Mitchell Airport	VC
 TVSC	Canouan Airport	VC
 TVSM	Mustique Airport	VC
 TVSU	Union Island International Airport	VC
-RCLM	Dongsha Island (Pratas Island) Airport	TW
-RCCM	Qimei Airport	TW
 ZWTS	Tumxuk Tangwangcheng Airport	CN
 TX00	Abilene Executive Airpark	US
 TX03	Stapleton Field	US
@@ -27102,6 +27070,7 @@ UA36	Lugovoy Airport	KZ
 UTTC	Chirchik Airport	UZ
 UAAA	Almaty International Airport	KZ
 UAAH	Balkhash Airport	KZ
+UAAL	Usharal Airport	KZ
 UAAR	Boralday Airport	KZ
 UAAT	Taldykorgan Airport	KZ
 UABA	Burana Airport	KG
@@ -27110,10 +27079,8 @@ UACK	Kokshetau Airport	KZ
 UACP	Petropavl Airport	KZ
 UACS	Stepnogorsk Airport	KZ
 UADD	Taraz Airport	KZ
-AYAE	Mount Aue Airport	PG
 UAFG	Cholpon-Ata Airport	KG
 UAFI	Isfana Airport	KG
-UCFL	Issyk-Kul International Airport	KG
 UCFM	Manas International Airport	KG
 UCFO	Osh Airport	KG
 UCFP	Karakol Airport	KG
@@ -27123,6 +27090,7 @@ UAII	Shymkent Airport	KZ
 UAIT	Hazrat Sultan International Airport	KZ
 UAKD	Zhezkazgan National Airport	KZ
 UAKK	Sary-Arka Airport	KZ
+UAOL	Baikonur Krayniy Airport	KZ
 UAON	Yubileyniy Airfield	KZ
 UAOO	Kyzylorda Airport	KZ
 UARR	Uralsk Airport	KZ
@@ -27146,6 +27114,7 @@ UBBS	Khojaly Airport	AZ
 UB0G	Balakan Airport	AZ
 UBBA	Akstafa Airport	AZ
 UBBB	Heydar Aliyev International Airport	AZ
+UBBF	Fuzuli International Airport	AZ
 UBBG	Ganja International Airport	AZ
 UBBL	Lankaran International Airport	AZ
 UBBN	Nakhchivan Airport	AZ
@@ -27153,7 +27122,7 @@ UBBQ	Gabala International Airport	AZ
 UBBY	Zaqatala International Airport	AZ
 UBBZ	Zangilan International Airport	AZ
 UBEE	Yevlakh Airport	AZ
-AYUI	Buin Airport	PG
+UCFL	Issyk-Kul International Airport	KG
 UD21	Arzni Airport	AM
 UDLS	Stepanavan Airport	AM
 UDSG	Shirak International Airport	AM
@@ -27189,6 +27158,7 @@ UEMA	Moma Airport	RU
 UEMC	Khatyngnakh Airport	RU
 UEMD	Chagda Airport	RU
 UEME	Tyaya Airport	RU
+UEMH	Typliy Klyuch Airport	RU
 UEMM	Magan Airport	RU
 UEMN	Syagannakh	RU
 UEMO	Olyokminsk Airport	RU
@@ -27233,6 +27203,7 @@ UESV	Svatay Airport	RU
 UESX	Aleko-Kyuyol Airport	RU
 UESY	Abyy Airport	RU
 UESZ	Kazachye Airport	RU
+UEVV	Zhigansk Airport	RU
 UEWD	Dzhargalakh Airport	RU
 UEWO	Kudu-Kyuyol Airport	RU
 UEYR	Sasyr Airport	RU
@@ -27318,6 +27289,7 @@ UHSH	Okha Airport	RU
 UHSI	Iturup Airport	RU
 UHSK	Shakhtyorsk Airport	RU
 UHSM	Yuzhno-Kurilsk Mendeleyevo Airport	RU
+UHSN	Nogliki Airport	RU
 UHSO	Zonalnoye Airport	RU
 UHSS	Yuzhno-Sakhalinsk Airport	RU
 UHTG	Amgu Airport	RU
@@ -27355,7 +27327,6 @@ UITK	Kazachinskaya Airport	RU
 UITT	Ust-Kut Airport	RU
 UIUN	Nizhneangarsk International Airport	RU
 UIUU	Baikal International Airport	RU
-RKTL	Uljin Airport	KR
 UKHW	Chuhuiv Air Base	UA
 UKMC	Jagellon Airfield	UA
 UKBB	Boryspil International Airport	UA
@@ -27409,7 +27380,6 @@ ULAM	Naryan Mar Airport	RU
 ULAO	Onega Airfield	RU
 ULAR	Kargopol	RU
 ULAS	Solovki Airport	RU
-ULWC	Cherepovets Airport	RU
 ULBM	Purnema Airfield	RU
 ULBZ	Letnyaya Zolotitsa Airstrip	RU
 ULDD	Amderma Airport	RU
@@ -27417,7 +27387,6 @@ ULDT	Karatayka Airport	RU
 ULDW	Varandey Airport	RU
 ULEH	Khorey-Ver Airport	RU
 ULER	Kharuta Airport	RU
-OEAO	Majeed Bin Abdulaziz Airport	SA
 ULJC	Tsenogora Airport	RU
 ULJO	Olema Airport	RU
 ULKK	Kotlas Airport	RU
@@ -27433,7 +27402,9 @@ ULPK	Kalevala Airfield	RU
 ULPP	Peski Airfield	RU
 ULPS	Segezha Airfield	RU
 ULSW	Severniy veter	RU
+ULWC	Cherepovets Airport	RU
 ULWK	Kichmengskiy Gorodok Airport	RU
+ULWU	Velikiy Ustyug Airport	RU
 ULWW	Vologda Airport	RU
 31CO	Whomble Airport	US
 UMBB	Brest Airport	BY
@@ -27630,7 +27601,6 @@ ID67	Sands Airport	US
 14LA	Serenity Field Airport	US
 4TN1	Happy Landings Airport	US
 2LA8	Fokker Field	US
-KXWA	Williston Basin International Airport	US
 IL83	Fisch RLA Airport	US
 IL76	Wilt RLA Airport	US
 73OK	Spring Creek Ranch Airport	US
@@ -27783,7 +27753,6 @@ NC84	Ellis Airport	US
 PA07	Derick Ultralight Flightpark	US
 XS42	Embarcadero Airport	US
 XS53	Peaster 01 Airport	US
-XS63	La Parra Ranch Airport	US
 XS95	Cardinal Field	US
 AA05	Ugashik Narrows Airport	US
 97CA	Zamora Airport	US
@@ -28210,6 +28179,7 @@ AK64	Scooters Airport	US
 NE24	Bresette Airport	US
 OH90	Andrew J Ciechomski Memorial Airport	US
 OI85	Beam Farms Airport	US
+6AR5	Tidwell Flying Services Airport	US
 TS05	La Buena Vida Airport	US
 TS90	Hidden Valley Ranch Airport	US
 MN71	Bakko Aviation Airport	US
@@ -28299,7 +28269,6 @@ NR92	Riviere Ranch Airport	US
 TA28	Scott Airport	US
 21TX	Ambia Farm Airport	US
 67KY	Sunny Ridge Landing	US
-PAEW	Mertarvik Airport	US
 ID50	Flying Coyote Ranch Airport	US
 XA45	Boma Airport	US
 XS05	Freedom Airport	US
@@ -28452,9 +28421,16 @@ NY75	STOL Performance Airport	US
 90AR	Alos Field	US
 8IL3	Alms Restricted Landing Area	US
 OH51	Kathamel Airport	US
+13TT	Sunset Ranch Airport	US
 38MS	Yellow Dog Airport	US
 40OR	Medella Bison Ranch Airport	US
 53AZ	OMS UAS Test Range Airport	US
+75CO	MRW Farms Airfield	US
+CD05	Shkyview Airport	US
+FA63	Foxraven Field	US
+MY88	Henning/Boldt Airport	US
+XA81	Homerun Airport	US
+10KY	Gills' Landing Field	US
 USCC	Chelyabinsk Balandino Airport	RU
 USCG	Chelyabinsk Shagol Airport	RU
 USCM	Magnitogorsk International Airport	RU
@@ -28477,9 +28453,9 @@ USHI	Igrim Airport	RU
 USHK	Kondinskoye Airport	RU
 USHL	Lugovoy Airport	RU
 USHN	Nyagan Airport	RU
+USHQ	Beloyarskiy Airport	RU
 USHS	Sovetskiy Airport	RU
 USHU	Uray Airport	RU
-USHQ	Beloyarskiy Airport	RU
 USII	Izhevsk Airport	RU
 USKK	Pobedilovo Airport	RU
 USMM	Nadym Airport	RU
@@ -28537,6 +28513,7 @@ UT90	CAVOK Ranch Airport	US
 UT97	Happy Canyon Airport	US
 KUT9	West Desert Airpark	US
 UTAA	Ashgabat International Airport	TM
+UTAE	Kerki Airport	TM
 UTAK	Turkmenbashi International Airport	TM
 UTAM	Mary International Airport	TM
 UTAT	Daşoguz Airport	TM
@@ -28545,10 +28522,10 @@ UTDD	Dushanbe Airport	TJ
 UTDK	Kulob Airport	TJ
 UTDL	Khujand Airport	TJ
 UTDT	Qurghonteppa International Airport	TJ
+UTFN	Namangan Airport	UZ
 UTFA	Andizhan Airport	UZ
 UTFF	Fergana International Airport	UZ
 UTKK	Kokand Airport	UZ
-UTFN	Namangan Airport	UZ
 UTNM	Muynak Airport	UZ
 UTNN	Nukus Airport	UZ
 UTNT	Turtkul Airport	UZ
@@ -28574,6 +28551,7 @@ UUBK	Staroselye Airport	RU
 UUBN	Zmeyevo Airfield	RU
 UUBP	Bryansk Airport	RU
 UUBQ	Sharya Airport	RU
+UUBS	Smolensk South Airport	RU
 UUBW	Zhukovsky International Airport	RU
 UUDD	Domodedovo International Airport	RU
 UUDL	Tunoshna Airport	RU
@@ -28607,14 +28585,13 @@ UUYW	Vorkuta Airport	RU
 UUYX	Ust-Tsylma Airport	RU
 UUYY	Syktyvkar Airport	RU
 UWGB	Bolshoye Boldino Airport	RU
-UWGG	Nizhny Novgorod Strigino International Airport	RU
+UWGG	Nizhny Novgorod / Strigino International Airport	RU
 UWKB	Bugulma Airport	RU
 UWKD	Kazan International Airport	RU
 UWKE	Begishevo Airport	RU
 UWKG	Borisoglebskoye Airport	RU
 UWKJ	Yoshkar-Ola Airport	RU
 UWKS	Cheboksary Airport	RU
-UEVV	Zhigansk Airport	RU
 UWLL	Ulyanovsk Baratayevka Airport	RU
 UWLS	Soldatskaya Tashla Airfield	RU
 UWLW	Ulyanovsk East Airport	RU
@@ -28711,7 +28688,6 @@ VAAH	Sardar Vallabh Bhai Patel International Airport	IN
 VAAK	Akola Airport	IN
 VAAU	Aurangabad Airport	IN
 VABB	Chhatrapati Shivaji International Airport	IN
-VEBU	Bilaspur Airport	IN
 VABJ	Bhuj Airport	IN
 VOBM	Belagavi Airport	IN
 VABO	Vadodara Airport	IN
@@ -28720,17 +28696,18 @@ VABV	Bhavnagar Airport	IN
 VADN	Daman Airport	IN
 VADS	Deesa Airport	IN
 VAGN	Guna Airport	IN
-VOGO	Dabolim Airport	IN
 VOHB	Hubli Airport	IN
 VAHS	Rajkot International Airport	IN
 VAID	Devi Ahilyabai Holkar Airport	IN
 VAJB	Jabalpur Airport	IN
 VAJJ	Juhu Aerodrome	IN
+VAJL	Jalgaon Airport	IN
 VAJM	Jamnagar Airport	IN
 VAKE	Kandla Airport	IN
 VEKO	Khajuraho Airport	IN
 VAKP	Kolhapur Airport	IN
 VAKS	Keshod Airport	IN
+VALT	Murod Kond Airport	IN
 VAMA	Mundra Airport	IN
 VOND	Nanded Airport	IN
 VANP	Dr. Babasaheb Ambedkar International Airport	IN
@@ -28771,7 +28748,6 @@ VDSV	Sihanoukville International Airport	KH
 VDSY	Krakor Airport	KH
 SVAJ	Cacuri Airport	VE
 SVLE	La Esmeralda Airport	VE
-SVKM	Kamarata Airport	VE
 SVMU	Macagua Airport	VE
 SVKZ	La Culata Airport	VE
 SVFZ	El Lucero del Zulia Airport	VE
@@ -28783,7 +28759,6 @@ VEHX	Hashimara Air Force Station	IN
 VE54	Daltonganj Airport	IN
 VE62	Cuttack Airport	IN
 VE67	Mechuka Advanced Landing Ground	IN
-VEDH	Darbhanga Airport	IN
 VE91	Vijaynagar Advanced Landing Ground	IN
 VE96	Thuniabhand Airport	IN
 VEAH	Azamgarh Airport	IN
@@ -28796,7 +28771,9 @@ VEBG	Balurghat Airport	IN
 VEBI	Shillong Airport	IN
 VEBK	Bokaro Airport	IN
 VEBM	Berhampur Airport	IN
+VEBN	Lal Bahadur Shastri Airport	IN
 VEBS	Biju Patnaik Airport	IN
+VEBU	Bilaspur Airport	IN
 VECA	Chabua Air Force Station	IN
 VECC	Netaji Subhash Chandra Bose International Airport	IN
 VECK	Chakulia Airport	IN
@@ -28804,6 +28781,8 @@ VECO	Cooch Behar Airport	IN
 VECT	Chitrakoot Airport	IN
 VEDB	Dhanbad Airport	IN
 VEDG	Kazi Nazrul Islam Airport	IN
+VEDH	Darbhanga Airport	IN
+VEDO	Deoghar Airport	IN
 VEDX	Kalaikunda Air Force Station	IN
 VEDZ	Daporijo Airport	IN
 VEGK	Gorakhpur Airport	IN
@@ -28837,6 +28816,7 @@ VERC	Birsa Munda Airport	IN
 VERK	Rourkela Airport	IN
 VERL	Raxaul Airport	IN
 VERU	Rupsi Airport	IN
+VETJ	Tezu Airport	IN
 VETZ	Tezpur Airport	IN
 VEUK	Utkela Airport	IN
 VOVZ	Visakhapatnam Airport	IN
@@ -28881,6 +28861,7 @@ VGBR	Barisal Airport	BD
 VGCB	Cox's Bazar Airport	BD
 VGCM	Comilla Airport	BD
 VGEG	Shah Amanat International Airport	BD
+VGHS	Hazrat Shahjalal International Airport	BD
 VGIS	Ishurdi Airport	BD
 VGJR	Jessore Airport	BD
 VGLM	Lalmonirhat Airport	BD
@@ -28890,7 +28871,6 @@ VGSG	Thakurgaon Airport	BD
 VGSH	Shamshernagar Airport	BD
 VGSY	Osmany International Airport	BD
 VGTJ	Tejgaon Airport	BD
-VGHS	Hazrat Shahjalal International Airport	BD
 VHHH	Hong Kong International Airport	HK
 VHSK	Shek Kong Air Base	HK
 VI00	Saifai Airport	IN
@@ -28917,7 +28897,6 @@ VIAW	Awantipura Air Force Station	IN
 VIAX	Adampur Airport	IN
 VIBK	Nal Airport	IN
 VIBL	Bakshi Ka Talab Air Force Station	IN
-VEBN	Lal Bahadur Shastri Airport	IN
 VIBR	Kullu Manali Airport	IN
 VIBT	Bhatinda Air Force Station	IN
 VIBW	Bhiwani Airport	IN
@@ -28979,7 +28958,6 @@ VLXK	Xieng Khouang Airport	LA
 VLXL	Xienglom Airport	LA
 SGVM	Doctor Juan Plate National Airport	PY
 VMMC	Macau International Airport	MO
-VVDH	Dong Hoi Airport	VN
 VVYB	Yen Bai Air Base	VN
 VNBG	Bajhang Airport	NP
 VNBJ	Bhojpur Airport	NP
@@ -29029,8 +29007,6 @@ VNTR	Tumling Tar Airport	NP
 VNVT	Biratnagar Airport	NP
 VO26	Kovilpatti Airport	IN
 VO52	Harihar Airport	IN
-VALT	Murod Kond Airport	IN
-VOTK	Tuticorin Airport	IN
 VOBX	Campbell Bay Airport / INS Baaz	IN
 VO95	Hosur Airport	IN
 VOAR	INS Rajali / Arakkonam Naval Air Station	IN
@@ -29047,10 +29023,13 @@ VOCL	Calicut International Airport	IN
 VOCP	Kadapa Airport	IN
 VOCX	Car Nicobar Air Force Base	IN
 VODG	Dundigul Air Force Academy	IN
+VOGA	Manohar International Airport	IN
 VOGB	Kalaburagi Airport	IN
+VOGO	Dabolim Airport	IN
 VOHK	Hakimpet Airport	IN
 VOHS	Rajiv Gandhi International Airport	IN
 VOHY	Begumpet Airport	IN
+VOJV	Jindal Vijaynagar Airport	IN
 VOKN	Kannur International Airport	IN
 VOKP	Baldota Koppal Aerodrome	IN
 VOKU	Kurnool Airport	IN
@@ -29059,6 +29038,7 @@ VOML	Mangalore International Airport	IN
 VOMM	Chennai International Airport	IN
 VOMY	Mysore Airport	IN
 VONS	Nagarjuna Sagar Airport	IN
+VONV	Neyveli Airport	IN
 VOPB	Veer Savarkar International Airport / INS Utkrosh	IN
 VOPC	Pondicherry Airport	IN
 VOPN	Sri Sathya Sai Airport	IN
@@ -29070,6 +29050,7 @@ VOSM	Salem Airport	IN
 VOSR	Sindhudurg Airport	IN
 VOSX	Coimbatore Air Force Station	IN
 VOTJ	Thanjavur Air Force Station	IN
+VOTK	Tuticorin Airport	IN
 VOTP	Tirupati Airport	IN
 VOTR	Tiruchirappalli International Airport	IN
 VOTV	Thiruvananthapuram International Airport	IN
@@ -29077,10 +29058,10 @@ VOTX	Tambaram Air Force Station	IN
 VOVR	Vellore Airport	IN
 VOWA	Warangal Airport	IN
 VOYK	Yelahanka Air Force Station	IN
-VQTY	Yongphulla Airport	BT
 VQBT	Bathpalathang Airport	BT
 VQGP	Gelephu Airport	BT
 VQPR	Paro International Airport	BT
+VQTY	Yongphulla Airport	BT
 VRAH	Hoarafushi Airport	MV
 VRBK	Kulhudhuffushi Airport	MV
 VRDA	Maafaru International Airport	MV
@@ -29208,6 +29189,7 @@ VVCR	Cam Ranh International Airport / Cam Ranh Air Base	VN
 VVCS	Con Dao Airport	VN
 VVCT	Can Tho International Airport	VN
 VVDB	Dien Bien Phu Airport	VN
+VVDH	Dong Hoi Airport	VN
 VVDL	Lien Khuong Airport	VN
 VVDN	Da Nang International Airport	VN
 VVGL	Gia Lam Air Base	VN
@@ -29241,6 +29223,7 @@ VYFS	Surbung Airport	MM
 VYGG	Gangaw Airport	MM
 VYGW	Gwa Airport	MM
 VYHB	Hmawbi Air Base	MM
+VYHH	Heho Airport	MM
 VYHL	Hommalinn Airport	MM
 VYHN	Tilin Airport	MM
 VYKG	Kengtung Airport	MM
@@ -29299,7 +29282,6 @@ VYYY	Yangon International Airport	MM
 W09	Lower Monumental State Airport	US
 W10	Whidbey Air Park	US
 W13	Eagle's Nest Airport	US
-RE99	Raleigh East (Duplicate)	US
 KW19	Verona Airport	US
 W20	Moses Lake Municipal Airport	US
 W23	Wild Rose Idlewild Airport	US
@@ -29376,19 +29358,22 @@ WAYG	Akimuga Airstrip	ID
 WABD	Moanamani Airport	ID
 WABF	Kornasoren Airport	ID
 WABA	Deiyai / Waghete Baru Airport	ID
+WABK	Karubaga Airport	ID
 WAYL	Ilaga Airport	ID
 WAYK	Kokonao Airport	ID
 WAYY	Mozes Kilangin Airport	ID
 WAYE	Enarotali Airport	ID
 WABW	Waren Airport	ID
 WABY	Kebo Airstrip	ID
-WADA	Selaparang Airport	ID
 WADB	Sultan Muhammad Salahuddin Airport	ID
-WADD	Ngurah Rai (Bali) International Airport	ID
+WADD	Denpasar I Gusti Ngurah Rai International Airport	ID
 WADL	Lombok International Airport	ID
 WADS	Sumbawa Besar Airport	ID
 WATK	Tambolaka Airport	ID
+WADU	Lunyuk Airport	ID
 WATU	Umbu Mehang Kunda Airport	ID
+WADY	Banyuwangi Airport	ID
+WAEE	Sultan Babullah Airport	ID
 WAEW	Pitu Airport	ID
 WAFB	Toraja Airport	ID
 WAFD	Bua - Palopo Lagaligo Airport	ID
@@ -29407,9 +29392,12 @@ WAGG	Tjilik Riwut Airport	ID
 WAGP	Purukcahu Airport	ID
 WAHI	Yogyakarta International Airport	ID
 WAHL	Tunggul Wulung Airport	ID
+WAHP	Jenderal Besar Soedirman Airport	ID
 WAHU	Dewadaru Airport	ID
 WAJB	Bokondini Airport	ID
+WAJC	Dabra Airport	ID
 WAJD	Wakde Airport	ID
+WAJG	Batom Airport	ID
 WAJI	Mararena Sarmi Airport	ID
 WAJJ	Dortheys Hiyo Eluay International Airport	ID
 WAJK	Kiwirok Airstrip	ID
@@ -29423,8 +29411,10 @@ WAKE	Bade Airport	ID
 WAKG	Agats Airport	ID
 WAKK	Mopah International Airport	ID
 WAKL	Bomakia Airport	ID
+WAKM	Kamur Airport	ID
 WAKO	Okaba Airport	ID
 WAKP	Kepi Airport	ID
+WAKQ	Senggo Airport	ID
 WAKT	Tanah Merah Airport	ID
 WALE	Melalan Airport	ID
 WAQD	Tanjung Harapan Airport	ID
@@ -29450,7 +29440,6 @@ WAMN	Melangguane Airport	ID
 WAMO	Siau/Sitaro Airport	ID
 WAMP	Indonesia Morowali Industrial Park (IMIP) Airport	ID
 WAMS	Miangas Airport	ID
-WAEE	Sultan Babullah Airport	ID
 WAMU	Wuasa Airport	ID
 WAFY	Buol - Pogogul Airport	ID
 WAOC	Batu Licin Airport	ID
@@ -29463,6 +29452,7 @@ WAOO	Syamsudin Noor International Airport	ID
 WAGS	Sampit (Hasan) Airport	ID
 WAOT	Teluk Kepayang Airport	ID
 WAGM	Sanggu Airport	ID
+WAOW	Tumbang Samba Airport	ID
 WAPA	Amahai Airport	ID
 WAPB	Bula Airport	ID
 WAPC	Bandanaira Airport	ID
@@ -29485,12 +29475,15 @@ WAQC	Berau/Maratua Airport	ID
 WAQM	Robert Atty Bessing	ID
 WARA	Abdul Rachman Saleh Airport	ID
 WARC	Ngloram Airport	ID
+WARE	Notohadinegoro Airport	ID
 WARI	Iswahyudi Airport	ID
 WAHH	Adisutjipto International Airport	ID
 WAHQ	Adisumarmo International Airport	ID
 WARR	Juanda International Airport	ID
 WAHS	Achmad Yani Airport	ID
 WART	Trunojoyo Airport	ID
+WARW	Bawean - Harun Thohir Airport	ID
+WASA	Ayawasi Airport	ID
 WAUB	Stenkol Airport	ID
 WASC	Abresso Airport	ID
 WAUK	Kebar Airport	ID
@@ -29502,22 +29495,28 @@ WASN	Marinda Airport	ID
 WASO	Babo Airport	ID
 WAUU	Rendani Airport	ID
 WAST	Teminabuan Airport	ID
+WASU	Kambuaya Airport	ID
 WASW	Wasior Airport	ID
+WATA	AA Bere Tallo (Haliwen) Airport	ID
 WATB	Bajawa Soa Airport	ID
 WATC	Frans Xavier Seda Airport	ID
 WATE	H. Hasan Aroeboesman (Ende) Airport	ID
 WATG	Frans Sales Lega Airport	ID
+WATL	Larantuka Gewayentana Airport	ID
 WATM	Alor Island - Mali Airport	ID
 WATO	Komodo Airport	ID
 WATQ	John Becker Airport	ID
 WATR	David Constantijn Saudale Airport	ID
 WATS	Sabu-Tardanu Airport	ID
 WATT	El Tari Airport	ID
+WATW	Lembata Wonopito Airport	ID
 WAVV	Wamena Airport	ID
 WAWB	Betoambari Airport	ID
 WAWD	Matahora Airport	ID
 WAWH	Selayar - Haji Aroeppala Airport	ID
 WAWN	Arung Palakka Airport	ID
+WAWP	Sangia Nibandera Airport	ID
+WAWR	Sugimanuru Airport	ID
 WAWS	Soroako Airport	ID
 WAFT	Pongtiku Airport	ID
 WAWW	Haluoleo Airport	ID
@@ -29527,7 +29526,6 @@ WAYQ	Paro Airstrip	ID
 WAYU	Wangbe Airstrip	ID
 WBAK	Anduki Airport	BN
 WBB	Stebbins Airport	US
-AYWJ	Wapolu Airport	PG
 WBGA	Long Atip Airport	MY
 WBGB	Bintulu Airport	MY
 WBGC	Belaga Airport	MY
@@ -29546,7 +29544,6 @@ WBGP	Kapit Airport	MY
 WBGQ	Bakalalan Airport	MY
 WBGR	Miri Airport	MY
 WBGS	Sibu Airport	MY
-WBTM	Tanjung Manis Airport	MY
 WBGU	Long Sukang Airport	MY
 WBGW	Lawas Airport	MY
 WBGZ	Bario Airport	MY
@@ -29569,7 +29566,7 @@ WBKU	Kuala Penyu Airport	MY
 WBKW	Tawau Airport	MY
 WBMU	Mulu Airport	MY
 WBSB	Brunei International Airport	BN
-KWEA	Parker County Airport	US
+WBTM	Tanjung Manis Airport	MY
 WI00	Norrie Brook Airport	US
 WI03	Horner Farms Airport	US
 WI05	Stocktrade Airport	US
@@ -29583,7 +29580,6 @@ WI14	Baldwin Airport	US
 WI16	Jim Benson Field	US
 WI18	Gateway Airport	US
 WI19	Cacic Airport	US
-WICN	Nusawiru Airport	ID
 WI1G	Gading Wonosari Airport	ID
 WI21	Crane Field	US
 WI22	Rocket City Airport	US
@@ -29646,6 +29642,7 @@ WIRR	Budiarto Airport	ID
 WICC	Husein Sastranegara International Airport	ID
 WICD	Penggung Airport	ID
 WICM	Cibeureum Airport	ID
+WICN	Nusawiru Airport	ID
 WIDB	Tambelan Airport	ID
 WIDD	Hang Nadim International Airport	ID
 WIBG	Tuanku Tambusai Airport	ID
@@ -29692,12 +29689,12 @@ WIEE	Minangkabau International Airport	ID
 WIPY	Bentayan Airport	ID
 WISA	Smart Semelagi Airport	ID
 WIMT	Teuku Cut Ali Airport	ID
-WITN	Maimun Saleh Airport	ID
 WITC	Cut Nyak Dhien Airport	ID
 WIML	Lasikin Airport	ID
 WITK	Rembele Airport	ID
 WITL	Lhok Sukon Airport	ID
 WIMA	Malikus Saleh Airport	ID
+WITN	Maimun Saleh Airport	ID
 WITS	Seumayam Airport	ID
 WITT	Sultan Iskandar Muda International Airport	ID
 WMAB	Batu Pahat Airport	MY
@@ -29789,7 +29786,6 @@ WN90	Taylorport Airport	US
 WN92	Sky Meadows Airpark	US
 WN98	Florida North Airport	US
 WN99	Hayes Road Airport	US
-AYWH	Wanuma Airport	PG
 WAPS	Mathilda Batlayeri Airport	ID
 WPAT	Atauro Airport	TL
 WPDB	Suai Airport	TL
@@ -29801,9 +29797,7 @@ WPOC	Rota Do Sândalo Oecusse Airport	TL
 WPSM	Same Airport	TL
 WPVQ	Viqueque Airport	TL
 WRBU	Buntok Airport	ID
-WATA	AA Bere Tallo (Haliwen) Airport	ID
 WRKJ	Mena Airport	ID
-WATL	Larantuka Gewayentana Airport	ID
 WRKN	Naikliu Airport	ID
 WALA	Sanggata/Sangkimah Airport	ID
 WAQJ	Yuvai Semaring Airport	ID
@@ -29859,7 +29853,6 @@ WS84	Cran Bog N Airport	US
 WS87	Port Field	US
 WS91	Sky Hollow Airport	US
 WS96	Hughes Airport	US
-AYIW	Wasua Airport	PG
 WSAC	Changi Air Base (East)	SG
 WSAG	Sembawang Air Base	SG
 WSAP	Paya Lebar Air Base	SG
@@ -29878,8 +29871,6 @@ WT37	Lockwood Dry Coulee Airport	US
 WT44	Michair Airport	US
 WT77	Rocky Bay Airport	US
 WT88	Hill Airport	US
-AYWC	Wantoat Airport	PG
-AYVW	Wuvulu Island Airport	PG
 ZGWZ	Wuzhou Xijiang Airport	CN
 WV00	Deer Creek Farm Airport	US
 WV01	Lee Massey Airport	US
@@ -30007,8 +29998,6 @@ XA96	En Gedi Ranch Airport	US
 XA98	Jbj Ranch Airport	US
 XA99	Flat Bush Airport	US
 XAAP	Priozerny Air Base	KZ
-AYBZ	Biniguni Airport	PG
-EGEI	Broadford Airstrip	GB
 SWSX	Xinguara Municipal Airport	BR
 XRWL	Lebyazhye Air Base	RU
 XS00	Flying D Airport	US
@@ -30146,6 +30135,7 @@ YANN	Anningie Airport	AU
 YANW	Annitowa Airport	AU
 YAOR	Ardmore Airport	AU
 YAPA	Anna Plains Airport	AU
+YAPH	Alpha Airport	AU
 YAPO	Apollo Bay Airport	AU
 YAQA	Aquila Airfield	AU
 YARA	Ararat Airport	AU
@@ -30578,7 +30568,7 @@ YDYD	Derry Downs Airport	AU
 YDYS	Dysart Airport	AU
 YEAB	Euabalong Airport	AU
 YEAT	Yea Airport	AU
-YECB	Eco Beach	AU
+YECB	Eco Beach Airport	AU
 YECH	Echuca Airport	AU
 YECL	Eucla Airport	AU
 YEDA	Etadunna Airport	AU
@@ -30605,7 +30595,6 @@ YEMP	Emu Park Authorised Landing Area	AU
 YEPL	Epsilon Airport	AU
 YEPR	Epenarra Airport	AU
 YEPT	Emu Point Airstrip	AU
-AYYK	Yenkis(Yankisa) Airport	PG
 YEQO	El Questro Airport	AU
 YERA	Errabiddy Homestead Airport	AU
 YERH	Earaheedy Airport	AU
@@ -30845,6 +30834,7 @@ YKAJ	Kajabbi Airport	AU
 YKAL	Kalumburu Airport	AU
 YKAN	Kanandah Airport	AU
 YKAP	Kapunda Airport	AU
+YKAR	Karara Airport	AU
 YKAT	Katoomba Airport	AU
 YKAY	Kayrunnera Airport	AU
 YKBA	Ken's Bore airport	AU
@@ -31290,6 +31280,7 @@ YOOM	Moomba Airport	AU
 YOOO	Mooloola Homestead Airport	AU
 YORA	Moonerah Airport	AU
 YORB	Orbost Airport	AU
+YORC	Orchid Beach Airport	AU
 YORG	Orange Airport	AU
 YORL	Orleans Farm Airport	AU
 YORR	Orroroo Airport	AU
@@ -31499,6 +31490,7 @@ YSNF	Norfolk Island International Airport	NF
 YSNT	Snowtown Airport	AU
 YSNW	Naval Air Station Nowra - HMAS Albatross	AU
 YSNY	Sunnyside (Walla Walla) Airport	AU
+YSOL	Solomon Airport	AU
 YSOW	Southwell Airport	AU
 YSPE	Stanthorpe Airport	AU
 YSPF	Springfield Airport	AU
@@ -31538,7 +31530,6 @@ YTAM	Taroom Airport	AU
 YTAN	Tanami Downs Airport	AU
 YTAR	Tarcoola Airport	AU
 YTBB	Tumby Bay Airport	AU
-VTBF	Pattaya Airpark	TH
 YTBG	Talbingo Airport	AU
 YTBR	Timber Creek Airport	AU
 YTCF	Tracies Field	AU
@@ -31584,6 +31575,7 @@ YTMB	Tambo Airport	AU
 YTML	Tamala Airport	AU
 YTMN	Tanami Airport	AU
 YTMO	The Monument Airport	AU
+YTMP	Tom Price Airport	AU
 YTMS	Tambar Springs Airport	AU
 YTMU	Tumut Airport	AU
 YTMY	Tobermorey Airport	AU
@@ -31650,7 +31642,7 @@ YVVL	Violet Vale Airport	AU
 YWAB	Waldburg Homestead Airport	AU
 YWAC	Wauchope Airport	AU
 YWAG	Wanaaring Airport	AU
-YWAL	Wallal Airport	AU
+YWAL	Wallal Downs Airport	AU
 YWAT	Wattle Hills Airport	AU
 YWAV	Wave Hill Airport	AU
 YWAX	Wanarn Airport	AU
@@ -31764,7 +31756,6 @@ YWYF	Wycheproof Airport	AU
 YWYM	Wyndham Airport	AU
 YWYY	Wynyard Airport	AU
 YXBT	Ballarat Health Service Helipad	AU
-ZGYY	Yueyang Sanhe Airport	CN
 YYAA	Yandama Airport	AU
 YYAC	Yacamunda Airport	AU
 YYAG	Yagga Yagga Airport	AU
@@ -31811,13 +31802,11 @@ Z90	Stampede Airport	US
 Z91	Birch Creek Airport	US
 Z92	Harsens Island Airport	US
 FAAK	Askham Airport	ZA
-FAUS	Ulusaba Airport	ZA
 FATD	Tanda Tula Airport	ZA
 FAAP	Aviators Paradise Field	ZA
 FASP	Singita Safari Lodge Airport	ZA
 FAMV	Mountain View Estate Airfield	ZA
 FACO	Alkantpan Test Range Airport	ZA
-FAMN	Malelane Airport	ZA
 ZBAA	Beijing Capital International Airport	CN
 ZBAD	Beijing Daxing International Airport	CN
 ZBBB	Beijing Xijiao Airport	CN
@@ -31853,20 +31842,21 @@ ZBXZ	Xinzhou Wutaishan Airport	CN
 ZBYC	Yuncheng Zhangxiao Airport	CN
 ZBYN	Taiyuan Wusu Airport	CN
 ZBYZ	Bayannur Tianjitai Airport	CN
+ZBZJ	Zhangjiakou Ningyuan Airport	CN
 ZBZL	Zhalantun Genghis Khan Airport	CN
-OMDL	Delma Airport	AE
-AYZA	Zenag Airport	PG
 ZEZ4	Urdzhar East Airport	KZ
 ZGBH	Beihai Fucheng Airport	CN
+ZGBS	Baise (Bose) Bama Airport	CN
 ZGCD	Changde Taohuayuan Airport	CN
 ZGCJ	Huaihua Zhijiang Airport	CN
 ZGCZ	Chenzhou Beihu Airport	CN
 ZGDY	Zhangjiajie Hehua International Airport	CN
+ZGFS	Foshan Shadi Airport	CN
 ZGGG	Guangzhou Baiyun International Airport	CN
 ZGHA	Changsha Huanghua International Airport	CN
 ZGHC	Hechi Jinchengjiang Airport	CN
-ZWHZ	Shihezi Huayuan Airport	CN
 ZGHY	Hengyang Nanyue Airport	CN
+ZGHZ	Huizhou Pingtan Airport	CN
 ZGKL	Guilin Liangjiang International Airport	CN
 ZGLD	Luoding Sulong Airport	CN
 ZGLG	Yongzhou Lingling Airport	CN
@@ -31880,9 +31870,11 @@ ZGXN	Xingning Air Base	CN
 ZGXX	Xiangxi Biancheng Airport	CN
 ZGYJ	Yangjiang Heshan Airport	CN
 ZGYL	Yulin Fumian Airport	CN
+ZGYY	Yueyang Sanhe Airport	CN
 ZGZH	Liuzhou Bailian Airport / Bailian Air Base	CN
 ZHAY	Anyang Yindu Airport	CN
 ZHCC	Zhengzhou Xinzheng International Airport	CN
+ZHEC	Ezhou Huahu Airport	CN
 ZHES	Enshi Xujiaping Airport	CN
 ZHGH	Guangzhou MR Air Base / Guanghua Airport	CN
 ZHHH	Wuhan Tianhe International Airport	CN
@@ -31893,34 +31885,44 @@ ZHQQ	Anyang Hongqiqu Airport	CN
 ZHSN	Shennongjia Hongping Airport	CN
 ZHSY	Shiyan Wudangshan Airport	CN
 ZHXF	Xiangyang Liuji Airport	CN
+ZHXY	Xinyang Minggang Airport	CN
 ZHYC	Yichang Sanxia Airport	CN
 ZJHK	Haikou Meilan International Airport	CN
 ZJQH	Qionghai Bo'ao Airport	CN
 ZJSY	Sanya Phoenix International Airport	CN
 ZJYX	Yongxing Dao (Woody Island) Airport	CN
+ZKHM	Orang (Chongjin) Airport	KP
 ZKPY	Pyongyang Sunan International Airport	KP
 ZKSC	Sunchon Air Base	KP
 ZKSD	Sondok Airport	KP
+ZKSE	Samjiyŏn Airport	KP
+ZKUJ	Uiju Airport	KP
 ZKWS	Wonsan Kalma International Airport	KP
 ZLAK	Ankang Fuqiang Airport	CN
 ZLDH	Dunhuang Mogao International Airport	CN
 ZLDL	Delingha Airport	CN
+ZLGL	Golog Maqên Airport	CN
 ZLGM	Golmud Airport	CN
 ZLGY	Guyuan Liupanshan Airport	CN
+ZLHB	Haibei Qilian Airport	CN
 ZLHX	Huatugou Airport	CN
 ZLHZ	Hanzhong Chenggu Airport	CN
 ZLIC	Yinchuan Hedong International Airport	CN
+ZLJC	Jinchang Jinchuan Airport	CN
 ZLJQ	Jiayuguan Airport	CN
 ZLLL	Lanzhou Zhongchuan International Airport	CN
 ZLLN	Longnan Chengzhou Airport	CN
 ZLPC	Pucheng Neifu Airport	CN
 ZLQY	Qingyang Xifeng Airport	CN
 ZLSN	Xi'an Xiguan Airport	CN
+ZLTS	Tianshui Maijishan Airport	CN
 ZLXH	Gannan Xiahe Airport	CN
 ZLXN	Xining Caojiabao International Airport	CN
 ZLXY	Xi'an Xianyang International Airport	CN
 ZLYL	Yulin Yuyang Airport	CN
+ZLYS	Yushu Batang Airport	CN
 ZLZW	Zhongwei Shapotou Airport	CN
+ZLZY	Zhangye Ganzhou Airport	CN
 FLLV	Lochinvar Airport	ZM
 FLBP	Baobab Plains Airfield	ZM
 ZMAH	Arvaikheer Airport	MN
@@ -31938,9 +31940,11 @@ ZMDA	Dadal Airport	MN
 ZMDN	Donoi Airport	MN
 ZMDZ	Dalanzadgad Airport	MN
 ZMGT	Ovoot Airport	MN
+ZMHG	Khatgal Airport	MN
 ZMHH	Kharkhorin Airport	MN
 ZMHU	Khujirt Airport	MN
 ZMKD	Khovd Airport	MN
+ZMMG	Mandalgobi Airport	MN
 ZMMN	Mörön Airport	MN
 ZMKB	Khanbumbat Airport	MN
 ZMSF	Nalaikh/Sky Friends Airport	MN
@@ -31950,18 +31954,22 @@ ZMTL	Tosontsengel Airport	MN
 ZMTT	Umnugobi/Tavan Tolgoi Airport	MN
 ZMUB	Buyant-Ukhaa International Airport	MN
 ZMUG	Ulaangom Airport	MN
+ZMUH	Öndörkhaan Airport	MN
 ZMUL	Ölgii Mongolei Airport	MN
 ZNC	Nyac Airport	US
+ZPBS	Baoshan Yunrui Airport	CN
 ZPCW	Cangyuan Washan Airport	CN
 ZPDL	Dali Fengyi Airport	CN
 ZPDQ	Diqing Shangri-La Airport	CN
 ZPJH	Xishuangbanna Gasa International Airport	CN
 ZPJM	Lancang Jingmai Airport	CN
+ZPLC	Lincang Boshang Airport	CN
 ZPLJ	Lijiang Sanyi International Airport	CN
 ZPMS	Dehong Mangshi Airport	CN
 ZPPP	Kunming Changshui International Airport	CN
 ZPSM	Pu'er Simao Airport	CN
 ZPWS	Wenshan Puzhehei Airport	CN
+ZPYM	Yuanmou Air Base	CN
 ZPZT	Zhaotong Airport	CN
 WABO	Stevanus Rumbewas Airport	ID
 ZSAM	Xiamen Gaoqi International Airport	CN
@@ -31969,6 +31977,7 @@ ZSAQ	Anqing Tianzhushan Airport / Anqing North Air Base	CN
 ZSBB	Bengbu Tenghu Airport	CN
 ZSCG	Changzhou Benniu International Airport	CN
 ZSCN	Nanchang Changbei International Airport	CN
+ZSDY	Dongying Shengli Airport	CN
 ZSFY	Fuyang Xiguan Airport	CN
 ZSFZ	Fuzhou Changle International Airport	CN
 ZSGZ	Ganzhou Huangjin Airport	CN
@@ -31984,11 +31993,16 @@ ZSLQ	Taizhou Luqiao Airport	CN
 ZSLY	Linyi Qiyang Airport	CN
 ZSNB	Ningbo Lishe International Airport	CN
 ZSNJ	Nanjing Lukou International Airport	CN
+ZSNT	Nantong Xingdong International Airport	CN
 ZSOF	Hefei Xinqiao International Airport	CN
 ZSPD	Shanghai Pudong International Airport	CN
+ZSQD	Qingdao Jiaodong International Airport	CN
 ZSQZ	Quanzhou Jinjiang International Airport	CN
 ZSRG	Rugao Air Base	CN
 ZSRZ	Rizhao Shanzihe Airport	CN
+ZSSH	Huai'an Lianshui International Airport	CN
+ZSSM	Sanming Shaxian Airport	CN
+ZSSR	Shangrao Sanqingshan Airport	CN
 ZSSS	Shanghai Hongqiao International Airport	CN
 ZSSZ	Suzhou Guangfu Airport	CN
 ZSTX	Tunxi International Airport	CN
@@ -32011,12 +32025,15 @@ ZUBC	Beichuan Yongchang Airport	CN
 ZUBD	Qamdo Bangda Airport	CN
 ZUBJ	Bijie Feixiong Airport	CN
 ZUCK	Chongqing Jiangbei International Airport	CN
+ZUDA	Dazhou Jinya Airport	CN
 ZUDC	Daocheng Yading Airport	CN
 ZUDX	Dachuan Airport	CN
+ZUDZ	Dazu Air Base	CN
 ZUGH	Guanghan Airport	CN
 ZUGU	Guangyuan Panlong Airport	CN
 ZUGY	Guiyang Longdongbao International Airport	CN
 ZUGZ	Garze Gesar Airport	CN
+ZUHY	Hongyuan Airport	CN
 ZUJZ	Jiuzhai Huanglong Airport	CN
 ZUKD	Kangding Airport	CN
 ZUKJ	Kaili Huangping Airport	CN
@@ -32024,13 +32041,14 @@ ZULB	Libo Airport	CN
 ZULP	Liangping Airport	CN
 ZULS	Lhasa Gonggar Airport	CN
 ZULZ	Luzhou Yunlong Airport	CN
-ZMUH	Öndörkhaan Airport	MN
 ZUMT	Zunyi Maotai Airport	CN
 ZUMY	Mianyang Nanjiao Airport	CN
 ZUNC	Nanchong Gaoping Airport	CN
 ZUNP	Liping Airport	CN
 ZUNZ	Nyingchi Mainling Airport	CN
 ZUPS	Liupanshui Yuezhao Airport	CN
+ZUQJ	Qianjiang Wulingshan Airport	CN
+ZURK	Xigaze Peace Airport / Shigatse Air Base	CN
 ZUSH	Shannan Longzi Airport	CN
 ZUSN	Suining Airport	CN
 ZPTC	Tengchong Tuofeng Airport	CN
@@ -32042,14 +32060,17 @@ ZUWS	Chongqing Wushan Airport	CN
 ZUWX	Wanzhou Wuqiao Airport	CN
 ZUXC	Xichang Qingshan Airport	CN
 ZUYI	Xingyi Wanfenglin Airport	CN
+ZUZH	Panzhihua Bao'anying Airport	CN
 ZUZY	Zunyi Xinzhou Airport	CN
 FVRK	Rukomeshe Research Station Airstrip	ZW
 ZWAK	Aksu Hongqipo Airport	CN
 ZWAL	Aral Tarim Airport	CN
+ZWAT	Altay Xuedu Airport	CN
 ZWBL	Bole Alashankou Airport	CN
 ZWCM	Qiemo Yudu Airport	CN
 ZWFY	Fuyun Koktokay Airport	CN
 ZWHM	Hami Airport	CN
+ZWHZ	Shihezi Huayuan Airport	CN
 ZWKC	Kuqa Qiuci Airport	CN
 ZWKL	Korla Licheng Airport	CN
 ZWKM	Karamay Airport	CN
@@ -32066,21 +32087,25 @@ ZWWW	Ürümqi Diwopu International Airport	CN
 ZWYN	Yining Airport	CN
 ZWYT	Yutian Wanfang Airport	CN
 ZYAS	Anshan Teng'ao Airport / Anshan Air Base	CN
+ZYBA	Baicheng Chang'an Airport	CN
+ZYBS	Changbaishan Airport	CN
 ZYCC	Changchun Longjia International Airport	CN
 ZYCH	Changhai Airport	CN
 ZYCY	Chaoyang Airport	CN
+ZYDD	Dandong Langtou Airport	CN
+ZYDQ	Daqing Sartu Airport	CN
 ZYDU	Wudalianchi Dedu Airport	CN
 ZYFX	Fuxin Airport	CN
 ZYFY	Fuyuan Dongji Airport	CN
 ZYGH	Genhe Airport	CN
 ZYHB	Harbin Taiping International Airport	CN
 ZYHE	Heihe Aihui Airport	CN
+ZYJD	Daxing'anling Elunchun Airport	CN
 ZYJL	Jilin Ertaizi Airport	CN
 ZYJM	Jiamusi Dongjiao Airport	CN
 ZYJS	Jiansanjiang Shidi Airport	CN
 ZYJX	Jixi Xingkaihu Airport	CN
 ZYLD	Yichun Lindu Airport	CN
-ZLYS	Yushu Batang Airport	CN
 ZYLY	Liaoyang Air Base	CN
 ZYMD	Mudanjiang Hailang International Airport	CN
 ZYMH	Mohe Gulian Airport	CN
@@ -32091,6 +32116,7 @@ ZYTH	Da Hinggan Ling Targen Airport	CN
 ZYTL	Dalian Zhoushuizi International Airport	CN
 ZYTN	Tonghua Sanyuanpu Airport	CN
 ZYTX	Shenyang Taoxian International Airport	CN
+ZYXC	Xingcheng Air Base	CN
 ZYYJ	Yanji Chaoyangchuan Airport	CN
 ZYYK	Yingkou Lanqi Airport	CN
 ZYYY	Shenyang Dongta Airport	CN

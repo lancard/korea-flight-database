@@ -35,14 +35,18 @@ function getInitialID(artccName) {
 }
 
 function getOwnerID(artccName) {
-    if (artccName == "RKRR")
-        return ":KRA";
+    if (artccName == "RKSS")
+        return ":DGW:DG";
+    if (artccName == "RKPK")
+        return ":DGC:DG";
+    if (artccName == "RKPC")
+        return ":KRS:KR";
 
     return ""
 }
 
 function getCtrALT(artccName) {
-    if (artccName == "RKRR" || artccName == "RKRR_N" || artccName == "RKRR_S" || artccName == "RKDA" || artccName == "RKDA_W" || artccName == "RKDA_E" || artccName == "RKDA_C")
+    if (artccName == "RKRR" || artccName == "RKRR_A" || artccName == "RKRR_N" || artccName == "RKRR_S" || artccName == "RKDA" || artccName == "RKDA_W" || artccName == "RKDA_E" || artccName == "RKDA_C")
         return ":60000";
 
     return ":18500"
