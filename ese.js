@@ -36,7 +36,7 @@ function getInitialID(artccName) {
 
 function getOwnerID(artccName) {
     if (artccName == "RKRR")
-        return ":KRA";
+        return "";
 
     return ""
 }
@@ -514,8 +514,69 @@ module.exports = {
         contents += "SECTOR:RKTI_TMA:0:17500\n";
         contents += "OWNER:TIA\n";
         contents += "BORDER:RKTI_TMA_T22_BORDER\n";
+        contents += "\n";
+        //RKRR_A_TMA MANUAL INPUT START
+        contents += "SECTORLINE:RKRR_A_TMA_BORDER\n"
+        contents += "DISPLAY:RKRR_A_TMA:RKRR_A_TMA:RKRR_A_CTR\n"
+        contents += "COORD:N038.00.00.000:E124.00.00.000\n";
+        contents += "COORD:N038.00.00.000:E124.50.59.999\n";
+        contents += "COORD:N037.57.09.999:E124.54.09.998\n";
+        contents += "COORD:N037.52.30.000:E124.53.29.999\n";
+        contents += "COORD:N037.45.29.998:E124.57.19.998\n";
+        contents += "COORD:N037.37.00.000:E125.09.09.998\n";
+        contents += "COORD:N037.36.59.981:E125.19.33.827\n";
+        contents += "COORD:N037.38.07.432:E125.22.56.840\n";
+        contents += "COORD:N037.41.11.141:E125.31.27.207\n";
+        contents += "COORD:N037.43.07.873:E125.45.15.942\n";
+        contents += "COORD:N037.39.50.768:E126.01.06.195\n";
+        contents += "COORD:N037.43.34.664:E126.10.47.039\n";
+        contents += "COORD:N037.48.54.422:E126.12.36.474\n";
+        contents += "COORD:N037.50.49.998:E126.21.19.998\n";
+        contents += "COORD:N037.50.49.998:E126.26.19.998\n";
+        contents += "COORD:N037.46.19.999:E126.35.30.000\n";
+        contents += "COORD:N037.48.29.998:E126.41.00.000\n";
+        contents += "COORD:N037.57.09.999:E126.41.00.000\n";
+        contents += "COORD:N037.58.00.000:E126.47.10.000\n";
+        contents += "COORD:N038.02.29.998:E126.52.09.998\n";
+        contents += "COORD:N038.06.00.000:E126.52.39.999\n";
+        contents += "COORD:N038.08.40.000:E126.57.39.999\n";
+        contents += "COORD:N038.13.00.000:E126.58.10.000\n";
+        contents += "COORD:N038.19.09.998:E127.08.29.999\n";
+        contents += "COORD:N038.20.30.000:E127.14.00.000\n";
+        contents += "COORD:N038.19.20.000:E127.17.59.999\n";
+        contents += "COORD:N038.20.00.000:E127.23.29.999\n";
+        contents += "COORD:N038.18.09.997:E127.30.30.000\n";
+        contents += "COORD:N038.20.00.000:E127.34.09.998\n";
+        contents += "COORD:N038.20.19.999:E127.39.52.000\n";
+        contents += "COORD:N038.20.49.998:E127.47.10.000\n";
+        contents += "COORD:N038.19.09.998:E127.49.20.000\n";
+        contents += "COORD:N038.20.00.000:E127.53.29.999\n";
+        contents += "COORD:N038.19.00.000:E128.02.49.998\n";
+        contents += "COORD:N038.20.19.998:E128.08.09.999\n";
+        contents += "COORD:N038.24.40.000:E128.15.20.000\n";
+        contents += "COORD:N038.28.19.998:E128.18.00.000\n";
+        contents += "COORD:N038.35.49.998:E128.18.50.000\n";
+        contents += "COORD:N038.37.59.999:E128.22.00.000\n";
+        contents += "COORD:N038.38.09.959:E133.38.49.959\n";
+        contents += "COORD:N038.00.10.000:E132.59.49.999\n";
+        contents += "COORD:N037.30.10.000:E132.59.49.999\n";
+        contents += "COORD:N035.31.41.628:E130.19.48.216\n";
+        contents += "COORD:N034.40.00.001:E129.10.00.001\n";
+        contents += "COORD:N032.30.00.000:E127.30.00.000\n";
+        contents += "COORD:N032.30.00.000:E126.49.59.998\n";
+        contents += "COORD:N030.00.00.000:E125.25.00.001\n";
+        contents += "COORD:N030.00.00.000:E124.00.00.000\n";
+        contents += "COORD:N036.21.35.999:E124.00.00.000\n";
+        contents += "COORD:N038.00.00.000:E124.00.00.000\n";
+        contents += "COORD:N038.00.00.000:E124.00.00.000\n";
+        contents += "\n";
+        //RKRR_A_TMA MANUAL INPUT END
 
         contents += this.getAirspace();
+        contents += "\n";
+        contents += "SECTOR:RKRR_A_TMA:0:60000\n"
+        contents += "OWNER:KRA\n"
+        contents += "BORDER:RKRR_A_TMA_BORDER\n"
 
         contents += "\n\n";
         contents += "SECTORLINE:ZKKP_TMA_BORDER\n";
