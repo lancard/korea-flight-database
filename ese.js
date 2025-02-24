@@ -162,8 +162,6 @@ module.exports = {
             }
         });
 
-        console.dir(tracon);
-
         // -------------------------------------
         var ret = [];
         var additionalRet = [];
