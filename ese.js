@@ -125,7 +125,18 @@ module.exports = {
         return ret.join("\n");
     },
     getAirspace() {
-        var tracon = {};
+        var tracon = {
+            "RKPC": undefined,
+            "RKPK": undefined,
+            "RKSS": undefined,
+            "RKRR_N": undefined,
+            "RKRR_S": undefined,
+            "RKDA_W": undefined,
+            "RKDA_E": undefined,
+            "RKDA_C": undefined,
+            "RKDA": undefined,
+            "RKRR": undefined
+        };
 
         // get tracon
         fs.readdirSync('./database/airspace').forEach(e => {
@@ -150,6 +161,8 @@ module.exports = {
                 tracon[e.properties.id.split("-").join("_")] = e.geometry.coordinates[0][0];
             }
         });
+
+        console.dir(tracon);
 
         // -------------------------------------
         var ret = [];
