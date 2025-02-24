@@ -11083,6 +11083,42 @@
 		"airport": "RKTL"
 	},
 	{
+		"name": "VFR-TU-Point(D)",
+		"navaidType": "VFR_REPORTING_POINT",
+		"extraType": "VFR-Reporting-Point",
+		"description": "VFR Reporting point(Military Only)",
+		"latitude": "N036.45.46.750",
+		"longitude": "E127.26.20.050",
+		"airport": "RKTU"
+	},
+	{
+		"name": "VFR-TU-Point(O)",
+		"navaidType": "VFR_REPORTING_POINT",
+		"extraType": "VFR-Reporting-Point",
+		"description": "Golfzon County Jincheon(골프존카운티 진천)",
+		"latitude": "N036.48.51.410",
+		"longitude": "E127.24.04.680",
+		"airport": "RKTU"
+	},
+	{
+		"name": "VFR-TU-Point(P)",
+		"navaidType": "VFR_REPORTING_POINT",
+		"extraType": "VFR-Reporting-Point",
+		"description": "Chopyeong Reservoir(초평저수지)",
+		"latitude": "N036.49.41.230",
+		"longitude": "E127.29.57.930",
+		"airport": "RKTU"
+	},
+	{
+		"name": "VFR-TU-Point(C)",
+		"navaidType": "VFR_REPORTING_POINT",
+		"extraType": "VFR-Reporting-Point",
+		"description": "Cheongju IC(청주IC)",
+		"latitude": "N036.48.51.410",
+		"longitude": "E127.24.04.680",
+		"airport": "RKTU"
+	},
+	{
 		"name": "VIPIR",
 		"navaidType": "FIX",
 		"extraType": "FIX",
