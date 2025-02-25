@@ -2236,5 +2236,19 @@
 				"longitude2": "E127.30.17.425"
 			}
 		]
+	},
+	"RKTU-Hold-Position-Mark__678": {
+		"airport": "RKTU",
+		"name": "RKTU-Hold-Position-Mark__678",
+		"description": "지형 및 바운더리 등",
+		"colorProfile": "Airport-HoldPositionMark",
+		"lineList": [
+			{
+				"latitude1": "N036.43.29.409",
+				"longitude1": "E127.30.25.725",
+				"latitude2": "N036.43.28.825",
+				"longitude2": "E127.30.26.294"
+			}
+		]
 	}
 }
