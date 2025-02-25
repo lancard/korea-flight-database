@@ -11087,8 +11087,8 @@
 		"navaidType": "VFR_REPORTING_POINT",
 		"extraType": "VFR-Reporting-Point",
 		"description": "VFR Reporting point(Military Only)",
-		"latitude": "N036.45.46.750",
-		"longitude": "E127.26.20.050",
+		"latitude": "N036.45.46.000",
+		"longitude": "E127.26.20.000",
 		"airport": "RKTU"
 	},
 	{
@@ -11114,8 +11114,8 @@
 		"navaidType": "VFR_REPORTING_POINT",
 		"extraType": "VFR-Reporting-Point",
 		"description": "Cheongju IC(청주IC)",
-		"latitude": "N036.48.51.410",
-		"longitude": "E127.24.04.680",
+		"latitude": "N036.37.37.000",
+		"longitude": "E127.22.59.000",
 		"airport": "RKTU"
 	},
 	{
