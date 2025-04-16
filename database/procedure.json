@@ -6277,6 +6277,19 @@
     {
         "procedureType": "STAR",
         "airport": "RKSS",
+        "name": "LEGAK1T",
+        "fixList": [
+            "LEGAK",
+            "PT075",
+            "PT054",
+            "PT042",
+            "PT029",
+            "SUNEM"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSS",
         "name": "LEGAK1T.GONAV",
         "fixList": [
             "GONAV",
