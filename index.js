@@ -160,12 +160,15 @@ function initialize() {
             if (navaidList[a].navaidType == "VFR_REPORTING_POINT")
                 continue;
 
+            if (util.isNearAirportFix(navaidList[a].name))
+                continue;
+
             if (a == b)
                 continue;
 
             var distance_in_nm = util.calculateDistance(navaidList[a].latitudeDecimal, navaidList[a].longitudeDecimal, navaidList[b].latitudeDecimal, navaidList[b].longitudeDecimal);
             if (distance_in_nm < 0.00001) {
-                // console.log("too close fix: ", navaidList[a].airport, navaidList[a].name, navaidList[b].airport, navaidList[b].name, distance_in_nm + 'nm');
+                console.log("too close fix: ", navaidList[a].airport, navaidList[a].name, navaidList[b].airport, navaidList[b].name, distance_in_nm + 'nm');
             }
         }
     }

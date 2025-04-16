@@ -98,6 +98,10 @@ module.exports = {
         dist = convertRadiansToDegrees(dist) * 60 * 1.1515 * 0.8684; // nautical miles
 
         return (dist);
+    },
+    isNearAirportFix(fix) {
+        const nearAirportFixRegExpression = /[A-Z][A-Z][0-9][0-9][0-9]/;
+        return nearAirportFixRegExpression.test(fix);
     },    
     isLowAirway(name) {
         if (name.indexOf("Corridor") >= 0)

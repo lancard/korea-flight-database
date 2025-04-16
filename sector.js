@@ -12,12 +12,6 @@ function getSidStarLatitudeLongitudeString(fixOrCoord) {
     return `${arr[0].paddingRight(17)}${arr[1].paddingRight(17)}`;
 }
 
-const nearAirportFixRegExpression = /[A-Z][A-Z][0-9][0-9][0-9]/
-
-function nearAirportFix(fix) {
-    return nearAirportFixRegExpression.test(fix);
-}
-
 module.exports = {
     initialize() {
         if (!fs.existsSync('vatsim')) {
@@ -122,7 +116,7 @@ module.exports = {
         });
 
         // add fixes to ndb (near airport)
-        navaidList.filter(e => e.navaidType == "FIX" && nearAirportFix(e.name) && e.isUsedByNavigation).forEach(e => {
+        navaidList.filter(e => e.navaidType == "FIX" && util.isNearAirportFix(e.name) && e.isUsedByNavigation).forEach(e => {
             ret.push(`${e.name} ${e.frequency ? e.frequency : "000.000"} ${e.latitude} ${e.longitude}`);
         });
 
@@ -131,7 +125,7 @@ module.exports = {
     getFix() {
         var ret = [];
 
-        navaidList.filter(e => e.navaidType == "FIX" && !nearAirportFix(e.name) && e.isUsedByNavigation).forEach(e => {
+        navaidList.filter(e => e.navaidType == "FIX" && !util.isNearAirportFix(e.name) && e.isUsedByNavigation).forEach(e => {
             ret.push(`${e.name} ${e.latitude} ${e.longitude}`);
         });
 
