@@ -153,6 +153,20 @@ function initialize() {
         }
         navaidMap[e.name] = true;
     });
+
+    // print too close fix
+    for (var a = 0; a < navaidList.length; a++) {
+        for (var b = 0; b < navaidList.length; b++) {
+            if (a == b)
+                continue;
+
+            var distance_in_nm = util.calculateDistance(navaidList[a].latitudeDecimal, navaidList[a].longitudeDecimal, navaidList[b].latitudeDecimal, navaidList[b].longitudeDecimal);
+            if (distance_in_nm < 0.1) {
+                // console.log("too close fix: ", navaidList[a].name, navaidList[b].name);
+            }
+        }
+    }
+
 }
 
 

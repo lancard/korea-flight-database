@@ -80,6 +80,25 @@ module.exports = {
 
         return bearing;
     },
+    calculateDistance(lat1, lon1, lat2, lon2) {
+        function convertDegreesToRadians(deg) {
+            return (deg * Math.PI / 180.0);
+        }
+
+        function convertRadiansToDegrees(rad) {
+            return (rad / Math.PI * 180.0);
+        }
+
+        lat1 = convertDegreesToRadians(lat1);
+        lat2 = convertDegreesToRadians(lat2);
+        var delta_lon = convertDegreesToRadians(lon1 - lon2);
+
+        var dist = Math.sin(lat1) * Math.sin(lat2) + Math.cos(lat1) * Math.cos(lat2) * Math.cos(delta_lon);
+        dist = Math.acos(dist);
+        dist = convertRadiansToDegrees(dist) * 60 * 1.1515 * 0.8684; // nautical miles
+
+        return (dist);
+    },    
     isLowAirway(name) {
         if (name.indexOf("Corridor") >= 0)
             return true;
