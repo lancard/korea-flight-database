@@ -7225,6 +7225,32 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKPC",
+        "name": "ILSZ07",
+        "runway": "07",
+        "fixList": [
+            "YUMIN",
+            "LIMSO",
+            "N033.27.17.600 E126.22.51.800",
+            "N033.28.43.800 E126.25.39.300",
+            "N033.29.21.600 E126.26.52.700"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "ILSY07",
+        "runway": "07",
+        "fixList": [
+            "AKBIN",
+            "N033.24.35.000 E126.17.36.800",
+            "N033.27.17.600 E126.22.51.800",
+            "N033.28.43.800 E126.25.39.300",
+            "N033.29.21.600 E126.26.52.700"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
         "name": "RNPZ07",
         "runway": "07",
         "fixList": [
