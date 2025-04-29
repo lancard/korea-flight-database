@@ -7399,6 +7399,17 @@
     {
         "procedureType": "SID",
         "airport": "ZKPY",
+        "name": "SOKGE11D",
+        "runway": [
+            "17"
+        ],
+        "fixList": [
+            "SOKGE"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
         "name": "JONJU11D",
         "runway": [
             "17"
@@ -7417,6 +7428,17 @@
         ],
         "fixList": [
             "BODOK"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "ZKPY",
+        "name": "SOKGE21D",
+        "runway": [
+            "35"
+        ],
+        "fixList": [
+            "SOKGE"
         ]
     },
     {
