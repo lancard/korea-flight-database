@@ -7487,9 +7487,9 @@
     {
         "procedureType": "STAR",
         "airport": "ZKPY",
-        "name": "DODBI11A",
+        "name": "SOKGE11A",
         "fixList": [
-            "DODBI",
+            "SOKGE",
             "PY435"
         ]
     },
@@ -7527,10 +7527,9 @@
     {
         "procedureType": "STAR",
         "airport": "ZKPY",
-        "name": "DODBI21A",
+        "name": "SOKGE21A",
         "fixList": [
-            "DODBI",
-            "PY622",
+            "SOKGE",
             "PY621",
             "PY423"
         ]

@@ -3006,14 +3006,6 @@
 		"longitude": "E126.41.33.798"
 	},
 	{
-		"name": "DODBI",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N039.43.55.000",
-		"longitude": "E125.26.41.000"
-	},
-	{
 		"name": "GAYHA",
 		"navaidType": "FIX",
 		"extraType": "FIX",
