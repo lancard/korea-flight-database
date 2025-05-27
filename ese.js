@@ -148,6 +148,9 @@ module.exports = {
             if (fileInfo.name == "FIR")
                 return;
 
+            if (fileInfo.name == "BravoAirspace")
+                return;
+
             var airportName = fileInfo.name;
             var t = JSON.parse(fs.readFileSync('./database/airspace/' + e)).geometry.coordinates[0][0];
             tracon[airportName] = t;

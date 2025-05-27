@@ -2158,6 +2158,14 @@
 		"frequency": "116.500"
 	},
 	{
+		"name": "DODBI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N035.57.40.400",
+		"longitude": "E128.32.10.100"
+	},
+	{
 		"name": "DOGDI",
 		"navaidType": "FIX",
 		"extraType": "FIX",

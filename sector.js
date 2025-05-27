@@ -215,13 +215,29 @@ module.exports = {
             if (fileInfo.name == "FIR")
                 return;
 
+            if (fileInfo.name == "BravoAirspace")
+                return;
+
             var airportName = fileInfo.name;
             var tracon = JSON.parse(fs.readFileSync('./database/airspace/' + e)).geometry.coordinates[0][0];
 
             for (var b = 0; b < tracon.length - 1; b++) {
-                ret.push(`${airportName}_APP ${util.convertDecimalToMinutes(tracon[b][1], "NS")} ${util.convertDecimalToMinutes(tracon[b][0], "EW")} ${util.convertDecimalToMinutes(tracon[b + 1][1], "NS")} ${util.convertDecimalToMinutes(tracon[b + 1][0], "EW")}`)
+                ret.push(`${airportName}_APP ${util.convertDecimalToMinutes(tracon[b][1], "NS")} ${util.convertDecimalToMinutes(tracon[b][0], "EW")} ${util.convertDecimalToMinutes(tracon[b + 1][1], "NS")} ${util.convertDecimalToMinutes(tracon[b + 1][0], "EW")}`);
             }
         });
+
+        return ret.join("\n");
+    },
+    getBravoAirspace() {
+        var bravo = JSON.parse(fs.readFileSync('./database/airspace/BravoAirspace.json'));
+
+        var ret = [];
+
+        for(var name in bravo) {
+            for (var b = 0; b < bravo[name].length - 1; b++) {
+                ret.push(`${name} ${bravo[name][b]} ${bravo[name][b+1]}`);
+            }
+        }
 
         return ret.join("\n");
     },
@@ -397,6 +413,9 @@ module.exports = {
 
         contents += "\n\n[ARTCC HIGH]\n";
         contents += this.getTracon();
+
+        contents += "\n\n[ARTCC LOW]\n";
+        contents += this.getBravoAirspace();
 
         contents += "\n\n[SID]\n";
         contents += this.getSid();

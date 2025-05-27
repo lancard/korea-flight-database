@@ -1910,7 +1910,7 @@
         "procedureType": "APPROACH",
         "airport": "RKTN",
         "name": "RNP13R",
-        "runway": "13L",
+        "runway": "13R",
         "fixList": [
             "YAWAN",
             "TN401",
