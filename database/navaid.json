@@ -7191,12 +7191,111 @@
 		"airport": "RKPC"
 	},
 	{
-		"name": "PC738",
+		"name": "PC764",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
 		"latitude": "N033.24.50.200",
-		"longitude": "E126.51.37.601",
+		"longitude": "E126.51.37.600",
+		"airport": "RKPC"
+	},
+		{
+		"name": "PC761",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.59.17.300",
+		"longitude": "E126.36.36.600",
+		"airport": "RKPC"
+	},
+    {
+		"name": "PC762",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.57.56.900",
+		"longitude": "E126.49.10.500",
+		"airport": "RKPC"
+	},
+    {
+		"name": "PC763",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N034.03.22.600",
+		"longitude": "E127.00.43.600",
+		"airport": "RKPC"
+	},
+    {
+		"name": "PC767",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.52.52.520",
+		"longitude": "E126.51.23.200",
+		"airport": "RKPC"
+	},
+    {
+		"name": "VEKDI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.57.22.600",
+		"longitude": "E126.55.08.800",
+		"airport": "RKPC"
+	},
+    {
+		"name": "DOKVU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.54.49.800",
+		"longitude": "E127.00.19.200",
+		"airport": "RKPC"
+	},
+    {
+		"name": "PC682",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.51.17.400",
+		"longitude": "E127.04.34.200",
+		"airport": "RKPC"
+	},
+    {
+		"name": "PC683",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.46.58.800",
+		"longitude": "E127.07.37.700",
+		"airport": "RKPC"
+	},
+    {
+		"name": "PC684",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.42.10.300",
+		"longitude": "E127.09.18.300",
+		"airport": "RKPC"
+	},
+    {
+		"name": "PC685",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.37.09.900",
+		"longitude": "E127.09.30.100",
+		"airport": "RKPC"
+	},
+    {
+		"name": "LIDVO",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N033.32.16.400",
+		"longitude": "E127.08.12.500",
 		"airport": "RKPC"
 	},
 	{
