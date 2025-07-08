@@ -6854,7 +6854,7 @@
             "PC761",
             "PC762",
             "VEKDI",
-            "DOKYU",
+            "DOKVU",
             "PC682",
             "PC683",
             "PC684",
@@ -7087,116 +7087,6 @@
             "PC628",
             "PIMIK",
             "YUMIN"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPC",
-        "name": "DOTOL2T",
-        "fixList": [
-            "DOTOL",
-            "PC731",
-            "PC732",
-            "GULBI",
-            "PC631",
-            "NOMED",
-            "PC632",
-            "PC633",
-            "GURUM",
-            "DUKAL"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPC",
-        "name": "LIMDI1T",
-        "fixList": [
-            "LIMDI",
-            "LEDIN",
-            "PC741",
-            "PC735",
-            "PC736",
-            "PC737",
-            "GULBI",
-            "PC631",
-            "NOMED",
-            "PC632",
-            "PC633",
-            "GURUM",
-            "DUKAL"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPC",
-        "name": "SOSDO3T",
-        "fixList": [
-            "SOSDO",
-            "NUSLO",
-            "CJU",
-            "PC735",
-            "PC736",
-            "PC737",
-            "GULBI",
-            "PC631",
-            "NOMED",
-            "PC632",
-            "PC633",
-            "GURUM",
-            "DUKAL"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPC",
-        "name": "TOSAN3T",
-        "fixList": [
-            "TOSAN",
-            "NUSLO",
-            "CJU",
-            "PC735",
-            "PC736",
-            "PC737",
-            "GULBI",
-            "PC631",
-            "NOMED",
-            "PC632",
-            "PC633",
-            "GURUM",
-            "DUKAL"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPC",
-        "name": "TAMNA2T",
-        "fixList": [
-            "TAMNA",
-            "PC738",
-            "PC735",
-            "PC736",
-            "PC737",
-            "GULBI",
-            "PC631",
-            "NOMED",
-            "PC632",
-            "PC633",
-            "GURUM",
-            "DUKAL"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPC",
-        "name": "UPGOS1T",
-        "fixList": [
-            "UPGOS",
-            "JAREE",
-            "NOMED",
-            "PC632",
-            "PC633",
-            "GURUM",
-            "DUKAL"
         ]
     },
     {

@@ -63,6 +63,7 @@ SOO	Southern Air	Southern Air
 TGW	Scooter	Scooter
 THA	Thai	Thai
 THY	Turkish	Turkish
+TTW	Smart cat	Smart cat
 TWB	Tway	Tway
 TZP	Zippy (Zipair)	Zippy (Zipair)
 UAE	Emirate	Emirate
