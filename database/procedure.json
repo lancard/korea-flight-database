@@ -7167,6 +7167,30 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKPC",
+        "name": "RNPZ25",
+        "runway": "25",
+        "fixList": [
+            "DUKAL",
+            "TOKIN",
+            "RENEK",
+            "N033.31.20.000 E126.30.43.000"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
+        "name": "RNPY25",
+        "runway": "25",
+        "fixList": [
+            "DUKAL",
+            "TOKIN",
+            "RENEK",
+            "N033.31.20.000 E126.30.43.000"
+        ]
+    },
+    {
+        "procedureType": "APPROACH",
+        "airport": "RKPC",
         "name": "ILSY25.OMKEL",
         "runway": "25",
         "fixList": [

@@ -53,7 +53,6 @@ LOT	Poland/Polish/Pollot	Poland/Polish/Pollot
 MAS	Malaysian	Malaysian
 MMA	Myanmar	Myanmar
 PAC	Polar	Polar
-PTA Parata Air	Parata Air
 QDA	Sky Legend (Qingdao Airlines)	Sky Legend (Qingdao Airlines)
 QFA	Qantas	Qantas
 QTR	Qatari	Qatari
