@@ -6851,6 +6851,7 @@
         "airport": "RKPC",
         "name": "DOTOL2M",
         "fixList": [
+            "DOTOL",
             "PC761",
             "PC762",
             "VEKDI",
@@ -6868,6 +6869,7 @@
         "airport": "RKPC",
         "name": "UPGOS2M",
         "fixList": [
+            "UPGOS",
             "KIBEK",
             "PC763",
             "DOKVU",
