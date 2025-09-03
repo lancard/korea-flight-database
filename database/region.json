@@ -562,6 +562,20 @@
         ]
     },
     {
+        "name": "RKR14_PyeongDong",
+        "regionType": "RestrictedArea",
+        "colorProfile": "Area-RestrictedArea",
+        "fixList": [
+            "N035.09.00.000 E126.42.00.000",
+            "N035.09.00.000 E126.44.00.000",
+            "N035.08.16.620 E126.45.26.780",
+            "N035.05.18.430 E126.43.46.350",
+            "N035.06.00.620 E126.41.00.000",
+            "N035.07.46.000 E126.41.17.000",
+            "N035.08.06.000 E126.40.56.000"
+        ]
+    },
+    {
         "name": "RKR17_YeoJu",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",

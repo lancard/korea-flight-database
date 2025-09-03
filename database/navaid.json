@@ -2661,7 +2661,7 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "DU025",
+		"name": "DUDOT",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -2688,7 +2688,7 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "DU066",
+		"name": "UPKIG",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -10020,7 +10020,7 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "UD160",
+		"name": "UPDET",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -10706,21 +10706,21 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "VFR-SS-Point(L)",
-		"navaidType": "VFR_REPORTING_POINT",
-		"extraType": "VFR-Reporting-Point",
-		"description": "VFR Reporting point",
-		"latitude": "N037.35.33.000",
-		"longitude": "E126.47.00.000",
-		"airport": "RKSS"
-	},
-	{
 		"name": "VFR-SS-Point(M)",
 		"navaidType": "VFR_REPORTING_POINT",
 		"extraType": "VFR-Reporting-Point",
 		"description": "VFR Reporting point",
 		"latitude": "N037.34.08.000",
 		"longitude": "E126.47.37.000",
+		"airport": "RKSS"
+	},
+	{
+		"name": "VFR-SS-Point(R)",
+		"navaidType": "VFR_REPORTING_POINT",
+		"extraType": "VFR-Reporting-Point",
+		"description": "VFR Reporting point",
+		"latitude": "N037.36.15.000",
+		"longitude": "E126.47.39.000",
 		"airport": "RKSS"
 	},
 	{

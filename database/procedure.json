@@ -1119,54 +1119,6 @@
     {
         "procedureType": "SID",
         "airport": "RKTU",
-        "name": "CHEONGJU7.GUKDO",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "GUKDO"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTU",
-        "name": "CHEONGJU7.MAKDU",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "MAKDU"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTU",
-        "name": "CHEONGJU7.BULTI",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "BULTI"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTU",
-        "name": "CHEONGJU7.OLMEN",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "OLMEN"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTU",
         "name": "CHEONGJU5.GUKDO",
         "runway": [
             "24L",
@@ -1216,54 +1168,6 @@
         "procedureType": "SID",
         "airport": "RKTU",
         "name": "CHEONGJU5.OLMEN",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "OLMEN"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTU",
-        "name": "CHEONGJU8.GUKDO",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "GUKDO"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTU",
-        "name": "CHEONGJU8.MAKDU",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "MAKDU"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTU",
-        "name": "CHEONGJU8.BULTI",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "BULTI"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTU",
-        "name": "CHEONGJU8.OLMEN",
         "runway": [
             "24L",
             "24R"
@@ -5904,7 +5808,7 @@
             "UD060",
             "UD080",
             "UD100",
-            "UD160",
+            "UPDET",
             "BULTI"
         ]
     },
@@ -6142,7 +6046,7 @@
             "SUPOM",
             "SEL",
             "DU030",
-            "DU025",
+            "DUDOT",
             "DU022",
             "DU018",
             "DOKDO"
@@ -6156,7 +6060,7 @@
             "EGOBA",
             "SEL",
             "DU030",
-            "DU025",
+            "DUDOT",
             "DU022",
             "DU018",
             "DOKDO"
@@ -6168,13 +6072,13 @@
         "name": "OLMEN2U",
         "fixList": [
             "OLMEN",
-            "DU066",
+            "UPKIG",
             "KAKSO",
             "DU063",
             "SUPOM",
             "SEL",
             "DU030",
-            "DU025",
+            "DUDOT",
             "DU022",
             "DU018",
             "DOKDO"

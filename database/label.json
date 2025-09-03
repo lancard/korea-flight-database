@@ -8690,6 +8690,14 @@
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
+        "airport": "RKPK",
+        "labelType": "Taxiway",
+        "name": "H",
+        "latitude": "N035.10.07.964",
+        "longitude": "E128.56.44.166",
+        "colorProfile": "Airport-Taxiway-Label"
+    },
+    {
         "airport": "RKJB",
         "labelType": "Taxiway",
         "name": "E1",
