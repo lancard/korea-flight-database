@@ -39,6 +39,7 @@
     "FDX": "Fedex",
     "FGW": "Fly gangwon",
     "FIN": "Finnair",
+    "FPA": "Forest patrol",
     "GIA": "Indonesia (Garuda)",
     "GTI": "Giant",
     "HAL": "Hawaiian",
@@ -54,6 +55,7 @@
     "MAS": "Malaysian",
     "MMA": "Myanmar",
     "PAC": "Polar",
+    "PTA": "Parata",
     "QDA": "Sky Legend (Qingdao Airlines)",
     "QFA": "Qantas",
     "QTR": "Qatari",
@@ -64,6 +66,7 @@
     "TGW": "Scooter",
     "THA": "Thai",
     "THY": "Turkish",
+    "TTW": "Smart cat",
     "TWB": "Tway",
     "TZP": "Zippy (Zipair)",
     "UAE": "Emirate",
@@ -71,3 +74,4 @@
     "UPS": "UPS",
     "UZB": "Uzbek"
 }
+

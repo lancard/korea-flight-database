@@ -53,6 +53,7 @@ LOT	Poland/Polish/Pollot	Poland/Polish/Pollot
 MAS	Malaysian	Malaysian
 MMA	Myanmar	Myanmar
 PAC	Polar	Polar
+PTA	Parata	Parata
 QDA	Sky Legend (Qingdao Airlines)	Sky Legend (Qingdao Airlines)
 QFA	Qantas	Qantas
 QTR	Qatari	Qatari
@@ -63,6 +64,7 @@ SOO	Southern Air	Southern Air
 TGW	Scooter	Scooter
 THA	Thai	Thai
 THY	Turkish	Turkish
+TTW	Smart cat	Smart cat
 TWB	Tway	Tway
 TZP	Zippy (Zipair)	Zippy (Zipair)
 UAE	Emirate	Emirate
