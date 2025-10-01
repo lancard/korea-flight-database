@@ -4574,7 +4574,7 @@
     {
         "procedureType": "SID",
         "airport": "RKSI",
-        "name": "BOPTA2C",
+        "name": "BOPTA3H",
         "runway": [
             "15L",
             "15R"
@@ -4583,15 +4583,15 @@
             "CG050",
             "CG100",
             "CD120",
-            "HD130",
-            "HD140",
+            "VIMER",
+            "EXUTO",
             "BOPTA"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKSI",
-        "name": "BINIL2C",
+        "name": "BINIL3C",
         "runway": [
             "15L",
             "15R"
@@ -4599,9 +4599,9 @@
         "fixList": [
             "CG050",
             "CG100",
-            "CP100",
-            "HP100",
-            "HP120",
+            "CP101",
+            "ATNER",
+            "HP121",
             "BELTU",
             "BINIL"
         ]
@@ -4644,7 +4644,7 @@
     {
         "procedureType": "SID",
         "airport": "RKSI",
-        "name": "BINIL2H",
+        "name": "BINIL3H",
         "runway": [
             "16L",
             "16R"
@@ -4652,8 +4652,8 @@
         "fixList": [
             "HD050",
             "HD100",
-            "HP100",
-            "HP120",
+            "ATNER",
+            "HP121",
             "BELTU",
             "BINIL"
         ]
@@ -4661,7 +4661,7 @@
     {
         "procedureType": "SID",
         "airport": "RKSI",
-        "name": "BOPTA2H",
+        "name": "BOPTA3H",
         "runway": [
             "16L",
             "16R"
@@ -4669,9 +4669,9 @@
         "fixList": [
             "HD050",
             "HD100",
-            "HD120",
-            "HD130",
-            "HD140",
+            "CD120",
+            "VIMER",
+            "EXUTO",
             "BOPTA"
         ]
     },
@@ -4794,7 +4794,7 @@
         "fixList": [
             "EG020",
             "EG040",
-            "EG055",
+            "ASIDI",
             "EG070",
             "EG140",
             "SEL",
@@ -4812,7 +4812,7 @@
         "fixList": [
             "EG020",
             "EG040",
-            "EG055",
+            "ASIDI",
             "EG070",
             "EG140",
             "EG160",
@@ -4942,7 +4942,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKSI",
-        "name": "GUKDO2C",
+        "name": "GUKDO3C",
         "fixList": [
             "GUKDO",
             "KAKSO",
@@ -4951,15 +4951,15 @@
             "GC071",
             "SEL",
             "GC036",
-            "GC026",
-            "GC020",
+            "ANPEM",
+            "GC021",
             "BITIM"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKSI",
-        "name": "KARBU2C",
+        "name": "KARBU3C",
         "fixList": [
             "KARBU",
             "UPSOM",
@@ -4967,30 +4967,31 @@
             "KC066",
             "SEL",
             "GC036",
-            "GC026",
-            "GC020",
+            "ANPEM",
+            "GC022",
+            "GC021",
             "BITIM"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKSI",
-        "name": "OLMEN2C",
+        "name": "OLMEN3C",
         "fixList": [
             "OLMEN",
             "BOPKI",
-            "DH050",
+            "UDIDA",
             "DH047",
             "SANLA",
-            "DC039",
+            "MABLO",
             "DC036",
             "DC035",
             "DC031",
             "DC032",
             "DC037",
-            "GC036",
-            "GC026",
-            "GC020",
+            "ANPEM",
+            "GC022",
+            "GC021",
             "BITIM"
         ]
     },
@@ -5056,7 +5057,7 @@
         "fixList": [
             "OLMEN",
             "BOPKI",
-            "DH050",
+            "UDIDA",
             "DH047",
             "SANLA",
             "DH034",
@@ -5152,16 +5153,38 @@
     {
         "procedureType": "STAR",
         "airport": "RKSI",
-        "name": "REBIT2A",
+        "name": "REBIT1Y",
         "fixList": [
             "REBIT",
             "PY049",
-            "PY037",
-            "CW001",
-            "CW002",
-            "CW003",
-            "CW004",
-            "CW005",
+            "PY036",
+            "LAPOP",
+            "PY031",
+            "DY025",
+            "NOKEB",
+            "EMSOS",
+            "DY020",
+            "DY017",
+            "DY016",
+            "PAMBI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKSI",
+        "name": "OLMEN1Y",
+        "fixList": [
+            "OLMEN",
+            "DY037",
+            "DY034",
+            "LEGOP",
+            "DY027",
+            "DY025",
+            "NOKEB",
+            "EMSOS",
+            "DY020",
+            "DY017",
+            "DY016",
             "PAMBI"
         ]
     },
