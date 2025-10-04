@@ -4576,6 +4576,23 @@
         "airport": "RKSI",
         "name": "BOPTA3H",
         "runway": [
+            "16L",
+            "16R"
+        ],
+        "fixList": [
+            "HD050",
+            "HD100",
+            "CD120",
+            "VIMER",
+            "EXUTO",
+            "BOPTA"
+        ]
+    },
+        {
+        "procedureType": "SID",
+        "airport": "RKSI",
+        "name": "BOPTA3C",
+        "runway": [
             "15L",
             "15R"
         ],
