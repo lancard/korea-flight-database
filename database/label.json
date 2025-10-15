@@ -1557,7 +1557,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "2Y",
+        "name": "7Y",
         "latitude": "N037.27.48.600",
         "longitude": "E126.27.44.190",
         "colorProfile": "Airport-Taxiway-Label"
@@ -1565,7 +1565,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "3Y",
+        "name": "8Y",
         "latitude": "N037.27.51.790",
         "longitude": "E126.27.41.500",
         "colorProfile": "Airport-Taxiway-Label"
@@ -1573,7 +1573,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "4Y",
+        "name": "9Y",
         "latitude": "N037.28.16.050",
         "longitude": "E126.27.19.860",
         "colorProfile": "Airport-Taxiway-Label"
@@ -1581,7 +1581,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "5Y",
+        "name": "10Y",
         "latitude": "N037.28.18.650",
         "longitude": "E126.27.17.600",
         "colorProfile": "Airport-Taxiway-Label"
@@ -1589,7 +1589,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "1Y",
+        "name": "5Y",
         "latitude": "N037.27.17.971",
         "longitude": "E126.28.11.214",
         "colorProfile": "Airport-Taxiway-Label"
@@ -1597,7 +1597,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "6Y",
+        "name": "11Y",
         "latitude": "N037.29.00.953",
         "longitude": "E126.26.39.642",
         "colorProfile": "Airport-Taxiway-Label"
@@ -8372,7 +8372,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "D2",
+        "name": "D7",
         "latitude": "N037.27.53.100",
         "longitude": "E126.27.50.030",
         "colorProfile": "Airport-Taxiway-Label"
@@ -8380,7 +8380,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "D2",
+        "name": "D7",
         "latitude": "N037.28.03.890",
         "longitude": "E126.28.09.220",
         "colorProfile": "Airport-Taxiway-Label"
@@ -8412,7 +8412,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "D3",
+        "name": "D8",
         "latitude": "N037.27.55.340",
         "longitude": "E126.27.48.090",
         "colorProfile": "Airport-Taxiway-Label"
@@ -8420,7 +8420,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "D3",
+        "name": "D8",
         "latitude": "N037.28.06.110",
         "longitude": "E126.28.07.100",
         "colorProfile": "Airport-Taxiway-Label"
@@ -8516,7 +8516,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "D4",
+        "name": "D9",
         "latitude": "N037.28.20.030",
         "longitude": "E126.27.26.340",
         "colorProfile": "Airport-Taxiway-Label"
@@ -8524,7 +8524,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "D4",
+        "name": "D9",
         "latitude": "N037.28.30.540",
         "longitude": "E126.27.44.830",
         "colorProfile": "Airport-Taxiway-Label"
@@ -8532,7 +8532,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "D5",
+        "name": "D10",
         "latitude": "N037.28.22.670",
         "longitude": "E126.27.24.230",
         "colorProfile": "Airport-Taxiway-Label"
@@ -8540,7 +8540,7 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "D5",
+        "name": "D10",
         "latitude": "N037.28.33.080",
         "longitude": "E126.27.42.610",
         "colorProfile": "Airport-Taxiway-Label"
