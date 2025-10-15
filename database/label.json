@@ -1589,17 +1589,17 @@
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "5Y",
-        "latitude": "N037.27.17.971",
-        "longitude": "E126.28.11.214",
+        "name": "11Y",
+        "latitude": "N037.29.00.953",
+        "longitude": "E126.26.39.642",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
         "airport": "RKSI",
         "labelType": "Taxiway",
-        "name": "11Y",
-        "latitude": "N037.29.00.953",
-        "longitude": "E126.26.39.642",
+        "name": "5Y",
+        "latitude": "N037.27.17.971",
+        "longitude": "E126.28.11.214",
         "colorProfile": "Airport-Taxiway-Label"
     },
     {
