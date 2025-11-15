@@ -60,6 +60,18 @@ function initialize() {
         });
     });
 
+    // check duplication in navaids
+    var navaidCheckMap = {};
+    navaidList.forEach(n => {
+        navaidCheckMap[n.name] = navaidCheckMap[n.name] || 0;
+        navaidCheckMap[n.name]++;
+    });
+    for (var n in navaidCheckMap) {
+        if (navaidCheckMap[n] > 1) {
+            console.log("duplicated navaid: " + n + ", count: " + navaidCheckMap[n]);
+        }
+    }
+
     // get world airport
     const airports = require('./temp/airports.json');
     airports.forEach((e) => {

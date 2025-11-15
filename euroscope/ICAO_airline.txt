@@ -36,8 +36,8 @@ ETD	Ethihad	Ethihad
 ETH	Ethiopian	Ethiopian
 EVA	Eva	Eva
 FDX	Fedex	Fedex
-FGW	Fly gangwon	Fly gangwon
 FIN	Finnair	Finnair
+FPA	Forest patrol	Forest patrol
 GIA	Indonesia (Garuda)	Indonesia (Garuda)
 GTI	Giant	Giant
 HAL	Hawaiian	Hawaiian

@@ -1452,15 +1452,6 @@
 		"airport": "RKPS"
 	},
 	{
-		"name": "CHANO",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.07.29.488",
-		"longitude": "E128.07.57.730",
-		"airport": "RKPS"
-	},
-	{
 		"name": "CHI",
 		"navaidType": "VOR",
 		"vorType": "VORDME",
@@ -6514,15 +6505,6 @@
 		"description": "경로 픽스",
 		"latitude": "N038.00.49.200",
 		"longitude": "E128.43.04.700",
-		"airport": "RKNY"
-	},
-	{
-		"name": "NY003",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "FAF",
-		"latitude": "N037.59.40.600",
-		"longitude": "E128.44.14.900",
 		"airport": "RKNY"
 	},
 	{
