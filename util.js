@@ -126,11 +126,13 @@ module.exports = {
     },
     /**
      * 직관적으로 인식 가능한 RGB 색상을 유로스코프의 십진수 BGR로 변환합니다.
-     * @param {*} r 빨강 채널(10진수)
-     * @param {*} g 초록 채널(10진수)
-     * @param {*} b 파랑 채널(10진수)
+     * @param {*} rgb HTML RGB 컬러
      */
-    convertRgbtoSectorInteger(r, g, b){
+    convertRgbtoSectorInteger(rgb){
+        var r = +("0x" + rgb.substring(1, 3));
+        var g = +("0x" + rgb.substring(3, 5));
+        var b = +("0x" + rgb.substring(5, 7));
+
         return r + g * 0x01_00 + b * 0x01_00_00;
     },
     /**

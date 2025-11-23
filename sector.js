@@ -43,33 +43,9 @@ module.exports = {
             "; magnetic variation ref: WMM-2015 (http://www.ngdc.noaa.gov/geomag-web/) - CSV download\n";
     },
     getColorDefinition() {
-        return [
-            ["Airport-ApronCenterLine", 0x00, 0x55, 0x7F],
-            ["Airport-BlastPad", 0xFF, 0xFF, 0x00],
-            ["Airport-Border", 0xAA, 0xAA, 0xFF],
-            ["Airport-Building", 0x60, 0x60, 0x60],
-            ["Airport-Building-Label", 0x00, 0x35, 0x35],
-            ["Airport-GateNumber", 0x80, 0x00, 0x00],
-            ["Airport-GroundMarksPaints", 0xFF, 0xFF, 0xFF],
-            ["Airport-Helipad", 0xFF, 0xFF, 0x00],
-            ["Airport-HoldPositionMark", 0xFF, 0x00, 0x00],
-            ["Airport-Pushback-Point", 0xff,  0x00,  0x00],
-            ["Airport-LeadInLight", 0x23,  0x23,  0x23],      
-            ["Airport-Runway", 0x55,  0x55,  0x55],
-            ["Airport-TaxiwayCenterLine", 0x7e,  0x55,  0x7f],
-            ["Airport-Taxiway-Label", 0x80,  0x00,  0x00],    
-            ["Airway-DmeArc", 0x23,  0x23,  0x23],
-            ["Airway-VfrReportingPoint", 0x50,  0x50,  0x00], 
-            ["Area-DangerArea", 0x70,  0x50,  0x50],
-            ["Area-DangerArea-Label", 0x70,  0x50,  0x50],    
-            ["Area-MOA", 0x00,  0x20,  0x00],
-            ["Area-ProhibitedArea", 0x80,  0x00,  0x00],      
-            ["Area-RestrictedArea", 0x40,  0x00,  0x00],      
-            ["CoastLine", 0x23,  0x23,  0x23],
-            ["FIR-Label", 0x50,  0x50,  0x70],
-            ["Test-White", 0xff,  0xff,  0xff],
-            ["Test-Yellow", 0xff,  0xff,  0x00]
-        ].map((color) => util.makeColorDefine(color[0], util.convertRgbtoSectorInteger(color[1], color[2], color[3]))).join("\n");
+        var nameAndColorList = fs.readFileSync('./theme/default.txt').toString().split('\n').map(line => line.trim().split(' '));
+
+        return nameAndColorList.map(nameAndColor => util.makeColorDefine(nameAndColor[0], util.convertRgbtoSectorInteger(nameAndColor[1]))).join("\n");
     },
     getInfo() {
         return `Incheon vACC (${gitHeadDateTime.format("YYYYMMDD_HHmmss")})\n` +
