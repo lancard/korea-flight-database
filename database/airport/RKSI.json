@@ -28091,13 +28091,6 @@
 		  }
 		]
 	  },
-	  "Airport-ApronCenterLine_89": {
-		"airport": "RKSI",
-		"name": "Airport-ApronCenterLine_89",
-		"colorProfile": "Airport-ApronCenterLine",
-		"description": "Airport-ApronCenterLine_89",
-		"lineList": []
-	  },
 	  "Airport-ApronCenterLine_90": {
 		"airport": "RKSI",
 		"name": "Airport-ApronCenterLine_90",
