@@ -1,8 +1,8 @@
 {
   "dependencies": {
     "@turf/center-of-mass": "^7.2.0",
-    "@turf/turf": "^7.2.0",
-    "csvtojson": "^2.0.10",
-    "dayjs": "^1.11.13"
+    "@turf/turf": "^7.3.0",
+    "csvtojson": "^2.0.14",
+    "dayjs": "^1.11.19"
   }
 }
