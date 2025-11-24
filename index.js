@@ -96,7 +96,7 @@ function initialize() {
     });
 
     // write to temp directory for debug
-    fs.writeFileSync('temp/airport.json', JSON.stringify(global.airportList, null, '\t'));
+    fs.writeFileSync('./database/airport.json', JSON.stringify(global.airportList, null, '\t'));
 
     // get airport objects from directory
     fs.readdirSync('./database/airport').forEach(e => {
