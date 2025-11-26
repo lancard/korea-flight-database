@@ -385,12 +385,6 @@
 			]
 		},
 		{
-			"name": "RKTA-TaxiwayCenterLine_607",
-			"description": "지형 및 바운더리 등",
-			"colorProfile": "Airport-ApronCenterLine",
-			"lineList": []
-		},
-		{
 			"name": "RKTA-TaxiwayCenterLine_608",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
