@@ -1107,7 +1107,7 @@
 		},
 		{
 			"labelType": "Taxiway",
-			"name": "B",
+			"name": "P3",
 			"colorProfile": "Airport-Taxiway-Label",
 			"latitude": "N036.35.40.182",
 			"longitude": "E126.17.44.967"
@@ -1121,7 +1121,7 @@
 		},
 		{
 			"labelType": "Taxiway",
-			"name": "C",
+			"name": "P4",
 			"colorProfile": "Airport-Taxiway-Label",
 			"latitude": "N036.35.44.850",
 			"longitude": "E126.17.41.652"
@@ -1205,7 +1205,7 @@
 		},
 		{
 			"labelType": "Taxiway",
-			"name": "P3",
+			"name": "P5",
 			"colorProfile": "Airport-Taxiway-Label",
 			"latitude": "N036.35.54.163",
 			"longitude": "E126.17.35.429"
