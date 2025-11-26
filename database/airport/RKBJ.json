@@ -1,34 +1,35 @@
 {
-	"Nodeulsum_Helipad": {
-		"airport": "RKBJ",
-		"name": "Nodeulsum_Helipad",
-		"description": "노들섬헬기장",
-		"colorProfile": "Airport-Helipad",
-		"lineList": [
-			{
-				"latitude1": "N037.31.00.881",
-				"longitude1": "E126.57.40.965",
-				"latitude2": "N037.31.00.607",
-				"longitude2": "E126.57.42.789"
-			},
-			{
-				"latitude1": "N037.31.00.607",
-				"longitude1": "E126.57.42.789",
-				"latitude2": "N037.30.58.873",
-				"longitude2": "E126.57.42.385"
-			},
-			{
-				"latitude1": "N037.30.58.873",
-				"longitude1": "E126.57.42.385",
-				"latitude2": "N037.30.59.028",
-				"longitude2": "E126.57.41.414"
-			},
-			{
-				"latitude1": "N037.30.59.028",
-				"longitude1": "E126.57.41.414",
-				"latitude2": "N037.31.00.906",
-				"longitude2": "E126.57.40.990"
-			}
-		]
-	}
+	"geo": [
+		{
+			"name": "RKBJ-Helipad",
+			"description": "노들섬헬기장",
+			"colorProfile": "Airport-Helipad",
+			"lineList": [
+				{
+					"latitude1": "N037.31.00.881",
+					"longitude1": "E126.57.40.965",
+					"latitude2": "N037.31.00.607",
+					"longitude2": "E126.57.42.789"
+				},
+				{
+					"latitude1": "N037.31.00.607",
+					"longitude1": "E126.57.42.789",
+					"latitude2": "N037.30.58.873",
+					"longitude2": "E126.57.42.385"
+				},
+				{
+					"latitude1": "N037.30.58.873",
+					"longitude1": "E126.57.42.385",
+					"latitude2": "N037.30.59.028",
+					"longitude2": "E126.57.41.414"
+				},
+				{
+					"latitude1": "N037.30.59.028",
+					"longitude1": "E126.57.41.414",
+					"latitude2": "N037.31.00.906",
+					"longitude2": "E126.57.40.990"
+				}
+			]
+		}
+	]
 }

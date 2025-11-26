@@ -1,34 +1,35 @@
 {
-	"Yongsan_Helipad": {
-		"airport": "RKSY",
-		"name": "Yongsan_Helipad",
-		"description": "용산헬기장",
-		"colorProfile": "Airport-Helipad",
-		"lineList": [
-			{
-				"latitude1": "N037.31.42.382",
-				"longitude1": "E126.58.32.658",
-				"latitude2": "N037.31.42.281",
-				"longitude2": "E126.58.33.260"
-			},
-			{
-				"latitude1": "N037.31.42.281",
-				"longitude1": "E126.58.33.260",
-				"latitude2": "N037.31.39.760",
-				"longitude2": "E126.58.33.223"
-			},
-			{
-				"latitude1": "N037.31.39.760",
-				"longitude1": "E126.58.33.223",
-				"latitude2": "N037.31.39.829",
-				"longitude2": "E126.58.32.591"
-			},
-			{
-				"latitude1": "N037.31.39.829",
-				"longitude1": "E126.58.32.591",
-				"latitude2": "N037.31.42.386",
-				"longitude2": "E126.58.32.656"
-			}
-		]
-	}
+	"geo": [
+		{
+			"name": "Yongsan_Helipad",
+			"description": "용산헬기장",
+			"colorProfile": "Airport-Helipad",
+			"lineList": [
+				{
+					"latitude1": "N037.31.42.382",
+					"longitude1": "E126.58.32.658",
+					"latitude2": "N037.31.42.281",
+					"longitude2": "E126.58.33.260"
+				},
+				{
+					"latitude1": "N037.31.42.281",
+					"longitude1": "E126.58.33.260",
+					"latitude2": "N037.31.39.760",
+					"longitude2": "E126.58.33.223"
+				},
+				{
+					"latitude1": "N037.31.39.760",
+					"longitude1": "E126.58.33.223",
+					"latitude2": "N037.31.39.829",
+					"longitude2": "E126.58.32.591"
+				},
+				{
+					"latitude1": "N037.31.39.829",
+					"longitude1": "E126.58.32.591",
+					"latitude2": "N037.31.42.386",
+					"longitude2": "E126.58.32.656"
+				}
+			]
+		}
+	]
 }

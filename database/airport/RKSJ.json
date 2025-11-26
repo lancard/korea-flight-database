@@ -1,34 +1,35 @@
 {
-	"Jamsil_Helipad": {
-		"airport": "RKSJ",
-		"name": "Jamsil_Helipad",
-		"description": "잠실헬기장",
-		"colorProfile": "Airport-Helipad",
-		"lineList": [
-			{
-				"latitude1": "N037.31.09.978",
-				"longitude1": "E127.04.21.199",
-				"latitude2": "N037.31.09.698",
-				"longitude2": "E127.04.23.043"
-			},
-			{
-				"latitude1": "N037.31.09.698",
-				"longitude1": "E127.04.23.043",
-				"latitude2": "N037.31.09.142",
-				"longitude2": "E127.04.22.850"
-			},
-			{
-				"latitude1": "N037.31.09.142",
-				"longitude1": "E127.04.22.850",
-				"latitude2": "N037.31.09.440",
-				"longitude2": "E127.04.21.035"
-			},
-			{
-				"latitude1": "N037.31.09.440",
-				"longitude1": "E127.04.21.035",
-				"latitude2": "N037.31.09.978",
-				"longitude2": "E127.04.21.199"
-			}
-		]
-	}
+	"geo": [
+		{
+			"name": "Jamsil_Helipad",
+			"description": "잠실헬기장",
+			"colorProfile": "Airport-Helipad",
+			"lineList": [
+				{
+					"latitude1": "N037.31.09.978",
+					"longitude1": "E127.04.21.199",
+					"latitude2": "N037.31.09.698",
+					"longitude2": "E127.04.23.043"
+				},
+				{
+					"latitude1": "N037.31.09.698",
+					"longitude1": "E127.04.23.043",
+					"latitude2": "N037.31.09.142",
+					"longitude2": "E127.04.22.850"
+				},
+				{
+					"latitude1": "N037.31.09.142",
+					"longitude1": "E127.04.22.850",
+					"latitude2": "N037.31.09.440",
+					"longitude2": "E127.04.21.035"
+				},
+				{
+					"latitude1": "N037.31.09.440",
+					"longitude1": "E127.04.21.035",
+					"latitude2": "N037.31.09.978",
+					"longitude2": "E127.04.21.199"
+				}
+			]
+		}
+	]
 }

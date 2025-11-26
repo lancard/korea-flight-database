@@ -1,986 +1,976 @@
 {
-	"BlastPad_30": {
-		"airport": "RKJY",
-		"name": "BlastPad_30",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-BlastPad",
-		"lineList": [
-			{
-				"latitude1": "N034.50.00.289",
-				"longitude1": "E127.37.16.909",
-				"latitude2": "N034.49.58.408",
-				"longitude2": "E127.37.17.787"
-			},
-			{
-				"latitude1": "N034.49.58.408",
-				"longitude1": "E127.37.17.787",
-				"latitude2": "N034.49.58.945",
-				"longitude2": "E127.37.19.517"
-			},
-			{
-				"latitude1": "N034.49.58.945",
-				"longitude1": "E127.37.19.517",
-				"latitude2": "N034.50.00.831",
-				"longitude2": "E127.37.18.554"
-			},
-			{
-				"latitude1": "N034.50.00.831",
-				"longitude1": "E127.37.18.554",
-				"latitude2": "N034.50.00.289",
-				"longitude2": "E127.37.16.909"
-			}
-		]
-	},
-	"BlastPad_31": {
-		"airport": "RKJY",
-		"name": "BlastPad_31",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-BlastPad",
-		"lineList": [
-			{
-				"latitude1": "N034.51.04.034",
-				"longitude1": "E127.36.47.638",
-				"latitude2": "N034.51.05.828",
-				"longitude2": "E127.36.46.708"
-			},
-			{
-				"latitude1": "N034.51.05.828",
-				"longitude1": "E127.36.46.708",
-				"latitude2": "N034.51.05.290",
-				"longitude2": "E127.36.45.123"
-			},
-			{
-				"latitude1": "N034.51.05.290",
-				"longitude1": "E127.36.45.123",
-				"latitude2": "N034.51.03.501",
-				"longitude2": "E127.36.45.973"
-			}
-		]
-	},
-	"BUILD-C__1": {
-		"airport": "RKJY",
-		"name": "BUILD-C__1",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Building",
-		"lineList": [
-			{
-				"latitude1": "N034.50.23.421",
-				"longitude1": "E127.36.52.277",
-				"latitude2": "N034.50.26.495",
-				"longitude2": "E127.36.50.790"
-			},
-			{
-				"latitude1": "N034.50.26.495",
-				"longitude1": "E127.36.50.790",
-				"latitude2": "N034.50.26.866",
-				"longitude2": "E127.36.50.571"
-			},
-			{
-				"latitude1": "N034.50.26.866",
-				"longitude1": "E127.36.50.571",
-				"latitude2": "N034.50.26.603",
-				"longitude2": "E127.36.49.690"
-			},
-			{
-				"latitude1": "N034.50.26.603",
-				"longitude1": "E127.36.49.690",
-				"latitude2": "N034.50.26.232",
-				"longitude2": "E127.36.49.884"
-			},
-			{
-				"latitude1": "N034.50.26.232",
-				"longitude1": "E127.36.49.884",
-				"latitude2": "N034.50.25.806",
-				"longitude2": "E127.36.48.621"
-			},
-			{
-				"latitude1": "N034.50.25.806",
-				"longitude1": "E127.36.48.621",
-				"latitude2": "N034.50.23.019",
-				"longitude2": "E127.36.49.965"
-			},
-			{
-				"latitude1": "N034.50.23.019",
-				"longitude1": "E127.36.49.965",
-				"latitude2": "N034.50.23.432",
-				"longitude2": "E127.36.51.255"
-			},
-			{
-				"latitude1": "N034.50.23.432",
-				"longitude1": "E127.36.51.255",
-				"latitude2": "N034.50.23.158",
-				"longitude2": "E127.36.51.422"
-			},
-			{
-				"latitude1": "N034.50.23.158",
-				"longitude1": "E127.36.51.422",
-				"latitude2": "N034.50.23.419",
-				"longitude2": "E127.36.52.272"
-			}
-		]
-	},
-	"BUILD-C__2": {
-		"airport": "RKJY",
-		"name": "BUILD-C__2",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Building",
-		"lineList": [
-			{
-				"latitude1": "N034.50.28.186",
-				"longitude1": "E127.36.47.576",
-				"latitude2": "N034.50.28.520",
-				"longitude2": "E127.36.48.644"
-			},
-			{
-				"latitude1": "N034.50.28.520",
-				"longitude1": "E127.36.48.644",
-				"latitude2": "N034.50.30.863",
-				"longitude2": "E127.36.47.495"
-			},
-			{
-				"latitude1": "N034.50.30.863",
-				"longitude1": "E127.36.47.495",
-				"latitude2": "N034.50.30.632",
-				"longitude2": "E127.36.46.753"
-			},
-			{
-				"latitude1": "N034.50.30.632",
-				"longitude1": "E127.36.46.753",
-				"latitude2": "N034.50.29.601",
-				"longitude2": "E127.36.47.247"
-			},
-			{
-				"latitude1": "N034.50.29.601",
-				"longitude1": "E127.36.47.247",
-				"latitude2": "N034.50.29.520",
-				"longitude2": "E127.36.46.918"
-			},
-			{
-				"latitude1": "N034.50.29.520",
-				"longitude1": "E127.36.46.918",
-				"latitude2": "N034.50.28.186",
-				"longitude2": "E127.36.47.576"
-			}
-		]
-	},
-	"BUILD-C__3": {
-		"airport": "RKJY",
-		"name": "BUILD-C__3",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Building",
-		"lineList": [
-			{
-				"latitude1": "N034.50.31.081",
-				"longitude1": "E127.36.46.196",
-				"latitude2": "N034.50.31.435",
-				"longitude2": "E127.36.47.279"
-			},
-			{
-				"latitude1": "N034.50.31.435",
-				"longitude1": "E127.36.47.279",
-				"latitude2": "N034.50.33.293",
-				"longitude2": "E127.36.46.374"
-			},
-			{
-				"latitude1": "N034.50.33.293",
-				"longitude1": "E127.36.46.374",
-				"latitude2": "N034.50.32.963",
-				"longitude2": "E127.36.45.320"
-			},
-			{
-				"latitude1": "N034.50.32.963",
-				"longitude1": "E127.36.45.320",
-				"latitude2": "N034.50.31.081",
-				"longitude2": "E127.36.46.196"
-			}
-		]
-	},
-	"RKJY-Border__1070": {
-		"airport": "RKJY",
-		"name": "RKJY-Border__1070",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Border",
-		"lineList": [
-			{
-				"latitude1": "N034.50.00.292",
-				"longitude1": "E127.37.16.909",
-				"latitude2": "N034.50.00.115",
-				"longitude2": "E127.37.16.368"
-			},
-			{
-				"latitude1": "N034.50.00.115",
-				"longitude1": "E127.37.16.368",
-				"latitude2": "N034.50.00.023",
-				"longitude2": "E127.37.16.180"
-			},
-			{
-				"latitude1": "N034.50.00.023",
-				"longitude1": "E127.37.16.180",
-				"latitude2": "N034.49.59.450",
-				"longitude2": "E127.37.14.454"
-			},
-			{
-				"latitude1": "N034.49.59.450",
-				"longitude1": "E127.37.14.454",
-				"latitude2": "N034.49.59.364",
-				"longitude2": "E127.37.14.075"
-			},
-			{
-				"latitude1": "N034.49.59.364",
-				"longitude1": "E127.37.14.075",
-				"latitude2": "N034.49.59.326",
-				"longitude2": "E127.37.13.687"
-			},
-			{
-				"latitude1": "N034.49.59.326",
-				"longitude1": "E127.37.13.687",
-				"latitude2": "N034.49.58.518",
-				"longitude2": "E127.37.11.243"
-			},
-			{
-				"latitude1": "N034.49.58.518",
-				"longitude1": "E127.37.11.243",
-				"latitude2": "N034.49.58.341",
-				"longitude2": "E127.37.10.970"
-			},
-			{
-				"latitude1": "N034.49.58.341",
-				"longitude1": "E127.37.10.970",
-				"latitude2": "N034.49.58.078",
-				"longitude2": "E127.37.10.861"
-			},
-			{
-				"latitude1": "N034.49.58.078",
-				"longitude1": "E127.37.10.861",
-				"latitude2": "N034.49.57.789",
-				"longitude2": "E127.37.10.904"
-			},
-			{
-				"latitude1": "N034.49.57.789",
-				"longitude1": "E127.37.10.904",
-				"latitude2": "N034.49.55.840",
-				"longitude2": "E127.37.11.848"
-			},
-			{
-				"latitude1": "N034.49.55.840",
-				"longitude1": "E127.37.11.848",
-				"latitude2": "N034.49.54.890",
-				"longitude2": "E127.37.10.512"
-			},
-			{
-				"latitude1": "N034.49.54.890",
-				"longitude1": "E127.37.10.512",
-				"latitude2": "N034.49.54.512",
-				"longitude2": "E127.37.09.306"
-			},
-			{
-				"latitude1": "N034.49.54.512",
-				"longitude1": "E127.37.09.306",
-				"latitude2": "N034.49.55.933",
-				"longitude2": "E127.37.08.609"
-			},
-			{
-				"latitude1": "N034.49.55.933",
-				"longitude1": "E127.37.08.609",
-				"latitude2": "N034.49.57.371",
-				"longitude2": "E127.37.08.665"
-			},
-			{
-				"latitude1": "N034.49.57.371",
-				"longitude1": "E127.37.08.665",
-				"latitude2": "N034.49.57.725",
-				"longitude2": "E127.37.08.545"
-			},
-			{
-				"latitude1": "N034.49.57.725",
-				"longitude1": "E127.37.08.545",
-				"latitude2": "N034.49.58.036",
-				"longitude2": "E127.37.08.151"
-			},
-			{
-				"latitude1": "N034.49.58.036",
-				"longitude1": "E127.37.08.151",
-				"latitude2": "N034.49.59.305",
-				"longitude2": "E127.37.07.470"
-			},
-			{
-				"latitude1": "N034.49.59.305",
-				"longitude1": "E127.37.07.470",
-				"latitude2": "N034.49.59.706",
-				"longitude2": "E127.37.08.626"
-			},
-			{
-				"latitude1": "N034.49.59.706",
-				"longitude1": "E127.37.08.626",
-				"latitude2": "N034.49.58.992",
-				"longitude2": "E127.37.10.700"
-			},
-			{
-				"latitude1": "N034.49.58.992",
-				"longitude1": "E127.37.10.700",
-				"latitude2": "N034.49.58.951",
-				"longitude2": "E127.37.10.994"
-			},
-			{
-				"latitude1": "N034.49.58.951",
-				"longitude1": "E127.37.10.994",
-				"latitude2": "N034.49.59.014",
-				"longitude2": "E127.37.11.230"
-			},
-			{
-				"latitude1": "N034.49.59.014",
-				"longitude1": "E127.37.11.230",
-				"latitude2": "N034.49.59.128",
-				"longitude2": "E127.37.11.412"
-			},
-			{
-				"latitude1": "N034.49.59.128",
-				"longitude1": "E127.37.11.412",
-				"latitude2": "N034.49.59.344",
-				"longitude2": "E127.37.11.571"
-			},
-			{
-				"latitude1": "N034.49.59.344",
-				"longitude1": "E127.37.11.571",
-				"latitude2": "N034.49.59.583",
-				"longitude2": "E127.37.11.591"
-			},
-			{
-				"latitude1": "N034.49.59.583",
-				"longitude1": "E127.37.11.591",
-				"latitude2": "N034.49.59.864",
-				"longitude2": "E127.37.11.482"
-			},
-			{
-				"latitude1": "N034.49.59.864",
-				"longitude1": "E127.37.11.482",
-				"latitude2": "N034.50.00.042",
-				"longitude2": "E127.37.11.171"
-			},
-			{
-				"latitude1": "N034.50.00.042",
-				"longitude1": "E127.37.11.171",
-				"latitude2": "N034.50.01.076",
-				"longitude2": "E127.37.08.317"
-			},
-			{
-				"latitude1": "N034.50.01.076",
-				"longitude1": "E127.37.08.317",
-				"latitude2": "N034.50.01.319",
-				"longitude2": "E127.37.07.960"
-			},
-			{
-				"latitude1": "N034.50.01.319",
-				"longitude1": "E127.37.07.960",
-				"latitude2": "N034.50.01.563",
-				"longitude2": "E127.37.07.700"
-			},
-			{
-				"latitude1": "N034.50.01.563",
-				"longitude1": "E127.37.07.700",
-				"latitude2": "N034.50.01.908",
-				"longitude2": "E127.37.07.487"
-			},
-			{
-				"latitude1": "N034.50.01.908",
-				"longitude1": "E127.37.07.487",
-				"latitude2": "N034.50.21.899",
-				"longitude2": "E127.36.57.695"
-			},
-			{
-				"latitude1": "N034.50.21.899",
-				"longitude1": "E127.36.57.695",
-				"latitude2": "N034.50.21.527",
-				"longitude2": "E127.36.56.555"
-			},
-			{
-				"latitude1": "N034.50.21.527",
-				"longitude1": "E127.36.56.555",
-				"latitude2": "N034.50.22.107",
-				"longitude2": "E127.36.56.278"
-			},
-			{
-				"latitude1": "N034.50.22.107",
-				"longitude1": "E127.36.56.278",
-				"latitude2": "N034.50.23.416",
-				"longitude2": "E127.36.52.277"
-			}
-		]
-	},
-	"RKJY-Border__1071": {
-		"airport": "RKJY",
-		"name": "RKJY-Border__1071",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Border",
-		"lineList": [
-			{
-				"latitude1": "N034.50.26.605",
-				"longitude1": "E127.36.49.690",
-				"latitude2": "N034.50.27.337",
-				"longitude2": "E127.36.49.329"
-			},
-			{
-				"latitude1": "N034.50.27.337",
-				"longitude1": "E127.36.49.329",
-				"latitude2": "N034.50.27.146",
-				"longitude2": "E127.36.48.774"
-			},
-			{
-				"latitude1": "N034.50.27.146",
-				"longitude1": "E127.36.48.774",
-				"latitude2": "N034.50.27.299",
-				"longitude2": "E127.36.48.470"
-			},
-			{
-				"latitude1": "N034.50.27.299",
-				"longitude1": "E127.36.48.470",
-				"latitude2": "N034.50.28.309",
-				"longitude2": "E127.36.47.973"
-			}
-		]
-	},
-	"RKJY-Border__1072": {
-		"airport": "RKJY",
-		"name": "RKJY-Border__1072",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Border",
-		"lineList": [
-			{
-				"latitude1": "N034.50.30.861",
-				"longitude1": "E127.36.47.497",
-				"latitude2": "N034.50.31.435",
-				"longitude2": "E127.36.47.277"
-			}
-		]
-	},
-	"RKJY-Border__1073": {
-		"airport": "RKJY",
-		"name": "RKJY-Border__1073",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Border",
-		"lineList": [
-			{
-				"latitude1": "N034.50.33.297",
-				"longitude1": "E127.36.46.374",
-				"latitude2": "N034.50.33.499",
-				"longitude2": "E127.36.46.274"
-			},
-			{
-				"latitude1": "N034.50.33.499",
-				"longitude1": "E127.36.46.274",
-				"latitude2": "N034.50.34.455",
-				"longitude2": "E127.36.49.177"
-			},
-			{
-				"latitude1": "N034.50.34.455",
-				"longitude1": "E127.36.49.177",
-				"latitude2": "N034.50.34.268",
-				"longitude2": "E127.36.49.268"
-			},
-			{
-				"latitude1": "N034.50.34.268",
-				"longitude1": "E127.36.49.268",
-				"latitude2": "N034.50.34.103",
-				"longitude2": "E127.36.49.492"
-			},
-			{
-				"latitude1": "N034.50.34.103",
-				"longitude1": "E127.36.49.492",
-				"latitude2": "N034.50.33.969",
-				"longitude2": "E127.36.49.743"
-			},
-			{
-				"latitude1": "N034.50.33.969",
-				"longitude1": "E127.36.49.743",
-				"latitude2": "N034.50.33.910",
-				"longitude2": "E127.36.49.930"
-			},
-			{
-				"latitude1": "N034.50.33.910",
-				"longitude1": "E127.36.49.930",
-				"latitude2": "N034.50.33.890",
-				"longitude2": "E127.36.50.096"
-			},
-			{
-				"latitude1": "N034.50.33.890",
-				"longitude1": "E127.36.50.096",
-				"latitude2": "N034.50.33.932",
-				"longitude2": "E127.36.50.402"
-			},
-			{
-				"latitude1": "N034.50.33.932",
-				"longitude1": "E127.36.50.402",
-				"latitude2": "N034.50.34.029",
-				"longitude2": "E127.36.50.688"
-			},
-			{
-				"latitude1": "N034.50.34.029",
-				"longitude1": "E127.36.50.688",
-				"latitude2": "N034.50.34.224",
-				"longitude2": "E127.36.51.017"
-			},
-			{
-				"latitude1": "N034.50.34.224",
-				"longitude1": "E127.36.51.017",
-				"latitude2": "N034.50.34.475",
-				"longitude2": "E127.36.51.220"
-			},
-			{
-				"latitude1": "N034.50.34.475",
-				"longitude1": "E127.36.51.220",
-				"latitude2": "N034.50.34.789",
-				"longitude2": "E127.36.51.274"
-			},
-			{
-				"latitude1": "N034.50.34.789",
-				"longitude1": "E127.36.51.274",
-				"latitude2": "N034.50.35.103",
-				"longitude2": "E127.36.51.212"
-			},
-			{
-				"latitude1": "N034.50.35.103",
-				"longitude1": "E127.36.51.212",
-				"latitude2": "N034.50.44.812",
-				"longitude2": "E127.36.46.468"
-			},
-			{
-				"latitude1": "N034.50.44.812",
-				"longitude1": "E127.36.46.468",
-				"latitude2": "N034.50.45.179",
-				"longitude2": "E127.36.47.541"
-			},
-			{
-				"latitude1": "N034.50.45.179",
-				"longitude1": "E127.36.47.541",
-				"latitude2": "N034.50.44.549",
-				"longitude2": "E127.36.47.925"
-			},
-			{
-				"latitude1": "N034.50.44.549",
-				"longitude1": "E127.36.47.925",
-				"latitude2": "N034.50.44.365",
-				"longitude2": "E127.36.48.112"
-			},
-			{
-				"latitude1": "N034.50.44.365",
-				"longitude1": "E127.36.48.112",
-				"latitude2": "N034.50.44.214",
-				"longitude2": "E127.36.48.413"
-			},
-			{
-				"latitude1": "N034.50.44.214",
-				"longitude1": "E127.36.48.413",
-				"latitude2": "N034.50.44.174",
-				"longitude2": "E127.36.48.839"
-			},
-			{
-				"latitude1": "N034.50.44.174",
-				"longitude1": "E127.36.48.839",
-				"latitude2": "N034.50.44.241",
-				"longitude2": "E127.36.49.231"
-			},
-			{
-				"latitude1": "N034.50.44.241",
-				"longitude1": "E127.36.49.231",
-				"latitude2": "N034.50.44.888",
-				"longitude2": "E127.36.51.961"
-			},
-			{
-				"latitude1": "N034.50.44.888",
-				"longitude1": "E127.36.51.961",
-				"latitude2": "N034.50.45.208",
-				"longitude2": "E127.36.52.945"
-			},
-			{
-				"latitude1": "N034.50.45.208",
-				"longitude1": "E127.36.52.945",
-				"latitude2": "N034.50.45.492",
-				"longitude2": "E127.36.53.516"
-			},
-			{
-				"latitude1": "N034.50.45.492",
-				"longitude1": "E127.36.53.516",
-				"latitude2": "N034.50.45.904",
-				"longitude2": "E127.36.53.922"
-			},
-			{
-				"latitude1": "N034.50.45.904",
-				"longitude1": "E127.36.53.922",
-				"latitude2": "N034.50.46.380",
-				"longitude2": "E127.36.54.106"
-			},
-			{
-				"latitude1": "N034.50.46.380",
-				"longitude1": "E127.36.54.106",
-				"latitude2": "N034.50.46.760",
-				"longitude2": "E127.36.54.111"
-			},
-			{
-				"latitude1": "N034.50.46.760",
-				"longitude1": "E127.36.54.111",
-				"latitude2": "N034.50.47.132",
-				"longitude2": "E127.36.54.000"
-			}
-		]
-	},
-	"RKJY-Border__1074": {
-		"airport": "RKJY",
-		"name": "RKJY-Border__1074",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Border",
-		"lineList": [
-			{
-				"latitude1": "N034.50.43.865",
-				"longitude1": "E127.36.55.594",
-				"latitude2": "N034.50.44.161",
-				"longitude2": "E127.36.55.345"
-			},
-			{
-				"latitude1": "N034.50.44.161",
-				"longitude1": "E127.36.55.345",
-				"latitude2": "N034.50.44.402",
-				"longitude2": "E127.36.55.014"
-			},
-			{
-				"latitude1": "N034.50.44.402",
-				"longitude1": "E127.36.55.014",
-				"latitude2": "N034.50.44.561",
-				"longitude2": "E127.36.54.614"
-			},
-			{
-				"latitude1": "N034.50.44.561",
-				"longitude1": "E127.36.54.614",
-				"latitude2": "N034.50.44.660",
-				"longitude2": "E127.36.54.156"
-			},
-			{
-				"latitude1": "N034.50.44.660",
-				"longitude1": "E127.36.54.156",
-				"latitude2": "N034.50.44.645",
-				"longitude2": "E127.36.53.760"
-			},
-			{
-				"latitude1": "N034.50.44.645",
-				"longitude1": "E127.36.53.760",
-				"latitude2": "N034.50.44.577",
-				"longitude2": "E127.36.53.426"
-			},
-			{
-				"latitude1": "N034.50.44.577",
-				"longitude1": "E127.36.53.426",
-				"latitude2": "N034.50.44.179",
-				"longitude2": "E127.36.52.266"
-			},
-			{
-				"latitude1": "N034.50.44.179",
-				"longitude1": "E127.36.52.266",
-				"latitude2": "N034.50.43.066",
-				"longitude2": "E127.36.49.689"
-			},
-			{
-				"latitude1": "N034.50.43.066",
-				"longitude1": "E127.36.49.689",
-				"latitude2": "N034.50.42.887",
-				"longitude2": "E127.36.49.385"
-			},
-			{
-				"latitude1": "N034.50.42.887",
-				"longitude1": "E127.36.49.385",
-				"latitude2": "N034.50.42.690",
-				"longitude2": "E127.36.49.203"
-			},
-			{
-				"latitude1": "N034.50.42.690",
-				"longitude1": "E127.36.49.203",
-				"latitude2": "N034.50.42.355",
-				"longitude2": "E127.36.49.071"
-			},
-			{
-				"latitude1": "N034.50.42.355",
-				"longitude1": "E127.36.49.071",
-				"latitude2": "N034.50.41.989",
-				"longitude2": "E127.36.49.142"
-			},
-			{
-				"latitude1": "N034.50.41.989",
-				"longitude1": "E127.36.49.142",
-				"latitude2": "N034.50.39.628",
-				"longitude2": "E127.36.49.965"
-			},
-			{
-				"latitude1": "N034.50.39.628",
-				"longitude1": "E127.36.49.965",
-				"latitude2": "N034.50.16.663",
-				"longitude2": "E127.37.01.211"
-			},
-			{
-				"latitude1": "N034.50.16.663",
-				"longitude1": "E127.37.01.211",
-				"latitude2": "N034.50.14.438",
-				"longitude2": "E127.37.02.670"
-			},
-			{
-				"latitude1": "N034.50.14.438",
-				"longitude1": "E127.37.02.670",
-				"latitude2": "N034.50.14.201",
-				"longitude2": "E127.37.02.952"
-			},
-			{
-				"latitude1": "N034.50.14.201",
-				"longitude1": "E127.37.02.952",
-				"latitude2": "N034.50.14.101",
-				"longitude2": "E127.37.03.205"
-			},
-			{
-				"latitude1": "N034.50.14.101",
-				"longitude1": "E127.37.03.205",
-				"latitude2": "N034.50.14.060",
-				"longitude2": "E127.37.03.438"
-			},
-			{
-				"latitude1": "N034.50.14.060",
-				"longitude1": "E127.37.03.438",
-				"latitude2": "N034.50.14.100",
-				"longitude2": "E127.37.03.781"
-			},
-			{
-				"latitude1": "N034.50.14.100",
-				"longitude1": "E127.37.03.781",
-				"latitude2": "N034.50.14.791",
-				"longitude2": "E127.37.06.697"
-			},
-			{
-				"latitude1": "N034.50.14.791",
-				"longitude1": "E127.37.06.697",
-				"latitude2": "N034.50.15.150",
-				"longitude2": "E127.37.07.819"
-			},
-			{
-				"latitude1": "N034.50.15.150",
-				"longitude1": "E127.37.07.819",
-				"latitude2": "N034.50.15.366",
-				"longitude2": "E127.37.08.224"
-			},
-			{
-				"latitude1": "N034.50.15.366",
-				"longitude1": "E127.37.08.224",
-				"latitude2": "N034.50.15.682",
-				"longitude2": "E127.37.08.572"
-			},
-			{
-				"latitude1": "N034.50.15.682",
-				"longitude1": "E127.37.08.572",
-				"latitude2": "N034.50.16.007",
-				"longitude2": "E127.37.08.753"
-			},
-			{
-				"latitude1": "N034.50.16.007",
-				"longitude1": "E127.37.08.753",
-				"latitude2": "N034.50.16.410",
-				"longitude2": "E127.37.08.863"
-			},
-			{
-				"latitude1": "N034.50.16.410",
-				"longitude1": "E127.37.08.863",
-				"latitude2": "N034.50.16.672",
-				"longitude2": "E127.37.08.829"
-			},
-			{
-				"latitude1": "N034.50.16.672",
-				"longitude1": "E127.37.08.829",
-				"latitude2": "N034.50.16.910",
-				"longitude2": "E127.37.08.784"
-			}
-		]
-	},
-	"RKJY-Border__1080": {
-		"airport": "RKJY",
-		"name": "RKJY-Border__1080",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Border",
-		"lineList": [
-			{
-				"latitude1": "N034.50.13.686",
-				"longitude1": "E127.37.10.357",
-				"latitude2": "N034.50.14.097",
-				"longitude2": "E127.37.10.041"
-			},
-			{
-				"latitude1": "N034.50.14.097",
-				"longitude1": "E127.37.10.041",
-				"latitude2": "N034.50.14.401",
-				"longitude2": "E127.37.09.538"
-			},
-			{
-				"latitude1": "N034.50.14.401",
-				"longitude1": "E127.37.09.538",
-				"latitude2": "N034.50.14.547",
-				"longitude2": "E127.37.08.946"
-			},
-			{
-				"latitude1": "N034.50.14.547",
-				"longitude1": "E127.37.08.946",
-				"latitude2": "N034.50.14.538",
-				"longitude2": "E127.37.08.373"
-			},
-			{
-				"latitude1": "N034.50.14.538",
-				"longitude1": "E127.37.08.373",
-				"latitude2": "N034.50.14.093",
-				"longitude2": "E127.37.07.023"
-			},
-			{
-				"latitude1": "N034.50.14.093",
-				"longitude1": "E127.37.07.023",
-				"latitude2": "N034.50.12.890",
-				"longitude2": "E127.37.04.280"
-			},
-			{
-				"latitude1": "N034.50.12.890",
-				"longitude1": "E127.37.04.280",
-				"latitude2": "N034.50.12.658",
-				"longitude2": "E127.37.03.981"
-			},
-			{
-				"latitude1": "N034.50.12.658",
-				"longitude1": "E127.37.03.981",
-				"latitude2": "N034.50.12.363",
-				"longitude2": "E127.37.03.837"
-			},
-			{
-				"latitude1": "N034.50.12.363",
-				"longitude1": "E127.37.03.837",
-				"latitude2": "N034.50.11.907",
-				"longitude2": "E127.37.03.882"
-			},
-			{
-				"latitude1": "N034.50.11.907",
-				"longitude1": "E127.37.03.882",
-				"latitude2": "N034.50.09.652",
-				"longitude2": "E127.37.04.637"
-			},
-			{
-				"latitude1": "N034.50.09.652",
-				"longitude1": "E127.37.04.637",
-				"latitude2": "N034.50.04.703",
-				"longitude2": "E127.37.07.058"
-			},
-			{
-				"latitude1": "N034.50.04.703",
-				"longitude1": "E127.37.07.058",
-				"latitude2": "N034.50.03.855",
-				"longitude2": "E127.37.07.588"
-			},
-			{
-				"latitude1": "N034.50.03.855",
-				"longitude1": "E127.37.07.588",
-				"latitude2": "N034.50.02.174",
-				"longitude2": "E127.37.08.727"
-			},
-			{
-				"latitude1": "N034.50.02.174",
-				"longitude1": "E127.37.08.727",
-				"latitude2": "N034.50.01.976",
-				"longitude2": "E127.37.08.948"
-			},
-			{
-				"latitude1": "N034.50.01.976",
-				"longitude1": "E127.37.08.948",
-				"latitude2": "N034.50.01.443",
-				"longitude2": "E127.37.10.058"
-			},
-			{
-				"latitude1": "N034.50.01.443",
-				"longitude1": "E127.37.10.058",
-				"latitude2": "N034.50.00.942",
-				"longitude2": "E127.37.11.177"
-			},
-			{
-				"latitude1": "N034.50.00.942",
-				"longitude1": "E127.37.11.177",
-				"latitude2": "N034.50.00.407",
-				"longitude2": "E127.37.13.397"
-			},
-			{
-				"latitude1": "N034.50.00.407",
-				"longitude1": "E127.37.13.397",
-				"latitude2": "N034.50.00.363",
-				"longitude2": "E127.37.13.653"
-			},
-			{
-				"latitude1": "N034.50.00.363",
-				"longitude1": "E127.37.13.653",
-				"latitude2": "N034.50.00.383",
-				"longitude2": "E127.37.13.841"
-			},
-			{
-				"latitude1": "N034.50.00.383",
-				"longitude1": "E127.37.13.841",
-				"latitude2": "N034.50.00.601",
-				"longitude2": "E127.37.14.816"
-			},
-			{
-				"latitude1": "N034.50.00.601",
-				"longitude1": "E127.37.14.816",
-				"latitude2": "N034.50.00.781",
-				"longitude2": "E127.37.15.284"
-			},
-			{
-				"latitude1": "N034.50.00.781",
-				"longitude1": "E127.37.15.284",
-				"latitude2": "N034.50.00.986",
-				"longitude2": "E127.37.15.723"
-			}
-		]
-	},
-	"RunwayColor__681": {
-		"airport": "RKJY",
-		"name": "RunwayColor__681",
-		"description": "지형 및 바운더리 등",
-		"colorProfile": "Airport-Runway",
-		"lineList": [
-			{
-				"latitude1": "N034.50.00.828",
-				"longitude1": "E127.37.18.554",
-				"latitude2": "N034.51.04.034",
-				"longitude2": "E127.36.47.637"
-			},
-			{
-				"latitude1": "N034.51.04.034",
-				"longitude1": "E127.36.47.637",
-				"latitude2": "N034.51.03.267",
-				"longitude2": "E127.36.45.246"
-			},
-			{
-				"latitude1": "N034.51.03.267",
-				"longitude1": "E127.36.45.246",
-				"latitude2": "N034.51.01.315",
-				"longitude2": "E127.36.46.182"
-			},
-			{
-				"latitude1": "N034.51.01.315",
-				"longitude1": "E127.36.46.182",
-				"latitude2": "N034.51.00.505",
-				"longitude2": "E127.36.47.446"
-			},
-			{
-				"latitude1": "N034.51.00.505",
-				"longitude1": "E127.36.47.446",
-				"latitude2": "N034.50.03.295",
-				"longitude2": "E127.37.15.447"
-			},
-			{
-				"latitude1": "N034.50.03.295",
-				"longitude1": "E127.37.15.447",
-				"latitude2": "N034.50.01.936",
-				"longitude2": "E127.37.15.240"
-			},
-			{
-				"latitude1": "N034.50.01.936",
-				"longitude1": "E127.37.15.240",
-				"latitude2": "N034.50.00.987",
-				"longitude2": "E127.37.15.721"
-			}
-		]
-	}
+	"geo": [
+		{
+			"name": "BlastPad_30",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-BlastPad",
+			"lineList": [
+				{
+					"latitude1": "N034.50.00.289",
+					"longitude1": "E127.37.16.909",
+					"latitude2": "N034.49.58.408",
+					"longitude2": "E127.37.17.787"
+				},
+				{
+					"latitude1": "N034.49.58.408",
+					"longitude1": "E127.37.17.787",
+					"latitude2": "N034.49.58.945",
+					"longitude2": "E127.37.19.517"
+				},
+				{
+					"latitude1": "N034.49.58.945",
+					"longitude1": "E127.37.19.517",
+					"latitude2": "N034.50.00.831",
+					"longitude2": "E127.37.18.554"
+				},
+				{
+					"latitude1": "N034.50.00.831",
+					"longitude1": "E127.37.18.554",
+					"latitude2": "N034.50.00.289",
+					"longitude2": "E127.37.16.909"
+				}
+			]
+		},
+		{
+			"name": "BlastPad_31",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-BlastPad",
+			"lineList": [
+				{
+					"latitude1": "N034.51.04.034",
+					"longitude1": "E127.36.47.638",
+					"latitude2": "N034.51.05.828",
+					"longitude2": "E127.36.46.708"
+				},
+				{
+					"latitude1": "N034.51.05.828",
+					"longitude1": "E127.36.46.708",
+					"latitude2": "N034.51.05.290",
+					"longitude2": "E127.36.45.123"
+				},
+				{
+					"latitude1": "N034.51.05.290",
+					"longitude1": "E127.36.45.123",
+					"latitude2": "N034.51.03.501",
+					"longitude2": "E127.36.45.973"
+				}
+			]
+		},
+		{
+			"name": "BUILD-C__1",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Building",
+			"lineList": [
+				{
+					"latitude1": "N034.50.23.421",
+					"longitude1": "E127.36.52.277",
+					"latitude2": "N034.50.26.495",
+					"longitude2": "E127.36.50.790"
+				},
+				{
+					"latitude1": "N034.50.26.495",
+					"longitude1": "E127.36.50.790",
+					"latitude2": "N034.50.26.866",
+					"longitude2": "E127.36.50.571"
+				},
+				{
+					"latitude1": "N034.50.26.866",
+					"longitude1": "E127.36.50.571",
+					"latitude2": "N034.50.26.603",
+					"longitude2": "E127.36.49.690"
+				},
+				{
+					"latitude1": "N034.50.26.603",
+					"longitude1": "E127.36.49.690",
+					"latitude2": "N034.50.26.232",
+					"longitude2": "E127.36.49.884"
+				},
+				{
+					"latitude1": "N034.50.26.232",
+					"longitude1": "E127.36.49.884",
+					"latitude2": "N034.50.25.806",
+					"longitude2": "E127.36.48.621"
+				},
+				{
+					"latitude1": "N034.50.25.806",
+					"longitude1": "E127.36.48.621",
+					"latitude2": "N034.50.23.019",
+					"longitude2": "E127.36.49.965"
+				},
+				{
+					"latitude1": "N034.50.23.019",
+					"longitude1": "E127.36.49.965",
+					"latitude2": "N034.50.23.432",
+					"longitude2": "E127.36.51.255"
+				},
+				{
+					"latitude1": "N034.50.23.432",
+					"longitude1": "E127.36.51.255",
+					"latitude2": "N034.50.23.158",
+					"longitude2": "E127.36.51.422"
+				},
+				{
+					"latitude1": "N034.50.23.158",
+					"longitude1": "E127.36.51.422",
+					"latitude2": "N034.50.23.419",
+					"longitude2": "E127.36.52.272"
+				}
+			]
+		},
+		{
+			"name": "BUILD-C__2",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Building",
+			"lineList": [
+				{
+					"latitude1": "N034.50.28.186",
+					"longitude1": "E127.36.47.576",
+					"latitude2": "N034.50.28.520",
+					"longitude2": "E127.36.48.644"
+				},
+				{
+					"latitude1": "N034.50.28.520",
+					"longitude1": "E127.36.48.644",
+					"latitude2": "N034.50.30.863",
+					"longitude2": "E127.36.47.495"
+				},
+				{
+					"latitude1": "N034.50.30.863",
+					"longitude1": "E127.36.47.495",
+					"latitude2": "N034.50.30.632",
+					"longitude2": "E127.36.46.753"
+				},
+				{
+					"latitude1": "N034.50.30.632",
+					"longitude1": "E127.36.46.753",
+					"latitude2": "N034.50.29.601",
+					"longitude2": "E127.36.47.247"
+				},
+				{
+					"latitude1": "N034.50.29.601",
+					"longitude1": "E127.36.47.247",
+					"latitude2": "N034.50.29.520",
+					"longitude2": "E127.36.46.918"
+				},
+				{
+					"latitude1": "N034.50.29.520",
+					"longitude1": "E127.36.46.918",
+					"latitude2": "N034.50.28.186",
+					"longitude2": "E127.36.47.576"
+				}
+			]
+		},
+		{
+			"name": "BUILD-C__3",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Building",
+			"lineList": [
+				{
+					"latitude1": "N034.50.31.081",
+					"longitude1": "E127.36.46.196",
+					"latitude2": "N034.50.31.435",
+					"longitude2": "E127.36.47.279"
+				},
+				{
+					"latitude1": "N034.50.31.435",
+					"longitude1": "E127.36.47.279",
+					"latitude2": "N034.50.33.293",
+					"longitude2": "E127.36.46.374"
+				},
+				{
+					"latitude1": "N034.50.33.293",
+					"longitude1": "E127.36.46.374",
+					"latitude2": "N034.50.32.963",
+					"longitude2": "E127.36.45.320"
+				},
+				{
+					"latitude1": "N034.50.32.963",
+					"longitude1": "E127.36.45.320",
+					"latitude2": "N034.50.31.081",
+					"longitude2": "E127.36.46.196"
+				}
+			]
+		},
+		{
+			"name": "RKJY-Border__1070",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Border",
+			"lineList": [
+				{
+					"latitude1": "N034.50.00.292",
+					"longitude1": "E127.37.16.909",
+					"latitude2": "N034.50.00.115",
+					"longitude2": "E127.37.16.368"
+				},
+				{
+					"latitude1": "N034.50.00.115",
+					"longitude1": "E127.37.16.368",
+					"latitude2": "N034.50.00.023",
+					"longitude2": "E127.37.16.180"
+				},
+				{
+					"latitude1": "N034.50.00.023",
+					"longitude1": "E127.37.16.180",
+					"latitude2": "N034.49.59.450",
+					"longitude2": "E127.37.14.454"
+				},
+				{
+					"latitude1": "N034.49.59.450",
+					"longitude1": "E127.37.14.454",
+					"latitude2": "N034.49.59.364",
+					"longitude2": "E127.37.14.075"
+				},
+				{
+					"latitude1": "N034.49.59.364",
+					"longitude1": "E127.37.14.075",
+					"latitude2": "N034.49.59.326",
+					"longitude2": "E127.37.13.687"
+				},
+				{
+					"latitude1": "N034.49.59.326",
+					"longitude1": "E127.37.13.687",
+					"latitude2": "N034.49.58.518",
+					"longitude2": "E127.37.11.243"
+				},
+				{
+					"latitude1": "N034.49.58.518",
+					"longitude1": "E127.37.11.243",
+					"latitude2": "N034.49.58.341",
+					"longitude2": "E127.37.10.970"
+				},
+				{
+					"latitude1": "N034.49.58.341",
+					"longitude1": "E127.37.10.970",
+					"latitude2": "N034.49.58.078",
+					"longitude2": "E127.37.10.861"
+				},
+				{
+					"latitude1": "N034.49.58.078",
+					"longitude1": "E127.37.10.861",
+					"latitude2": "N034.49.57.789",
+					"longitude2": "E127.37.10.904"
+				},
+				{
+					"latitude1": "N034.49.57.789",
+					"longitude1": "E127.37.10.904",
+					"latitude2": "N034.49.55.840",
+					"longitude2": "E127.37.11.848"
+				},
+				{
+					"latitude1": "N034.49.55.840",
+					"longitude1": "E127.37.11.848",
+					"latitude2": "N034.49.54.890",
+					"longitude2": "E127.37.10.512"
+				},
+				{
+					"latitude1": "N034.49.54.890",
+					"longitude1": "E127.37.10.512",
+					"latitude2": "N034.49.54.512",
+					"longitude2": "E127.37.09.306"
+				},
+				{
+					"latitude1": "N034.49.54.512",
+					"longitude1": "E127.37.09.306",
+					"latitude2": "N034.49.55.933",
+					"longitude2": "E127.37.08.609"
+				},
+				{
+					"latitude1": "N034.49.55.933",
+					"longitude1": "E127.37.08.609",
+					"latitude2": "N034.49.57.371",
+					"longitude2": "E127.37.08.665"
+				},
+				{
+					"latitude1": "N034.49.57.371",
+					"longitude1": "E127.37.08.665",
+					"latitude2": "N034.49.57.725",
+					"longitude2": "E127.37.08.545"
+				},
+				{
+					"latitude1": "N034.49.57.725",
+					"longitude1": "E127.37.08.545",
+					"latitude2": "N034.49.58.036",
+					"longitude2": "E127.37.08.151"
+				},
+				{
+					"latitude1": "N034.49.58.036",
+					"longitude1": "E127.37.08.151",
+					"latitude2": "N034.49.59.305",
+					"longitude2": "E127.37.07.470"
+				},
+				{
+					"latitude1": "N034.49.59.305",
+					"longitude1": "E127.37.07.470",
+					"latitude2": "N034.49.59.706",
+					"longitude2": "E127.37.08.626"
+				},
+				{
+					"latitude1": "N034.49.59.706",
+					"longitude1": "E127.37.08.626",
+					"latitude2": "N034.49.58.992",
+					"longitude2": "E127.37.10.700"
+				},
+				{
+					"latitude1": "N034.49.58.992",
+					"longitude1": "E127.37.10.700",
+					"latitude2": "N034.49.58.951",
+					"longitude2": "E127.37.10.994"
+				},
+				{
+					"latitude1": "N034.49.58.951",
+					"longitude1": "E127.37.10.994",
+					"latitude2": "N034.49.59.014",
+					"longitude2": "E127.37.11.230"
+				},
+				{
+					"latitude1": "N034.49.59.014",
+					"longitude1": "E127.37.11.230",
+					"latitude2": "N034.49.59.128",
+					"longitude2": "E127.37.11.412"
+				},
+				{
+					"latitude1": "N034.49.59.128",
+					"longitude1": "E127.37.11.412",
+					"latitude2": "N034.49.59.344",
+					"longitude2": "E127.37.11.571"
+				},
+				{
+					"latitude1": "N034.49.59.344",
+					"longitude1": "E127.37.11.571",
+					"latitude2": "N034.49.59.583",
+					"longitude2": "E127.37.11.591"
+				},
+				{
+					"latitude1": "N034.49.59.583",
+					"longitude1": "E127.37.11.591",
+					"latitude2": "N034.49.59.864",
+					"longitude2": "E127.37.11.482"
+				},
+				{
+					"latitude1": "N034.49.59.864",
+					"longitude1": "E127.37.11.482",
+					"latitude2": "N034.50.00.042",
+					"longitude2": "E127.37.11.171"
+				},
+				{
+					"latitude1": "N034.50.00.042",
+					"longitude1": "E127.37.11.171",
+					"latitude2": "N034.50.01.076",
+					"longitude2": "E127.37.08.317"
+				},
+				{
+					"latitude1": "N034.50.01.076",
+					"longitude1": "E127.37.08.317",
+					"latitude2": "N034.50.01.319",
+					"longitude2": "E127.37.07.960"
+				},
+				{
+					"latitude1": "N034.50.01.319",
+					"longitude1": "E127.37.07.960",
+					"latitude2": "N034.50.01.563",
+					"longitude2": "E127.37.07.700"
+				},
+				{
+					"latitude1": "N034.50.01.563",
+					"longitude1": "E127.37.07.700",
+					"latitude2": "N034.50.01.908",
+					"longitude2": "E127.37.07.487"
+				},
+				{
+					"latitude1": "N034.50.01.908",
+					"longitude1": "E127.37.07.487",
+					"latitude2": "N034.50.21.899",
+					"longitude2": "E127.36.57.695"
+				},
+				{
+					"latitude1": "N034.50.21.899",
+					"longitude1": "E127.36.57.695",
+					"latitude2": "N034.50.21.527",
+					"longitude2": "E127.36.56.555"
+				},
+				{
+					"latitude1": "N034.50.21.527",
+					"longitude1": "E127.36.56.555",
+					"latitude2": "N034.50.22.107",
+					"longitude2": "E127.36.56.278"
+				},
+				{
+					"latitude1": "N034.50.22.107",
+					"longitude1": "E127.36.56.278",
+					"latitude2": "N034.50.23.416",
+					"longitude2": "E127.36.52.277"
+				}
+			]
+		},
+		{
+			"name": "RKJY-Border__1071",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Border",
+			"lineList": [
+				{
+					"latitude1": "N034.50.26.605",
+					"longitude1": "E127.36.49.690",
+					"latitude2": "N034.50.27.337",
+					"longitude2": "E127.36.49.329"
+				},
+				{
+					"latitude1": "N034.50.27.337",
+					"longitude1": "E127.36.49.329",
+					"latitude2": "N034.50.27.146",
+					"longitude2": "E127.36.48.774"
+				},
+				{
+					"latitude1": "N034.50.27.146",
+					"longitude1": "E127.36.48.774",
+					"latitude2": "N034.50.27.299",
+					"longitude2": "E127.36.48.470"
+				},
+				{
+					"latitude1": "N034.50.27.299",
+					"longitude1": "E127.36.48.470",
+					"latitude2": "N034.50.28.309",
+					"longitude2": "E127.36.47.973"
+				}
+			]
+		},
+		{
+			"name": "RKJY-Border__1072",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Border",
+			"lineList": [
+				{
+					"latitude1": "N034.50.30.861",
+					"longitude1": "E127.36.47.497",
+					"latitude2": "N034.50.31.435",
+					"longitude2": "E127.36.47.277"
+				}
+			]
+		},
+		{
+			"name": "RKJY-Border__1073",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Border",
+			"lineList": [
+				{
+					"latitude1": "N034.50.33.297",
+					"longitude1": "E127.36.46.374",
+					"latitude2": "N034.50.33.499",
+					"longitude2": "E127.36.46.274"
+				},
+				{
+					"latitude1": "N034.50.33.499",
+					"longitude1": "E127.36.46.274",
+					"latitude2": "N034.50.34.455",
+					"longitude2": "E127.36.49.177"
+				},
+				{
+					"latitude1": "N034.50.34.455",
+					"longitude1": "E127.36.49.177",
+					"latitude2": "N034.50.34.268",
+					"longitude2": "E127.36.49.268"
+				},
+				{
+					"latitude1": "N034.50.34.268",
+					"longitude1": "E127.36.49.268",
+					"latitude2": "N034.50.34.103",
+					"longitude2": "E127.36.49.492"
+				},
+				{
+					"latitude1": "N034.50.34.103",
+					"longitude1": "E127.36.49.492",
+					"latitude2": "N034.50.33.969",
+					"longitude2": "E127.36.49.743"
+				},
+				{
+					"latitude1": "N034.50.33.969",
+					"longitude1": "E127.36.49.743",
+					"latitude2": "N034.50.33.910",
+					"longitude2": "E127.36.49.930"
+				},
+				{
+					"latitude1": "N034.50.33.910",
+					"longitude1": "E127.36.49.930",
+					"latitude2": "N034.50.33.890",
+					"longitude2": "E127.36.50.096"
+				},
+				{
+					"latitude1": "N034.50.33.890",
+					"longitude1": "E127.36.50.096",
+					"latitude2": "N034.50.33.932",
+					"longitude2": "E127.36.50.402"
+				},
+				{
+					"latitude1": "N034.50.33.932",
+					"longitude1": "E127.36.50.402",
+					"latitude2": "N034.50.34.029",
+					"longitude2": "E127.36.50.688"
+				},
+				{
+					"latitude1": "N034.50.34.029",
+					"longitude1": "E127.36.50.688",
+					"latitude2": "N034.50.34.224",
+					"longitude2": "E127.36.51.017"
+				},
+				{
+					"latitude1": "N034.50.34.224",
+					"longitude1": "E127.36.51.017",
+					"latitude2": "N034.50.34.475",
+					"longitude2": "E127.36.51.220"
+				},
+				{
+					"latitude1": "N034.50.34.475",
+					"longitude1": "E127.36.51.220",
+					"latitude2": "N034.50.34.789",
+					"longitude2": "E127.36.51.274"
+				},
+				{
+					"latitude1": "N034.50.34.789",
+					"longitude1": "E127.36.51.274",
+					"latitude2": "N034.50.35.103",
+					"longitude2": "E127.36.51.212"
+				},
+				{
+					"latitude1": "N034.50.35.103",
+					"longitude1": "E127.36.51.212",
+					"latitude2": "N034.50.44.812",
+					"longitude2": "E127.36.46.468"
+				},
+				{
+					"latitude1": "N034.50.44.812",
+					"longitude1": "E127.36.46.468",
+					"latitude2": "N034.50.45.179",
+					"longitude2": "E127.36.47.541"
+				},
+				{
+					"latitude1": "N034.50.45.179",
+					"longitude1": "E127.36.47.541",
+					"latitude2": "N034.50.44.549",
+					"longitude2": "E127.36.47.925"
+				},
+				{
+					"latitude1": "N034.50.44.549",
+					"longitude1": "E127.36.47.925",
+					"latitude2": "N034.50.44.365",
+					"longitude2": "E127.36.48.112"
+				},
+				{
+					"latitude1": "N034.50.44.365",
+					"longitude1": "E127.36.48.112",
+					"latitude2": "N034.50.44.214",
+					"longitude2": "E127.36.48.413"
+				},
+				{
+					"latitude1": "N034.50.44.214",
+					"longitude1": "E127.36.48.413",
+					"latitude2": "N034.50.44.174",
+					"longitude2": "E127.36.48.839"
+				},
+				{
+					"latitude1": "N034.50.44.174",
+					"longitude1": "E127.36.48.839",
+					"latitude2": "N034.50.44.241",
+					"longitude2": "E127.36.49.231"
+				},
+				{
+					"latitude1": "N034.50.44.241",
+					"longitude1": "E127.36.49.231",
+					"latitude2": "N034.50.44.888",
+					"longitude2": "E127.36.51.961"
+				},
+				{
+					"latitude1": "N034.50.44.888",
+					"longitude1": "E127.36.51.961",
+					"latitude2": "N034.50.45.208",
+					"longitude2": "E127.36.52.945"
+				},
+				{
+					"latitude1": "N034.50.45.208",
+					"longitude1": "E127.36.52.945",
+					"latitude2": "N034.50.45.492",
+					"longitude2": "E127.36.53.516"
+				},
+				{
+					"latitude1": "N034.50.45.492",
+					"longitude1": "E127.36.53.516",
+					"latitude2": "N034.50.45.904",
+					"longitude2": "E127.36.53.922"
+				},
+				{
+					"latitude1": "N034.50.45.904",
+					"longitude1": "E127.36.53.922",
+					"latitude2": "N034.50.46.380",
+					"longitude2": "E127.36.54.106"
+				},
+				{
+					"latitude1": "N034.50.46.380",
+					"longitude1": "E127.36.54.106",
+					"latitude2": "N034.50.46.760",
+					"longitude2": "E127.36.54.111"
+				},
+				{
+					"latitude1": "N034.50.46.760",
+					"longitude1": "E127.36.54.111",
+					"latitude2": "N034.50.47.132",
+					"longitude2": "E127.36.54.000"
+				}
+			]
+		},
+		{
+			"name": "RKJY-Border__1074",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Border",
+			"lineList": [
+				{
+					"latitude1": "N034.50.43.865",
+					"longitude1": "E127.36.55.594",
+					"latitude2": "N034.50.44.161",
+					"longitude2": "E127.36.55.345"
+				},
+				{
+					"latitude1": "N034.50.44.161",
+					"longitude1": "E127.36.55.345",
+					"latitude2": "N034.50.44.402",
+					"longitude2": "E127.36.55.014"
+				},
+				{
+					"latitude1": "N034.50.44.402",
+					"longitude1": "E127.36.55.014",
+					"latitude2": "N034.50.44.561",
+					"longitude2": "E127.36.54.614"
+				},
+				{
+					"latitude1": "N034.50.44.561",
+					"longitude1": "E127.36.54.614",
+					"latitude2": "N034.50.44.660",
+					"longitude2": "E127.36.54.156"
+				},
+				{
+					"latitude1": "N034.50.44.660",
+					"longitude1": "E127.36.54.156",
+					"latitude2": "N034.50.44.645",
+					"longitude2": "E127.36.53.760"
+				},
+				{
+					"latitude1": "N034.50.44.645",
+					"longitude1": "E127.36.53.760",
+					"latitude2": "N034.50.44.577",
+					"longitude2": "E127.36.53.426"
+				},
+				{
+					"latitude1": "N034.50.44.577",
+					"longitude1": "E127.36.53.426",
+					"latitude2": "N034.50.44.179",
+					"longitude2": "E127.36.52.266"
+				},
+				{
+					"latitude1": "N034.50.44.179",
+					"longitude1": "E127.36.52.266",
+					"latitude2": "N034.50.43.066",
+					"longitude2": "E127.36.49.689"
+				},
+				{
+					"latitude1": "N034.50.43.066",
+					"longitude1": "E127.36.49.689",
+					"latitude2": "N034.50.42.887",
+					"longitude2": "E127.36.49.385"
+				},
+				{
+					"latitude1": "N034.50.42.887",
+					"longitude1": "E127.36.49.385",
+					"latitude2": "N034.50.42.690",
+					"longitude2": "E127.36.49.203"
+				},
+				{
+					"latitude1": "N034.50.42.690",
+					"longitude1": "E127.36.49.203",
+					"latitude2": "N034.50.42.355",
+					"longitude2": "E127.36.49.071"
+				},
+				{
+					"latitude1": "N034.50.42.355",
+					"longitude1": "E127.36.49.071",
+					"latitude2": "N034.50.41.989",
+					"longitude2": "E127.36.49.142"
+				},
+				{
+					"latitude1": "N034.50.41.989",
+					"longitude1": "E127.36.49.142",
+					"latitude2": "N034.50.39.628",
+					"longitude2": "E127.36.49.965"
+				},
+				{
+					"latitude1": "N034.50.39.628",
+					"longitude1": "E127.36.49.965",
+					"latitude2": "N034.50.16.663",
+					"longitude2": "E127.37.01.211"
+				},
+				{
+					"latitude1": "N034.50.16.663",
+					"longitude1": "E127.37.01.211",
+					"latitude2": "N034.50.14.438",
+					"longitude2": "E127.37.02.670"
+				},
+				{
+					"latitude1": "N034.50.14.438",
+					"longitude1": "E127.37.02.670",
+					"latitude2": "N034.50.14.201",
+					"longitude2": "E127.37.02.952"
+				},
+				{
+					"latitude1": "N034.50.14.201",
+					"longitude1": "E127.37.02.952",
+					"latitude2": "N034.50.14.101",
+					"longitude2": "E127.37.03.205"
+				},
+				{
+					"latitude1": "N034.50.14.101",
+					"longitude1": "E127.37.03.205",
+					"latitude2": "N034.50.14.060",
+					"longitude2": "E127.37.03.438"
+				},
+				{
+					"latitude1": "N034.50.14.060",
+					"longitude1": "E127.37.03.438",
+					"latitude2": "N034.50.14.100",
+					"longitude2": "E127.37.03.781"
+				},
+				{
+					"latitude1": "N034.50.14.100",
+					"longitude1": "E127.37.03.781",
+					"latitude2": "N034.50.14.791",
+					"longitude2": "E127.37.06.697"
+				},
+				{
+					"latitude1": "N034.50.14.791",
+					"longitude1": "E127.37.06.697",
+					"latitude2": "N034.50.15.150",
+					"longitude2": "E127.37.07.819"
+				},
+				{
+					"latitude1": "N034.50.15.150",
+					"longitude1": "E127.37.07.819",
+					"latitude2": "N034.50.15.366",
+					"longitude2": "E127.37.08.224"
+				},
+				{
+					"latitude1": "N034.50.15.366",
+					"longitude1": "E127.37.08.224",
+					"latitude2": "N034.50.15.682",
+					"longitude2": "E127.37.08.572"
+				},
+				{
+					"latitude1": "N034.50.15.682",
+					"longitude1": "E127.37.08.572",
+					"latitude2": "N034.50.16.007",
+					"longitude2": "E127.37.08.753"
+				},
+				{
+					"latitude1": "N034.50.16.007",
+					"longitude1": "E127.37.08.753",
+					"latitude2": "N034.50.16.410",
+					"longitude2": "E127.37.08.863"
+				},
+				{
+					"latitude1": "N034.50.16.410",
+					"longitude1": "E127.37.08.863",
+					"latitude2": "N034.50.16.672",
+					"longitude2": "E127.37.08.829"
+				},
+				{
+					"latitude1": "N034.50.16.672",
+					"longitude1": "E127.37.08.829",
+					"latitude2": "N034.50.16.910",
+					"longitude2": "E127.37.08.784"
+				}
+			]
+		},
+		{
+			"name": "RKJY-Border__1080",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Border",
+			"lineList": [
+				{
+					"latitude1": "N034.50.13.686",
+					"longitude1": "E127.37.10.357",
+					"latitude2": "N034.50.14.097",
+					"longitude2": "E127.37.10.041"
+				},
+				{
+					"latitude1": "N034.50.14.097",
+					"longitude1": "E127.37.10.041",
+					"latitude2": "N034.50.14.401",
+					"longitude2": "E127.37.09.538"
+				},
+				{
+					"latitude1": "N034.50.14.401",
+					"longitude1": "E127.37.09.538",
+					"latitude2": "N034.50.14.547",
+					"longitude2": "E127.37.08.946"
+				},
+				{
+					"latitude1": "N034.50.14.547",
+					"longitude1": "E127.37.08.946",
+					"latitude2": "N034.50.14.538",
+					"longitude2": "E127.37.08.373"
+				},
+				{
+					"latitude1": "N034.50.14.538",
+					"longitude1": "E127.37.08.373",
+					"latitude2": "N034.50.14.093",
+					"longitude2": "E127.37.07.023"
+				},
+				{
+					"latitude1": "N034.50.14.093",
+					"longitude1": "E127.37.07.023",
+					"latitude2": "N034.50.12.890",
+					"longitude2": "E127.37.04.280"
+				},
+				{
+					"latitude1": "N034.50.12.890",
+					"longitude1": "E127.37.04.280",
+					"latitude2": "N034.50.12.658",
+					"longitude2": "E127.37.03.981"
+				},
+				{
+					"latitude1": "N034.50.12.658",
+					"longitude1": "E127.37.03.981",
+					"latitude2": "N034.50.12.363",
+					"longitude2": "E127.37.03.837"
+				},
+				{
+					"latitude1": "N034.50.12.363",
+					"longitude1": "E127.37.03.837",
+					"latitude2": "N034.50.11.907",
+					"longitude2": "E127.37.03.882"
+				},
+				{
+					"latitude1": "N034.50.11.907",
+					"longitude1": "E127.37.03.882",
+					"latitude2": "N034.50.09.652",
+					"longitude2": "E127.37.04.637"
+				},
+				{
+					"latitude1": "N034.50.09.652",
+					"longitude1": "E127.37.04.637",
+					"latitude2": "N034.50.04.703",
+					"longitude2": "E127.37.07.058"
+				},
+				{
+					"latitude1": "N034.50.04.703",
+					"longitude1": "E127.37.07.058",
+					"latitude2": "N034.50.03.855",
+					"longitude2": "E127.37.07.588"
+				},
+				{
+					"latitude1": "N034.50.03.855",
+					"longitude1": "E127.37.07.588",
+					"latitude2": "N034.50.02.174",
+					"longitude2": "E127.37.08.727"
+				},
+				{
+					"latitude1": "N034.50.02.174",
+					"longitude1": "E127.37.08.727",
+					"latitude2": "N034.50.01.976",
+					"longitude2": "E127.37.08.948"
+				},
+				{
+					"latitude1": "N034.50.01.976",
+					"longitude1": "E127.37.08.948",
+					"latitude2": "N034.50.01.443",
+					"longitude2": "E127.37.10.058"
+				},
+				{
+					"latitude1": "N034.50.01.443",
+					"longitude1": "E127.37.10.058",
+					"latitude2": "N034.50.00.942",
+					"longitude2": "E127.37.11.177"
+				},
+				{
+					"latitude1": "N034.50.00.942",
+					"longitude1": "E127.37.11.177",
+					"latitude2": "N034.50.00.407",
+					"longitude2": "E127.37.13.397"
+				},
+				{
+					"latitude1": "N034.50.00.407",
+					"longitude1": "E127.37.13.397",
+					"latitude2": "N034.50.00.363",
+					"longitude2": "E127.37.13.653"
+				},
+				{
+					"latitude1": "N034.50.00.363",
+					"longitude1": "E127.37.13.653",
+					"latitude2": "N034.50.00.383",
+					"longitude2": "E127.37.13.841"
+				},
+				{
+					"latitude1": "N034.50.00.383",
+					"longitude1": "E127.37.13.841",
+					"latitude2": "N034.50.00.601",
+					"longitude2": "E127.37.14.816"
+				},
+				{
+					"latitude1": "N034.50.00.601",
+					"longitude1": "E127.37.14.816",
+					"latitude2": "N034.50.00.781",
+					"longitude2": "E127.37.15.284"
+				},
+				{
+					"latitude1": "N034.50.00.781",
+					"longitude1": "E127.37.15.284",
+					"latitude2": "N034.50.00.986",
+					"longitude2": "E127.37.15.723"
+				}
+			]
+		},
+		{
+			"name": "RunwayColor__681",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-Runway",
+			"lineList": [
+				{
+					"latitude1": "N034.50.00.828",
+					"longitude1": "E127.37.18.554",
+					"latitude2": "N034.51.04.034",
+					"longitude2": "E127.36.47.637"
+				},
+				{
+					"latitude1": "N034.51.04.034",
+					"longitude1": "E127.36.47.637",
+					"latitude2": "N034.51.03.267",
+					"longitude2": "E127.36.45.246"
+				},
+				{
+					"latitude1": "N034.51.03.267",
+					"longitude1": "E127.36.45.246",
+					"latitude2": "N034.51.01.315",
+					"longitude2": "E127.36.46.182"
+				},
+				{
+					"latitude1": "N034.51.01.315",
+					"longitude1": "E127.36.46.182",
+					"latitude2": "N034.51.00.505",
+					"longitude2": "E127.36.47.446"
+				},
+				{
+					"latitude1": "N034.51.00.505",
+					"longitude1": "E127.36.47.446",
+					"latitude2": "N034.50.03.295",
+					"longitude2": "E127.37.15.447"
+				},
+				{
+					"latitude1": "N034.50.03.295",
+					"longitude1": "E127.37.15.447",
+					"latitude2": "N034.50.01.936",
+					"longitude2": "E127.37.15.240"
+				},
+				{
+					"latitude1": "N034.50.01.936",
+					"longitude1": "E127.37.15.240",
+					"latitude2": "N034.50.00.987",
+					"longitude2": "E127.37.15.721"
+				}
+			]
+		}
+	]
 }

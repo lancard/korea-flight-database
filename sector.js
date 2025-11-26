@@ -66,11 +66,11 @@ module.exports = {
         });
 
         for (var airport in airportObject) {
-            for (obj in airportObject[airport]) {
-                airportObject[airport][obj].lineList.forEach(e => {
-                    ret.push(`${e.latitude1} ${e.longitude1} ${e.latitude2} ${e.longitude2} ${airportObject[airport][obj].colorProfile}`);
+            airportObject[airport].geo.forEach(onegeo => {
+                onegeo.lineList.forEach(e => {
+                    ret.push(`${e.latitude1} ${e.longitude1} ${e.latitude2} ${e.longitude2} ${onegeo.colorProfile}`);
                 });
-            }
+            });
         }
 
         return ret.join("\n");
@@ -209,9 +209,9 @@ module.exports = {
 
         var ret = [];
 
-        for(var name in bravo) {
+        for (var name in bravo) {
             for (var b = 0; b < bravo[name].length - 1; b++) {
-                ret.push(`${name} ${bravo[name][b]} ${bravo[name][b+1]}`);
+                ret.push(`${name} ${bravo[name][b]} ${bravo[name][b + 1]}`);
             }
         }
 
