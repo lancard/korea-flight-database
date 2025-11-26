@@ -357,7 +357,7 @@ module.exports = {
             if (!airportObject[airport].label)
                 continue;
             airportObject[airport].label.forEach(onelabel => {
-                ret.push(`${onelabel.name} ${onelabel.latitude} ${onelabel.longitude} ${onelabel.colorProfile}`);
+                ret.push(`"${onelabel.name}" ${onelabel.latitude} ${onelabel.longitude} ${onelabel.colorProfile}`);
             });
         }
 
