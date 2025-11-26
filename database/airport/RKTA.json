@@ -1,6 +1,197 @@
 {
 	"geo": [
 		{
+			"name": "Building-1",
+			"description": "NEW SOUTH APRON 빌딩",
+			"colorProfile": "Airport-Building",
+			"lineList": [
+				{
+					"latitude1": "N036.35.30.070",
+					"longitude1": "E126.17.46.994",
+					"latitude2": "N036.35.34.233",
+					"longitude2": "E126.17.43.990"
+				},
+				{
+					"latitude1": "N036.35.34.233",
+					"longitude1": "E126.17.43.990",
+					"latitude2": "N036.35.33.794",
+					"longitude2": "E126.17.42.991"
+				},
+				{
+					"latitude1": "N036.35.33.794",
+					"longitude1": "E126.17.42.991",
+					"latitude2": "N036.35.31.196",
+					"longitude2": "E126.17.44.969"
+				},
+				{
+					"latitude1": "N036.35.31.196",
+					"longitude1": "E126.17.44.969",
+					"latitude2": "N036.35.30.883",
+					"longitude2": "E126.17.44.369"
+				},
+				{
+					"latitude1": "N036.35.30.883",
+					"longitude1": "E126.17.44.369",
+					"latitude2": "N036.35.29.342",
+					"longitude2": "E126.17.45.467"
+				},
+				{
+					"latitude1": "N036.35.29.342",
+					"longitude1": "E126.17.45.467",
+					"latitude2": "N036.35.30.067",
+					"longitude2": "E126.17.46.992"
+				}
+			]
+		},
+		{
+			"name": "Building-2",
+			"description": "SOUTH APRON 빌딩",
+			"colorProfile": "Airport-Building",
+			"lineList": [
+				{
+					"latitude1": "N036.35.38.642",
+					"longitude1": "E126.17.40.722",
+					"latitude2": "N036.35.38.056",
+					"longitude2": "E126.17.39.539"
+				},
+				{
+					"latitude1": "N036.35.38.056",
+					"longitude1": "E126.17.39.539",
+					"latitude2": "N036.35.36.559",
+					"longitude2": "E126.17.40.903"
+				},
+				{
+					"latitude1": "N036.35.36.559",
+					"longitude1": "E126.17.40.903",
+					"latitude2": "N036.35.35.402",
+					"longitude2": "E126.17.41.718"
+				},
+				{
+					"latitude1": "N036.35.35.402",
+					"longitude1": "E126.17.41.718",
+					"latitude2": "N036.35.35.167",
+					"longitude2": "E126.17.41.251"
+				},
+				{
+					"latitude1": "N036.35.35.167",
+					"longitude1": "E126.17.41.251",
+					"latitude2": "N036.35.34.217",
+					"longitude2": "E126.17.41.979"
+				},
+				{
+					"latitude1": "N036.35.34.217",
+					"longitude1": "E126.17.41.979",
+					"latitude2": "N036.35.34.848",
+					"longitude2": "E126.17.43.382"
+				},
+				{
+					"latitude1": "N036.35.34.848",
+					"longitude1": "E126.17.43.382",
+					"latitude2": "N036.35.36.764",
+					"longitude2": "E126.17.42.124"
+				},
+				{
+					"latitude1": "N036.35.36.764",
+					"longitude1": "E126.17.42.124",
+					"latitude2": "N036.35.38.642",
+					"longitude2": "E126.17.40.721"
+				}
+			]
+		},
+		{
+			"name": "Building-3",
+			"description": "MAIN 빌딩",
+			"colorProfile": "Airport-Building",
+			"lineList": [
+				{
+					"latitude1": "N036.35.41.838",
+					"longitude1": "E126.17.38.116",
+					"latitude2": "N036.35.41.101",
+					"longitude2": "E126.17.36.642"
+				},
+				{
+					"latitude1": "N036.35.41.101",
+					"longitude1": "E126.17.36.642",
+					"latitude2": "N036.35.38.368",
+					"longitude2": "E126.17.38.498"
+				},
+				{
+					"latitude1": "N036.35.38.368",
+					"longitude1": "E126.17.38.498",
+					"latitude2": "N036.35.39.151",
+					"longitude2": "E126.17.40.165"
+				},
+				{
+					"latitude1": "N036.35.39.151",
+					"longitude1": "E126.17.40.165",
+					"latitude2": "N036.35.41.842",
+					"longitude2": "E126.17.38.114"
+				}
+			]
+		},
+		{
+			"name": "Building-4",
+			"description": "NORTH APRON 빌딩",
+			"colorProfile": "Airport-Building",
+			"lineList": [
+				{
+					"latitude1": "N036.35.46.717",
+					"longitude1": "E126.17.35.269",
+					"latitude2": "N036.35.46.135",
+					"longitude2": "E126.17.34.075"
+				},
+				{
+					"latitude1": "N036.35.46.135",
+					"longitude1": "E126.17.34.075",
+					"latitude2": "N036.35.42.255",
+					"longitude2": "E126.17.36.549"
+				},
+				{
+					"latitude1": "N036.35.42.255",
+					"longitude1": "E126.17.36.549",
+					"latitude2": "N036.35.42.745",
+					"longitude2": "E126.17.37.748"
+				},
+				{
+					"latitude1": "N036.35.42.745",
+					"longitude1": "E126.17.37.748",
+					"latitude2": "N036.35.46.724",
+					"longitude2": "E126.17.35.257"
+				}
+			]
+		},
+		{
+			"name": "Building-5",
+			"description": "TECH CENTER 빌딩",
+			"colorProfile": "Airport-Building",
+			"lineList": [
+				{
+					"latitude1": "N036.35.48.800",
+					"longitude1": "E126.17.33.257",
+					"latitude2": "N036.35.47.790",
+					"longitude2": "E126.17.31.166"
+				},
+				{
+					"latitude1": "N036.35.47.790",
+					"longitude1": "E126.17.31.166",
+					"latitude2": "N036.35.46.105",
+					"longitude2": "E126.17.32.423"
+				},
+				{
+					"latitude1": "N036.35.46.105",
+					"longitude1": "E126.17.32.423",
+					"latitude2": "N036.35.47.057",
+					"longitude2": "E126.17.34.452"
+				},
+				{
+					"latitude1": "N036.35.47.057",
+					"longitude1": "E126.17.34.452",
+					"latitude2": "N036.35.48.804",
+					"longitude2": "E126.17.33.260"
+				}
+			]
+		},
+		{
 			"name": "BlastPad_28",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-BlastPad",
@@ -1244,16 +1435,16 @@
 			"colorProfile": "Airport-ApronCenterLine",
 			"lineList": [
 				{
-					"latitude1": "N036.35.31.055",
-					"longitude1": "E126.17.50.402",
-					"latitude2": "N036.35.30.445",
-					"longitude2": "E126.17.49.082"
+					"latitude1": "N036.35.31.074",
+					"longitude1": "E126.17.50.522",
+					"latitude2": "N036.35.30.441",
+					"longitude2": "E126.17.49.096"
 				},
 				{
-					"latitude1": "N036.35.30.445",
-					"longitude1": "E126.17.49.082",
+					"latitude1": "N036.35.30.441",
+					"longitude1": "E126.17.49.096",
 					"latitude2": "N036.35.29.785",
-					"longitude2": "E126.17.47.666"
+					"longitude2": "E126.17.47.665"
 				}
 			]
 		},
@@ -1306,6 +1497,68 @@
 					"longitude1": "E126.17.36.348",
 					"latitude2": "N036.35.21.770",
 					"longitude2": "E126.17.59.794"
+				}
+			]
+		},
+		{
+			"name": "RKTA-Helipad-1",
+			"description": "남측 헬리패드",
+			"colorProfile": "Airport-Helipad",
+			"lineList": [
+				{
+					"latitude1": "N036.35.31.198",
+					"longitude1": "E126.17.48.750",
+					"latitude2": "N036.35.31.487",
+					"longitude2": "E126.17.49.403"
+				},
+				{
+					"latitude1": "N036.35.31.487",
+					"longitude1": "E126.17.49.403",
+					"latitude2": "N036.35.30.811",
+					"longitude2": "E126.17.49.879"
+				},
+				{
+					"latitude1": "N036.35.30.811",
+					"longitude1": "E126.17.49.879",
+					"latitude2": "N036.35.30.512",
+					"longitude2": "E126.17.49.205"
+				},
+				{
+					"latitude1": "N036.35.30.512",
+					"longitude1": "E126.17.49.205",
+					"latitude2": "N036.35.31.198",
+					"longitude2": "E126.17.48.748"
+				}
+			]
+		},
+		{
+			"name": "RKTA-Helipad-2",
+			"description": "북측 헬리패드",
+			"colorProfile": "Airport-Helipad",
+			"lineList": [
+				{
+					"latitude1": "N036.35.48.111",
+					"longitude1": "E126.17.35.990",
+					"latitude2": "N036.35.48.385",
+					"longitude2": "E126.17.36.633"
+				},
+				{
+					"latitude1": "N036.35.48.385",
+					"longitude1": "E126.17.36.633",
+					"latitude2": "N036.35.47.771",
+					"longitude2": "E126.17.37.066"
+				},
+				{
+					"latitude1": "N036.35.47.771",
+					"longitude1": "E126.17.37.066",
+					"latitude2": "N036.35.47.486",
+					"longitude2": "E126.17.36.394"
+				},
+				{
+					"latitude1": "N036.35.47.486",
+					"longitude1": "E126.17.36.394",
+					"latitude2": "N036.35.48.111",
+					"longitude2": "E126.17.35.993"
 				}
 			]
 		}
