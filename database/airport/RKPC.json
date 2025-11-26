@@ -13746,5 +13746,546 @@
 				}
 			]
 		}
+	],
+	"label": [
+		{
+			"labelType": "Gate-Number",
+			"name": "10",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.25.778",
+			"longitude": "E126.29.30.575"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "13",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.23.643",
+			"longitude": "E126.29.28.809"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "15",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.22.590",
+			"longitude": "E126.29.26.410"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "17",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.22.311",
+			"longitude": "E126.29.24.040"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "18",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.21.378",
+			"longitude": "E126.29.22.738"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "1",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.27.951",
+			"longitude": "E126.29.43.154"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "2",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.28.167",
+			"longitude": "E126.29.41.463"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "20",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.19.975",
+			"longitude": "E126.29.21.283"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "3",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.28.062",
+			"longitude": "E126.29.39.786"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "30",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.18.298",
+			"longitude": "E126.29.18.440"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "31",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.17.088",
+			"longitude": "E126.29.16.070"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "32",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.15.869",
+			"longitude": "E126.29.13.700"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "32F",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.15.869",
+			"longitude": "E126.29.13.700"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "33",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.15.807",
+			"longitude": "E126.29.10.150"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "34",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.14.777",
+			"longitude": "E126.29.08.296"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "35",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.14.084",
+			"longitude": "E126.29.06.896"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "36",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.13.384",
+			"longitude": "E126.29.05.525"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "37",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.12.699",
+			"longitude": "E126.29.04.154"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "40",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.35.567",
+			"longitude": "E126.29.35.794"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "41",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.34.888",
+			"longitude": "E126.29.36.253"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "51",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.34.116",
+			"longitude": "E126.29.33.458"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "52",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.32.968",
+			"longitude": "E126.29.30.953"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "53",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.31.918",
+			"longitude": "E126.29.28.916"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "54",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.30.702",
+			"longitude": "E126.29.26.906"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "55",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.29.743",
+			"longitude": "E126.29.24.898"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "56",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.29.070",
+			"longitude": "E126.29.23.451"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "57",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.28.335",
+			"longitude": "E126.29.22.137"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "6",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.28.050",
+			"longitude": "E126.29.37.437"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "60",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.25.415",
+			"longitude": "E126.29.16.479"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "61",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.24.510",
+			"longitude": "E126.29.14.567"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "62",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.23.493",
+			"longitude": "E126.29.12.590"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "63",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.22.350",
+			"longitude": "E126.29.10.592"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "64",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.19.507",
+			"longitude": "E126.29.04.894"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "65",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.18.784",
+			"longitude": "E126.29.03.520"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "7",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.27.936",
+			"longitude": "E126.29.34.932"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "80",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.21.278",
+			"longitude": "E126.30.00.519"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "81",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.22.108",
+			"longitude": "E126.29.58.936"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "82",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.22.987",
+			"longitude": "E126.29.57.520"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "83",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.23.777",
+			"longitude": "E126.29.56.243"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "84",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.24.541",
+			"longitude": "E126.29.54.833"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "85",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.27.138",
+			"longitude": "E126.29.48.420"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "86",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.28.042",
+			"longitude": "E126.29.46.786"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "9",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N033.30.27.196",
+			"longitude": "E126.29.32.689"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "A",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.38.913",
+			"longitude": "E126.29.46.359"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "E1",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.35.739",
+			"longitude": "E126.29.43.396"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "E2",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.33.715",
+			"longitude": "E126.29.47.300"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "E3",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.17.966",
+			"longitude": "E126.30.10.763"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "G1",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.35.392",
+			"longitude": "E126.29.37.185"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "G2",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.26.430",
+			"longitude": "E126.29.19.642"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "G3",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.20.211",
+			"longitude": "E126.29.07.511"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "G4",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.16.932",
+			"longitude": "E126.29.01.328"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.08.479",
+			"longitude": "E126.28.37.161"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.03.270",
+			"longitude": "E126.28.27.662"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.25.825",
+			"longitude": "E126.29.11.544"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.37.414",
+			"longitude": "E126.29.33.678"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.42.473",
+			"longitude": "E126.29.43.730"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P1",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.50.364",
+			"longitude": "E126.29.52.606"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P10",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.07.599",
+			"longitude": "E126.28.29.628"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P11",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.02.868",
+			"longitude": "E126.28.20.246"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P12",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.29.58.509",
+			"longitude": "E126.28.11.640"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P13",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.29.56.959",
+			"longitude": "E126.28.08.663"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P2",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.48.592",
+			"longitude": "E126.29.49.361"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P3",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.45.147",
+			"longitude": "E126.29.42.525"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P4",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.36.578",
+			"longitude": "E126.29.26.574"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P5",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.31.582",
+			"longitude": "E126.29.17.067"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P6",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.27.067",
+			"longitude": "E126.29.08.092"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P7",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.19.918",
+			"longitude": "E126.28.53.762"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P8",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.15.232",
+			"longitude": "E126.28.45.000"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P9",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.12.720",
+			"longitude": "E126.28.39.245"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "R",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.16.633",
+			"longitude": "E126.29.05.642"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "R",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.22.108",
+			"longitude": "E126.29.15.915"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "R",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.29.644",
+			"longitude": "E126.29.30.284"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "V",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.36.848",
+			"longitude": "E126.29.50.735"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "V1",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.32.018",
+			"longitude": "E126.29.57.880"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "V2",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.30.118",
+			"longitude": "E126.30.00.739"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "W",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.40.165",
+			"longitude": "E126.29.49.576"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "E",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N033.30.56.050",
+			"longitude": "E126.29.11.560"
+		}
 	]
 }

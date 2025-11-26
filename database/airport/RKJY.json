@@ -972,5 +972,91 @@
 				}
 			]
 		}
+	],
+	"label": [
+		{
+			"labelType": "Gate-Number",
+			"name": "1",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N034.50.24.695",
+			"longitude": "E127.36.53.288"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "2",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N034.50.26.933",
+			"longitude": "E127.36.52.272"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "3",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N034.50.29.389",
+			"longitude": "E127.36.50.780"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "4",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N034.50.31.293",
+			"longitude": "E127.36.49.919"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "5",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N034.50.33.039",
+			"longitude": "E127.36.49.141"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "A",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N034.50.44.386",
+			"longitude": "E127.36.51.589"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "B",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N034.50.14.338",
+			"longitude": "E127.37.06.532"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "C",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N034.50.00.157",
+			"longitude": "E127.37.14.744"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "G",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N034.49.58.748",
+			"longitude": "E127.37.11.112"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N034.50.06.277",
+			"longitude": "E127.37.05.801"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N034.50.19.508",
+			"longitude": "E127.36.59.334"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "P",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N034.50.40.166",
+			"longitude": "E127.36.49.228"
+		}
 	]
 }

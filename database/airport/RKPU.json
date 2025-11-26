@@ -1,7 +1,6 @@
 {
 	"geo": [
 		{
-			
 			"name": "RKPU-Border__1200",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-Border",
@@ -243,7 +242,6 @@
 			]
 		},
 		{
-			
 			"name": "RKPU-Border__1201",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-Border",
@@ -299,7 +297,6 @@
 			]
 		},
 		{
-			
 			"name": "RKPU-Border__1202",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-Border",
@@ -437,6 +434,50 @@
 					"longitude2": "E129.21.08.562"
 				}
 			]
+		}
+	],
+	"label": [
+		{
+			"labelType": "Gate-Number",
+			"name": "1",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N035.35.32.945",
+			"longitude": "E129.21.18.758"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "2",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N035.35.34.798",
+			"longitude": "E129.21.18.652"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "3",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N035.35.37.208",
+			"longitude": "E129.21.17.542"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "4",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N035.35.39.156",
+			"longitude": "E129.21.17.503"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "A",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N035.35.37.813",
+			"longitude": "E129.21.10.319"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "B",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N035.35.33.918",
+			"longitude": "E129.21.10.638"
 		}
 	]
 }
