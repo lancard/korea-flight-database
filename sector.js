@@ -353,6 +353,14 @@ module.exports = {
     getLabel() {
         var ret = [];
 
+        for (var airport in airportObject) {
+            if (!airportObject[airport].label)
+                continue;
+            airportObject[airport].label.forEach(onelabel => {
+                ret.push(`${onelabel.name} ${onelabel.latitude} ${onelabel.longitude} ${onelabel.colorProfile}`);
+            });
+        }
+
         labelList.forEach(e => {
             ret.push(`"${e.name}" ${e.latitude} ${e.longitude} ${e.colorProfile}`);
         });
