@@ -223,6 +223,7 @@ module.exports = {
         contents += "CIRCLE_SECTORLINE:RKTL_TWR:RKTL:5\n";
         contents += "CIRCLE_SECTORLINE:RKTN_TWR:RKTN:5\n";
         contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:5\n";
+        contents += "CIRCLE_SECTORLINE:RKTU_TWR:RKTU:10\n";
 
 
 
