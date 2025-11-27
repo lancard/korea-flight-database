@@ -1792,6 +1792,83 @@
 			"labelType": "Gate-Number",
 			"name": "41",
 			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.34.900",
+			"longitude": "E126.17.45.410"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "42",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.34.485",
+			"longitude": "E126.17.45.719"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "43",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.34.067",
+			"longitude": "E126.17.46.013"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "44",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.33.652",
+			"longitude": "E126.17.46.308"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "45",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.33.229",
+			"longitude": "E126.17.46.617"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "46",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.32.815",
+			"longitude": "E126.17.46.935"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "47",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.32.423",
+			"longitude": "E126.17.47.244"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "48",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.32.012",
+			"longitude": "E126.17.47.553"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "49",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.31.605",
+			"longitude": "E126.17.47.862"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "50",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.31.171",
+			"longitude": "E126.17.48.166"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "51",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N036.35.30.737",
+			"longitude": "E126.17.48.466"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "41",
+			"colorProfile": "Airport-GateNumber",
 			"latitude": "N036.35.46.359",
 			"longitude": "E126.17.36.440"
 		},
