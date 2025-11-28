@@ -1523,37 +1523,6 @@
 			"colorProfile": "Airport-General-Area",
 			"lineList": [
 				{
-					"latitude1": "N036.35.38.380",
-					"longitude1": "E126.17.41.768",
-					"latitude2": "N036.35.38.954",
-					"longitude2": "E126.17.42.926"
-				},
-				{
-					"latitude1": "N036.35.38.954",
-					"longitude1": "E126.17.42.926",
-					"latitude2": "N036.35.35.943",
-					"longitude2": "E126.17.45.084"
-				},
-				{
-					"latitude1": "N036.35.35.943",
-					"longitude1": "E126.17.45.084",
-					"latitude2": "N036.35.35.408",
-					"longitude2": "E126.17.43.941"
-				},
-				{
-					"latitude1": "N036.35.35.408",
-					"longitude1": "E126.17.43.941",
-					"latitude2": "N036.35.38.380",
-					"longitude2": "E126.17.41.768"
-				}
-			]
-		},
-		{
-			"name": "RKTA-SOUTH-RAMP",
-			"description": "남측 램프 구역",
-			"colorProfile": "Airport-General-Area",
-			"lineList": [
-				{
 					"latitude1": "N036.35.43.186",
 					"longitude1": "E126.17.38.364",
 					"latitude2": "N036.35.43.760",
@@ -1576,6 +1545,37 @@
 					"longitude1": "E126.17.41.391",
 					"latitude2": "N036.35.43.186",
 					"longitude2": "E126.17.38.364"
+				}
+			]
+		},
+		{
+			"name": "RKTA-SOUTH-RAMP",
+			"description": "남측 램프 구역",
+			"colorProfile": "Airport-General-Area",
+			"lineList": [
+				{
+					"latitude1": "N036.35.38.380",
+					"longitude1": "E126.17.41.768",
+					"latitude2": "N036.35.38.954",
+					"longitude2": "E126.17.42.926"
+				},
+				{
+					"latitude1": "N036.35.38.954",
+					"longitude1": "E126.17.42.926",
+					"latitude2": "N036.35.35.943",
+					"longitude2": "E126.17.45.084"
+				},
+				{
+					"latitude1": "N036.35.35.943",
+					"longitude1": "E126.17.45.084",
+					"latitude2": "N036.35.35.408",
+					"longitude2": "E126.17.43.941"
+				},
+				{
+					"latitude1": "N036.35.35.408",
+					"longitude1": "E126.17.43.941",
+					"latitude2": "N036.35.38.380",
+					"longitude2": "E126.17.41.768"
 				}
 			]
 		},
