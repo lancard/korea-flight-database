@@ -1,6 +1,8 @@
 Airport-ApronCenterLine #00557F
 Airport-BlastPad #FFFF00
 Airport-Border #AAAAFF
+Airport-General-Area #8d8dac
+Airport-Area-Label #046d6d
 Airport-Building #606060
 Airport-Building-Label #003535
 Airport-GateNumber #745835

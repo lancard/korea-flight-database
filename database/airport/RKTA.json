@@ -1436,28 +1436,46 @@
 			"lineList": [
 				{
 					"latitude1": "N036.35.31.074",
-					"longitude1": "E126.17.50.522",
-					"latitude2": "N036.35.30.441",
-					"longitude2": "E126.17.49.096"
+					"longitude1": "E126.17.50.521",
+					"latitude2": "N036.35.30.588",
+					"longitude2": "E126.17.49.477"
 				},
 				{
-					"latitude1": "N036.35.30.441",
-					"longitude1": "E126.17.49.096",
+					"latitude1": "N036.35.30.588",
+					"longitude1": "E126.17.49.477",
+					"latitude2": "N036.35.30.384",
+					"longitude2": "E126.17.49.181"
+				},
+				{
+					"latitude1": "N036.35.30.384",
+					"longitude1": "E126.17.49.181",
 					"latitude2": "N036.35.29.785",
 					"longitude2": "E126.17.47.665"
 				}
 			]
 		},
 		{
-			"name": "RKTA-TaxiwayCenterLine_620",
+			"name": "RKTA-TaxiwayCenterLine_610",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
 			"lineList": [
 				{
-					"latitude1": "N036.35.36.500",
-					"longitude1": "E126.17.46.692",
-					"latitude2": "N036.35.35.067",
-					"longitude2": "E126.17.43.824"
+					"latitude1": "N036.35.30.371",
+					"longitude1": "E126.17.49.141",
+					"latitude2": "N036.35.35.766",
+					"longitude2": "E126.17.45.266"
+				},
+				{
+					"latitude1": "N036.35.35.766",
+					"longitude1": "E126.17.45.266",
+					"latitude2": "N036.35.39.297",
+					"longitude2": "E126.17.42.891"
+				},
+				{
+					"latitude1": "N036.35.39.297",
+					"longitude1": "E126.17.42.891",
+					"latitude2": "N036.35.43.943",
+					"longitude2": "E126.17.39.598"
 				}
 			]
 		},
@@ -1484,6 +1502,37 @@
 					"longitude1": "E126.17.41.713",
 					"latitude2": "N036.35.43.229",
 					"longitude2": "E126.17.38.061"
+				}
+			]
+		},
+		{
+			"name": "RKTA-NEW-SOUTH-RAMP",
+			"description": "신규 남측 램프 구역",
+			"colorProfile": "Airport-General-Area",
+			"lineList": [
+				{
+					"latitude1": "N036.35.34.628",
+					"longitude1": "E126.17.44.496",
+					"latitude2": "N036.35.35.167",
+					"longitude2": "E126.17.45.648"
+				},
+				{
+					"latitude1": "N036.35.35.167",
+					"longitude1": "E126.17.45.648",
+					"latitude2": "N036.35.30.447",
+					"longitude2": "E126.17.49.076"
+				},
+				{
+					"latitude1": "N036.35.30.447",
+					"longitude1": "E126.17.49.076",
+					"latitude2": "N036.35.29.927",
+					"longitude2": "E126.17.47.929"
+				},
+				{
+					"latitude1": "N036.35.29.927",
+					"longitude1": "E126.17.47.929",
+					"latitude2": "N036.35.34.628",
+					"longitude2": "E126.17.44.496"
 				}
 			]
 		},
@@ -2018,6 +2067,13 @@
 			"colorProfile": "Airport-Taxiway-Label",
 			"latitude": "N036.35.54.163",
 			"longitude": "E126.17.35.429"
+		},
+		{
+			"labelType": "Area-Label",
+			"name": "NEW SOUTH RAMP",
+			"colorProfile": "Airport-Area-Label",
+			"latitude": "N036.35.32.493",
+			"longitude": "E126.17.46.816"
 		}
 	]
 }
