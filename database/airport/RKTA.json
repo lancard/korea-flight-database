@@ -1191,12 +1191,12 @@
 				{
 					"latitude1": "N036.35.35.766",
 					"longitude1": "E126.17.45.266",
-					"latitude2": "N036.35.39.192",
-					"longitude2": "E126.17.42.804"
+					"latitude2": "N036.35.39.191",
+					"longitude2": "E126.17.42.803"
 				},
 				{
-					"latitude1": "N036.35.39.192",
-					"longitude1": "E126.17.42.804",
+					"latitude1": "N036.35.39.191",
+					"longitude1": "E126.17.42.803",
 					"latitude2": "N036.35.39.393",
 					"longitude2": "E126.17.42.901"
 				},
@@ -1204,7 +1204,7 @@
 					"latitude1": "N036.35.39.393",
 					"longitude1": "E126.17.42.901",
 					"latitude2": "N036.35.43.943",
-					"longitude2": "E126.17.39.598"
+					"longitude2": "E126.17.39.665"
 				}
 			]
 		},
@@ -1492,6 +1492,37 @@
 			"colorProfile": "Airport-General-Area",
 			"lineList": [
 				{
+					"latitude1": "N036.35.46.515",
+					"longitude1": "E126.17.35.992",
+					"latitude2": "N036.35.47.012",
+					"longitude2": "E126.17.37.135"
+				},
+				{
+					"latitude1": "N036.35.47.012",
+					"longitude1": "E126.17.37.135",
+					"latitude2": "N036.35.44.109",
+					"longitude2": "E126.17.39.148"
+				},
+				{
+					"latitude1": "N036.35.44.109",
+					"longitude1": "E126.17.39.148",
+					"latitude2": "N036.35.43.582",
+					"longitude2": "E126.17.38.001"
+				},
+				{
+					"latitude1": "N036.35.43.582",
+					"longitude1": "E126.17.38.001",
+					"latitude2": "N036.35.46.515",
+					"longitude2": "E126.17.35.992"
+				}
+			]
+		},
+		{
+			"name": "RKTA-MAIN-RAMP",
+			"description": "메인 램프 구역",
+			"colorProfile": "Airport-General-Area",
+			"lineList": [
+				{
 					"latitude1": "N036.35.38.380",
 					"longitude1": "E126.17.41.768",
 					"latitude2": "N036.35.38.954",
@@ -1518,8 +1549,8 @@
 			]
 		},
 		{
-			"name": "RKTA-MAIN-RAMP",
-			"description": "메인 램프 구역",
+			"name": "RKTA-SOUTH-RAMP",
+			"description": "남측 램프 구역",
 			"colorProfile": "Airport-General-Area",
 			"lineList": [
 				{
@@ -2131,6 +2162,13 @@
 			"colorProfile": "Airport-Area-Label",
 			"latitude": "N036.35.41.503",
 			"longitude": "E126.17.40.382"
+		},
+		{
+			"labelType": "Area-Label",
+			"name": "NORTH RAMP",
+			"colorProfile": "Airport-Area-Label",
+			"latitude": "N036.35.45.491",
+			"longitude": "E126.17.37.520"
 		}
 	]
 }
