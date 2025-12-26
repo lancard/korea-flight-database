@@ -800,6 +800,14 @@
 		"longitude": "E129.09.51.993"
 	},
 	{
+		"name": "APAKI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.47.03.700",
+		"longitude": "E127.36.25.000"
+	},
+	{
 		"name": "APDOP",
 		"navaidType": "FIX",
 		"extraType": "FIX",
