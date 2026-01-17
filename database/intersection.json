@@ -1728,7 +1728,7 @@
             "longitude": "E126.27.08.557"
         },
         {
-            "name": "TAXIWAY_E8,TAXIWAY_A,TAXIWAY_A8",
+            "name": "TAXIWAY_E8,TAXIWAY_A,TAXIWAY_A8,TAXIWAY_R8",
             "latitude": "N037.27.28.316",
             "longitude": "E126.27.12.242"
         },
@@ -1894,8 +1894,8 @@
         },
         {
             "name": "TAXIWAY_R17,TAXIWAY_R4",
-            "latitude": "N037.28.11.433",
-            "longitude": "E126.25.20.471"
+            "latitude": "N037.28.15.755",
+            "longitude": "E126.25.27.597"
         },
         {
             "name": "TAXIWAY_M,TAXIWAY_M18",
@@ -2019,8 +2019,13 @@
         },
         {
             "name": "TAXIWAY_N2,TAXIWAY_P3",
-            "latitude": "N037.27.07.784",
-            "longitude": "E126.26.07.069"
+            "latitude": "N037.27.08.243",
+            "longitude": "E126.26.06.566"
+        },
+        {
+            "name": "TAXIWAY_N2,TAXIWAY_N",
+            "latitude": "N037.27.05.064",
+            "longitude": "E126.26.14.145"
         },
         {
             "name": "TAXIWAY_N2,RUNWAY_34R/16L",
