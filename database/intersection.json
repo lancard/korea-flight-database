@@ -1223,6 +1223,11 @@
             "longitude": "E126.26.57.952"
         },
         {
+            "name": "TAXIWAY_R9,TAXIWAY_R1,TAXIWAY_A",
+            "latitude": "N037.27.39.201",
+            "longitude": "E126.27.02.586"
+        },
+        {
             "name": "TAXIWAY_R9,TAXIWAY_R21",
             "latitude": "N037.27.25.692",
             "longitude": "E126.26.37.852"
@@ -1648,12 +1653,12 @@
             "longitude": "E126.26.48.733"
         },
         {
-            "name": "TAXIWAY_E10,TAXIWAY_A,TAXIWAY_A10",
+            "name": "TAXIWAY_A,TAXIWAY_A10",
             "latitude": "N037.27.44.351",
             "longitude": "E126.26.58.052"
         },
         {
-            "name": "TAXIWAY_E10,TAXIWAY_R1",
+            "name": "TAXIWAY_R1",
             "latitude": "N037.27.41.950",
             "longitude": "E126.26.53.496"
         },
@@ -1743,12 +1748,12 @@
             "longitude": "E126.27.06.320"
         },
         {
-            "name": "TAXIWAY_E9,TAXIWAY_A,TAXIWAY_A9",
+            "name": "TAXIWAY_E10,TAXIWAY_A,TAXIWAY_A9",
             "latitude": "N037.27.41.712",
             "longitude": "E126.27.00.364"
         },
         {
-            "name": "TAXIWAY_E9,TAXIWAY_R1,TAXIWAY_R10",
+            "name": "TAXIWAY_E10,TAXIWAY_R1,TAXIWAY_R10",
             "latitude": "N037.27.39.320",
             "longitude": "E126.26.55.826"
         },
@@ -2538,7 +2543,7 @@
             "longitude": "E126.26.24.072"
         },
         {
-            "name": "TAXIWAY_R10",
+            "name": "TAXIWAY_R10,TAXIWAY_R21",
             "latitude": "N037.27.28.076",
             "longitude": "E126.26.35.785"
         },
@@ -2668,12 +2673,12 @@
             "longitude": "E126.25.38.697"
         },
         {
-            "name": "TAXIWAY_W10,TAXIWAY_M,TAXIWAY_M10",
+            "name": "TAXIWAY_M,TAXIWAY_M10",
             "latitude": "N037.27.16.838",
             "longitude": "E126.26.09.110"
         },
         {
-            "name": "TAXIWAY_W10,TAXIWAY_R4",
+            "name": "TAXIWAY_R4",
             "latitude": "N037.27.19.387",
             "longitude": "E126.26.13.548"
         },
@@ -2738,9 +2743,9 @@
             "longitude": "E126.26.29.439"
         },
         {
-            "name": "TAXIWAY_W9,TAXIWAY_M,TAXIWAY_M9",
-            "latitude": "N037.27.14.322",
-            "longitude": "E126.26.11.377"
+            "name": "TAXIWAY_W10,TAXIWAY_M,TAXIWAY_M9",
+            "latitude": "N037.27.12.053",
+            "longitude": "E126.26.13.443"
         },
         {
             "name": "TAXIWAY_W9,TAXIWAY_R4,TAXIWAY_R10",
