@@ -10064,6 +10064,15 @@
 		"airport": "RKSS"
 	},
 	{
+		"name": "UGIPO",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N035.09.23.800",
+		"longitude": "E129.08.45.600",
+		"airport": "RKPK"
+	},
+	{
 		"name": "UPDET",
 		"navaidType": "FIX",
 		"extraType": "FIX",

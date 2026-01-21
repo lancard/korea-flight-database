@@ -523,7 +523,7 @@
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "BAHDA1",
+        "name": "BAHDA2",
         "runway": [
             "18L",
             "18R"
@@ -535,7 +535,7 @@
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "BAHDA1.TOPAX",
+        "name": "BAHDA2.TOPAX",
         "runway": [
             "18L",
             "18R"
@@ -548,7 +548,7 @@
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "BAHDA1.APELA",
+        "name": "BAHDA2.APELA",
         "runway": [
             "18L",
             "18R"
@@ -561,7 +561,7 @@
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "BAHDA1.INVOK",
+        "name": "BAHDA2.INVOK",
         "runway": [
             "18L",
             "18R"
@@ -574,7 +574,7 @@
     {
         "procedureType": "SID",
         "airport": "RKPK",
-        "name": "BAHDA1.KALEK",
+        "name": "BAHDA2.KALEK",
         "runway": [
             "18L",
             "18R"
@@ -587,7 +587,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKPK",
-        "name": "PEDLO1.KALEK",
+        "name": "PEDLO2.KALEK",
         "fixList": [
             "KALEK",
             "HAEUN",
@@ -597,16 +597,17 @@
     {
         "procedureType": "STAR",
         "airport": "RKPK",
-        "name": "PEDLO1.APARU",
+        "name": "PEDLO2.APARU",
         "fixList": [
             "APARU",
+            "UGIPO",
             "PEDLO"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKPK",
-        "name": "PEDLO1.PSN",
+        "name": "PEDLO2.PSN",
         "fixList": [
             "PSN",
             "PEDLO"
@@ -615,7 +616,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKPK",
-        "name": "PEDLO1.APELA",
+        "name": "PEDLO2.APELA",
         "fixList": [
             "APELA",
             "PEDLO"
@@ -624,7 +625,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKPK",
-        "name": "PEDLO1.INVOK",
+        "name": "PEDLO2.INVOK",
         "fixList": [
             "INVOK",
             "PEDLO"
