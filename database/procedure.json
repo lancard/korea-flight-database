@@ -585,6 +585,32 @@
         ]
     },
     {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "BAHDA2.BESNA",
+        "runway": [
+            "18L",
+            "18R"
+        ],
+        "fixList": [
+            "BAHDA",
+            "BESNA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKPK",
+        "name": "BAHDA2.ENGOT",
+        "runway": [
+            "18L",
+            "18R"
+        ],
+        "fixList": [
+            "BAHDA",
+            "ENGOT"
+        ]
+    },
+    {
         "procedureType": "STAR",
         "airport": "RKPK",
         "name": "PEDLO2.KALEK",
