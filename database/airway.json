@@ -1976,22 +1976,6 @@
         "fixEnd": "KPO"
     },
     {
-        "name": "Y677",
-        "seq": 1,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "CJU",
-        "fixEnd": "TAMNA"
-    },
-    {
-        "name": "Y677",
-        "seq": 2,
-        "description": "고고도항로",
-        "airwayType": "RNAV",
-        "fixStart": "TAMNA",
-        "fixEnd": "SAMDO"
-    },
-    {
         "name": "Z55",
         "seq": 1,
         "description": "고고도항로",
