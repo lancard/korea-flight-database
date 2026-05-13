@@ -1741,7 +1741,7 @@
 		"airport": "RKSI"
 	},
 	{
-		"name": "ASIDI",
+		"name": "EKITO",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
@@ -3155,7 +3155,7 @@
 		"airport": "RKSI"
 	},
 	{
-		"name": "GC036",
+		"name": "LASIG",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
