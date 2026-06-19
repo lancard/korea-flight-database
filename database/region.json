@@ -471,6 +471,68 @@
         ]
     },
     {
+        "name": "MOA74",
+        "regionType": "MOA",
+        "colorProfile": "Area-MOA",
+        "fixList": [
+        "N036.52.00.000 E130.00.00.000",
+        "N036.50.00.000 E130.13.00.000",
+        "N036.44.00.000 E130.25.00.000",
+        "N036.02.00.000 E130.25.00.000",
+        "N036.02.00.000 E130.00.00.000",
+        "N036.52.00.000 E130.00.00.000"
+        ]
+    },
+    {
+        "name": "MOA80",
+        "regionType": "MOA",
+        "colorProfile": "Area-MOA",
+        "fixList": [
+        "N036.32.00.000 E124.50.00.000",
+        "N036.32.00.000 E125.36.00.000",
+        "N036.05.01.000 E125.36.04.000",
+        "N036.04.55.000 E124.31.32.000",
+        "N036.23.56.000 E124.31.26.000",
+        "N036.32.00.000 E124.50.00.000"
+        ]
+    },
+    {
+        "name": "MOA84",
+        "regionType": "MOA",
+        "colorProfile": "Area-MOA",
+        "fixList": [
+        "N035.14.57.000 E124.31.44.000",
+        "N035.15.01.000 E125.36.10.000",
+        "N034.50.00.000 E125.36.12.000",
+        "N034.49.57.000 E124.31.50.000",
+        "N035.14.57.000 E124.31.44.000"
+        ]
+    },
+    {
+        "name": "MOA88",
+        "regionType": "MOA",
+        "colorProfile": "Area-MOA",
+        "fixList": [
+        "N037.01.21.000 E124.50.00.000",
+        "N037.02.08.000 E125.36.00.000",
+        "N036.32.00.000 E125.36.00.000",
+        "N036.32.00.000 E124.50.00.000",
+        "N037.01.21.000 E124.50.00.000"
+        ]
+    },
+    {
+        "name": "MOA107",
+        "regionType": "MOA",
+        "colorProfile": "Area-MOA",
+        "fixList": [
+        "N038.15.00.000 E129.51.00.000",
+        "N038.14.00.000 E130.10.00.000",
+        "N037.47.00.000 E130.10.00.000",
+        "N037.48.00.000 E129.51.00.000",
+        "N038.15.00.000 E129.51.00.000"
+        ]
+    },
+    {
         "name": "MOA5",
         "regionType": "MOA",
         "colorProfile": "Area-MOA",
@@ -530,17 +592,6 @@
         ]
     },
     {
-        "name": "RKR107_DongHaeBukBu",
-        "regionType": "RestrictedArea",
-        "colorProfile": "Area-RestrictedArea",
-        "fixList": [
-            "N038.15.00.000 E129.51.00.000",
-            "N038.14.00.000 E130.10.00.000",
-            "N037.47.00.000 E130.10.00.000",
-            "N037.48.00.000 E129.51.00.000"
-        ]
-    },
-    {
         "name": "RKR110_PilSeung",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
@@ -549,16 +600,6 @@
             "N037.13.00.000 E129.03.00.000",
             "N036.55.00.000 E129.03.00.000",
             "N036.55.00.000 E128.41.00.000"
-        ]
-    },
-    {
-        "name": "RKR115_DongHae",
-        "regionType": "RestrictedArea",
-        "colorProfile": "Area-RestrictedArea",
-        "fixList": [
-            "N037.24.00.000 E129.45.00.000",
-            "N037.13.30.000 E131.00.00.000",
-            "N036.49.00.000 E131.00.00.000"
         ]
     },
     {
@@ -703,18 +744,6 @@
         ]
     },
     {
-        "name": "RKR80_SeoHaeJungBu",
-        "regionType": "RestrictedArea",
-        "colorProfile": "Area-RestrictedArea",
-        "fixList": [
-            "N036.32.00.000 E124.50.00.000",
-            "N036.32.00.000 E125.36.00.000",
-            "N036.05.01.000 E125.36.04.000",
-            "N036.04.55.000 E124.31.32.000",
-            "N036.23.56.000 E124.31.26.000"
-        ]
-    },
-    {
         "name": "RKR81_NakDong",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
@@ -839,28 +868,6 @@
             "N036.29.06.322 E128.15.52.560",
             "N036.29.08.376 E128.16.12.000",
             "N036.29.09.599 E128.16.31.439"
-        ]
-    },
-    {
-        "name": "RKR84_SeoHaeNamBu",
-        "regionType": "RestrictedArea",
-        "colorProfile": "Area-RestrictedArea",
-        "fixList": [
-            "N035.14.57.000 E124.31.44.000",
-            "N035.15.01.000 E125.36.10.000",
-            "N034.50.00.000 E125.36.12.000",
-            "N034.49.57.000 E124.31.50.000"
-        ]
-    },
-    {
-        "name": "RKR88_SeoHaeBukBu",
-        "regionType": "RestrictedArea",
-        "colorProfile": "Area-RestrictedArea",
-        "fixList": [
-            "N037.01.21.000 E124.50.00.000",
-            "N037.02.08.000 E125.36.00.000",
-            "N036.32.00.000 E125.36.00.000",
-            "N036.32.00.000 E124.50.00.000"
         ]
     },
     {
