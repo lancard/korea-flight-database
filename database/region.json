@@ -871,7 +871,7 @@
         ]
     },
     {
-        "name": "RKR75_SEOUL_CITY",
+        "name": "RKR75_CAPITAL",
         "regionType": "RestrictedArea",
         "colorProfile": "Area-RestrictedArea",
         "fixList": [
