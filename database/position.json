@@ -139,6 +139,26 @@
         "squawkStart": "7101",
         "squawkEnd": "7177"
     },
+    "RKSS_T_APP": {
+        "name": "SEOUL APPROACH",
+        "frequency": "119.750",
+        "initialID": "SS1",
+        "middleFix": "T",
+        "prefix": "RKSS",
+        "position": "APP",
+        "squawkStart": "7101",
+        "squawkEnd": "7177"
+    },
+    "RKSS_I_APP": {
+        "name": "SEOUL APPROACH",
+        "frequency": "119.750",
+        "initialID": "SS2",
+        "middleFix": "I",
+        "prefix": "RKSS",
+        "position": "APP",
+        "squawkStart": "7101",
+        "squawkEnd": "7177"
+    },
     "RKSS_APP": {
         "name": "SEOUL APPROACH",
         "frequency": "119.750",

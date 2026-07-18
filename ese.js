@@ -271,7 +271,7 @@ module.exports = {
         contents += "BORDER:RKPU_TWR\n";
 
         contents += "SECTOR:RKSM_TWR:0:4000\n";
-        contents += "OWNER:SMT:SSD:SSA\n";
+        contents += "OWNER:SMT:SSD:SS1:SSA\n";
         contents += "BORDER:RKSM_TWR\n";
 
         contents += "SECTOR:RKTH_TWR:0:3000\n";
@@ -292,11 +292,11 @@ module.exports = {
 
 
         contents += "SECTOR:RKSI_TWR:0:3000\n";
-        contents += "OWNER:SIT:SSD:SSA:KRA\n";
+        contents += "OWNER:SIT:SSD:SS1:SSA:KRA\n";
         contents += "BORDER:RKSI_TWR\n";
 
         contents += "SECTOR:RKSS_TWR:0:3000\n";
-        contents += "OWNER:SST:SSD:SSA:KRA\n";
+        contents += "OWNER:SST:SSD:SS1:SSA:KRA\n";
         contents += "BORDER:RKSS_TWR\n";
 
         contents += "SECTOR:RKPC_TWR:0:3000\n";
