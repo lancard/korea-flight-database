@@ -154,7 +154,7 @@
     "C172": {
         "aircraftType": "Landplane",
         "engineType": "Piston",
-        "engineCount": 2,
+        "engineCount": 1,
         "wakeTurbulenceCategory": "L",
         "manufacturer": "Cessna",
         "description": "C172"

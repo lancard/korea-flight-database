@@ -13,7 +13,7 @@ module.exports = {
             fileContent.push(
                 [
                     aircraft,
-                    aircraftList[aircraft].aircraftType[0] + aircraftList[aircraft].wakeTurbulenceCategory[0] + aircraftList[aircraft].engineCount + aircraftList[aircraft].engineType[0],
+                    aircraftList[aircraft].wakeTurbulenceCategory[0] + aircraftList[aircraft].aircraftType[0] + aircraftList[aircraft].engineCount + aircraftList[aircraft].engineType[0],
                     aircraftList[aircraft].manufacturer,
                     aircraftList[aircraft].description
                 ].join("\t"))

@@ -6,7 +6,8 @@ ACA	Air Canada	Air Canada
 AFL	AeroFlot	AeroFlot
 AFR	Air France	Air France
 AHK	Air hongkong	Air hongkong
-AIH	Air Incheon	Air Incheon
+AIC	Air India	Air India
+AIH	Quantum sky	Quantum sky
 AJX	Air Japan	Air Japan
 AMX	Aero Mexico	Aero Mexico
 ANA	All nippon	All nippon
@@ -15,6 +16,8 @@ APZ	Air Premia	Air Premia
 ASV	Air Seoul	Air Seoul
 AZQ	Silk line	Silk line
 BAW	SpeedBird	SpeedBird
+CAL	Dynasty	Dynasty
+CAO	Air China (cargo)	Air China (cargo)
 CCA	Air China	Air China
 CDG	Shandong	Shandong
 CES	China Eastern	China Eastern
@@ -24,12 +27,15 @@ CKK	Cargo King	Cargo King
 CKS	Connie	Connie
 CLX	Cargolux	Cargolux
 CPA	Cathay	Cathay
+CSC	Sichuan	Sichuan
 CQH	Air Spring	Air Spring
 CSN	China Southern	China Southern
 CXA	Xiamen Air	Xiamen Air
 CYZ	China Post	China Post
 DAL	Delta	Delta
+DKH	Air Juneyao	Air Juneyao
 DLH	Lufthansa	Lufthansa
+ELY	El Al (Israel Airlines)	El Al (Israel Airlines)
 EOK	Aero Hanguk	Aero Hanguk
 ESR	Eastar	Eastar
 ETD	Ethihad	Ethihad
@@ -42,16 +48,22 @@ GIA	Indonesia (Garuda)	Indonesia (Garuda)
 GTI	Giant	Giant
 HAL	Hawaiian	Hawaiian
 HGG	Hi Air	Hi Air
+HVN	Vietnam	Vietnam
 ICV	Cargo Med (Cargolux Italia)	Cargo Med (Cargolux Italia)
 JAL	Japan Air	Japan Air
 JJA	Jeju Air	Jeju Air
+JJP	Jetstar	Jetstar
 JNA	Jin Air	Jin Air
 KAL	Korean Air	Korean Air
 KLM	KLM	KLM
 KZR	Astana Line (Air Astana)	Astana Line (Air Astana)
 LOT	Poland/Polish/Pollot	Poland/Polish/Pollot
 MAS	Malaysian	Malaysian
+MGL	Mongol Air	Mongol Air
 MMA	Myanmar	Myanmar
+NCA	Nippon Cargo	Nippon Cargo
+NWS	Nordland	Nordland
+OMA	Oman Air	Oman Air
 PAC	Polar	Polar
 PTA	Parata	Parata
 QDA	Sky Legend (Qingdao Airlines)	Sky Legend (Qingdao Airlines)
@@ -61,6 +73,7 @@ SBI	Siberian	Siberian
 SHU	Aurora	Aurora
 SIA	Singapore	Singapore
 SOO	Southern Air	Southern Air
+SWR	Swiss	Swiss
 TGW	Scooter	Scooter
 THA	Thai	Thai
 THY	Turkish	Turkish
@@ -71,3 +84,8 @@ UAE	Emirate	Emirate
 UAL	United	United
 UPS	UPS	UPS
 UZB	Uzbek	Uzbek
+VIR	Virgin	Virgin
+VOZ	Velocity	Velocity
+WJA	Westjet	Westjet
+XAX	Xanadu	Xanadu
+XUM	Sum Air	Sum Air
