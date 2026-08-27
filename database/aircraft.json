@@ -103,6 +103,14 @@
         "manufacturer": "Boeing",
         "description": "B747-8I,B747-8F"
     },
+    "B762": {
+        "aircraftType": "Landplane",
+        "engineType": "Jet",
+        "engineCount": 2,
+        "wakeTurbulenceCategory": "H",
+        "manufacturer": "Boeing",
+        "description": "B767-200"
+    },
     "B763": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
