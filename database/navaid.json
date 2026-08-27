@@ -1014,6 +1014,22 @@
 		"longitude": "E125.47.58.998"
 	},
 	{
+		"name": "SI123",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.12.28.000",
+		"longitude": "E126.02.24.000"
+	},
+	{
+		"name": "SI456",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.15.06.000",
+		"longitude": "E125.52.55.000"
+	},
+	{
 		"name": "BEMGA",
 		"navaidType": "FIX",
 		"extraType": "FIX",
