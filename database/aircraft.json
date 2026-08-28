@@ -167,6 +167,22 @@
         "manufacturer": "Boeing",
         "description": "B777-300ER"
     },
+    "B787": {
+        "aircraftType": "Landplane",
+        "engineType": "Jet",
+        "engineCount": 2,
+        "wakeTurbulenceCategory": "H",
+        "manufacturer": "Boeing",
+        "description": "B787-7"
+    },
+    "B788": {
+        "aircraftType": "Landplane",
+        "engineType": "Jet",
+        "engineCount": 2,
+        "wakeTurbulenceCategory": "H",
+        "manufacturer": "Boeing",
+        "description": "B787-8"
+    },
     "B789": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
