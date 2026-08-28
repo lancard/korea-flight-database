@@ -123,7 +123,7 @@
         "aircraftType": "Landplane",
         "engineType": "Jet",
         "engineCount": 2,
-        "wakeTurbulenceCategory": "MH",
+        "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B777-200,B777-200ER"
     },
@@ -134,6 +134,14 @@
         "wakeTurbulenceCategory": "H",
         "manufacturer": "Boeing",
         "description": "B777-300"
+    },
+    "B778": {
+        "aircraftType": "Landplane",
+        "engineType": "Jet",
+        "engineCount": 2,
+        "wakeTurbulenceCategory": "H",
+        "manufacturer": "Boeing",
+        "description": "B777-800"
     },
     "B77L": {
         "aircraftType": "Landplane",
