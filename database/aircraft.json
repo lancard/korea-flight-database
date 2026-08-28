@@ -39,6 +39,14 @@
         "manufacturer": "Airbus",
         "description": "A330-300"
     },
+    "A346": {
+        "aircraftType": "Landplane",
+        "engineType": "Jet",
+        "engineCount": 2,
+        "wakeTurbulenceCategory": "H",
+        "manufacturer": "Airbus",
+        "description": "A340-600"
+    },
     "A359": {
         "aircraftType": "Landplane",
         "engineType": "Jet",
