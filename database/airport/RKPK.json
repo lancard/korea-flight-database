@@ -7057,7 +7057,33 @@
 			]
 		},
 		{
-			"name": "RKPK-Taxiway__168",
+			"name": "RKPK-Taxiway_Gate5",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-ApronCenterLine",
+			"lineList": [
+				{
+					"latitude1": "N035.10.20.185",
+					"longitude1": "E128.56.45.056",
+					"latitude2": "N035.10.21.718",
+					"longitude2": "E128.56.40.905"
+				}
+			]
+		},
+		{
+			"name": "RKPK-Taxiway_Gate8",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-ApronCenterLine",
+			"lineList": [
+				{
+					"latitude1": "N035.10.18.298",
+					"longitude1": "E128.56.45.210",
+					"latitude2": "N035.10.18.340",
+					"longitude2": "E128.56.41.320"
+				}
+			]
+		},
+		{
+			"name": "RKPK-Taxiway_Gate9",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
 			"lineList": [
@@ -15873,7 +15899,7 @@
 			]
 		},
 		{
-			"name": "RKPK-Taxiway__253",
+			"name": "RKPK-Taxiway_Gate22",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
 			"lineList": [
@@ -15882,6 +15908,32 @@
 					"longitude1": "E128.56.40.813",
 					"latitude2": "N035.10.21.949",
 					"longitude2": "E128.56.37.129"
+				}
+			]
+		},
+		{
+			"name": "RKPK-Taxiway_Gate21",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-ApronCenterLine",
+			"lineList": [
+				{
+					"latitude1": "N035.10.20.768",
+					"longitude1": "E128.56.41.044",
+					"latitude2": "N035.10.20.417",
+					"longitude2": "E128.56.37.360"
+				}
+			]
+		},
+		{
+			"name": "RKPK-Taxiway_Gate20",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-ApronCenterLine",
+			"lineList": [
+				{
+					"latitude1": "N035.10.19.253",
+					"longitude1": "E128.56.41.218",
+					"latitude2": "N035.10.18.902",
+					"longitude2": "E128.56.37.534"
 				}
 			]
 		},
