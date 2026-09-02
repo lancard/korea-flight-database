@@ -26911,6 +26911,20 @@
 		},
 		{
 			"labelType": "Taxiway",
+			"name": "ClosedTaxiway",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N037.34.03.443",
+			"longitude": "E126.47.59.506"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "ClosedTaxiway",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N037.34.07.010",
+			"longitude": "E126.48.03.986"
+		},
+		{
+			"labelType": "Taxiway",
 			"name": "P",
 			"colorProfile": "Airport-Taxiway-Label",
 			"latitude": "N037.33.01.494",
