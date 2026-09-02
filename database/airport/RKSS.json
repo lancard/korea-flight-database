@@ -27437,8 +27437,8 @@
 			"labelType": "Taxiway",
 			"name": "N2",
 			"colorProfile": "Airport-Taxiway-Label",
-			"latitude": "N037.34.02.970",
-			"longitude": "E126.47.54.137"
+			"latitude": "N037.33.59.985",
+			"longitude": "E126.47.50.158"
 		},
 		{
 			"labelType": "Taxiway",
@@ -27446,6 +27446,13 @@
 			"colorProfile": "Airport-Taxiway-Label",
 			"latitude": "N037.34.10.532",
 			"longitude": "E126.48.03.028"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "NK",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N037.34.04.154",
+			"longitude": "E126.47.55.431"
 		},
 		{
 			"labelType": "Taxiway",
