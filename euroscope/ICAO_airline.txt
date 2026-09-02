@@ -52,7 +52,7 @@ HVN	Vietnam	Vietnam
 ICV	Cargo Med (Cargolux Italia)	Cargo Med (Cargolux Italia)
 JAL	Japan Air	Japan Air
 JJA	Jeju Air	Jeju Air
-JJP	Jetstar	Jetstar
+JJP	Orange Liner (Jetstar Japan)	Orange Liner (Jetstar Japan)
 JNA	Jin Air	Jin Air
 KAL	Korean Air	Korean Air
 KLM	KLM	KLM
@@ -69,6 +69,7 @@ PTA	Parata	Parata
 QDA	Sky Legend (Qingdao Airlines)	Sky Legend (Qingdao Airlines)
 QFA	Qantas	Qantas
 QTR	Qatari	Qatari
+RLH	Sendi	Sendi
 SBI	Siberian	Siberian
 SHU	Aurora	Aurora
 SIA	Singapore	Singapore

@@ -33,6 +33,8 @@ Array.prototype.last = function () {
 }
 
 function initialize() {
+    /*
+    // ignore sort (keep original order)
     // sort procedureList
     procedureList.sort((a, b) => {
         if (a.name < b.name)
@@ -42,6 +44,7 @@ function initialize() {
 
         return 0;
     });
+    */
 
     // check all fix in navaids
     procedureList.forEach(p => {
