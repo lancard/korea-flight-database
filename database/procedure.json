@@ -967,19 +967,31 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "DOVUR1",
+        "name": "RADAR1E",
         "runway": [
             "13L",
             "13R"
         ],
         "fixList": [
-            "DOVUR"
+            "TGU"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "DOVUR1.BITUX",
+        "name": "RADAR1W",
+        "runway": [
+            "31L",
+            "31R"
+        ],
+        "fixList": [
+            "TGU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTN",
+        "name": "BITUX1D",
         "runway": [
             "13L",
             "13R"
@@ -995,7 +1007,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "DOVUR1.OPEDA",
+        "name": "OPEDA1D",
         "runway": [
             "13L",
             "13R"
@@ -1010,7 +1022,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "DOVUR1.IGDOK",
+        "name": "IGDOK1D",
         "runway": [
             "13L",
             "13R"
@@ -1025,7 +1037,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "DOVUR1.MASTA",
+        "name": "MASTA1D",
         "runway": [
             "13L",
             "13R"
@@ -1039,7 +1051,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "DOVUR1.KALOD",
+        "name": "KALOD1D",
         "runway": [
             "13L",
             "13R"
@@ -1052,7 +1064,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "DOVUR1.LAPAL",
+        "name": "LAPAL1D",
         "runway": [
             "13L",
             "13R"
@@ -1065,19 +1077,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "KABAS1",
-        "runway": [
-            "31L",
-            "31R"
-        ],
-        "fixList": [
-            "KABAS"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTN",
-        "name": "KABAS1.BITUX",
+        "name": "BITUX1K",
         "runway": [
             "31L",
             "31R"
@@ -1091,7 +1091,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "KABAS1.OPEDA",
+        "name": "OPEDA1K",
         "runway": [
             "31L",
             "31R"
@@ -1104,7 +1104,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "KABAS1.IGDOK",
+        "name": "IGDOK1K",
         "runway": [
             "31L",
             "31R"
@@ -1119,7 +1119,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "KABAS1.MASTA",
+        "name": "MASTA1K",
         "runway": [
             "31L",
             "31R"
@@ -1133,7 +1133,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "KABAS1.KALOD",
+        "name": "KALOD1K",
         "runway": [
             "31L",
             "31R"
@@ -1148,7 +1148,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTN",
-        "name": "KABAS1.LAPAL",
+        "name": "LAPAL1K",
         "runway": [
             "31L",
             "31R"
@@ -1163,7 +1163,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "YAWAN1.BITUX",
+        "name": "BITUX1Y",
         "runway": [
             "13L",
             "13R"
@@ -1178,7 +1178,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "YAWAN1.OPEDA",
+        "name": "OPEDA1Y",
         "runway": [
             "13L",
             "13R"
@@ -1192,7 +1192,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "YAWAN1.IGDOK",
+        "name": "IGDOK1Y",
         "runway": [
             "13L",
             "13R"
@@ -1206,7 +1206,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "YAWAN1.MASTA",
+        "name": "MASTA1Y",
         "runway": [
             "13L",
             "13R"
@@ -1219,7 +1219,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "YAWAN1.KALOD",
+        "name": "KALOD1Y",
         "runway": [
             "13L",
             "13R"
@@ -1233,7 +1233,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "YAWAN1.LAPAL",
+        "name": "LAPAL1Y",
         "runway": [
             "13L",
             "13R"
@@ -1247,7 +1247,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "UKBAT1.BITUX",
+        "name": "BITUX1U",
         "runway": [
             "31L",
             "31R"
@@ -1263,7 +1263,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "UKBAT1.OPEDA",
+        "name": "OPEDA1U",
         "runway": [
             "31L",
             "31R"
@@ -1278,7 +1278,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "UKBAT1.IGDOK",
+        "name": "IGDOK1U",
         "runway": [
             "31L",
             "31R"
@@ -1294,7 +1294,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "UKBAT1.MASTA",
+        "name": "MASTA1U",
         "runway": [
             "31L",
             "31R"
@@ -1310,7 +1310,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "UKBAT1.KALOD",
+        "name": "KALOD1U",
         "runway": [
             "31L",
             "31R"
@@ -1326,7 +1326,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTN",
-        "name": "UKBAT1.LAPAL",
+        "name": "LAPAL1U",
         "runway": [
             "31L",
             "31R"
@@ -1339,20 +1339,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTN",
-        "name": "RNP13L",
-        "runway": "13L",
-        "fixList": [
-            "YAWAN",
-            "TN401",
-            "ESDEM",
-            "TN503",
-            "OLVAR"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKTN",
-        "name": "ILS13R",
+        "name": "ILSY13R",
         "runway": "13R",
         "fixList": [
             "YAWAN"
@@ -1361,34 +1348,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTN",
-        "name": "RNP13R",
-        "runway": "13R",
-        "fixList": [
-            "YAWAN",
-            "TN401",
-            "OLRIB",
-            "TN403",
-            "DODBI"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKTN",
-        "name": "RNP31L",
-        "runway": "31L",
-        "fixList": [
-            "UKBAT",
-            "TN601",
-            "INTUT",
-            "TN602",
-            "ONUGO",
-            "TN603"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKTN",
-        "name": "ILS31L",
+        "name": "ILSY31L",
         "runway": "31L",
         "fixList": [
             "UKBAT"
@@ -1397,8 +1357,8 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTN",
-        "name": "VORDME31L",
-        "runway": "31L",
+        "name": "LOCY31R",
+        "runway": "31R",
         "fixList": [
             "UKBAT"
         ]
@@ -1406,7 +1366,7 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTN",
-        "name": "RNP31R",
+        "name": "RNPY31R",
         "runway": "31R",
         "fixList": [
             "UKBAT",
@@ -1415,24 +1375,6 @@
             "TN701",
             "MEVIM",
             "TN702"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKTN",
-        "name": "LOCDME31R",
-        "runway": "31R",
-        "fixList": [
-            "UKBAT"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKTN",
-        "name": "VORDME31R",
-        "runway": "31R",
-        "fixList": [
-            "UKBAT"
         ]
     },
     {
