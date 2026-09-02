@@ -59470,6 +59470,20 @@
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N037.28.35.260",
 			"longitude": "E126.24.04.500"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "733",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N037.28.27.148",
+			"longitude": "E126.24.18.177"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "734",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N037.28.24.505",
+			"longitude": "E126.24.20.553"
 		}
 	]
 }
