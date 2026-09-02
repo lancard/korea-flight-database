@@ -568,6 +568,15 @@
 		"airport": "RKPS"
 	},
 	{
+		"name": "IGUVA",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.38.55.500",
+		"longitude": "E127.23.31.900",
+		"airport": "RKTU"
+	},
+	{
 		"name": "BUPGU",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -847,14 +856,6 @@
 		"description": "경로 픽스",
 		"latitude": "N035.14.22.100",
 		"longitude": "E128.46.59.100"
-	},
-	{
-		"name": "ASORA",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.42.40.400",
-		"longitude": "E127.28.19.600"
 	},
 	{
 		"name": "ATASO",
@@ -2548,6 +2549,14 @@
 		"longitude": "E126.54.39.100"
 	},
 	{
+		"name": "OSALO",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.54.56.900",
+		"longitude": "E127.49.29.300"
+	},
+	{
 		"name": "OSIKE",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -2729,6 +2738,15 @@
 		"latitude": "N037.01.25.600",
 		"longitude": "E127.19.16.400",
 		"airport": "RKSS"
+	},
+	{
+		"name": "UPNEL",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.47.01.200",
+		"longitude": "E127.36.20.900",
+		"airport": "RKTU"
 	},
 	{
 		"name": "DUBAN",
@@ -3019,6 +3037,14 @@
 		"longitude": "E127.47.47.000"
 	},
 	{
+		"name": "ENSED",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.39.25.000",
+		"longitude": "E127.08.29.000"
+	},
+	{
 		"name": "ENSUM",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -3041,14 +3067,6 @@
 		"description": "경로 픽스",
 		"latitude": "N031.15.12.337",
 		"longitude": "E127.22.52.770"
-	},
-	{
-		"name": "ESBOS",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.46.44.700",
-		"longitude": "E127.47.14.200"
 	},
 	{
 		"name": "ORUSA",
@@ -3599,6 +3617,15 @@
 		"airport": "RKSM"
 	},
 	{
+		"name": "BUNPI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "IF",
+		"latitude": "N036.51.12.100",
+		"longitude": "E127.43.37.900",
+		"airport": "RKTU"
+	},
+	{
 		"name": "SCURU",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -3941,6 +3968,14 @@
 		"description": "경로 픽스",
 		"latitude": "N031.43.14.000",
 		"longitude": "E125.39.48.000"
+	},
+	{
+		"name": "IKEDU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.32.00.500",
+		"longitude": "E127.29.07.600"
 	},
 	{
 		"name": "IKEKA",
@@ -6075,14 +6110,6 @@
 		"airport": "RKJY"
 	},
 	{
-		"name": "MENOL",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.47.24.999",
-		"longitude": "E127.47.23.000"
-	},
-	{
 		"name": "JISUN",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -6778,14 +6805,6 @@
 		"longitude": "E128.39.00.000"
 	},
 	{
-		"name": "OWING",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.43.43.809",
-		"longitude": "E127.14.44.401"
-	},
-	{
 		"name": "P2",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -7056,6 +7075,15 @@
 		"latitude": "N033.57.22.600",
 		"longitude": "E126.55.08.800",
 		"airport": "RKPC"
+	},
+    {
+		"name": "VENVI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.28.59.300",
+		"longitude": "E127.18.30.900",
+		"airport": "RKTU"
 	},
     {
 		"name": "DOKVU",
@@ -8537,6 +8565,15 @@
 		"airport": "RKJK"
 	},
 	{
+		"name": "RUNOX",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.46.56.200",
+		"longitude": "E127.36.28.000",
+		"airport": "RKTU"
+	},
+	{
 		"name": "GUMAM",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -9068,14 +9105,6 @@
 		"description": "경로 픽스",
 		"latitude": "N036.44.00.500",
 		"longitude": "E127.31.28.600"
-	},
-	{
-		"name": "SURSO",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.44.06.800",
-		"longitude": "E127.16.01.000"
 	},
 	{
 		"name": "SWN",
@@ -9643,6 +9672,14 @@
 		"longitude": "E126.40.32.200"
 	},
 	{
+		"name": "TOKUG",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.43.55.500",
+		"longitude": "E127.31.35.700"
+	},
+	{
 		"name": "TOLIS",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -9725,67 +9762,100 @@
 		"airport": "RKSS"
 	},
 	{
-		"name": "TU521",
+		"name": "TU066",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.49.22.400",
+		"longitude": "E127.23.49.100"
+	},
+	{
+		"name": "TU067",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.43.43.800",
+		"longitude": "E127.14.44.400"
+	},
+	{
+		"name": "TU068",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.42.51.700",
+		"longitude": "E127.30.03.300"
+	},
+	{
+		"name": "TU170",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.44.06.800",
+		"longitude": "E127.16.01.000"
+	},
+	{
+		"name": "TU171",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.47.18.700",
+		"longitude": "E127.24.35.600"
+	},
+	{
+		"name": "TU172",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.42.40.400",
+		"longitude": "E127.28.19.600"
+	},
+	{
+		"name": "TU173",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.46.44.700",
+		"longitude": "E127.47.14.200"
+	},
+	{
+		"name": "TU174",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.35.59.400",
+		"longitude": "E127.43.13.300"
+	},
+	{
+		"name": "TU179",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.36.20.200",
+		"longitude": "E127.46.33.500"
+	},
+	{
+		"name": "TU240",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N036.47.25.100",
+		"longitude": "E127.47.22.500"
+	},
+	{
+		"name": "TU246",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
 		"latitude": "N036.45.19.800",
-		"longitude": "E127.17.19.100",
-		"airport": "RKTU"
+		"longitude": "E127.17.19.100"
 	},
 	{
-		"name": "TU743",
+		"name": "TU247",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
-		"latitude": "N036.48.05.300",
-		"longitude": "E127.38.04.900",
-		"airport": "RKTU"
-	},
-	{
-		"name": "TU746",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.45.20.200",
-		"longitude": "E127.33.37.600",
-		"airport": "RKTU"
-	},
-	{
-		"name": "TU761",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.39.25.000",
-		"longitude": "E127.08.29.000",
-		"airport": "RKTU"
-	},
-	{
-		"name": "TU762",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.35.21.900",
-		"longitude": "E127.17.33.600",
-		"airport": "RKTU"
-	},
-	{
-		"name": "TU763",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.37.12.100",
-		"longitude": "E127.20.30.500",
-		"airport": "RKTU"
-	},
-	{
-		"name": "TU766",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.40.42.900",
-		"longitude": "E127.26.09.900",
-		"airport": "RKTU"
+		"latitude": "N036.48.45.100",
+		"longitude": "E127.22.49.300"
 	},
 	{
 		"name": "TURTU",
@@ -11128,14 +11198,6 @@
 		"frequency": "109.000"
 	},
 	{
-		"name": "YEJEE",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.41.47.400",
-		"longitude": "E127.27.53.800"
-	},
-	{
 		"name": "YEOJU",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -11364,14 +11426,6 @@
 		"latitude": "N037.02.14.200",
 		"longitude": "E127.11.41.100",
 		"airport": "RKSS"
-	},
-	{
-		"name": "ZENZA",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N036.47.05.000",
-		"longitude": "E127.36.26.000"
 	},
 	{
 		"name": "ZG130",
