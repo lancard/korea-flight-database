@@ -17853,43 +17853,6 @@
 			]
 		},
 		{
-			"name": "TaxiwayCenterLine__911",
-			"description": "지형 및 바운더리 등",
-			"colorProfile": "Airport-ApronCenterLine",
-			"lineList": [
-				{
-					"latitude1": "N037.34.02.202",
-					"longitude1": "E126.47.55.167",
-					"latitude2": "N037.34.01.486",
-					"longitude2": "E126.47.56.045"
-				},
-				{
-					"latitude1": "N037.34.01.486",
-					"longitude1": "E126.47.56.045",
-					"latitude2": "N037.34.01.257",
-					"longitude2": "E126.47.56.267"
-				},
-				{
-					"latitude1": "N037.34.01.257",
-					"longitude1": "E126.47.56.267",
-					"latitude2": "N037.34.01.062",
-					"longitude2": "E126.47.56.406"
-				},
-				{
-					"latitude1": "N037.34.01.062",
-					"longitude1": "E126.47.56.406",
-					"latitude2": "N037.34.00.745",
-					"longitude2": "E126.47.56.565"
-				},
-				{
-					"latitude1": "N037.34.00.745",
-					"longitude1": "E126.47.56.565",
-					"latitude2": "N037.34.00.283",
-					"longitude2": "E126.47.56.833"
-				}
-			]
-		},
-		{
 			"name": "TaxiwayCenterLine__912",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
