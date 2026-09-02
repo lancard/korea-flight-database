@@ -59268,6 +59268,20 @@
 		},
 		{
 			"labelType": "Taxiway",
+			"name": "RF",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N037.27.53.457",
+			"longitude": "E126.26.10.102"
+		},
+		{
+			"labelType": "Taxiway",
+			"name": "RF",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N037.27.56.584",
+			"longitude": "E126.26.15.663"
+		},
+		{
+			"labelType": "Taxiway",
 			"name": "S",
 			"colorProfile": "Airport-Taxiway-Label",
 			"latitude": "N037.26.38.434",
