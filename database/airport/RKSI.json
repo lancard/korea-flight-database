@@ -59561,6 +59561,13 @@
 			"longitude": "E126.24.19.900"
 		},
 		{
+			"labelType": "Taxiway",
+			"name": "M22",
+			"colorProfile": "Airport-Taxiway-Label",
+			"latitude": "N037.28.31.966",
+			"longitude": "E126.24.12.842"
+		},
+		{
 			"labelType": "Gate-Number",
 			"name": "731",
 			"colorProfile": "Airport-GateNumber",
