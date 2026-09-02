@@ -56867,6 +56867,13 @@
 		},
 		{
 			"labelType": "Gate-Number",
+			"name": "520",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N037.28.30.691",
+			"longitude": "E126.25.33.815"
+		},
+		{
+			"labelType": "Gate-Number",
 			"name": "521",
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N037.28.31.540",
@@ -56927,6 +56934,13 @@
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N037.28.43.840",
 			"longitude": "E126.25.22.370"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "530",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N037.28.45.043",
+			"longitude": "E126.25.21.407"
 		},
 		{
 			"labelType": "Gate-Number",
