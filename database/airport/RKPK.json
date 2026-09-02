@@ -16314,6 +16314,19 @@
 			]
 		},
 		{
+			"name": "RKPK-Taxiway_For_Gate59",
+			"description": "Gate59번진입택시웨이",
+			"colorProfile": "Airport-ApronCenterLine",
+			"lineList": [
+				{
+					"latitude1": "N035.10.40.328",
+					"longitude1": "E128.56.41.735",
+					"latitude2": "N035.10.37.684",
+					"longitude2": "E128.56.43.809"
+				}
+			]
+		},
+		{
 			"name": "RKPK-Taxiway__253",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
@@ -18388,6 +18401,13 @@
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N035.10.41.611",
 			"longitude": "E128.56.44.512"
+		},
+		{
+			"labelType": "Gate-Number",
+			"name": "59",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N035.10.40.384",
+			"longitude": "E128.56.41.716"
 		},
 		{
 			"labelType": "Gate-Number",
