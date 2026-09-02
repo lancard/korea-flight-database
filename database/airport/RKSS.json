@@ -26302,6 +26302,13 @@
 		},
 		{
 			"labelType": "Gate-Number",
+			"name": "PushFor40and30X",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N037.34.13.224",
+			"longitude": "E126.47.56.627"
+		},
+		{
+			"labelType": "Gate-Number",
 			"name": "25",
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N037.33.36.497",
