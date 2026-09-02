@@ -10852,6 +10852,62 @@
 			]
 		},
 		{
+			"name": "TaxiwayCenterLine_For_Gate36_1",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-ApronCenterLine",
+			"lineList": [
+				{
+					"latitude1": "N037.34.01.895",
+					"longitude1": "E126.47.57.609",
+					"latitude2": "N037.34.01.971",
+					"longitude2": "E126.47.57.863"
+				},
+				{
+					"latitude1": "N037.34.01.971",
+					"longitude1": "E126.47.57.863",
+					"latitude2": "N037.34.02.028",
+					"longitude2": "E126.47.58.142"
+				},
+				{
+					"latitude1": "N037.34.02.028",
+					"longitude1": "E126.47.58.142",
+					"latitude2": "N037.34.01.993",
+					"longitude2": "E126.47.58.450"
+				},
+				{
+					"latitude1": "N037.34.01.993",
+					"longitude1": "E126.47.58.450",
+					"latitude2": "N037.34.01.927",
+					"longitude2": "E126.47.58.738"
+				},
+				{
+					"latitude1": "N037.34.01.927",
+					"longitude1": "E126.47.58.738",
+					"latitude2": "N037.34.00.265",
+					"longitude2": "E126.48.00.856"
+				}
+			]
+		},
+		{
+			"name": "TaxiwayCenterLine_For_Gate36_2",
+			"description": "지형 및 바운더리 등",
+			"colorProfile": "Airport-ApronCenterLine",
+			"lineList": [
+				{
+					"latitude1": "N037.34.02.948",
+					"longitude1": "E126.47.56.886",
+					"latitude2": "N037.34.02.385",
+					"longitude2": "E126.47.57.725"
+				},
+				{
+					"latitude1": "N037.34.02.385",
+					"longitude1": "E126.47.57.725",
+					"latitude2": "N037.34.01.930",
+					"longitude2": "E126.47.58.729"
+				}
+			]
+		},
+		{
 			"name": "TaxiwayCenterLine__1008",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
