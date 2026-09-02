@@ -107,42 +107,25 @@ function initialize() {
         airportObject[airportName] = require('./database/airport/' + e);
     });
 
-    // check duplicate geo names and lineList continuity for each airport
-    Object.keys(airportObject).forEach(airportName => {
-        const airportGeoList = airportObject[airportName].geo || [];
-        const geoNameCount = {};
+    // check duplicate geo names in each airport
+    for (var airportName in airportObject) {
+        var geoNameMap = {};
 
-        airportGeoList.forEach((geoObject, geoIndex) => {
-            const geoName = geoObject && geoObject.name ? geoObject.name : `__unnamed__${geoIndex}`;
-            geoNameCount[geoName] = (geoNameCount[geoName] || 0) + 1;
+        if (!Array.isArray(airportObject[airportName].geo))
+            continue;
 
-            if (geoNameCount[geoName] > 1) {
-                console.log(`duplicate geo name: airport=${airportName}, name=${geoName}, count=${geoNameCount[geoName]}`);
+        airportObject[airportName].geo.forEach(geo => {
+            if (!geo || !geo.name)
+                return;
+
+            if (geoNameMap[geo.name]) {
+                console.log("duplicated airport geo name: " + airportName + " / " + geo.name);
+                return;
             }
 
-            const lineList = geoObject.lineList || [];
-
-            for (let i = 0; i < lineList.length - 1; i++) {
-                const current = lineList[i];
-                const next = lineList[i + 1];
-
-                if (!current || !next)
-                    continue;
-
-                const currentEndLatitude = current.latitude2;
-                const currentEndLongitude = current.longitude2;
-                const nextStartLatitude = next.latitude1;
-                const nextStartLongitude = next.longitude1;
-
-                if (currentEndLatitude !== nextStartLatitude || currentEndLongitude !== nextStartLongitude) {
-                    console.log(
-                        `geo lineList mismatch: airport=${airportName}, name=${geoName}, segment=${i}, ` +
-                        `currentEnd=${currentEndLatitude}/${currentEndLongitude}, nextStart=${nextStartLatitude}/${nextStartLongitude}`
-                    );
-                }
-            }
+            geoNameMap[geo.name] = true;
         });
-    });
+    }
 
     // get last version (git)
     global.gitHeadVersion = fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(" ")[1];

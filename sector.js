@@ -67,8 +67,12 @@ module.exports = {
 
         for (var airport in airportObject) {
             airportObject[airport].geo.forEach(onegeo => {
-                onegeo.lineList.forEach(e => {
-                    ret.push(`${e.latitude1} ${e.longitude1} ${e.latitude2} ${e.longitude2} ${onegeo.colorProfile}`);
+                onegeo.lineList.forEach(path => {
+                    for (let i = 0; i < path.length - 1; i++) {
+                        const current = path[i];
+                        const next = path[i + 1];
+                        ret.push(`${current.latitude} ${current.longitude} ${next.latitude} ${next.longitude} ${onegeo.colorProfile}`);
+                    }
                 });
             });
         }

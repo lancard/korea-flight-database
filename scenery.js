@@ -10,13 +10,15 @@ function getTemplate(lat, lon) {
 var pointList = {};
 
 for (var obj in airportInformation) {
-    airportInformation[obj].lineList.forEach(e => {
-        e.latitude1 = util.convertMinutesToDecimal(e.latitude1);
-        e.longitude1 = util.convertMinutesToDecimal(e.longitude1);
-        pointList[e.latitude1 + "_" + e.longitude1] = {
-            lat: e.latitude1,
-            lon: e.longitude1
-        }
+    airportInformation[obj].lineList.forEach(path => {
+        path.forEach(point => {
+            const latitudeDecimal = util.convertMinutesToDecimal(point.latitude);
+            const longitudeDecimal = util.convertMinutesToDecimal(point.longitude);
+            pointList[latitudeDecimal + "_" + longitudeDecimal] = {
+                lat: latitudeDecimal,
+                lon: longitudeDecimal
+            };
+        });
     });
 }
 
