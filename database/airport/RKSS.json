@@ -14614,37 +14614,6 @@
 			]
 		},
 		{
-			"name": "TaxiwayCenterLine__1046",
-			"description": "지형 및 바운더리 등",
-			"colorProfile": "Airport-ApronCenterLine",
-			"lineList": [
-				{
-					"latitude1": "N037.34.13.992",
-					"longitude1": "E126.47.59.163",
-					"latitude2": "N037.34.14.303",
-					"longitude2": "E126.47.59.041"
-				},
-				{
-					"latitude1": "N037.34.14.303",
-					"longitude1": "E126.47.59.041",
-					"latitude2": "N037.34.14.591",
-					"longitude2": "E126.47.59.089"
-				},
-				{
-					"latitude1": "N037.34.14.591",
-					"longitude1": "E126.47.59.089",
-					"latitude2": "N037.34.14.776",
-					"longitude2": "E126.47.59.231"
-				},
-				{
-					"latitude1": "N037.34.14.776",
-					"longitude1": "E126.47.59.231",
-					"latitude2": "N037.34.16.194",
-					"longitude2": "E126.48.01.027"
-				}
-			]
-		},
-		{
 			"name": "TaxiwayCenterLine__1047",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
@@ -16277,91 +16246,6 @@
 					"longitude1": "E126.47.30.018",
 					"latitude2": "N037.33.18.321",
 					"longitude2": "E126.47.31.658"
-				}
-			]
-		},
-		{
-			"name": "TaxiwayCenterLine__1069",
-			"description": "지형 및 바운더리 등",
-			"colorProfile": "Airport-ApronCenterLine",
-			"lineList": [
-				{
-					"latitude1": "N037.34.15.309",
-					"longitude1": "E126.48.02.085",
-					"latitude2": "N037.34.14.194",
-					"longitude2": "E126.48.00.678"
-				},
-				{
-					"latitude1": "N037.34.14.194",
-					"longitude1": "E126.48.00.678",
-					"latitude2": "N037.34.13.799",
-					"longitude2": "E126.48.00.511"
-				},
-				{
-					"latitude1": "N037.34.13.799",
-					"longitude1": "E126.48.00.511",
-					"latitude2": "N037.34.13.588",
-					"longitude2": "E126.48.00.407"
-				},
-				{
-					"latitude1": "N037.34.13.588",
-					"longitude1": "E126.48.00.407",
-					"latitude2": "N037.34.13.448",
-					"longitude2": "E126.48.00.264"
-				},
-				{
-					"latitude1": "N037.34.13.448",
-					"longitude1": "E126.48.00.264",
-					"latitude2": "N037.34.13.397",
-					"longitude2": "E126.48.00.120"
-				},
-				{
-					"latitude1": "N037.34.13.397",
-					"longitude1": "E126.48.00.120",
-					"latitude2": "N037.34.13.409",
-					"longitude2": "E126.47.59.961"
-				},
-				{
-					"latitude1": "N037.34.13.409",
-					"longitude1": "E126.47.59.961",
-					"latitude2": "N037.34.13.454",
-					"longitude2": "E126.47.59.828"
-				},
-				{
-					"latitude1": "N037.34.13.454",
-					"longitude1": "E126.47.59.828",
-					"latitude2": "N037.34.13.553",
-					"longitude2": "E126.47.59.694"
-				},
-				{
-					"latitude1": "N037.34.13.553",
-					"longitude1": "E126.47.59.694",
-					"latitude2": "N037.34.13.717",
-					"longitude2": "E126.47.59.646"
-				},
-				{
-					"latitude1": "N037.34.13.717",
-					"longitude1": "E126.47.59.646",
-					"latitude2": "N037.34.13.876",
-					"longitude2": "E126.47.59.710"
-				},
-				{
-					"latitude1": "N037.34.13.876",
-					"longitude1": "E126.47.59.710",
-					"latitude2": "N037.34.13.982",
-					"longitude2": "E126.47.59.876"
-				},
-				{
-					"latitude1": "N037.34.13.982",
-					"longitude1": "E126.47.59.876",
-					"latitude2": "N037.34.14.050",
-					"longitude2": "E126.48.00.082"
-				},
-				{
-					"latitude1": "N037.34.14.050",
-					"longitude1": "E126.48.00.082",
-					"latitude2": "N037.34.14.189",
-					"longitude2": "E126.48.00.671"
 				}
 			]
 		},
@@ -26809,6 +26693,13 @@
 		},
 		{
 			"labelType": "Gate-Number",
+			"name": "241",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N037.34.13.224",
+			"longitude": "E126.47.56.627"
+		},
+		{
+			"labelType": "Gate-Number",
 			"name": "25",
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N037.33.36.497",
@@ -26841,27 +26732,6 @@
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N037.33.22.230",
 			"longitude": "E126.48.17.243"
-		},
-		{
-			"labelType": "Gate-Number",
-			"name": "301",
-			"colorProfile": "Airport-GateNumber",
-			"latitude": "N037.34.15.667",
-			"longitude": "E126.48.00.495"
-		},
-		{
-			"labelType": "Gate-Number",
-			"name": "302",
-			"colorProfile": "Airport-GateNumber",
-			"latitude": "N037.34.14.905",
-			"longitude": "E126.48.01.616"
-		},
-		{
-			"labelType": "Gate-Number",
-			"name": "303",
-			"colorProfile": "Airport-GateNumber",
-			"latitude": "N037.34.13.818",
-			"longitude": "E126.48.02.947"
 		},
 		{
 			"labelType": "Gate-Number",
