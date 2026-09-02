@@ -27389,6 +27389,13 @@
 			"longitude": "E126.47.35.400"
 		},
 		{
+			"labelType": "Gate-Number",
+			"name": "945",
+			"colorProfile": "Airport-GateNumber",
+			"latitude": "N037.33.00.905",
+			"longitude": "E126.47.36.764"
+		},
+		{
 			"labelType": "Taxiway",
 			"name": "A",
 			"colorProfile": "Airport-Taxiway-Label",
