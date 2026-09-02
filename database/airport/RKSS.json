@@ -26211,14 +26211,14 @@
 		},
 		{
 			"labelType": "Gate-Number",
-			"name": "38",
+			"name": "38(X)",
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N037.34.02.096",
 			"longitude": "E126.48.04.982"
 		},
 		{
 			"labelType": "Gate-Number",
-			"name": "39",
+			"name": "39(X)",
 			"colorProfile": "Airport-GateNumber",
 			"latitude": "N037.34.03.676",
 			"longitude": "E126.48.07.161"
