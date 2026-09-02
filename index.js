@@ -107,6 +107,43 @@ function initialize() {
         airportObject[airportName] = require('./database/airport/' + e);
     });
 
+    // check duplicate geo names and lineList continuity for each airport
+    Object.keys(airportObject).forEach(airportName => {
+        const airportGeoList = airportObject[airportName].geo || [];
+        const geoNameCount = {};
+
+        airportGeoList.forEach((geoObject, geoIndex) => {
+            const geoName = geoObject && geoObject.name ? geoObject.name : `__unnamed__${geoIndex}`;
+            geoNameCount[geoName] = (geoNameCount[geoName] || 0) + 1;
+
+            if (geoNameCount[geoName] > 1) {
+                console.log(`duplicate geo name: airport=${airportName}, name=${geoName}, count=${geoNameCount[geoName]}`);
+            }
+
+            const lineList = geoObject.lineList || [];
+
+            for (let i = 0; i < lineList.length - 1; i++) {
+                const current = lineList[i];
+                const next = lineList[i + 1];
+
+                if (!current || !next)
+                    continue;
+
+                const currentEndLatitude = current.latitude2;
+                const currentEndLongitude = current.longitude2;
+                const nextStartLatitude = next.latitude1;
+                const nextStartLongitude = next.longitude1;
+
+                if (currentEndLatitude !== nextStartLatitude || currentEndLongitude !== nextStartLongitude) {
+                    console.log(
+                        `geo lineList mismatch: airport=${airportName}, name=${geoName}, segment=${i}, ` +
+                        `currentEnd=${currentEndLatitude}/${currentEndLongitude}, nextStart=${nextStartLatitude}/${nextStartLongitude}`
+                    );
+                }
+            }
+        });
+    });
+
     // get last version (git)
     global.gitHeadVersion = fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(" ")[1];
     global.gitHeadDateTime = dayjs.unix(fs.readFileSync('.git/logs/HEAD').toString().trim().split("\n").pop().split(">")[1].split("\t")[0].trim().split(" ")[0]);
