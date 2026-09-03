@@ -24,6 +24,8 @@ global.airportObject = {};
 global.runwayMap = {};
 global.runwayOppositeMap = {};
 
+const AIRPORT_LABEL_TOO_CLOSE_NM = 0.003;
+
 String.prototype.paddingRight = function (paddingValue) {
     return this + (new Array(paddingValue - this.length + 1)).join(' ');
 };
@@ -125,6 +127,42 @@ function initialize() {
 
             geoNameMap[geo.name] = true;
         });
+    }
+
+    // warn if labels are too close in each airport file
+    for (var airportName in airportObject) {
+        var airportData = airportObject[airportName];
+        if (!airportData || !Array.isArray(airportData.label))
+            continue;
+
+        for (var i = 0; i < airportData.label.length; i++) {
+            var labelA = airportData.label[i];
+            if (!labelA || !labelA.latitude || !labelA.longitude)
+                continue;
+
+            var latA = util.convertMinutesToDecimal(labelA.latitude);
+            var lonA = util.convertMinutesToDecimal(labelA.longitude);
+
+            for (var j = i + 1; j < airportData.label.length; j++) {
+                var labelB = airportData.label[j];
+                if (!labelB || !labelB.latitude || !labelB.longitude)
+                    continue;
+
+                var latB = util.convertMinutesToDecimal(labelB.latitude);
+                var lonB = util.convertMinutesToDecimal(labelB.longitude);
+
+                var distanceNm = util.calculateDistance(latA, lonA, latB, lonB);
+                if (distanceNm < AIRPORT_LABEL_TOO_CLOSE_NM) {
+                    console.log(
+                        "too close label:",
+                        airportName,
+                        (labelA.name || "(no-name)"),
+                        (labelB.name || "(no-name)"),
+                        distanceNm + "nm"
+                    );
+                }
+            }
+        }
     }
 
     // get last version (git)
