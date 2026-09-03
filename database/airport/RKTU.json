@@ -2671,8 +2671,8 @@
 			"labelType": "Taxiway",
 			"name": "E",
 			"colorProfile": "Airport-Taxiway-Label",
-			"latitude": "N036.43.14.163",
-			"longitude": "E127.30.02.177"
+			"latitude": "N036.43.13.319",
+			"longitude": "E127.30.00.607"
 		},
 		{
 			"labelType": "Taxiway",
