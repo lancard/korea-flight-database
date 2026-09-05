@@ -1606,7 +1606,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKJJ",
-        "name": "NOVEM1.TEDAN",
+        "name": "ARIMU1.TEDAN",
         "fixList": [
             "TEDAN",
             "JJ504",
@@ -1616,7 +1616,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKJJ",
-        "name": "NOVEM1.KAMIT",
+        "name": "ARIMU1.KAMIT",
         "fixList": [
             "KAMIT",
             "ARIMU"
