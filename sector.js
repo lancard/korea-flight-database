@@ -358,6 +358,39 @@ module.exports = {
             });
         });
 
+        for (var airport in airportObject) {
+            if (!Array.isArray(airportObject[airport].region))
+                continue;
+
+            airportObject[airport].region.forEach(region => {
+                if (!region || !Array.isArray(region.lineList) || !region.lineList.length)
+                    return;
+
+                var paths = Array.isArray(region.lineList[0]) ? region.lineList : [region.lineList];
+
+                paths.forEach(path => {
+                    if (!Array.isArray(path) || !path.length)
+                        return;
+
+                    var color = region.colorProfile;
+                    ret.push(`REGIONNAME ${airport}`);
+
+                    path.forEach((point, index) => {
+                        if (!point || !point.latitude || !point.longitude)
+                            return;
+
+                        if (index == 0) {
+                            ret.push(`${color} ${point.latitude} ${point.longitude}`);
+                            color = '';
+                            return;
+                        }
+
+                        ret.push(` ${point.latitude} ${point.longitude}`);
+                    });
+                });
+            });
+        }
+
         return ret.join("\n");
     },
     getLabel() {

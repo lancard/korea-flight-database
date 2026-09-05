@@ -14,6 +14,14 @@ Airport-LeadInLight #232323
 Airport-Runway #555555
 Airport-TaxiwayCenterLine #7E557F
 Airport-Taxiway-Label #FF0000
+Airport-Region-Apron #545454
+Airport-Region-Building #1e1e1e
+Airport-Region-Runway #000000
+Airport-Region-Perimeter #787878
+Airport-Region-Marking #ffffff
+Airport-Region-Taxiway #545454
+Airport-Region-Helipad #ffffff
+Airport-Region-Grass #636d63
 Airway-DmeArc #232323
 Airway-VfrReportingPoint #505000
 Area-DangerArea #705050
