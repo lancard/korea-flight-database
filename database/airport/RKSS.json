@@ -9240,27 +9240,6 @@
 			]
 		},
 		{
-			"name": "TaxiwayCenterLine_For_Gate36_2",
-			"description": "지형 및 바운더리 등",
-			"colorProfile": "Airport-ApronCenterLine",
-			"lineList": [
-				[
-					{
-						"latitude": "N037.34.02.948",
-						"longitude": "E126.47.56.886"
-					},
-					{
-						"latitude": "N037.34.02.385",
-						"longitude": "E126.47.57.725"
-					},
-					{
-						"latitude": "N037.34.01.930",
-						"longitude": "E126.47.58.729"
-					}
-				]
-			]
-		},
-		{
 			"name": "TaxiwayCenterLine__1010",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
