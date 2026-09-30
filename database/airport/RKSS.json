@@ -9261,43 +9261,6 @@
 			]
 		},
 		{
-			"name": "TaxiwayCenterLine__1008",
-			"description": "지형 및 바운더리 등",
-			"colorProfile": "Airport-ApronCenterLine",
-			"lineList": [
-				[
-					{
-						"latitude": "N037.34.03.205",
-						"longitude": "E126.47.56.611"
-					},
-					{
-						"latitude": "N037.34.02.876",
-						"longitude": "E126.47.57.048"
-					},
-					{
-						"latitude": "N037.34.02.672",
-						"longitude": "E126.47.57.434"
-					},
-					{
-						"latitude": "N037.34.02.622",
-						"longitude": "E126.47.57.637"
-					},
-					{
-						"latitude": "N037.34.02.594",
-						"longitude": "E126.47.57.839"
-					},
-					{
-						"latitude": "N037.34.02.601",
-						"longitude": "E126.47.58.219"
-					},
-					{
-						"latitude": "N037.34.02.640",
-						"longitude": "E126.47.58.550"
-					}
-				]
-			]
-		},
-		{
 			"name": "TaxiwayCenterLine__1010",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
@@ -11995,75 +11958,6 @@
 					{
 						"latitude": "N037.33.56.197",
 						"longitude": "E126.47.26.322"
-					}
-				]
-			]
-		},
-		{
-			"name": "TaxiwayCenterLine__1045",
-			"description": "지형 및 바운더리 등",
-			"colorProfile": "Airport-ApronCenterLine",
-			"lineList": [
-				[
-					{
-						"latitude": "N037.34.05.373",
-						"longitude": "E126.47.51.465"
-					},
-					{
-						"latitude": "N037.34.05.519",
-						"longitude": "E126.47.51.786"
-					},
-					{
-						"latitude": "N037.34.05.624",
-						"longitude": "E126.47.52.104"
-					},
-					{
-						"latitude": "N037.34.05.683",
-						"longitude": "E126.47.52.376"
-					},
-					{
-						"latitude": "N037.34.05.682",
-						"longitude": "E126.47.52.654"
-					},
-					{
-						"latitude": "N037.34.05.647",
-						"longitude": "E126.47.53.017"
-					},
-					{
-						"latitude": "N037.34.05.561",
-						"longitude": "E126.47.53.430"
-					},
-					{
-						"latitude": "N037.34.05.353",
-						"longitude": "E126.47.53.878"
-					},
-					{
-						"latitude": "N037.34.03.215",
-						"longitude": "E126.47.56.592"
-					},
-					{
-						"latitude": "N037.34.02.942",
-						"longitude": "E126.47.56.890"
-					},
-					{
-						"latitude": "N037.34.02.635",
-						"longitude": "E126.47.57.158"
-					},
-					{
-						"latitude": "N037.34.02.268",
-						"longitude": "E126.47.57.251"
-					},
-					{
-						"latitude": "N037.34.01.958",
-						"longitude": "E126.47.57.253"
-					},
-					{
-						"latitude": "N037.34.01.693",
-						"longitude": "E126.47.57.155"
-					},
-					{
-						"latitude": "N037.34.01.425",
-						"longitude": "E126.47.57.042"
 					}
 				]
 			]
@@ -19453,51 +19347,6 @@
 			]
 		},
 		{
-			"name": "TaxiwayCenterLine__987",
-			"description": "지형 및 바운더리 등",
-			"colorProfile": "Airport-ApronCenterLine",
-			"lineList": [
-				[
-					{
-						"latitude": "N037.34.07.254",
-						"longitude": "E126.47.53.814"
-					},
-					{
-						"latitude": "N037.34.07.059",
-						"longitude": "E126.47.53.711"
-					},
-					{
-						"latitude": "N037.34.06.856",
-						"longitude": "E126.47.53.598"
-					},
-					{
-						"latitude": "N037.34.06.661",
-						"longitude": "E126.47.53.500"
-					},
-					{
-						"latitude": "N037.34.06.410",
-						"longitude": "E126.47.53.461"
-					},
-					{
-						"latitude": "N037.34.06.225",
-						"longitude": "E126.47.53.448"
-					},
-					{
-						"latitude": "N037.34.06.022",
-						"longitude": "E126.47.53.481"
-					},
-					{
-						"latitude": "N037.34.05.666",
-						"longitude": "E126.47.53.619"
-					},
-					{
-						"latitude": "N037.34.05.347",
-						"longitude": "E126.47.53.889"
-					}
-				]
-			]
-		},
-		{
 			"name": "TaxiwayCenterLine__991",
 			"description": "지형 및 바운더리 등",
 			"colorProfile": "Airport-ApronCenterLine",
@@ -21684,24 +21533,10 @@
 		},
 		{
 			"labelType": "Taxiway",
-			"name": "NK",
-			"colorProfile": "Airport-Taxiway-Label",
-			"latitude": "N037.34.04.154",
-			"longitude": "E126.47.55.431"
-		},
-		{
-			"labelType": "Taxiway",
-			"name": "ClosedTaxiway",
+			"name": "P4",
 			"colorProfile": "Airport-Taxiway-Label",
 			"latitude": "N037.34.03.443",
 			"longitude": "E126.47.59.506"
-		},
-		{
-			"labelType": "Taxiway",
-			"name": "ClosedTaxiway",
-			"colorProfile": "Airport-Taxiway-Label",
-			"latitude": "N037.34.07.010",
-			"longitude": "E126.48.03.986"
 		},
 		{
 			"labelType": "Taxiway",
