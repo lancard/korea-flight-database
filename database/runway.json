@@ -227,10 +227,10 @@
     {
         "runway": "01",
         "oppositeRunway": "19",
-        "startLatitude": "N034.58.43.618",
-        "startLongitude": "E126.22.58.294",
-        "endLatitude": "N035.00.14.348",
-        "endLongitude": "E126.22.57.670",
+        "startLatitude": "N034.58.43.640",
+        "startLongitude": "E126.22.58.450",
+        "endLatitude": "N035.00.26.180",
+        "endLongitude": "E126.22.57.730",
         "airport": "RKJB"
     },
     {
