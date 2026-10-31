@@ -36,7 +36,9 @@ https.get("https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/m
             'ZYTL',    // China
             'ZYSH',    // China
             'ZSSS',    // China
-            'ZSHA'     // China
+            'ZSHA',    // China
+            "VHHH",    // Hong Kong
+            "RC"       // Taiwan
         ];
         const filtered = {
             type: "FeatureCollection",
