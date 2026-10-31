@@ -204,6 +204,9 @@ module.exports = {
             if (fileInfo.name == "BravoAirspace")
                 return;
 
+            if (fileInfo.name == "Boundaries")
+                return;
+
             var airportName = fileInfo.name;
             var tracon = JSON.parse(fs.readFileSync('./database/airspace/' + e)).geometry.coordinates[0][0];
 

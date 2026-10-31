@@ -20,9 +20,31 @@ if (!fs.existsSync('temp/airports.json')) {
     });
 }
 
-// download fir boundary
-if (!fs.existsSync('temp/boundaries.json')) {
-    https.get("https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/master/Boundaries.geojson", (response) => {
-        response.pipe(fs.createWriteStream('temp/boundaries.json'));
-    });
+// download fir boundary and filter for Korea-adjacent airspace + FSS
+if (!fs.existsSync('database/airspace')) {
+    fs.mkdirSync('database/airspace', { recursive: true });
 }
+https.get("https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/master/Boundaries.geojson", (response) => {
+    let data = '';
+    response.on('data', chunk => { data += chunk; });
+    response.on('end', () => {
+        const geojson = JSON.parse(data);
+        const regionPrefixes = [
+            'RJ',      // Japan
+            'UHHH',    // Russia (Vladivostok)
+            'PRC_FSS', // China FSS
+            'ZYTL',    // China
+            'ZYSH',    // China
+            'ZSSS',    // China
+            'ZSHA'     // China
+        ];
+        const filtered = {
+            type: "FeatureCollection",
+            features: geojson.features.filter(f => {
+                const id = f.properties.id || '';
+                return regionPrefixes.some(prefix => id.startsWith(prefix));
+            })
+        };
+        fs.writeFileSync('database/airspace/Boundaries.geojson', JSON.stringify(filtered, null, '\t'));
+    });
+});

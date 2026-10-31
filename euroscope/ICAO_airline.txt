@@ -79,13 +79,14 @@ TGW	Scooter	Scooter
 THA	Thai	Thai
 THY	Turkish	Turkish
 TTW	Smart cat	Smart cat
-TWB	Tway	Tway
+TWB	Sonorous	Sonorous
 TZP	Zippy (Zipair)	Zippy (Zipair)
 UAE	Emirate	Emirate
 UAL	United	United
 UPS	UPS	UPS
 UZB	Uzbek	Uzbek
 VIR	Virgin	Virgin
+VTK	Vostok	Vostok
 VOZ	Velocity	Velocity
 WJA	Westjet	Westjet
 XAX	Xanadu	Xanadu
