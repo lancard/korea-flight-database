@@ -8077,6 +8077,15 @@
 		"airport": "RKPU"
 	},
 	{
+		"name": "PUD",
+		"navaidType": "VOR",
+		"vorType": "VORTAC",
+		"description": "PUDONG VOR",
+		"latitude": "N031.10.05.880",
+		"longitude": "E121.46.48.000",
+		"frequency": "116.900"
+	},
+	{
 		"name": "PUDEN",
 		"navaidType": "FIX",
 		"extraType": "FIX",
