@@ -43,6 +43,7 @@ https.get("https://raw.githubusercontent.com/vatsimnetwork/vatspy-data-project/m
             'RJ',      // Japan
             'UHHH',    // Russia (Vladivostok)
             'PRC_FSS', // China FSS
+            'ZBAA',    // China
             'ZYTL',    // China
             'ZYSH',    // China
             'ZSSS',    // China
