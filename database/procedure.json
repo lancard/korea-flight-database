@@ -7184,382 +7184,100 @@
     {
         "procedureType": "SID",
         "airport": "RKPS",
-        "name": "SAC1.ANUBA",
+        "name": "RADAR1E",
         "runway": [
             "06L",
             "06R"
         ],
         "fixList": [
-            "N035.07.31.759 E128.08.02.171",
-            "N035.10.49.747 E128.06.12.315",
-            "N035.06.28.633 E127.57.55.035",
-            "ANUBA"
+            "SAC"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKPS",
-        "name": "SAC1.SAPDI",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "N035.07.31.759 E128.08.02.171",
-            "N035.06.40.485 E128.08.44.376",
-            "N035.06.18.846 E128.12.02.331",
-            "SAPDI"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC1.ENGOT",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "N035.07.31.759 E128.08.02.171",
-            "N035.06.40.485 E128.08.44.376",
-            "N035.06.05.392 E128.08.48.776",
-            "N035.01.07.773 E128.11.40.314",
-            "ENGOT"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC1.TOPAX",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "N035.07.31.759 E128.08.02.171",
-            "N035.06.40.485 E128.08.44.376",
-            "N035.06.05.392 E128.08.48.776",
-            "N035.01.07.773 E128.11.40.314",
-            "TOPAX"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC1.GOSBO",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "N035.07.31.759 E128.08.02.171",
-            "N035.06.40.485 E128.08.44.376",
-            "N035.06.05.392 E128.08.48.776",
-            "N035.03.05.683 E128.03.36.343",
-            "GOSBO"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC1.POVOR",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "N035.07.31.759 E128.08.02.171",
-            "N035.06.40.485 E128.08.44.376",
-            "N035.06.05.392 E128.08.48.776",
-            "N035.03.05.683 E128.03.36.343",
-            "POVOR"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC2.ANUBA",
+        "name": "RADAR1W",
         "runway": [
             "24L",
             "24R"
         ],
         "fixList": [
-            "N035.03.54.620 E128.00.32.664",
-            "N035.06.28.692 E127.57.57.442",
-            "ANUBA"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC2.GOSBO",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "N035.03.54.620 E128.00.32.664",
-            "N035.02.36.081 E128.01.11.354",
-            "N035.01.30.575 E128.02.19.979",
-            "GOSBO"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC2.POVOR",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "N035.03.54.620 E128.00.32.664",
-            "N035.02.36.081 E128.01.11.354",
-            "N035.01.30.575 E128.02.19.979",
-            "POVOR"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC2.ENGOT",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "N035.03.54.620 E128.00.32.664",
-            "N035.02.36.081 E128.01.11.354",
-            "N035.04.21.286 E128.06.30.582",
-            "ENGOT"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC2.TOPAX",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "N035.03.54.620 E128.00.32.664",
-            "N035.02.36.081 E128.01.11.354",
-            "N035.04.21.286 E128.06.30.582",
-            "TOPAX"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC2.SAPDI",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "N035.03.54.620 E128.00.32.664",
-            "N035.02.36.081 E128.01.11.354",
-            "N035.04.21.286 E128.06.30.582",
-            "N035.06.04.816 E128.07.27.304",
-            "SAPDI"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC5",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "N035.04.12.377 E128.01.57.348",
-            "N035.00.57.849 E127.55.39.784"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "SAC5",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "N035.05.58.788 E128.05.31.772",
-            "N035.08.55.290 E128.11.22.118"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "VONDU1.ANUBA",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "VONDU",
-            "PS061",
-            "PS062",
-            "ANUBA"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "VONDU1.MASTA",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "VONDU",
-            "MASTA"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "VONDU1.SARAM",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "VONDU",
-            "SARAM"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "VONDU1.GOSBO",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "VONDU",
-            "BOTRU",
-            "PS151",
-            "PS152",
-            "GOSBO"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "VONDU1.POVOR",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "VONDU",
-            "BOTRU",
-            "PS151",
-            "PS152",
-            "POVOR"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "AKLOG1.ANUBA",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "AKLOG",
-            "PS241",
-            "ANUBA"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "AKLOG1.MASTA1",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "AKLOG",
-            "PS241",
-            "PS242",
-            "MASTA"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "AKLOG1.MASTA2",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "AKLOG",
-            "PS243",
-            "BOTRU",
-            "PS244",
-            "MASTA"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "AKLOG1.SARAM",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "AKLOG",
-            "PS243",
-            "BOTRU",
-            "SARAM"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "AKLOG1.GOSBO",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "AKLOG",
-            "PS243",
-            "PS151",
-            "PS152",
-            "GOSBO"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKPS",
-        "name": "AKLOG1.POVOR",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "AKLOG",
-            "PS243",
-            "PS151",
-            "PS152",
-            "POVOR"
+            "SAC"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKPS",
-        "name": "KABVO1.ANUBA",
+        "name": "ANUBA1Z",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "ANUBA",
+            "SOLYI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKPS",
+        "name": "MASTA1Z",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "MASTA",
+            "AKUBO",
+            "SOLYI"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKPS",
+        "name": "NISAV1Z",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "NISAV",
+            "PS604",
+            "VIBOR"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKPS",
+        "name": "SARAM1Z",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "SARAM",
+            "PS603",
+            "VIBOR"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKPS",
+        "name": "GOSBO1Z",
+        "runway": [
+            "06L",
+            "06R"
+        ],
+        "fixList": [
+            "GOSBO",
+            "PS604",
+            "VIBOR"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKPS",
+        "name": "ANUBA1Y",
         "runway": [
             "24L",
             "24R"
@@ -7575,23 +7293,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKPS",
-        "name": "KABVO1.GOSBO",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "GOSBO",
-            "PS423",
-            "PS424",
-            "MAMVI",
-            "KABVO"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPS",
-        "name": "KABVO1.MASTA",
+        "name": "MASTA1Y",
         "runway": [
             "24L",
             "24R"
@@ -7605,7 +7307,20 @@
     {
         "procedureType": "STAR",
         "airport": "RKPS",
-        "name": "KABVO1.NISAV",
+        "name": "SARAM1Y",
+        "runway": [
+            "24L",
+            "24R"
+        ],
+        "fixList": [
+            "SARAM",
+            "KABVO"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKPS",
+        "name": "NISAV1Y",
         "runway": [
             "24L",
             "24R"
@@ -7621,166 +7336,39 @@
     {
         "procedureType": "STAR",
         "airport": "RKPS",
-        "name": "KABVO1.SARAM",
+        "name": "GOSBO1Y",
         "runway": [
             "24L",
             "24R"
         ],
         "fixList": [
-            "SARAM",
+            "GOSBO",
+            "PS423",
+            "PS424",
+            "MAMVI",
             "KABVO"
         ]
     },
     {
-        "procedureType": "STAR",
-        "airport": "RKPS",
-        "name": "NOBOP1.ANUBA",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "ANUBA",
-            "AKUBO",
-            "NOBOP"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPS",
-        "name": "NOBOP1.MASTA",
-        "runway": [
-            "24L",
-            "24R"
-        ],
-        "fixList": [
-            "MASTA",
-            "PS426",
-            "NOBOP"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPS",
-        "name": "SOLYI1.ANUBA",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "ANUBA",
-            "SOLYI"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPS",
-        "name": "SOLYI1.MASTA",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "MASTA",
-            "AKUBO",
-            "SOLYI"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPS",
-        "name": "VIBOR1.GOSBO",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "GOSBO",
-            "PS604",
-            "VIBOR"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPS",
-        "name": "VIBOR1.NISAV",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "NISAV",
-            "PS604",
-            "VIBOR"
-        ]
-    },
-    {
-        "procedureType": "STAR",
-        "airport": "RKPS",
-        "name": "VIBOR1.SARAM",
-        "runway": [
-            "06L",
-            "06R"
-        ],
-        "fixList": [
-            "SARAM",
-            "PS603",
-            "VIBOR"
-        ]
-    },
-    {
         "procedureType": "APPROACH",
         "airport": "RKPS",
-        "name": "LOC06L",
-        "runway": "06L",
-        "fixList": [
-            "SOLYI",
-            "RUPIB",
-            "AURIO",
-            "OLNOB",
-            "FOKAN",
-            "GAFOA"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "RNP06L.SOLYI",
+        "name": "LOCZ06L.SOLYI",
         "runway": "06L",
         "fixList": [
             "SOLYI",
             "PS681",
-            "GUTVA",
-            "PS684",
-            "GIVOD",
-            "PS683"
+            "GUTVA"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKPS",
-        "name": "RNP06L.VIBOR",
+        "name": "LOCZ06L.VIBOR",
         "runway": "06L",
         "fixList": [
             "VIBOR",
             "PS682",
-            "GUTVA",
-            "PS684",
-            "GIVOD",
-            "PS683"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "VOR06L",
-        "runway": "06L",
-        "fixList": [
-            "SOLYI",
-            "MUBIX",
-            "AKPET",
-            "GONYA",
-            "KAIFA"
+            "GUTVA"
         ]
     },
     {
@@ -7793,8 +7381,7 @@
             "PS681",
             "PABKO",
             "PS781",
-            "GOLOG",
-            "PS782"
+            "MULEB"
         ]
     },
     {
@@ -7807,88 +7394,7 @@
             "PS682",
             "PABKO",
             "PS781",
-            "GOLOG",
-            "PS782"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "VOR06R",
-        "runway": "06R",
-        "fixList": [
-            "SOLYI",
-            "MAEMI",
-            "IKUMU",
-            "OKTUL",
-            "MABON",
-            "UPLAP"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "ILS24R",
-        "runway": "24R",
-        "fixList": [
-            "KABVO",
-            "PEGMI",
-            "SLOTA",
-            "OLNIG"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "LOC24R",
-        "runway": "24R",
-        "fixList": [
-            "KABVO",
-            "PEGMI",
-            "HWANI",
-            "SOONI",
-            "CHANO"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "RNP24R.KABVO",
-        "runway": "24R",
-        "fixList": [
-            "KABVO",
-            "PS581",
-            "AGTEG",
-            "PS584",
-            "BUPGU",
-            "PS482"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "RNP24R.NOBOP",
-        "runway": "24R",
-        "fixList": [
-            "NOBOP",
-            "PS582",
-            "AGTEG",
-            "PS584",
-            "BUPGU",
-            "PS482"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "VOR24R",
-        "runway": "24R",
-        "fixList": [
-            "KABVO",
-            "BIKLA",
-            "NAISS",
-            "UPREX",
-            "WINTE"
+            "MULEB"
         ]
     },
     {
@@ -7917,19 +7423,6 @@
             "PS791",
             "IGULO",
             "PS583"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPS",
-        "name": "VOR24L",
-        "runway": "24L",
-        "fixList": [
-            "KABVO",
-            "JALDA",
-            "POMOX",
-            "TUVRO",
-            "SACUN"
         ]
     },
     {
