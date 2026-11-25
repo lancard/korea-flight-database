@@ -2904,39 +2904,6 @@
     {
         "procedureType": "SID",
         "airport": "RKJB",
-        "name": "MAKSA1N",
-        "runway": [
-            "01"
-        ],
-        "fixList": [
-            "BEMGA",
-            "NAKZY",
-            "JB809",
-            "JB808",
-            "MAKSA"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKJB",
-        "name": "DOTOL1N",
-        "runway": [
-            "01"
-        ],
-        "fixList": [
-            "JB801",
-            "JB802",
-            "JB803",
-            "JB804",
-            "JB805",
-            "JB806",
-            "JB807",
-            "DOTOL"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKJB",
         "name": "MAKSA1S",
         "runway": [
             "19"
@@ -3065,66 +3032,6 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKJB",
-        "name": "ILSY01.OVGEN",
-        "runway": "01",
-        "fixList": [
-            "OVGEN",
-            "N034.48.10.900 E126.23.03.300"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSY01.OLBES",
-        "runway": "01",
-        "fixList": [
-            "OLBES",
-            "N034.48.10.900 E126.23.03.300"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSY01.PEGRO",
-        "runway": "01",
-        "fixList": [
-            "PEGRO",
-            "N034.48.10.900 E126.23.03.300"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSZ01.PEGRO",
-        "runway": "01",
-        "fixList": [
-            "PEGRO",
-            "KEVAP"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSZ01.OLBES",
-        "runway": "01",
-        "fixList": [
-            "OLBES",
-            "KEVAP"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSZ01.OVGEN",
-        "runway": "01",
-        "fixList": [
-            "OVGEN",
-            "KEVAP"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
         "name": "RNP01.PEGRO",
         "runway": "01",
         "fixList": [
@@ -3183,88 +3090,6 @@
         "fixList": [
             "OLBES",
             "N034.48.09.100 E126.22.49.800"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSY19.GUPLA",
-        "runway": "19",
-        "fixList": [
-            "GUPLA",
-            "N035.07.37.800 E126.14.18.100"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSY19.DOVRA",
-        "runway": "19",
-        "fixList": [
-            "DOVRA",
-            "N035.07.37.800 E126.14.18.100"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSZ19.DOWAN",
-        "runway": "19",
-        "fixList": [
-            "DOWAN",
-            "KASPU"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "ILSZ19.AYEON",
-        "runway": "19",
-        "fixList": [
-            "AYEON",
-            "KASPU"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "RNP19.AYEON",
-        "runway": "19",
-        "fixList": [
-            "AYEON",
-            "KASPU",
-            "IDVIT"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "RNP19.DOWAN",
-        "runway": "19",
-        "fixList": [
-            "DOWAN",
-            "KASPU",
-            "IDVIT"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "VOR19.GUPLA",
-        "runway": "19",
-        "fixList": [
-            "GUPLA",
-            "N035.10.11.000 E126.22.53.200"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKJB",
-        "name": "VOR19.DOVRA",
-        "runway": "19",
-        "fixList": [
-            "DOVRA",
-            "N035.10.11.000 E126.22.53.200"
         ]
     },
     {
