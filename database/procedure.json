@@ -2124,20 +2124,6 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKPU",
-        "name": "RNPY18",
-        "runway": "18",
-        "fixList": [
-            "MAKKY",
-            "SEDMO",
-            "PU402",
-            "BINJO",
-            "PU403",
-            "IGMEL"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPU",
         "name": "RNPZ18",
         "runway": "18",
         "fixList": [
@@ -2147,16 +2133,6 @@
             "KALUS",
             "GODIS",
             "RIMTA"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKPU",
-        "name": "VOR18",
-        "runway": "18",
-        "fixList": [
-            "MAKKY",
-            "SEDMO"
         ]
     },
     {

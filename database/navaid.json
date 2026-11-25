@@ -935,14 +935,6 @@
 		"longitude": "E125.13.58.999"
 	},
 	{
-		"name": "BINJO",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.41.43.500",
-		"longitude": "E129.19.12.800"
-	},
-	{
 		"name": "BINOR",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -3615,14 +3607,6 @@
 		"description": "경로 픽스",
 		"latitude": "N035.30.48.887",
 		"longitude": "E127.49.16.919"
-	},
-	{
-		"name": "IGMEL",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.38.17.700",
-		"longitude": "E129.20.26.400"
 	},
 	{
 		"name": "IGPER",
@@ -7401,15 +7385,6 @@
 		"description": "경로 픽스",
 		"latitude": "N035.44.14.200",
 		"longitude": "E129.18.21.400",
-		"airport": "RKPU"
-	},
-	{
-		"name": "PU403",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.39.15.500",
-		"longitude": "E129.20.05.600",
 		"airport": "RKPU"
 	},
 	{
