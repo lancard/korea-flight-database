@@ -7987,12 +7987,12 @@
 		"airport": "RKTH"
 	},
 	{
-		"name": "RUVIS",
+		"name": "BREAM",
 		"navaidType": "FIX",
 		"extraType": "FIX",
 		"description": "경로 픽스",
-		"latitude": "N035.59.12.400",
-		"longitude": "E129.18.59.700",
+		"latitude": "N035.59.12.300",
+		"longitude": "E129.18.48.600",
 		"airport": "RKTH"
 	},
 	{

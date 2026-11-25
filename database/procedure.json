@@ -2435,7 +2435,67 @@
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "DORTI1.ELAPI",
+        "name": "ELAPI1E",
+        "runway": [
+            "10"
+        ],
+        "fixList": [
+            "N035.58.37.628 E129.37.07.287",
+            "ELAPI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "LOSTO1E",
+        "runway": [
+            "10"
+        ],
+        "fixList": [
+            "N035.58.37.628 E129.37.07.287",
+            "LOSTO"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "BULGA1E",
+        "runway": [
+            "10"
+        ],
+        "fixList": [
+            "N035.58.37.628 E129.37.07.287",
+            "BULGA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "APARU1E",
+        "runway": [
+            "10"
+        ],
+        "fixList": [
+            "N035.58.37.628 E129.37.07.287",
+            "APARU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "LAPAL1E",
+        "runway": [
+            "10"
+        ],
+        "fixList": [
+            "N035.58.37.628 E129.37.07.287",
+            "LAPAL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "ELAPI1T",
         "runway": [
             "10"
         ],
@@ -2450,7 +2510,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "DORTI1.LOSTO",
+        "name": "LOSTO1T",
         "runway": [
             "10"
         ],
@@ -2463,7 +2523,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "DORTI1.BULGA",
+        "name": "BULGA1T",
         "runway": [
             "10"
         ],
@@ -2476,7 +2536,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "DORTI1.APARU",
+        "name": "APARU1T",
         "runway": [
             "10"
         ],
@@ -2490,7 +2550,7 @@
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "DORTI1.APARU",
+        "name": "LAPAL1T",
         "runway": [
             "10"
         ],
@@ -2504,7 +2564,80 @@
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "MARMI1.LOSTO",
+        "name": "ELAPI1W",
+        "runway": [
+            "28"
+        ],
+        "fixList": [
+            "N035.58.37.533 E129.18.35.899",
+            "ELAPI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "LOSTO1W",
+        "runway": [
+            "28"
+        ],
+        "fixList": [
+            "N035.58.37.533 E129.18.35.899",
+            "LOSTO"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "BULGA1W",
+        "runway": [
+            "28"
+        ],
+        "fixList": [
+            "N035.58.37.533 E129.18.35.899",
+            "BULGA"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "APARU1W",
+        "runway": [
+            "28"
+        ],
+        "fixList": [
+            "N035.58.37.533 E129.18.35.899",
+            "APARU"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "LAPAL1W",
+        "runway": [
+            "28"
+        ],
+        "fixList": [
+            "N035.58.37.533 E129.18.35.899",
+            "LAPAL"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "ELAPI1H",
+        "runway": [
+            "28"
+        ],
+        "fixList": [
+            "MARMI",
+            "TH903",
+            "ELAPI"
+        ]
+    },
+    {
+        "procedureType": "SID",
+        "airport": "RKTH",
+        "name": "LOSTO1H",
         "runway": [
             "28"
         ],
@@ -2518,32 +2651,22 @@
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "MARMI1.ELAPI",
+        "name": "BULGA1H",
         "runway": [
             "28"
         ],
         "fixList": [
             "MARMI",
-            "TH903",
-            "ELAPI"
+            "TH904",
+            "TH905",
+            "TH906",
+            "BULGA"
         ]
     },
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "MARMI1.LAPAL",
-        "runway": [
-            "28"
-        ],
-        "fixList": [
-            "MARMI",
-            "LAPAL"
-        ]
-    },
-    {
-        "procedureType": "SID",
-        "airport": "RKTH",
-        "name": "MARMI1.APARU",
+        "name": "APARU1H",
         "runway": [
             "28"
         ],
@@ -2557,22 +2680,19 @@
     {
         "procedureType": "SID",
         "airport": "RKTH",
-        "name": "MARMI1.BULGA",
+        "name": "LAPAL1H",
         "runway": [
             "28"
         ],
         "fixList": [
             "MARMI",
-            "TH904",
-            "TH905",
-            "TH906",
-            "BULGA"
+            "LAPAL"
         ]
     },
     {
         "procedureType": "STAR",
         "airport": "RKTH",
-        "name": "EMTIK1.LAPAL",
+        "name": "LAPAL1G",
         "fixList": [
             "LAPAL",
             "EMTIK",
@@ -2582,7 +2702,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTH",
-        "name": "EMTIK1.APARU",
+        "name": "APARU1G",
         "fixList": [
             "APARU",
             "MAKUN",
@@ -2593,7 +2713,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTH",
-        "name": "EMTIK1.BULGA",
+        "name": "BULGA1G",
         "fixList": [
             "BULGA",
             "EMTIK",
@@ -2603,7 +2723,25 @@
     {
         "procedureType": "STAR",
         "airport": "RKTH",
-        "name": "PUDEN1.ELAPI",
+        "name": "ELAPI1G",
+        "fixList": [
+            "ELAPI",
+            "IGASA"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTH",
+        "name": "LOSTO1G",
+        "fixList": [
+            "LOSTO",
+            "IGASA"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTH",
+        "name": "ELAPI1J",
         "fixList": [
             "ELAPI",
             "PUDEN",
@@ -2613,7 +2751,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTH",
-        "name": "PUDEN1.LAPAL",
+        "name": "LAPAL1J",
         "fixList": [
             "LAPAL",
             "PUDEN",
@@ -2623,7 +2761,7 @@
     {
         "procedureType": "STAR",
         "airport": "RKTH",
-        "name": "PUDEN1.APARU",
+        "name": "APARU1J",
         "fixList": [
             "APARU",
             "MAKUN",
@@ -2632,18 +2770,27 @@
         ]
     },
     {
-        "procedureType": "APPROACH",
+        "procedureType": "STAR",
         "airport": "RKTH",
-        "name": "LOCDME10",
-        "runway": "10",
+        "name": "LOSTO1J",
         "fixList": [
-            "POSCO"
+            "LOSTO",
+            "RUTON"
+        ]
+    },
+    {
+        "procedureType": "STAR",
+        "airport": "RKTH",
+        "name": "BULGA1J",
+        "fixList": [
+            "BULGA",
+            "RUTON"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKTH",
-        "name": "VORDME10",
+        "name": "LOCY10",
         "runway": "10",
         "fixList": [
             "POSCO"
@@ -2674,13 +2821,13 @@
             "TH501",
             "RUNSA",
             "TH503",
-            "RUVIS"
+            "BREAM"
         ]
     },
     {
         "procedureType": "APPROACH",
         "airport": "RKTH",
-        "name": "VORDME28",
+        "name": "VORY28",
         "runway": "28",
         "fixList": [
             "DAEBO"
@@ -2715,51 +2862,9 @@
     {
         "procedureType": "APPROACH",
         "airport": "RKTH",
-        "name": "RNPY28.LOSTO",
+        "name": "RNPZ28.RUTON",
         "runway": "28",
         "fixList": [
-            "LOSTO",
-            "RUTON",
-            "TH701",
-            "SABUM",
-            "VELKI",
-            "PAPTO"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKTH",
-        "name": "RNPY28.BULGA",
-        "runway": "28",
-        "fixList": [
-            "BULGA",
-            "RUTON",
-            "TH701",
-            "SABUM",
-            "VELKI",
-            "PAPTO"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKTH",
-        "name": "RNPZ28.BULGA",
-        "runway": "28",
-        "fixList": [
-            "BULGA",
-            "RUTON",
-            "TH701",
-            "SABUM",
-            "GOVLI"
-        ]
-    },
-    {
-        "procedureType": "APPROACH",
-        "airport": "RKTH",
-        "name": "RNPZ28.LOSTO",
-        "runway": "28",
-        "fixList": [
-            "LOSTO",
             "RUTON",
             "TH701",
             "SABUM",
