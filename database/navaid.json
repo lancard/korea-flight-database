@@ -117,6 +117,69 @@
 		"airport": "RKNW"
 	},
 	{
+		"name": "CHISE",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.37.50.000",
+		"longitude": "E128.03.12.000",
+		"airport": "RKNW"
+	},
+	{
+		"name": "GANAM",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.06.40.100",
+		"longitude": "E127.39.52.100",
+		"airport": "RKNW"
+	},
+	{
+		"name": "ESLOL",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.24.34.200",
+		"longitude": "E127.49.55.800",
+		"airport": "RKNW"
+	},
+	{
+		"name": "OPUPI",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.18.55.500",
+		"longitude": "E128.04.15.600",
+		"airport": "RKNW"
+	},
+	{
+		"name": "OGEBU",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.14.26.300",
+		"longitude": "E128.01.29.000",
+		"airport": "RKNW"
+	},
+	{
+		"name": "ENLAR",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.22.12.200",
+		"longitude": "E127.48.28.200",
+		"airport": "RKNW"
+	},
+	{
+		"name": "MAJIF",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N037.26.09.800",
+		"longitude": "E128.08.45.300",
+		"airport": "RKNW"
+	},
+	{
 		"name": "DUBAL",
 		"navaidType": "FIX",
 		"extraType": "FIX",
