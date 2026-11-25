@@ -2242,15 +2242,6 @@
 		"longitude": "E129.21.29.700"
 	},
 	{
-		"name": "PUMEG",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.13.32.600",
-		"longitude": "E127.03.54.500",
-		"airport": "RKJJ"
-	},
-	{
 		"name": "DORTI",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -4105,15 +4096,6 @@
 		"airport": "RKSI"
 	},
 	{
-		"name": "LILVI",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.13.07.600",
-		"longitude": "E126.52.30.100",
-		"airport": "RKJJ"
-	},
-	{
 		"name": "IRFN",
 		"navaidType": "FIX",
 		"extraType": "ILS",
@@ -4639,42 +4621,6 @@
 		"airport": "RKJK"
 	},
 	{
-		"name": "JJ221",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N034.59.06.800",
-		"longitude": "E126.51.06.800",
-		"airport": "RKJJ"
-	},
-	{
-		"name": "JJ222",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.16.04.600",
-		"longitude": "E126.52.49.400",
-		"airport": "RKJJ"
-	},
-	{
-		"name": "JJ223",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.12.53.600",
-		"longitude": "E127.02.15.100",
-		"airport": "RKJJ"
-	},
-	{
-		"name": "JJ224",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N034.56.18.900",
-		"longitude": "E126.40.54.900",
-		"airport": "RKJJ"
-	},
-	{
 		"name": "JJ321",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -4699,42 +4645,6 @@
 		"description": "경로 픽스",
 		"latitude": "N035.00.00.300",
 		"longitude": "E127.00.41.700",
-		"airport": "RKJJ"
-	},
-	{
-		"name": "JJ401",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.13.21.100",
-		"longitude": "E126.58.35.900",
-		"airport": "RKJJ"
-	},
-	{
-		"name": "JJ402",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.10.43.600",
-		"longitude": "E127.05.12.900",
-		"airport": "RKJJ"
-	},
-	{
-		"name": "JJ403",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N034.49.26.500",
-		"longitude": "E126.40.11.400",
-		"airport": "RKJJ"
-	},
-	{
-		"name": "JJ481",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N034.56.41.300",
-		"longitude": "E126.40.51.300",
 		"airport": "RKJJ"
 	},
 	{
@@ -4774,15 +4684,6 @@
 		"airport": "RKJJ"
 	},
 	{
-		"name": "JJ581",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N034.56.38.200",
-		"longitude": "E126.40.57.900",
-		"airport": "RKJJ"
-	},
-	{
 		"name": "JJ681",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -4801,15 +4702,6 @@
 		"airport": "RKJJ"
 	},
 	{
-		"name": "JJ683",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.10.38.600",
-		"longitude": "E126.50.45.500",
-		"airport": "RKJJ"
-	},
-	{
 		"name": "JJ781",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -4825,15 +4717,6 @@
 		"description": "경로 픽스",
 		"latitude": "N035.15.28.100",
 		"longitude": "E126.54.00.000",
-		"airport": "RKJJ"
-	},
-	{
-		"name": "JJ783",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.10.41.800",
-		"longitude": "E126.50.38.900",
 		"airport": "RKJJ"
 	},
 	{
@@ -5644,6 +5527,15 @@
 		"longitude": "E120.46.59.998"
 	},
 	{
+		"name": "LAVAK",
+		"navaidType": "FIX",
+		"extraType": "FIX",
+		"description": "경로 픽스",
+		"latitude": "N034.57.14.400",
+		"longitude": "E126.30.53.800",
+		"airport": "RKJJ"
+	},
+	{
 		"name": "LEBUX",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -5945,15 +5837,6 @@
 		"airport": "RKJY"
 	},
 	{
-		"name": "JISUN",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.07.39.200",
-		"longitude": "E127.00.55.400",
-		"airport": "RKJJ"
-	},
-	{
 		"name": "MESOV",
 		"navaidType": "FIX",
 		"extraType": "FIX",
@@ -6053,15 +5936,6 @@
 		"latitude": "N037.31.31.000",
 		"longitude": "E126.23.51.000",
 		"airport": "RKSI"
-	},
-	{
-		"name": "MARYO",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.02.06.600",
-		"longitude": "E126.44.47.000",
-		"airport": "RKJJ"
 	},
 	{
 		"name": "MUN",
@@ -6423,15 +6297,6 @@
 		"latitude": "N037.49.03.200",
 		"longitude": "E128.45.14.400",
 		"airport": "RKNY"
-	},
-	{
-		"name": "IGBEM",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.07.43.000",
-		"longitude": "E127.12.46.300",
-		"airport": "RKJJ"
 	},
 	{
 		"name": "OKTUL",
@@ -8408,15 +8273,6 @@
 		"latitude": "N036.46.56.200",
 		"longitude": "E127.36.28.000",
 		"airport": "RKTU"
-	},
-	{
-		"name": "GUMAM",
-		"navaidType": "FIX",
-		"extraType": "FIX",
-		"description": "경로 픽스",
-		"latitude": "N035.21.59.100",
-		"longitude": "E127.25.33.700",
-		"airport": "RKJJ"
 	},
 	{
 		"name": "RUGMA",
